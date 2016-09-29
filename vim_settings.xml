@@ -3,8 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/Sedona/app/controllers/loginController.scala" timestamp="1475154706389" />
-      <file name="$USER_HOME$/Code/Sedona/app/controllers/applicationController.scala" timestamp="1475154869662" />
+      <file name="$USER_HOME$/Code/PlayScalaApi/app/controllers/Application.scala" timestamp="1475160798230" />
     </filemarks>
     <jumps />
     <registers />
