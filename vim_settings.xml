@@ -4,6 +4,8 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Code/PlayScalaApi/app/controllers/Application.scala" timestamp="1475160798230" />
+      <file name="$USER_HOME$/Code/PlayScalaApi/app/api/ApiError.scala" timestamp="1475166748458" />
+      <file name="$USER_HOME$/Code/PlayScalaApi/app/api/ApiRequest.scala" timestamp="1475166804113" />
     </filemarks>
     <jumps />
     <registers />
