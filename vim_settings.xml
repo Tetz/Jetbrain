@@ -4,6 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Code/MobileClientBff/app/api/ApiController.scala" timestamp="1475144354564" />
+      <file name="$USER_HOME$/Code/MobileClientBff/app/models/User.scala" timestamp="1475457929197" />
       <file name="$USER_HOME$/Code/MobileClientBff/app/controllers/Auth.scala" timestamp="1475456789839" />
     </filemarks>
     <jumps />
