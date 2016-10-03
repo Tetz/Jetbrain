@@ -3,44 +3,54 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/RocoTest/app/views/index.scala.html" timestamp="1475463244116">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Code/RocoTest/app/views/index.scala.html" timestamp="1475464427200">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Code/MobileClientBff/app/api/ApiController.scala" timestamp="1475144354564" />
       <file name="$USER_HOME$/Code/MobileClientBff/app/models/User.scala" timestamp="1475457929197" />
       <file name="$USER_HOME$/Code/MobileClientBff/app/controllers/Auth.scala" timestamp="1475456789839" />
       <file name="$USER_HOME$/Code/RocoTest/app/filters/ExampleFilter.scala" timestamp="1475463014930" />
+      <file name="$USER_HOME$/Code/RocoTest/app/controllers/HomeController.scala" timestamp="1475464544035">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="12" column="0" filename="$USER_HOME$/Code/RocoTest/app/views/index.scala.html" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBwbGF5MjAud2VsY29tZShtZXNzYWdlLCBzdHlsZSA9ICJTY2FsYSIpCg==</text>
+        <text encoding="base64">ICAgKi8K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBwbGF5MjAud2VsY29tZShtZXNzYWdlLCBzdHlsZSA9ICJTY2FsYSIpCg==</text>
+        <text encoding="base64">ICAgKi8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDwvaT4K</text>
+        <text encoding="base64">ICAgKiBhIHBhdGggb2YgYC9gLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBwbGF5MjAud2VsY29tZShtZXNzYWdlLCBzdHlsZSA9ICJTY2FsYSIpCg==</text>
+        <text encoding="base64">ICAgKiB3aWxsIGJlIGNhbGxlZCB3aGVuIHRoZSBhcHBsaWNhdGlvbiByZWNlaXZlcyBhIGBHRVRgIHJlcXVlc3Qgd2l0aAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEAqCg==</text>
+        <text encoding="base64">ICAgKiBUaGUgY29uZmlndXJhdGlvbiBpbiB0aGUgYHJvdXRlc2AgZmlsZSBtZWFucyB0aGF0IHRoaXMgbWV0aG9kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqQAo=</text>
+        <text encoding="base64">ICAgKiBDcmVhdGUgYW4gQWN0aW9uIHRvIHJlbmRlciBhbiBIVE1MIHBhZ2Ugd2l0aCBhIHdlbGNvbWUgbWVzc2FnZS4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIHRlbXBsYXRlIGFuZCBwYXNzaW5nIGEgYFN0cmluZ2AgbWVzc2FnZS4K</text>
+        <text encoding="base64">ICAvKioK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEdldCBhbiBgSHRtbGAgb2JqZWN0IGJ5IGNhbGxpbmcgdGhlIGJ1aWx0LWluIFBsYXkgd2VsY29tZQo=</text>
+        <text encoding="base64">ICovCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICogYXBwbGljYXRpb24ncyBob21lIHBhZ2UuCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
