@@ -14,11 +14,11 @@
         <mark key="." line="12" column="32" />
         <mark key="^" line="12" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/RocoTest/app/controllers/HomeController.scala" timestamp="1475572776299">
-        <mark key="[" line="5" column="27" />
-        <mark key="]" line="5" column="27" />
-        <mark key="^" line="5" column="26" />
-        <mark key="." line="5" column="27" />
+      <file name="$USER_HOME$/Code/RocoTest/app/controllers/HomeController.scala" timestamp="1475574916980">
+        <mark key="[" line="5" column="64" />
+        <mark key="]" line="5" column="61" />
+        <mark key="^" line="5" column="61" />
+        <mark key="." line="5" column="61" />
       </file>
     </filemarks>
     <jumps>
@@ -29,37 +29,39 @@
         <text encoding="base64">ICAgIE9rKHZpZXdzLmh0bWwuaW5kZXgoIkhvZ2UiKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3MuYXV0aC5wcm9maWxlLlByb2ZpbGVDcmVkZW50aWFsc1Byb3ZpZGVyCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3Muc2VydmljZXMuczMubW9kZWwuUHV0T2JqZWN0UmVxdWVzdAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>EnvironmentVariableCredentialsProvider</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3MuXwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3Muc2VydmljZXMuczMue0FtYXpvblMzLCBBbWF6b25TM0NsaWVudCwgQW1hem9uUzNDbGllbnRCdWlsZGVyfQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3MuYXV0aC5wcm9maWxlLlByb2ZpbGVDcmVkZW50aWFsc1Byb3ZpZGVyCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEFtYXpvblMzIHMzY2xpZW50ID0gbmV3IEFtYXpvblMzQ2xpZW50KG5ldyBQcm9maWxlQ3JlZGVudGlhbHNQcm92aWRlcigpKTsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3MuYXV0aC57QVdTQ3JlZGVudGlhbHMsIEVudmlyb25tZW50VmFyaWFibGVDcmVkZW50aWFsc1Byb3ZpZGVyfQo=</text>
+        <text encoding="base64">ICAgIHMzY2xpZW50LnB1dE9iamVjdChuZXcgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFtYXpvblMzIHMzQ2xpZW50ID0gQW1hem9uUzNDbGllbnRCdWlsZGVyLmRlZmF1bHRDbGllbnQoKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEFtYXpvblMzIHMzID0gbmV3IEFtYXpvblMzQ2xpZW50KGNyZWRlbnRpYWxzKQo=</text>
+      <register name="8" type="4">
+        <text>standard()
+      .withCredentials(new EnvironmentVariableCredentialsProvider())
+      .build()</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNyZWRlbnRpYWxzID0gbmV3IFByb2ZpbGVDcmVkZW50aWFsc1Byb3ZpZGVyKCkuZ2V0Q3JlZGVudGlhbHMoKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3MuYXV0aC5wcm9maWxlLlByb2ZpbGVDcmVkZW50aWFsc1Byb3ZpZGVyCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>EnvironmentVariableCredentialsProvider</text>
       </register>
     </registers>
     <search>
