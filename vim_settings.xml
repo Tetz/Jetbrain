@@ -8,19 +8,25 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/api-lottery/app/controllers/AsyncController.scala" timestamp="1475635474976" />
-      <file name="$USER_HOME$/Code/RocoTest/app/services/Counter.scala" timestamp="1475575926442" />
-      <file name="$USER_HOME$/Code/RocoTest/build.sbt" timestamp="1475566929578">
-        <mark key="[" line="12" column="45" />
-        <mark key="]" line="12" column="47" />
-        <mark key="." line="12" column="32" />
-        <mark key="^" line="12" column="32" />
+      <file name="$USER_HOME$/Code/api-lottery/app/views/index.scala.html" timestamp="1475637750840">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/RocoTest/app/services/Counter.scala" timestamp="1475575926442" />
       <file name="$USER_HOME$/Code/RocoTest/app/controllers/HomeController.scala" timestamp="1475577685807">
         <mark key="[" line="19" column="22" />
         <mark key="]" line="19" column="22" />
         <mark key="." line="19" column="22" />
         <mark key="^" line="19" column="22" />
+      </file>
+      <file name="$USER_HOME$/Code/api-lottery/app/controllers/AsyncController.scala" timestamp="1475637439152" />
+      <file name="$USER_HOME$/Code/RocoTest/build.sbt" timestamp="1475566929578">
+        <mark key="[" line="12" column="45" />
+        <mark key="]" line="12" column="47" />
+        <mark key="." line="12" column="32" />
+        <mark key="^" line="12" column="32" />
       </file>
     </filemarks>
     <jumps>
@@ -30,35 +36,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIE9rKHZpZXdzLmh0bWwuaW5kZXgoIkhvZ2UiKSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEFtYXpvblMzIGNvbm4gPSBuZXcgQW1hem9uUzNDbGllbnQoY3JlZGVudGlhbHMpOwo=</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICA=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>setEndpoint(&quot;hoge&quot;);</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEFXU0NyZWRlbnRpYWxzIGNyZWRlbnRpYWxzID0gCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFtYXpvblMzIGNvbm4gPSBuZXcgQW1hem9uUzNDbGllbnQoY3JlZGVudGlhbHMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2YXIgY3JlZGVudGlhbHMgPSBOaWwK</text>
+        <text encoding="base64">ICAgIEFXU0NyZWRlbnRpYWxzIGNyZWRlbnRpYWxzID0gCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBTdHJpbmcgYWNjZXNzS2V5ID0gCg==</text>
+        <text encoding="base64">ICB2YXIgY3JlZGVudGlhbHMgPSBOaWwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QFNpbmdsZXRvbgo=</text>
+        <text encoding="base64">ICBTdHJpbmcgYWNjZXNzS2V5ID0gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3Muc2VydmljZXMuczMubW9kZWwuUHV0T2JqZWN0UmVxdWVzdAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
         <text>setEndpoint(&quot;hoge&quot;);</text>
@@ -74,7 +80,14 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
     </editor>
