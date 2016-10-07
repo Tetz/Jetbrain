@@ -15,16 +15,22 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Code/RocoTest/app/services/Counter.scala" timestamp="1475575926442" />
+      <file name="$USER_HOME$/Code/api-lottery/app/controllers/LotteryController.scala" timestamp="1475807032233">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="1" />
+      </file>
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/HomeController.scala" timestamp="1475805912199">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/api-lottery/conf/routes" timestamp="1475806176615">
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="10" column="17" />
-        <mark key="." line="10" column="17" />
-        <mark key="^" line="10" column="15" />
+      <file name="$USER_HOME$/Code/api-lottery/conf/routes" timestamp="1475807093742">
+        <mark key="[" line="10" column="52" />
+        <mark key="]" line="9" column="54" />
+        <mark key="." line="9" column="54" />
+        <mark key="^" line="9" column="54" />
       </file>
       <file name="$USER_HOME$/Code/RocoTest/app/controllers/HomeController.scala" timestamp="1475577685807">
         <mark key="[" line="19" column="22" />
@@ -40,6 +46,9 @@
         <mark key="." line="12" column="32" />
         <mark key="^" line="12" column="32" />
       </file>
+      <file name="/fragment.java" timestamp="1475806991228">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="12" column="0" filename="$USER_HOME$/Code/RocoTest/app/views/index.scala.html" />
@@ -49,38 +58,34 @@
         <text encoding="base64">R0VUICAgICAvICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlcnMuSG9tZUNvbnRyb2xsZXIuaW5kZXgK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBBbiBleGFtcGxlIGNvbnRyb2xsZXIgc2hvd2luZyBob3cgdG8gd3JpdGUgYXN5bmNocm9ub3VzIGNvZGUK</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyB+fn5+Cg==</text>
+        <text encoding="base64">ICAgKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBUaGlzIGZpbGUgZGVmaW5lcyBhbGwgYXBwbGljYXRpb24gcm91dGVzIChIaWdoZXIgcHJpb3JpdHkgcm91dGVzIGZpcnN0KQo=</text>
+        <text encoding="base64">ICAgKiBhIHBhdGggb2YgYC9gLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBBbiBleGFtcGxlIGNvbnRyb2xsZXIgc2hvd2luZyBob3cgdG8gdXNlIGRlcGVuZGVuY3kgaW5qZWN0aW9uCg==</text>
+        <text encoding="base64">ICAgKiB3aWxsIGJlIGNhbGxlZCB3aGVuIHRoZSBhcHBsaWNhdGlvbiByZWNlaXZlcyBhIGBHRVRgIHJlcXVlc3Qgd2l0aAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBBbiBleGFtcGxlIGNvbnRyb2xsZXIgc2hvd2luZyBhIHNhbXBsZSBob21lIHBhZ2UK</text>
+        <text encoding="base64">ICAgKiBUaGUgY29uZmlndXJhdGlvbiBpbiB0aGUgYHJvdXRlc2AgZmlsZSBtZWFucyB0aGF0IHRoaXMgbWV0aG9kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBBbiBleGFtcGxlIGNvbnRyb2xsZXIgc2hvd2luZyBhIHNhbXBsZSBob21lIHBhZ2UKR0VUICAgICAvICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlcnMuSG9tZUNvbnRyb2xsZXIuaW5kZXgKIyBBbiBleGFtcGxlIGNvbnRyb2xsZXIgc2hvd2luZyBob3cgdG8gdXNlIGRlcGVuZGVuY3kgaW5qZWN0aW9uCkdFVCAgICAgL2NvdW50ICAgICAgICAgICAgICAgICAgICAgIGNvbnRyb2xsZXJzLkNvdW50Q29udHJvbGxlci5jb3VudAojIEFuIGV4YW1wbGUgY29udHJvbGxlciBzaG93aW5nIGhvdyB0byB3cml0ZSBhc3luY2hyb25vdXMgY29kZQpHRVQgICAgIC9tZXNzYWdlICAgICAgICAgICAgICAgICAgICBjb250cm9sbGVycy5Bc3luY0NvbnRyb2xsZXIubWVzc2FnZQoKIyBNYXAgc3RhdGljIHJlc291cmNlcyBmcm9tIHRoZSAvcHVibGljIGZvbGRlciB0byB0aGUgL2Fzc2V0cyBVUkwgcGF0aApHRVQgICAgIC9hc3NldHMvKmZpbGUgICAgICAgICAgICAgICBjb250cm9sbGVycy5Bc3NldHMudmVyc2lvbmVkKHBhdGg9Ii9wdWJsaWMiLCBmaWxlOiBBc3NldCkK</text>
+        <text encoding="base64">ICAgKiBDcmVhdGUgYW4gQWN0aW9uIHRvIHJlbmRlciBhbiBIVE1MIHBhZ2Ugd2l0aCBhIHdlbGNvbWUgbWVzc2FnZS4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">ICAvKioK</text>
       </register>
-      <register name="8" type="4">
-        <text>*
- * This controller creates an `Action` to handle HTTP requests to the
- * application's home page.
- */
-@Singleton</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICogYXBwbGljYXRpb24ncyBob21lIHBhZ2UuCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
