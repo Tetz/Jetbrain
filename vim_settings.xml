@@ -15,8 +15,8 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Code/RocoTest/app/services/Counter.scala" timestamp="1475575926442" />
-      <file name="$USER_HOME$/Code/api-lottery/app/controllers/LotteryController.scala" timestamp="1475807032233">
-        <mark key="[" line="12" column="0" />
+      <file name="$USER_HOME$/Code/api-lottery/app/controllers/LotteryController.scala" timestamp="1475808576072">
+        <mark key="[" line="10" column="55" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="1" />
@@ -26,17 +26,22 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/api-lottery/conf/routes" timestamp="1475807093742">
+      <file name="$USER_HOME$/Code/api-lottery/conf/routes" timestamp="1475808315701">
         <mark key="[" line="10" column="52" />
-        <mark key="]" line="9" column="54" />
-        <mark key="." line="9" column="54" />
-        <mark key="^" line="9" column="54" />
+        <mark key="]" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+        <mark key="^" line="5" column="28" />
       </file>
       <file name="$USER_HOME$/Code/RocoTest/app/controllers/HomeController.scala" timestamp="1475577685807">
         <mark key="[" line="19" column="22" />
         <mark key="]" line="19" column="22" />
         <mark key="." line="19" column="22" />
         <mark key="^" line="19" column="22" />
+      </file>
+      <file name="$USER_HOME$/Code/api-lottery/app/controllers/ResultController.scala" timestamp="1475808590293">
+        <mark key="[" line="10" column="55" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/AsyncController.scala" timestamp="1475643193942" />
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/CountController.scala" timestamp="1475643671754" />
@@ -58,34 +63,34 @@
         <text encoding="base64">R0VUICAgICAvICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlcnMuSG9tZUNvbnRyb2xsZXIuaW5kZXgK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgKi8K</text>
       </register>
-      <register name="3" type="2">
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgKi8K</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgKiBhIHBhdGggb2YgYC9gLgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgKiB3aWxsIGJlIGNhbGxlZCB3aGVuIHRoZSBhcHBsaWNhdGlvbiByZWNlaXZlcyBhIGBHRVRgIHJlcXVlc3Qgd2l0aAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgKiBUaGUgY29uZmlndXJhdGlvbiBpbiB0aGUgYHJvdXRlc2AgZmlsZSBtZWFucyB0aGF0IHRoaXMgbWV0aG9kCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgKiBDcmVhdGUgYW4gQWN0aW9uIHRvIHJlbmRlciBhbiBIVE1MIHBhZ2Ugd2l0aCBhIHdlbGNvbWUgbWVzc2FnZS4K</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAvKioK</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICogYXBwbGljYXRpb24ncyBob21lIHBhZ2UuCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICogVGhpcyBjb250cm9sbGVyIGNyZWF0ZXMgYW4gYEFjdGlvbmAgdG8gaGFuZGxlIEhUVFAgcmVxdWVzdHMgdG8gdGhlCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
