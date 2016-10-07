@@ -50,11 +50,11 @@
         <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/AsyncController.scala" timestamp="1475643193942" />
-      <file name="$USER_HOME$/Code/api-lottery/conf/application.conf" timestamp="1475828153567">
-        <mark key="[" line="345" column="12" />
-        <mark key="]" line="352" column="0" />
-        <mark key="." line="352" column="0" />
-        <mark key="^" line="352" column="0" />
+      <file name="$USER_HOME$/Code/api-lottery/conf/application.conf" timestamp="1475831658641">
+        <mark key="[" line="344" column="34" />
+        <mark key="]" line="344" column="34" />
+        <mark key="^" line="344" column="13" />
+        <mark key="." line="344" column="34" />
       </file>
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/CountController.scala" timestamp="1475643671754" />
       <file name="$USER_HOME$/Code/RocoTest/build.sbt" timestamp="1475566929578">
@@ -78,7 +78,7 @@
         <text encoding="base64">ICAibXlzcWwiICUgIm15c3FsLWNvbm5lY3Rvci1qYXZhIiAlICI1LjEuMzYiLAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>&quot;</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -105,7 +105,7 @@
         <text encoding="base64">ICAjIGh0dHBzOi8vd3d3LnBsYXlmcmFtZXdvcmsuY29tL2RvY3VtZW50YXRpb24vbGF0ZXN0L0RldmVsb3Bpbmctd2l0aC10aGUtSDItRGF0YWJhc2UK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>&quot;</text>
       </register>
     </registers>
     <search>
