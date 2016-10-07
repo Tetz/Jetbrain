@@ -15,18 +15,18 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Code/RocoTest/app/services/Counter.scala" timestamp="1475575926442" />
-      <file name="$USER_HOME$/Code/api-lottery/app/controllers/LotteryController.scala" timestamp="1475808576072">
-        <mark key="[" line="10" column="55" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="1" />
+      <file name="$USER_HOME$/Code/api-lottery/app/controllers/LotteryController.scala" timestamp="1475821469815">
+        <mark key="[" line="15" column="38" />
+        <mark key="]" line="15" column="27" />
+        <mark key="." line="15" column="27" />
+        <mark key="^" line="15" column="27" />
       </file>
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/HomeController.scala" timestamp="1475805912199">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/api-lottery/conf/routes" timestamp="1475808315701">
+      <file name="$USER_HOME$/Code/api-lottery/conf/routes" timestamp="1475819975570">
         <mark key="[" line="10" column="52" />
         <mark key="]" line="5" column="28" />
         <mark key="." line="5" column="28" />
@@ -38,10 +38,11 @@
         <mark key="." line="19" column="22" />
         <mark key="^" line="19" column="22" />
       </file>
-      <file name="$USER_HOME$/Code/api-lottery/app/controllers/ResultController.scala" timestamp="1475808590293">
-        <mark key="[" line="10" column="55" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Code/api-lottery/app/controllers/ResultController.scala" timestamp="1475821462641">
+        <mark key="[" line="34" column="11" />
+        <mark key="]" line="30" column="11" />
+        <mark key="." line="30" column="11" />
+        <mark key="^" line="30" column="11" />
       </file>
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/AsyncController.scala" timestamp="1475643193942" />
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/CountController.scala" timestamp="1475643671754" />
@@ -59,41 +60,41 @@
       <jump line="12" column="0" filename="$USER_HOME$/Code/RocoTest/app/views/index.scala.html" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">R0VUICAgICAvICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlcnMuSG9tZUNvbnRyb2xsZXIuaW5kZXgK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICBkZWYgaW5kZXggPSBBY3Rpb24gewogICAgT2soSnNvbi50b0pzb24oZHVtbXlKc29uKSkKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgKi8K</text>
+        <text encoding="base64">ICAgIE9rKHZpZXdzLmh0bWwuaW5kZXgoIlJlc3VsdENvbnRyb2xsZXIiKSkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgKi8K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICBkZWYgaW5kZXggPSBBY3Rpb24gewogICAgT2soSnNvbi50b0pzb24oZHVtbXlKc29uKSkKICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgKiBhIHBhdGggb2YgYC9gLgo=</text>
+        <text encoding="base64">ICAgIE9rKHZpZXdzLmh0bWwuaW5kZXgoIlJlc3VsdENvbnRyb2xsZXIiKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgKiB3aWxsIGJlIGNhbGxlZCB3aGVuIHRoZSBhcHBsaWNhdGlvbiByZWNlaXZlcyBhIGBHRVRgIHJlcXVlc3Qgd2l0aAo=</text>
+        <text encoding="base64">ICAgIE9rKHZpZXdzLmh0bWwuaW5kZXgoIlJlc3VsdENvbnRyb2xsZXIiKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgKiBUaGUgY29uZmlndXJhdGlvbiBpbiB0aGUgYHJvdXRlc2AgZmlsZSBtZWFucyB0aGF0IHRoaXMgbWV0aG9kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgKiBDcmVhdGUgYW4gQWN0aW9uIHRvIHJlbmRlciBhbiBIVE1MIHBhZ2Ugd2l0aCBhIHdlbGNvbWUgbWVzc2FnZS4K</text>
+        <text encoding="base64">ICBba2tra10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvKioK</text>
+        <text encoding="base64">ICAgICJtZXRob2QiIC0+ICIiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgKi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogYXBwbGljYXRpb24ncyBob21lIHBhZ2UuCg==</text>
+        <text encoding="base64">ICAgKiBhIHBhdGggb2YgYC9gLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogVGhpcyBjb250cm9sbGVyIGNyZWF0ZXMgYW4gYEFjdGlvbmAgdG8gaGFuZGxlIEhUVFAgcmVxdWVzdHMgdG8gdGhlCg==</text>
+        <text encoding="base64">ICAgKiB3aWxsIGJlIGNhbGxlZCB3aGVuIHRoZSBhcHBsaWNhdGlvbiByZWNlaXZlcyBhIGBHRVRgIHJlcXVlc3Qgd2l0aAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Lottery</text>
       </register>
     </registers>
     <search>
