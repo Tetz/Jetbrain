@@ -44,14 +44,17 @@
         <mark key="." line="19" column="29" />
         <mark key="^" line="19" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/api-lottery/build.sbt" timestamp="1475825776548">
-        <mark key="[" line="11" column="5" />
+      <file name="$USER_HOME$/Code/api-lottery/build.sbt" timestamp="1475827652839">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="46" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/AsyncController.scala" timestamp="1475643193942" />
-      <file name="$USER_HOME$/Code/api-lottery/conf/application.conf" timestamp="1475824803850">
-        <mark key="[" line="342" column="0" />
-        <mark key="]" line="342" column="0" />
-        <mark key="." line="342" column="0" />
+      <file name="$USER_HOME$/Code/api-lottery/conf/application.conf" timestamp="1475828153567">
+        <mark key="[" line="345" column="12" />
+        <mark key="]" line="352" column="0" />
+        <mark key="." line="352" column="0" />
+        <mark key="^" line="352" column="0" />
       </file>
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/CountController.scala" timestamp="1475643671754" />
       <file name="$USER_HOME$/Code/RocoTest/build.sbt" timestamp="1475566929578">
@@ -72,37 +75,37 @@
         <text encoding="base64">ICBkZWYgaW5kZXggPSBBY3Rpb24gewogICAgT2soSnNvbi50b0pzb24oZHVtbXlKc29uKSkKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAibXlzcWwiICUgIm15c3FsLWNvbm5lY3Rvci1qYXZhIiAlICI1LjEuMzYiLAo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAjIENvbm5lY3QgdG8gcGxheWRiIGFzIHBsYXlkYnVzZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAjIENvbm5lY3QgdG8gcGxheWRiIGFzIHBsYXlkYnVzZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAjZGVmYXVsdC5wYXNzd29yZCA9ICIiCg==</text>
+        <text encoding="base64">ICAjIENvbm5lY3QgdG8gcGxheWRiIGFzIHBsYXlkYnVzZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAjZGVmYXVsdC51c2VybmFtZSA9IHNhCg==</text>
+        <text encoding="base64">ICAjZGVmYXVsdC5wYXNzd29yZCA9ICIiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAjZGVmYXVsdC51cmwgPSAiamRiYzpoMjptZW06cGxheSIK</text>
+        <text encoding="base64">ICAjZGVmYXVsdC51c2VybmFtZSA9IHNhCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAjZGVmYXVsdC5kcml2ZXIgPSBvcmcuaDIuRHJpdmVyCg==</text>
+        <text encoding="base64">ICAjZGVmYXVsdC51cmwgPSAiamRiYzpoMjptZW06cGxheSIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAjIGh0dHBzOi8vd3d3LnBsYXlmcmFtZXdvcmsuY29tL2RvY3VtZW50YXRpb24vbGF0ZXN0L0RldmVsb3Bpbmctd2l0aC10aGUtSDItRGF0YWJhc2UK</text>
+        <text encoding="base64">ICAjZGVmYXVsdC5kcml2ZXIgPSBvcmcuaDIuRHJpdmVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIE9rKHZpZXdzLmh0bWwuaW5kZXgoIlJlc3VsdENvbnRyb2xsZXIiKSkK</text>
+        <text encoding="base64">ICAjIGh0dHBzOi8vd3d3LnBsYXlmcmFtZXdvcmsuY29tL2RvY3VtZW50YXRpb24vbGF0ZXN0L0RldmVsb3Bpbmctd2l0aC10aGUtSDItRGF0YWJhc2UK</text>
       </register>
       <register name="-" type="4">
-        <text>Lottery</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
