@@ -35,6 +35,11 @@
         <mark key="." line="5" column="28" />
         <mark key="^" line="5" column="28" />
       </file>
+      <file name="$USER_HOME$/Code/api-lottery/conf/evolutions/default/1.sql" timestamp="1476175392424">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/RocoTest/app/controllers/HomeController.scala" timestamp="1475577685807">
         <mark key="[" line="19" column="22" />
         <mark key="]" line="19" column="22" />
@@ -77,40 +82,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICNkZWZhdWx0LmxvZ1NxbD10cnVlCg==</text>
+        <text encoding="base64">RFJPUCBUQUJMRSBVc2VyOwo=</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZXZlbG9wbWVudC5kYi5kZWZhdWx0LmVuYWJsZWQgPSB0cnVlCg==</text>
+        <text encoding="base64">RFJPUCBUQUJMRSBVc2VyOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICNkZWZhdWx0LmxvZ1NxbD10cnVlCg==</text>
+        <text encoding="base64">RFJPUCBUQUJMRSBVc2VyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgWW91IGNhbiB0dXJuIG9uIFNRTCBsb2dnaW5nIGZvciBhbnkgZGF0YXNvdXJjZQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">LS0gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly99Cg==</text>
+        <text encoding="base64">LS0gVGFibGUgYGFwaV9sb3R0ZXJ5YC5gbG90dGVyeVZhbHVlUmFua0ltYWdlYAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gIH0K</text>
+        <text encoding="base64">LS0gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgcGFzc3dvcmQgPSAicm9vdHBhc3MiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgdXNlcm5hbWUgPSByb290Cg==</text>
+        <text encoding="base64">LS0gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgdXJsID0gImpkYmM6bXlzcWw6Ly9sb2NhbGhvc3QvYXBpX2xvdHRlcnkiCg==</text>
+        <text encoding="base64">LS0gVGFibGUgYGFwaV9sb3R0ZXJ5YC5gbG90dGVyeVZhbHVlUmFua2AK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgZHJpdmVyID0gY29tLm15c3FsLmpkYmMuRHJpdmVyCg==</text>
+        <text encoding="base64">LS0gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
