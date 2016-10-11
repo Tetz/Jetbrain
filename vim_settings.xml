@@ -18,7 +18,7 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Code/RocoTest/app/services/Counter.scala" timestamp="1475575926442" />
-      <file name="$USER_HOME$/Code/api-lottery/app/controllers/LotteryController.scala" timestamp="1476167526363">
+      <file name="$USER_HOME$/Code/api-lottery/app/controllers/LotteryController.scala" timestamp="1476174260502">
         <mark key="[" line="21" column="4" />
         <mark key="]" line="22" column="0" />
         <mark key="^" line="22" column="0" />
@@ -55,10 +55,11 @@
       </file>
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/AsyncController.scala" timestamp="1475643193942" />
       <file name="$USER_HOME$/Code/api-lottery/conf/evolutions/1.sql" timestamp="1476168364603" />
-      <file name="$USER_HOME$/Code/api-lottery/conf/application.conf" timestamp="1476172125010">
-        <mark key="[" line="296" column="0" />
-        <mark key="]" line="296" column="0" />
-        <mark key="." line="296" column="0" />
+      <file name="$USER_HOME$/Code/api-lottery/conf/application.conf" timestamp="1476174049359">
+        <mark key="[" line="328" column="0" />
+        <mark key="]" line="328" column="0" />
+        <mark key="^" line="308" column="23" />
+        <mark key="." line="328" column="0" />
       </file>
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/CountController.scala" timestamp="1475643671754" />
       <file name="$USER_HOME$/Code/RocoTest/build.sbt" timestamp="1475566929578">
@@ -76,40 +77,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAjZGV2ZWxvcG1lbnQuZGIuZGVmYXVsdC5lbmFibGVkID0gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICNkZWZhdWx0LmxvZ1NxbD10cnVlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>development</text>
+        <text>#</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBkZXZlbG9wbWVudC5kYi5kZWZhdWx0LmVuYWJsZWQgPSB0cnVlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAjZGV2ZWxvcG1lbnQuZGIuZGVmYXVsdC5lbmFibGVkID0gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICNkZWZhdWx0LmxvZ1NxbD10cnVlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">ICAgICMgWW91IGNhbiB0dXJuIG9uIFNRTCBsb2dnaW5nIGZvciBhbnkgZGF0YXNvdXJjZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBsaWJyYXJ5RGVwZW5kZW5jaWVzICs9IGV2b2x1dGlvbnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">Ly99Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBmb3IgZGF0YWJhc2UgbWlncmF0aW9ucy4gWW91IG11c3QgZW5hYmxlIHRoaXMgYnkgYWRkaW5nIHRvIGJ1aWxkLnNidDoK</text>
+        <text encoding="base64">Ly8gIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBFdm9sdXRpb25zIGFsbG93cyBkYXRhYmFzZSBzY3JpcHRzIHRvIGJlIGF1dG9tYXRpY2FsbHkgcnVuIG9uIHN0YXJ0dXAgaW4gZGV2IG1vZGUK</text>
+        <text encoding="base64">Ly8gICAgcGFzc3dvcmQgPSAicm9vdHBhc3MiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyB+fn5+fgo=</text>
+        <text encoding="base64">Ly8gICAgdXNlcm5hbWUgPSByb290Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBodHRwczovL3d3dy5wbGF5ZnJhbWV3b3JrLmNvbS9kb2N1bWVudGF0aW9uL2xhdGVzdC9Fdm9sdXRpb25zCg==</text>
+        <text encoding="base64">Ly8gICAgdXJsID0gImpkYmM6bXlzcWw6Ly9sb2NhbGhvc3QvYXBpX2xvdHRlcnkiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyB+fn5+fgo=</text>
+        <text encoding="base64">Ly8gICAgZHJpdmVyID0gY29tLm15c3FsLmpkYmMuRHJpdmVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
