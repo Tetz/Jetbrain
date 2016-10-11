@@ -55,11 +55,10 @@
       </file>
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/AsyncController.scala" timestamp="1475643193942" />
       <file name="$USER_HOME$/Code/api-lottery/conf/evolutions/1.sql" timestamp="1476168364603" />
-      <file name="$USER_HOME$/Code/api-lottery/conf/application.conf" timestamp="1476166424675">
-        <mark key="[" line="338" column="0" />
-        <mark key="]" line="338" column="0" />
-        <mark key="^" line="336" column="3" />
-        <mark key="." line="338" column="0" />
+      <file name="$USER_HOME$/Code/api-lottery/conf/application.conf" timestamp="1476172125010">
+        <mark key="[" line="296" column="0" />
+        <mark key="]" line="296" column="0" />
+        <mark key="." line="296" column="0" />
       </file>
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/CountController.scala" timestamp="1475643671754" />
       <file name="$USER_HOME$/Code/RocoTest/build.sbt" timestamp="1475566929578">
@@ -76,51 +75,41 @@
       <jump line="12" column="0" filename="$USER_HOME$/Code/RocoTest/app/views/index.scala.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAjZGV2ZWxvcG1lbnQuZGIuZGVmYXVsdC5lbmFibGVkID0gdHJ1ZQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>development</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICBkZWZhdWx0IHsKICAgIGRyaXZlciA9IGNvbS5teXNxbC5qZGJjLkRyaXZlcgogICAgdXJsID0gImpkYmM6bXlzcWw6Ly9sb2NhbGhvc3QvYXBpX2xvdHRlcnkiCiAgICB1c2VybmFtZSA9IHJvb3QKICAgIHBhc3N3b3JkID0gInJvb3RwYXNzIgog</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBkZXZlbG9wbWVudC5kYi5kZWZhdWx0LmVuYWJsZWQgPSB0cnVlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjZGV2ZWxvcG1lbnQuZGIuZGVmYXVsdC5lbmFibGVkID0gdHJ1ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBsaWJyYXJ5RGVwZW5kZW5jaWVzICs9IGV2b2x1dGlvbnMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Iwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>db {
-  default {
-    driver = com.mysql.jdbc.Driver
-    url = &quot;jdbc:mysql://localhost/api_lottery&quot;
-    username = root
-    password = &quot;rootpass&quot;
-  }
-
-  # You can turn on SQL logging for any datasource
-  #default.logSql=true
-}</text>
+      <register name="5" type="2">
+        <text encoding="base64">IyBmb3IgZGF0YWJhc2UgbWlncmF0aW9ucy4gWW91IG11c3QgZW5hYmxlIHRoaXMgYnkgYWRkaW5nIHRvIGJ1aWxkLnNidDoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBFdm9sdXRpb25zIGFsbG93cyBkYXRhYmFzZSBzY3JpcHRzIHRvIGJlIGF1dG9tYXRpY2FsbHkgcnVuIG9uIHN0YXJ0dXAgaW4gZGV2IG1vZGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAjZGVmYXVsdC5sb2dTcWw9dHJ1ZQo=</text>
+        <text encoding="base64">IyB+fn5+fgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAjIFlvdSBjYW4gdHVybiBvbiBTUUwgbG9nZ2luZyBmb3IgYW55IGRhdGFzb3VyY2UK</text>
+        <text encoding="base64">IyBodHRwczovL3d3dy5wbGF5ZnJhbWV3b3JrLmNvbS9kb2N1bWVudGF0aW9uL2xhdGVzdC9Fdm9sdXRpb25zCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAjIGh0dHBzOi8vd3d3LnBsYXlmcmFtZXdvcmsuY29tL2RvY3VtZW50YXRpb24vbGF0ZXN0L0hpZ2hsaWdodHMyNSNMb2dnaW5nLVNRTC1zdGF0ZW1lbnRzCg==</text>
+        <text encoding="base64">IyB+fn5+fgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
