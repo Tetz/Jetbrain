@@ -49,11 +49,11 @@
         <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/AsyncController.scala" timestamp="1475643193942" />
-      <file name="$USER_HOME$/Code/api-lottery/conf/application.conf" timestamp="1475831658641">
-        <mark key="[" line="344" column="34" />
-        <mark key="]" line="344" column="34" />
-        <mark key="^" line="344" column="13" />
-        <mark key="." line="344" column="34" />
+      <file name="$USER_HOME$/Code/api-lottery/conf/application.conf" timestamp="1476156275410">
+        <mark key="[" line="350" column="2" />
+        <mark key="]" line="350" column="12" />
+        <mark key="." line="350" column="12" />
+        <mark key="^" line="350" column="12" />
       </file>
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/CountController.scala" timestamp="1475643671754" />
       <file name="$USER_HOME$/Code/RocoTest/build.sbt" timestamp="1475566929578">
@@ -71,44 +71,40 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text encoding="base64">ICBkZWYgaW5kZXggPSBBY3Rpb24gewogICAgT2soSnNvbi50b0pzb24oZHVtbXlKc29uKSkKICB9Cg==</text>
+        <text encoding="base64">ICBkZWZhdWx0IHsKICAgIGRyaXZlciA9IGNvbS5teXNxbC5qZGJjLkRyaXZlcgogICAgdXJsID0gImpkYmM6bXlzcWw6Ly9sb2NhbGhvc3QvYXBpX2xvdHRlcnkiCiAgICB1c2VybmFtZSA9IHJvb3QKICAgIHBhc3N3b3JkID0gInJvb3RwYXNzIgogIH0KIA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAKICAKICA=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>default</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW5pdGlhbENvbW1hbmRzIDo9ICIiIgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICIiIgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="4">
-        <text>import scalikejdbc._
-import skinny.orm._, feature._
-import org.joda.time._
-skinny.DBSettings.initialize()
-implicit val session = AutoSession</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAibXlzcWwiICUgIm15c3FsLWNvbm5lY3Rvci1qYXZhIiAlICI1LjEuMzYiLAo=</text>
+        <text encoding="base64">aW5pdGlhbENvbW1hbmRzIDo9ICIiIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICIiIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAjIENvbm5lY3QgdG8gcGxheWRiIGFzIHBsYXlkYnVzZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>default</text>
       </register>
     </registers>
     <search>
