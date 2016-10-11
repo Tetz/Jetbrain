@@ -15,7 +15,7 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Code/RocoTest/app/services/Counter.scala" timestamp="1475575926442" />
-      <file name="$USER_HOME$/Code/api-lottery/app/controllers/LotteryController.scala" timestamp="1475838046648">
+      <file name="$USER_HOME$/Code/api-lottery/app/controllers/LotteryController.scala" timestamp="1476160407104">
         <mark key="[" line="21" column="96" />
         <mark key="]" line="22" column="3" />
         <mark key="^" line="22" column="3" />
@@ -49,10 +49,11 @@
         <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/AsyncController.scala" timestamp="1475643193942" />
-      <file name="$USER_HOME$/Code/api-lottery/conf/application.conf" timestamp="1476157378560">
-        <mark key="[" line="345" column="46" />
-        <mark key="]" line="345" column="46" />
-        <mark key="." line="345" column="46" />
+      <file name="$USER_HOME$/Code/api-lottery/conf/application.conf" timestamp="1476161083667">
+        <mark key="[" line="338" column="0" />
+        <mark key="]" line="338" column="0" />
+        <mark key="^" line="336" column="3" />
+        <mark key="." line="338" column="0" />
       </file>
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/CountController.scala" timestamp="1475643671754" />
       <file name="$USER_HOME$/Code/RocoTest/build.sbt" timestamp="1475566929578">
@@ -69,41 +70,54 @@
       <jump line="12" column="0" filename="$USER_HOME$/Code/RocoTest/app/views/index.scala.html" />
     </jumps>
     <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>default</text>
+      </register>
       <register name="0" type="4">
-        <text encoding="base64">ICBkZWZhdWx0IHsKICAgIGRyaXZlciA9IGNvbS5teXNxbC5qZGJjLkRyaXZlcgogICAgdXJsID0gImpkYmM6bXlzcWw6Ly9sb2NhbGhvc3QvYXBpX2xvdHRlcnkiCiAgICB1c2VybmFtZSA9IHJvb3QKICAgIHBhc3N3b3JkID0gInJvb3RwYXNzIgogIH0KIA==</text>
+        <text encoding="base64">ICBkZWZhdWx0IHsKICAgIGRyaXZlciA9IGNvbS5teXNxbC5qZGJjLkRyaXZlcgogICAgdXJsID0gImpkYmM6bXlzcWw6Ly9sb2NhbGhvc3QvYXBpX2xvdHRlcnkiCiAgICB1c2VybmFtZSA9IHJvb3QKICAgIHBhc3N3b3JkID0gInJvb3RwYXNzIgog</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>development</text>
-      </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3N3b3JkID0gInJvb3RwYXNzIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHVzZXJuYW1lID0gcm9vdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHVybCA9ICJqZGJjOm15c3FsOi8vbG9jYWxob3N0L2FwaV9sb3R0ZXJ5Igo=</text>
+      <register name="5" type="4">
+        <text>db {
+  default {
+    driver = com.mysql.jdbc.Driver
+    url = &quot;jdbc:mysql://localhost/api_lottery&quot;
+    username = root
+    password = &quot;rootpass&quot;
+  }
+
+  # You can turn on SQL logging for any datasource
+  #default.logSql=true
+}</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRyaXZlciA9IGNvbS5teXNxbC5qZGJjLkRyaXZlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZXZlbG9wbWVudCB7Cg==</text>
+        <text encoding="base64">ICAjZGVmYXVsdC5sb2dTcWw9dHJ1ZQo=</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">ICAKICAKICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAjIFlvdSBjYW4gdHVybiBvbiBTUUwgbG9nZ2luZyBmb3IgYW55IGRhdGFzb3VyY2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAjIGh0dHBzOi8vd3d3LnBsYXlmcmFtZXdvcmsuY29tL2RvY3VtZW50YXRpb24vbGF0ZXN0L0hpZ2hsaWdodHMyNSNMb2dnaW5nLVNRTC1zdGF0ZW1lbnRzCg==</text>
       </register>
-      <register name="-" type="4">
-        <text>development</text>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -112,7 +126,9 @@
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
