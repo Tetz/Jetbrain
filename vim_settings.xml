@@ -8,6 +8,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1476168235691">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/api-lottery/app/views/index.scala.html" timestamp="1475637750840">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -51,6 +54,7 @@
         <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/AsyncController.scala" timestamp="1475643193942" />
+      <file name="$USER_HOME$/Code/api-lottery/conf/evolutions/1.sql" timestamp="1476168364603" />
       <file name="$USER_HOME$/Code/api-lottery/conf/application.conf" timestamp="1476166424675">
         <mark key="[" line="338" column="0" />
         <mark key="]" line="338" column="0" />
@@ -64,7 +68,7 @@
         <mark key="." line="12" column="32" />
         <mark key="^" line="12" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1475806991228">
+      <file name="/fragment.java" timestamp="1476168742250">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
