@@ -8,33 +8,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1476168235691">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/api-lottery/app/views/index.scala.html" timestamp="1475637750840">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/RocoTest/app/services/Counter.scala" timestamp="1475575926442" />
-      <file name="$USER_HOME$/Code/api-lottery/app/controllers/LotteryController.scala" timestamp="1476179295240">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="20" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/api-lottery/app/controllers/HomeController.scala" timestamp="1475805912199">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/api-lottery/conf/routes" timestamp="1475819975570">
-        <mark key="[" line="10" column="52" />
-        <mark key="]" line="5" column="28" />
-        <mark key="." line="5" column="28" />
-        <mark key="^" line="5" column="28" />
-      </file>
       <file name="$USER_HOME$/Code/api-lottery/conf/evolutions/default/1.sql" timestamp="1476180285822">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -58,6 +32,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/api-lottery/app/models/Lottery.scala" timestamp="1476183626062">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/AsyncController.scala" timestamp="1475643193942" />
       <file name="$USER_HOME$/Code/api-lottery/conf/evolutions/1.sql" timestamp="1476168364603" />
       <file name="$USER_HOME$/Code/api-lottery/conf/application.conf" timestamp="1476174049359">
@@ -66,13 +45,39 @@
         <mark key="^" line="308" column="23" />
         <mark key="." line="328" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/api-lottery/app/controllers/CountController.scala" timestamp="1475643671754" />
       <file name="$USER_HOME$/Code/RocoTest/build.sbt" timestamp="1475566929578">
         <mark key="[" line="12" column="45" />
         <mark key="]" line="12" column="47" />
         <mark key="." line="12" column="32" />
         <mark key="^" line="12" column="32" />
       </file>
+      <file name="/Dummy.txt" timestamp="1476168235691">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/api-lottery/app/views/index.scala.html" timestamp="1475637750840">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/api-lottery/app/controllers/LotteryController.scala" timestamp="1476179295240">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/api-lottery/app/controllers/HomeController.scala" timestamp="1475805912199">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/api-lottery/conf/routes" timestamp="1475819975570">
+        <mark key="[" line="10" column="52" />
+        <mark key="]" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+        <mark key="^" line="5" column="28" />
+      </file>
+      <file name="$USER_HOME$/Code/api-lottery/app/controllers/CountController.scala" timestamp="1475643671754" />
       <file name="/fragment.java" timestamp="1476168742250">
         <mark key="[" line="0" column="0" />
       </file>
@@ -82,7 +87,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -91,41 +96,31 @@
         <text encoding="base64">RFJPUCBUQUJMRSBVc2VyOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVzZXJzLnZhbHVlcy5zb3J0QnkoXy5uYW1lKQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICBkZWYgbGlzdDogRnV0dXJlW1NlcVtVc2VyXV0gPSBGdXR1cmUuc3VjY2Vzc2Z1bCB7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text>|
-|
-|
-|
-|
-|</text>
-      </register>
-      <register name="5" type="8">
-        <text>|
-|
-|
-|
-|
-|</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVzZXJzLmRlbGV0ZShpZCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEZha2VEQi5mb2xkZXJzLmRlbGV0ZShfLnVzZXJJZCA9PSBpZCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEZha2VEQi5mb2xkZXJzLm1hcChmID0+IEZha2VEQi50YXNrcy5kZWxldGUoXy5mb2xkZXJJZCA9PSBmLmlkKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBVc2VycyBzY2hlbWEK</text>
+        <text encoding="base64">ICBkZWYgZGVsZXRlKGlkOiBMb25nKTogRnV0dXJlW1VuaXRdID0gRnV0dXJlLnN1Y2Nlc3NmdWwgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
