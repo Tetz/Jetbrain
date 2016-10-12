@@ -32,10 +32,10 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/api-lottery/app/models/Lottery.scala" timestamp="1476261443619">
-        <mark key="[" line="26" column="45" />
-        <mark key="]" line="26" column="45" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Code/api-lottery/app/models/Lottery.scala" timestamp="1476266218606">
+        <mark key="[" line="23" column="48" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/AsyncController.scala" timestamp="1475643193942" />
       <file name="$USER_HOME$/Code/api-lottery/conf/evolutions/1.sql" timestamp="1476168364603" />
@@ -44,12 +44,6 @@
         <mark key="]" line="327" column="0" />
         <mark key="^" line="331" column="46" />
         <mark key="." line="327" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/RocoTest/build.sbt" timestamp="1475566929578">
-        <mark key="[" line="12" column="45" />
-        <mark key="]" line="12" column="47" />
-        <mark key="." line="12" column="32" />
-        <mark key="^" line="12" column="32" />
       </file>
       <file name="/Dummy.txt" timestamp="1476168235691">
         <mark key="[" line="0" column="0" />
@@ -60,6 +54,7 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.skinny-framework/skinny-orm_2.11/srcs/skinny-orm_2.11-2.2.0-sources.jar!/skinny/orm/SkinnyCRUDMapper.scala" timestamp="1476265345533" />
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/LotteryController.scala" timestamp="1476260394462">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -79,6 +74,7 @@
       <file name="$USER_HOME$/Code/api-lottery/app/models/Company/scala.scala" timestamp="1476256359243">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.scalikejdbc/scalikejdbc-interpolation_2.11/srcs/scalikejdbc-interpolation_2.11-2.4.2-sources.jar!/scalikejdbc/SQLSyntaxSupportFeature.scala" timestamp="1476265452491" />
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/CountController.scala" timestamp="1475643671754" />
       <file name="/fragment.java" timestamp="1476168742250">
         <mark key="[" line="0" column="0" />
@@ -91,10 +87,11 @@
     </filemarks>
     <jumps>
       <jump line="12" column="0" filename="$USER_HOME$/Code/RocoTest/app/views/index.scala.html" />
+      <jump line="26" column="42" filename="$USER_HOME$/Code/api-lottery/app/models/Lottery.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSB2YWwgdXNlU25ha2VDYXNlQ29sdW1uTmFtZSA9IGZhbHNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>useSnakeCaseColumnName</text>
@@ -103,31 +100,31 @@
         <text encoding="base64">ICBvdmVycmlkZSB2YWwgdXNlU25ha2VDYXNlQ29sdW1uTmFtZSA9IGZhbHNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSB2YWwgdXNlU25ha2VDYXNlQ29sdW1uTmFtZSA9IGZhbHNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSB2YWwgdXNlU25ha2VDYXNlQ29sdW1uTmFtZSA9IGZhbHNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSB2YWwgdXNlU25ha2VDYXNlQ29sdW1uTmFtZSA9IGZhbHNlCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">b3ZlcnJpZGUgdmFsIHVzZVNuYWtlQ2FzZUNvbHVtbk5hbWUgPSBmYWxzZQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICBvdmVycmlkZSB2YWwgdXNlU25ha2VDYXNlQ29sdW1uTmFtZSA9IGZhbHNlCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">b2JqZWN0IExvdHRlcnllIGV4dGVuZHMgTG90dGVyeVtMb3R0ZXJ5XSB7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBkZWYgdXNlU25ha2VDYXNlQ29sdW1uTmFtZSA9IGZhbHNlCg==</text>
+        <text encoding="base64">dXNlU25ha2VDYXNlQ29sdW1uTmFtZShmYWxzZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB1c2VTbmFrZUNhc2VDb2x1bW5OYW1lKGZhbHNlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
