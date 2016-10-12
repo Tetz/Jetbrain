@@ -9,7 +9,7 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Code/RocoTest/app/services/Counter.scala" timestamp="1475575926442" />
-      <file name="$USER_HOME$/Code/api-lottery/conf/evolutions/default/1.sql" timestamp="1476180285822">
+      <file name="$USER_HOME$/Code/api-lottery/conf/evolutions/default/1.sql" timestamp="1476257085840">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
@@ -32,14 +32,18 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/api-lottery/app/models/Lottery.scala" timestamp="1476252871008" />
+      <file name="$USER_HOME$/Code/api-lottery/app/models/Lottery.scala" timestamp="1476261443619">
+        <mark key="[" line="26" column="45" />
+        <mark key="]" line="26" column="45" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/AsyncController.scala" timestamp="1475643193942" />
       <file name="$USER_HOME$/Code/api-lottery/conf/evolutions/1.sql" timestamp="1476168364603" />
-      <file name="$USER_HOME$/Code/api-lottery/conf/application.conf" timestamp="1476174049359">
-        <mark key="[" line="328" column="0" />
-        <mark key="]" line="328" column="0" />
-        <mark key="^" line="308" column="23" />
-        <mark key="." line="328" column="0" />
+      <file name="$USER_HOME$/Code/api-lottery/conf/application.conf" timestamp="1476260204950">
+        <mark key="[" line="327" column="0" />
+        <mark key="]" line="327" column="0" />
+        <mark key="^" line="331" column="46" />
+        <mark key="." line="327" column="0" />
       </file>
       <file name="$USER_HOME$/Code/RocoTest/build.sbt" timestamp="1475566929578">
         <mark key="[" line="12" column="45" />
@@ -56,11 +60,10 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/api-lottery/app/controllers/LotteryController.scala" timestamp="1476251805871">
-        <mark key="[" line="17" column="35" />
-        <mark key="]" line="17" column="29" />
-        <mark key="^" line="17" column="29" />
-        <mark key="." line="17" column="29" />
+      <file name="$USER_HOME$/Code/api-lottery/app/controllers/LotteryController.scala" timestamp="1476260394462">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/HomeController.scala" timestamp="1475805912199">
         <mark key="[" line="6" column="0" />
@@ -73,47 +76,55 @@
         <mark key="." line="5" column="28" />
         <mark key="^" line="5" column="28" />
       </file>
+      <file name="$USER_HOME$/Code/api-lottery/app/models/Company/scala.scala" timestamp="1476256359243">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/CountController.scala" timestamp="1475643671754" />
       <file name="/fragment.java" timestamp="1476168742250">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/api-lottery/app/models/Company.scala" timestamp="1476261382014">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
     </filemarks>
     <jumps>
       <jump line="12" column="0" filename="$USER_HOME$/Code/RocoTest/app/views/index.scala.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>A</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBvdmVycmlkZSB2YWwgdXNlU25ha2VDYXNlQ29sdW1uTmFtZSA9IGZhbHNlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text>useSnakeCaseColumnName</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvdHRlcnlUeXBlSWQgPSBycy5nZXQobi5sb3R0ZXJ5VHlwZUlkKSwK</text>
+        <text encoding="base64">ICBvdmVycmlkZSB2YWwgdXNlU25ha2VDYXNlQ29sdW1uTmFtZSA9IGZhbHNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBvdmVycmlkZSB2YWwgdXNlU25ha2VDYXNlQ29sdW1uTmFtZSA9IGZhbHNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBkZWYgZXh0cmFjdChyczogV3JhcHBlZFJlc3VsdFNldCwgbjogYWxpa2VqZGJjLlJlc3VsdE5hbWVbTG90dGVyeV0pOiBMb3R0ZXJ5ID0gPz8/Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNraW5ueS5EQlNldHRpbmdzLmluaXRpYWxpemUoKQo=</text>
+        <text encoding="base64">ICBvdmVycmlkZSB2YWwgdXNlU25ha2VDYXNlQ29sdW1uTmFtZSA9IGZhbHNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcGxpY2l0IHZhbCBzZXNzaW9uID0gQXV0b1Nlc3Npb24K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgc3FsImNyZWF0ZSB0YWJsZSBtZW1iZXIgKGlkIHNlcmlhbCwgbmFtZSB2YXJjaGFyKDY0KSwgY3JlYXRlZF9hdCB0aW1lc3RhbXApIi5leGVjdXRlLmFwcGx5KCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBvdmVycmlkZSB2YWwgdXNlU25ha2VDYXNlQ29sdW1uTmFtZSA9IGZhbHNlCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">b3ZlcnJpZGUgdmFsIHVzZVNuYWtlQ2FzZUNvbHVtbk5hbWUgPSBmYWxzZQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBvdmVycmlkZSB2YWwgdXNlU25ha2VDYXNlQ29sdW1uTmFtZSA9IGZhbHNlCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgZmluZEJ5TmFtZShuYW1lOiBTdHJpbmcpOiBPcHRpb25bVXNlcl0gPSB3aGVyZShzcWxzLmVxKHUubmFtZSwgbmFtZSkpLmFwcGx5KCkuaGVhZE9wdGlvbgo=</text>
+        <text encoding="base64">ICBvdmVycmlkZSBkZWYgdXNlU25ha2VDYXNlQ29sdW1uTmFtZSA9IGZhbHNlCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -143,6 +154,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
