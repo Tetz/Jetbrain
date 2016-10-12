@@ -32,10 +32,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/api-lottery/app/models/Lottery.scala" timestamp="1476183626062">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Code/api-lottery/app/models/Lottery.scala" timestamp="1476241268746">
+        <mark key="[" line="16" column="13" />
+        <mark key="]" line="16" column="13" />
+        <mark key="." line="16" column="13" />
+        <mark key="^" line="16" column="17" />
       </file>
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/AsyncController.scala" timestamp="1475643193942" />
       <file name="$USER_HOME$/Code/api-lottery/conf/evolutions/1.sql" timestamp="1476168364603" />
@@ -86,41 +87,41 @@
       <jump line="12" column="0" filename="$USER_HOME$/Code/RocoTest/app/views/index.scala.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">RFJPUCBUQUJMRSBVc2VyOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGFjdGl2ZTogQm9vbGVhbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHVzZXJzLnZhbHVlcy5zb3J0QnkoXy5uYW1lKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBkZWYgbGlzdDogRnV0dXJlW1NlcVtVc2VyXV0gPSBGdXR1cmUuc3VjY2Vzc2Z1bCB7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHVzZXJzLnZhbHVlcy5zb3J0QnkoXy5uYW1lKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBkZWYgbGlzdDogRnV0dXJlW1NlcVtVc2VyXV0gPSBGdXR1cmUuc3VjY2Vzc2Z1bCB7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVzZXJzLmRlbGV0ZShpZCkK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEZha2VEQi5mb2xkZXJzLmRlbGV0ZShfLnVzZXJJZCA9PSBpZCkK</text>
+        <text encoding="base64">ICAgIHVzZXJzLmRlbGV0ZShpZCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEZha2VEQi5mb2xkZXJzLm1hcChmID0+IEZha2VEQi50YXNrcy5kZWxldGUoXy5mb2xkZXJJZCA9PSBmLmlkKSkK</text>
+        <text encoding="base64">ICAgIEZha2VEQi5mb2xkZXJzLmRlbGV0ZShfLnVzZXJJZCA9PSBpZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgZGVsZXRlKGlkOiBMb25nKTogRnV0dXJlW1VuaXRdID0gRnV0dXJlLnN1Y2Nlc3NmdWwgewo=</text>
+        <text encoding="base64">ICAgIEZha2VEQi5mb2xkZXJzLm1hcChmID0+IEZha2VEQi50YXNrcy5kZWxldGUoXy5mb2xkZXJJZCA9PSBmLmlkKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
