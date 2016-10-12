@@ -32,6 +32,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/api-lottery/app/models/Lottery.scala" timestamp="1476272348563">
+        <mark key="[" line="25" column="45" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="26" column="35" />
+      </file>
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/AsyncController.scala" timestamp="1475643193942" />
       <file name="$USER_HOME$/Code/api-lottery/conf/evolutions/1.sql" timestamp="1476168364603" />
       <file name="$USER_HOME$/Code/api-lottery/conf/application.conf" timestamp="1476260204950">
@@ -76,7 +82,7 @@
       <file name="$USER_HOME$/Code/api-lottery/app/models/Company/scala.scala" timestamp="1476256359243">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.scalikejdbc/scalikejdbc-interpolation_2.11/srcs/scalikejdbc-interpolation_2.11-2.4.2-sources.jar!/scalikejdbc/SQLSyntaxSupportFeature.scala" timestamp="1476271460187" />
+      <file name="$USER_HOME$/.ivy2/cache/org.scalikejdbc/scalikejdbc-interpolation_2.11/srcs/scalikejdbc-interpolation_2.11-2.4.2-sources.jar!/scalikejdbc/SQLSyntaxSupportFeature.scala" timestamp="1476272255376" />
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/CountController.scala" timestamp="1475643671754" />
       <file name="/fragment.java" timestamp="1476168742250">
         <mark key="[" line="0" column="0" />
@@ -96,37 +102,37 @@
         <text encoding="base64">Ly8gIG92ZXJyaWRlIGRlZiB1c2VTbmFrZUNhc2VDb2x1bW5OYW1lIDogQm9vbGVhbiA9IGZhbHNlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>SkinnyCRUDMapper[Lottery]</text>
+        <text>eCaseColumnName</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB1dWlkICAgICAgICAgIDogU3RyaW5nLAo=</text>
+        <text encoding="base64">ICBvdmVycmlkZSB2YWwgdXNlU25ha2VDYXNlQ29sdW1uTmFtZSA9IGZhbHNlCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gIG92ZXJyaWRlIGRlZiB1c2VTbmFrZUNhc2VDb2x1bW5OYW1lIDogQm9vbGVhbiA9IGZhbHNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSB2YWwgdXNlU25ha2VDYXNlQ29sdW1uTmFtZSA9IGZhbHNlCg==</text>
+        <text encoding="base64">Ly8gIG92ZXJyaWRlIGRlZiB1c2VTbmFrZUNhc2VDb2x1bW5OYW1lIDogQm9vbGVhbiA9IGZhbHNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBvdmVycmlkZSB2YWwgdXNlU25ha2VDYXNlQ29sdW1uTmFtZSA9IGZhbHNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBkZWYgdG9Db2x1bW5OYW1lKCkK</text>
+        <text encoding="base64">Y2xhc3MgCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICBvdmVycmlkZSBkZWYgdG9Db2x1bW5OYW1lKCkK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICBvdmVycmlkZSBkZWYgdXNlU25ha2VDYXNlQ29sdW1uTmFtZSA6IEJvb2xlYW4gPSBmYWxzZQo=</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text encoding="base64">ICAgICAgCiAgICAgIAogICAgICAKICAgICAg</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8rLS0tLS0tLS0tLS0tLS0tKy0tLS0tLS0tLS0rLS0tLS0tKy0tLS0tKy0tLS0tLS0tLS0tLS0tLS0tLS0rLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0rCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly98IHVwZGF0ZWRBdCAgICAgfCBkYXRldGltZSB8IE5PICAgfCAgICAgfCBDVVJSRU5UX1RJTUVTVEFNUCB8IG9uIHVwZGF0ZSBDVVJSRU5UX1RJTUVTVEFNUCB8Cg==</text>
+        <text encoding="base64">Ly8rLS0tLS0tLS0tLS0tLS0tKy0tLS0tLS0tLS0rLS0tLS0tKy0tLS0tKy0tLS0tLS0tLS0tLS0tLS0tLS0rLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0rCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
