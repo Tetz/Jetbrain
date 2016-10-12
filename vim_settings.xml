@@ -32,11 +32,10 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/api-lottery/app/models/Lottery.scala" timestamp="1476249747259">
-        <mark key="[" line="29" column="26" />
-        <mark key="]" line="29" column="24" />
-        <mark key="^" line="29" column="24" />
-        <mark key="." line="29" column="24" />
+      <file name="$USER_HOME$/Code/api-lottery/app/models/Lottery.scala" timestamp="1476251016492">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/AsyncController.scala" timestamp="1475643193942" />
       <file name="$USER_HOME$/Code/api-lottery/conf/evolutions/1.sql" timestamp="1476168364603" />
@@ -87,8 +86,8 @@
       <jump line="12" column="0" filename="$USER_HOME$/Code/RocoTest/app/views/index.scala.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>tw</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
         <text>tw</text>
@@ -97,31 +96,31 @@
         <text encoding="base64">RFJPUCBUQUJMRSBVc2VyOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29sdW1uLnRleHQgLT4gdGV4dAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBkZWYgZmluZFJlY2VudCgpOiBTZXFbTG90dGVyeV0gPSB7CiAgICBqb2lucyhMb3R0ZXJ5LnVzZXJSZWYpCiAgICAgIC5saW1pdCgxMDApCiAgICAgIC5vcmRlckJ5KHQuY3JlYXRlZEF0LmRlc2MpCiAgICAgIC5hcHBseSgpCiAgfQoKICBkZWYgZmluZFJlY2VudEJ5VXNlcklkKHVzZXJJZDogTG9uZyk6IFNlcVtMb3R0ZXJ5XSA9IHsKICAgIHdoZXJlKHNxbHMuZXEodC51c2VySWQsIHVzZXJJZCkpCiAgICAgIC5saW1pdCgxMDApCiAgICAgIC5vcmRlckJ5KHQuY3JlYXRlZEF0LmRlc2MpCiAgICAgIC5hcHBseSgpCiAgfQo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBkZWYgZmluZEJ5TmFtZShuYW1lOiBTdHJpbmcpOiBPcHRpb25bVXNlcl0gPSB3aGVyZShzcWxzLmVxKHUubmFtZSwgbmFtZSkpLmFwcGx5KCkuaGVhZE9wdGlvbgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgY3JlYXRlKG5hbWU6IFN0cmluZyk6IExvbmcgPSBjcmVhdGVXaXRoTmFtZWRWYWx1ZXMoY29sdW1uLm5hbWUgLT4gbmFtZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBkZWYgZXh0cmFjdChyczogV3JhcHBlZFJlc3VsdFNldCwgcm46IFJlc3VsdE5hbWVbTG90dGVyeV0pID0gYXV0b0NvbnN0cnVjdChycywgcm4sICJ1c2VyIikK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBsYXp5IHZhbCB1c2VyUmVmID0gYmVsb25nc1RvW1VzZXJdKFVzZXIsICh0LCB1c2VyKSA9PiB0LmNvcHkodXNlciA9IHVzZXIpKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICApCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIG1lcmdlID0gKHUsIHRzKSA9PiB1LmNvcHkodHdlZXRzID0gdHMpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxpa2VqZGJjLl8K</text>
+        <text encoding="base64">ICAgIG9uID0gKHUsIHQpID0+IHNxbHMuZXEodS5pZCwgdC51c2VySWQpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
