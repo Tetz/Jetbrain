@@ -31,8 +31,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ApiLottery/app/models/Company.scala" timestamp="1476434290844">
-        <mark key="[" line="2" column="40" />
+      <file name="$USER_HOME$/Code/ApiLottery/app/models/Company.scala" timestamp="1476435111702">
+        <mark key="[" line="19" column="60" />
+        <mark key="]" line="19" column="60" />
+        <mark key="^" line="19" column="64" />
+        <mark key="." line="19" column="60" />
       </file>
       <file name="$USER_HOME$/Code/api-lottery/app/models/Lottery.scala" timestamp="1476431305151">
         <mark key="[" line="3" column="0" />
@@ -88,6 +91,7 @@
       <file name="$USER_HOME$/Code/api-lottery/app/models/Company/scala.scala" timestamp="1476256359243">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/ApiLottery/app/models/Lottery.scala" timestamp="1476435093579" />
       <file name="$USER_HOME$/Code/ApiLottery/conf/db/migration/V1__Create_companies.sql" timestamp="1476433966365" />
       <file name="/fragment.java" timestamp="1476168742250">
         <mark key="[" line="0" column="0" />
@@ -100,41 +104,41 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxpa2VqZGJjLl8K</text>
+      <register name="&quot;" type="4">
+        <text>Lottery</text>
       </register>
       <register name="-" type="4">
-        <text>lotteries</text>
+        <text>Lottery</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29sdW1uLm5hbWUgLT4gbmFtZQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxpa2VqZGJjLl8K</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIGlkID0gcnMubG9uZyhjLmlkKSwKICAgIG5hbWUgPSBycy5zdHJpbmcoYy5uYW1lKSwKICAgIHVybCA9IHJzLnN0cmluZ09wdChjLnVybCksCiAgICBjcmVhdGVkQXQgPSBycy5kYXRlVGltZShjLmNyZWF0ZWRBdCksCiAgICB1cGRhdGVkQXQgPSBycy5kYXRlVGltZU9wdChjLnVwZGF0ZWRBdCkKICAp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxpa2VqZGJjLl8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29sdW1uLnV1aWQgLT4gdXVpZAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZVdpdGhOYW1lZFZhbHVlcygK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgY3JlYXRlKHV1aWQ6IFN0cmluZyk6IExvbmcgPSB7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29sdW1uLnV1aWQgLT4gdXVpZAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNyZWF0ZVdpdGhOYW1lZFZhbHVlcygK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBkZWYgY3JlYXRlKHV1aWQ6IFN0cmluZyk6IExvbmcgPSB7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBsb3R0ZXJpZXM6IFNlcVtMb3R0ZXJ5XSA9IExvdHRlcnkud2hlcmUoJ25hbWUgLT4gIkFsaWNlIikuYXBwbHkoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
