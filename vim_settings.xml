@@ -31,6 +31,9 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/ApiLottery/app/models/Company.scala" timestamp="1476434290844">
+        <mark key="[" line="2" column="40" />
+      </file>
       <file name="$USER_HOME$/Code/api-lottery/app/models/Lottery.scala" timestamp="1476431305151">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -56,7 +59,7 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1476168235691">
+      <file name="/Dummy.txt" timestamp="1476434017631">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/api-lottery/app/views/index.scala.html" timestamp="1475637750840">
@@ -85,6 +88,7 @@
       <file name="$USER_HOME$/Code/api-lottery/app/models/Company/scala.scala" timestamp="1476256359243">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/ApiLottery/conf/db/migration/V1__Create_companies.sql" timestamp="1476433966365" />
       <file name="/fragment.java" timestamp="1476168742250">
         <mark key="[" line="0" column="0" />
       </file>
