@@ -8,7 +8,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/RocoTest/app/services/Counter.scala" timestamp="1475575926442" />
       <file name="$USER_HOME$/Code/api-lottery/conf/evolutions/default/1.sql" timestamp="1476267453053">
         <mark key="[" line="18" column="18" />
         <mark key="]" line="52" column="0" />
@@ -38,21 +37,18 @@
         <mark key="^" line="25" column="1" />
         <mark key="." line="25" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/api-lottery/app/controllers/AsyncController.scala" timestamp="1475643193942" />
-      <file name="$USER_HOME$/Code/api-lottery/conf/evolutions/1.sql" timestamp="1476168364603" />
       <file name="$USER_HOME$/Code/api-lottery/conf/application.conf" timestamp="1476273366321">
         <mark key="[" line="327" column="0" />
         <mark key="]" line="327" column="0" />
         <mark key="." line="327" column="0" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.skinny-framework/skinny-orm_2.11/srcs/skinny-orm_2.11-2.2.0-sources.jar!/skinny/DBSettingsInitializer.scala" timestamp="1476270793452" />
       <file name="$USER_HOME$/Code/RocoTest/build.sbt" timestamp="1475566929578">
         <mark key="[" line="12" column="45" />
         <mark key="]" line="12" column="47" />
         <mark key="." line="12" column="32" />
         <mark key="^" line="12" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/api-lottery/app/models/LotteryResult.scala" timestamp="1476424378198">
+      <file name="$USER_HOME$/Code/api-lottery/app/models/LotteryResult.scala" timestamp="1476429937347">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
@@ -66,7 +62,6 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.skinny-framework/skinny-orm_2.11/srcs/skinny-orm_2.11-2.2.0-sources.jar!/skinny/orm/SkinnyCRUDMapper.scala" timestamp="1476265345533" />
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/LotteryController.scala" timestamp="1476346025369">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -87,9 +82,6 @@
       <file name="$USER_HOME$/Code/api-lottery/app/models/Company/scala.scala" timestamp="1476256359243">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.scalikejdbc/scalikejdbc-interpolation_2.11/srcs/scalikejdbc-interpolation_2.11-2.4.2-sources.jar!/scalikejdbc/SQLSyntaxSupportFeature.scala" timestamp="1476273664006" />
-      <file name="$USER_HOME$/.ivy2/cache/org.scalikejdbc/scalikejdbc-syntax-support-macro_2.11/srcs/scalikejdbc-syntax-support-macro_2.11-2.4.2-sources.jar!/scalikejdbc/autoConstruct.scala" timestamp="1476335191672" />
-      <file name="$USER_HOME$/Code/api-lottery/app/controllers/CountController.scala" timestamp="1475643671754" />
       <file name="/fragment.java" timestamp="1476168742250">
         <mark key="[" line="0" column="0" />
       </file>
