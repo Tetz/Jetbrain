@@ -25,6 +25,11 @@
         <mark key="^" line="25" column="1" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/ApiLottery/LICENSE" timestamp="1476682246912">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/ApiLottery/app/controllers/LotteryController.scala" timestamp="1476674497743">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -38,10 +43,14 @@
       <file name="$USER_HOME$/Code/ApiLottery/conf/application.conf" timestamp="1476436095406">
         <mark key="[" line="332" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ApiLottery/build.sbt" timestamp="1476441477800">
+      <file name="$USER_HOME$/Code/ApiLottery/build.sbt" timestamp="1476682227899">
         <mark key="[" line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/Code/ApiLottery/project/plugins.sbt" timestamp="1476676482876" />
+      <file name="$USER_HOME$/Code/ApiLottery/project/plugins.sbt" timestamp="1476682709266">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/api-lottery/app/models/LotteryResult.scala" timestamp="1476431287655">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -75,7 +84,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiLottery/app/models/Lottery.scala" timestamp="1476435093579" />
-      <file name="$USER_HOME$/Code/ApiLottery/test/ApplicationSpec.scala" timestamp="1476675537594">
+      <file name="$USER_HOME$/Code/ApiLottery/test/ApplicationSpec.scala" timestamp="1476682054355">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -93,7 +102,7 @@
     <jumps />
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ZGRTYnRQbHVnaW4oIm9yZy5pcnVuZGFpYS5zYnQiICUgInNidC1zYXNzaWZ5IiAlICIxLjQuNiIpCg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -102,28 +111,49 @@
         <text encoding="base64">ICAgICAgY29sdW1uLm5hbWUgLT4gbmFtZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ZGRTYnRQbHVnaW4oIm9yZy5pcnVuZGFpYS5zYnQiICUgInNidC1zYXNzaWZ5IiAlICIxLjQuNiIpCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICogRm9yIG1vcmUgaW5mb3JtYXRpb24sIGNvbnN1bHQgdGhlIHdpa2kuCg==</text>
+      <register name="2" type="4">
+        <text>// web plugins
+
+addSbtPlugin(&quot;com.typesafe.sbt&quot; % &quot;sbt-coffeescript&quot; % &quot;1.0.0&quot;)
+
+addSbtPlugin(&quot;com.typesafe.sbt&quot; % &quot;sbt-less&quot; % &quot;1.1.0&quot;)
+
+addSbtPlugin(&quot;com.typesafe.sbt&quot; % &quot;sbt-jshint&quot; % &quot;1.0.4&quot;)
+
+addSbtPlugin(&quot;com.typesafe.sbt&quot; % &quot;sbt-rjs&quot; % &quot;1.0.8&quot;)
+
+addSbtPlugin(&quot;com.typesafe.sbt&quot; % &quot;sbt-digest&quot; % &quot;1.1.1&quot;)
+
+addSbtPlugin(&quot;com.typesafe.sbt&quot; % &quot;sbt-mocha&quot; % &quot;1.1.0&quot;)
+
+a</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICogWW91IGNhbiBtb2NrIG91dCBhIHdob2xlIGFwcGxpY2F0aW9uIGluY2x1ZGluZyByZXF1ZXN0cywgcGx1Z2lucyBldGMuCg==</text>
+      <register name="3" type="4">
+        <text>This software is licensed under the Apache 2 license, quoted below.
+
+Licensed under the Apache License, Version 2.0 (the &quot;License&quot;); you may not use this project except in compliance with
+the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0.
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an
+&quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific
+language governing permissions and limitations under the License.</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogQWRkIHlvdXIgc3BlYyBoZXJlLgo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICogRm9yIG1vcmUgaW5mb3JtYXRpb24sIGNvbnN1bHQgdGhlIHdpa2kuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogWW91IGNhbiBtb2NrIG91dCBhIHdob2xlIGFwcGxpY2F0aW9uIGluY2x1ZGluZyByZXF1ZXN0cywgcGx1Z2lucyBldGMuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQWRkIHlvdXIgc3BlYyBoZXJlLgo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAiSG9tZUNvbnRyb2xsZXIiIHNob3VsZCB7CgogICAgInJlbmRlciB0aGUgaW5kZXggcGFnZSIgaW4gewogICAgICB2YWwgaG9tZSA9IHJvdXRlKGFwcCwgRmFrZVJlcXVlc3QoR0VULCAiLyIpKS5nZXQKCiAgICAgIHN0YXR1cyhob21lKSBtdXN0QmUgT0sKICAgICAgY29udGVudFR5cGUoaG9tZSkgbXVzdEJlIFNvbWUoInRleHQvaHRtbCIpCiAgICAgIGNvbnRlbnRBc1N0cmluZyhob21lKSBtdXN0IGluY2x1ZGUgKCJZb3VyIG5ldyBhcHBsaWNhdGlvbiBpcyByZWFkeS4iKQogICAgfQoKICB9CgogICJDb3VudENvbnRyb2xsZXIiIHNob3VsZCB7CgogICAgInJldHVybiBhbiBpbmNyZWFzaW5nIGNvdW50IiBpbiB7CiAgICAgIGNvbnRlbnRBc1N0cmluZyhyb3V0ZShhcHAsIEZha2VSZXF1ZXN0KEdFVCwgIi9jb3VudCIpKS5nZXQpIG11c3RCZSAiMCIKICAgICAgY29udGVudEFzU3RyaW5nKHJvdXRlKGFwcCwgRmFrZVJlcXVlc3QoR0VULCAiL2NvdW50IikpLmdldCkgbXVzdEJlICIxIgogICAgICBjb250ZW50QXNTdHJpbmcocm91dGUoYXBwLCBGYWtlUmVxdWVzdChHRVQsICIvY291bnQiKSkuZ2V0KSBtdXN0QmUgIjIiCiAgICB9CgogIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
