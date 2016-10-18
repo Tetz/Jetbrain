@@ -37,6 +37,12 @@
         <mark key="^" line="19" column="64" />
         <mark key="." line="19" column="60" />
       </file>
+      <file name="$USER_HOME$/Code/ApiLottery/conf/evolutions/default/1.sql" timestamp="1476763187128">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="26" />
+        <mark key="^" line="71" column="0" />
+        <mark key="." line="77" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/api-lottery/app/models/Lottery.scala" timestamp="1476431305151">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -48,10 +54,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ApiLottery/app/controllers/LotteryController.scala" timestamp="1476674497743">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Code/ApiLottery/app/controllers/LotteryController.scala" timestamp="1476762668776">
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="11" column="37" />
+        <mark key="." line="11" column="37" />
+        <mark key="^" line="11" column="37" />
       </file>
       <file name="$USER_HOME$/Code/api-lottery/conf/application.conf" timestamp="1476273366321">
         <mark key="[" line="327" column="0" />
@@ -142,57 +149,46 @@
         <mark key="." line="9" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="63" column="0" filename="$USER_HOME$/Code/ApiLottery/conf/evolutions/default/1.sql" />
+      <jump line="7" column="0" filename="$USER_HOME$/Code/ApiLottery/conf/evolutions/default/1.sql" />
+    </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RFJPUCBUQUJMRSBMb3R0ZXJ5UHJlbWl1bTsK</text>
       </register>
       <register name="-" type="4">
-        <text>Lottery</text>
+        <text>g</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29sdW1uLm5hbWUgLT4gbmFtZQo=</text>
+        <text encoding="base64">RFJPUCBUQUJMRSBMb3R0ZXJ5UHJlbWl1bTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBsb3R0ZXJ5OiBPcHRpb25bTG90dGVyeV0gPSBMb3R0ZXJ5LmZpbmRCeUlkKDgpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFJlYWQK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIExvdHRlcnkuY3JlYXRlV2l0aEF0dHJpYnV0ZXMoJ25hbWUgLT4gIkFsaWNlIiwgJ2xvdHRlcnlUeXBlSWQgLT4gMikK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIENyZWF0ZQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIFBSSU1BUlkgS0VZIChgbG90dGVyeVBlclVzZXJMaW1pdGF0aW9uSWRgKSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGB1cGRhdGVkQXRgIERBVEVUSU1FIE5PVCBOVUxMIERFRkFVTFQgQ1VSUkVOVF9USU1FU1RBTVAgT04gVVBEQVRFIENVUlJFTlRfVElNRVNUQU1QLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGBjcmVhdGVkQXRgIERBVEVUSU1FIE5PVCBOVUxMIERFRkFVTFQgQ1VSUkVOVF9USU1FU1RBTVAsCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNraW5ueS5EQlNldHRpbmdzLmluaXRpYWxpemUoKQo=</text>
+        <text encoding="base64">ICAgIGBuYW1lYCBWQVJDSEFSKDI1NSkgTk9UIE5VTEwsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGRTYnRQbHVnaW4oIm9yZy5pcnVuZGFpYS5zYnQiICUgInNidC1zYXNzaWZ5IiAlICIxLjQuNiIpCg==</text>
+        <text encoding="base64">ICAgIGBsb3R0ZXJ5UGVyVXNlckxpbWl0YXRpb25JZGAgSU5UIE5PVCBOVUxMIEFVVE9fSU5DUkVNRU5ULAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>// web plugins
-
-addSbtPlugin(&quot;com.typesafe.sbt&quot; % &quot;sbt-coffeescript&quot; % &quot;1.0.0&quot;)
-
-addSbtPlugin(&quot;com.typesafe.sbt&quot; % &quot;sbt-less&quot; % &quot;1.1.0&quot;)
-
-addSbtPlugin(&quot;com.typesafe.sbt&quot; % &quot;sbt-jshint&quot; % &quot;1.0.4&quot;)
-
-addSbtPlugin(&quot;com.typesafe.sbt&quot; % &quot;sbt-rjs&quot; % &quot;1.0.8&quot;)
-
-addSbtPlugin(&quot;com.typesafe.sbt&quot; % &quot;sbt-digest&quot; % &quot;1.1.1&quot;)
-
-addSbtPlugin(&quot;com.typesafe.sbt&quot; % &quot;sbt-mocha&quot; % &quot;1.1.0&quot;)
-
-a</text>
+      <register name="9" type="2">
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIGBMb3R0ZXJ5UGVyVXNlckxpbWl0YXRpb25gICgK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
