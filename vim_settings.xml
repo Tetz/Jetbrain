@@ -37,8 +37,8 @@
         <mark key="^" line="19" column="64" />
         <mark key="." line="19" column="60" />
       </file>
-      <file name="$USER_HOME$/Code/ApiLottery/conf/evolutions/default/1.sql" timestamp="1476763187128">
-        <mark key="[" line="77" column="0" />
+      <file name="$USER_HOME$/Code/ApiLottery/conf/evolutions/default/1.sql" timestamp="1476774439522">
+        <mark key="[" line="53" column="1" />
         <mark key="]" line="77" column="26" />
         <mark key="^" line="71" column="0" />
         <mark key="." line="77" column="0" />
@@ -133,11 +133,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ApiLottery/app/models/Lottery.scala" timestamp="1476768740611">
-        <mark key="[" line="41" column="55" />
-        <mark key="]" line="41" column="54" />
-        <mark key="." line="41" column="54" />
-        <mark key="^" line="41" column="54" />
+      <file name="$USER_HOME$/Code/ApiLottery/app/models/Lottery.scala" timestamp="1476774694260">
+        <mark key="[" line="31" column="68" />
+        <mark key="]" line="31" column="68" />
+        <mark key="^" line="31" column="68" />
+        <mark key="." line="31" column="68" />
       </file>
       <file name="$USER_HOME$/Code/ApiLottery/test/ApplicationSpec.scala" timestamp="1476682054355">
         <mark key="[" line="4" column="0" />
@@ -159,41 +159,41 @@
       <jump line="7" column="0" filename="$USER_HOME$/Code/ApiLottery/conf/evolutions/default/1.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuICAgICAgICAgICAgIDogSW50LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuICAgICAgICAgICAgIDogSW50LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuICAgICAgICAgICAgIDogSW50LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuICAgICAgICAgICAgIDogSW50LAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuYW1lICAgICAgICAgIDogU3RyaW5nLAo=</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuYW1lICAgICAgICAgIDogU3RyaW5nLAo=</text>
+        <text encoding="base64">ICAgICAgY29sdW1uLm5hbWUgLT4gbmFtZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuYW1lICAgICAgICAgIDogU3RyaW5nLAo=</text>
+        <text encoding="base64">ICAgICAgY29sdW1uLmxvdHRlcnlUeXBlSWQgLT4gMSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuYW1lICAgICAgICAgIDogU3RyaW5nLAo=</text>
+        <text encoding="base64">ICAgIGNyZWF0ZVdpdGhOYW1lZFZhbHVlcygK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOiBuZywK</text>
+        <text encoding="base64">ICBkZWYgY3JlYXRlKG5hbWU6IFN0cmluZyk6IExvbmcgPSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29sdW1uLmxvdHRlcnlUeXBlSWQgLT4gMSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuICAgICAgICAgICAgIDogSW50LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
