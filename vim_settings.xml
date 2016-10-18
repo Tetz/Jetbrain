@@ -19,11 +19,11 @@
         <mark key="." line="19" column="22" />
         <mark key="^" line="19" column="22" />
       </file>
-      <file name="$USER_HOME$/Code/ApiLottery/app/models/LotteryResult.scala" timestamp="1476780306107">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="100" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Code/ApiLottery/app/models/LotteryResult.scala" timestamp="1476783994638">
+        <mark key="[" line="19" column="45" />
+        <mark key="]" line="19" column="45" />
+        <mark key="^" line="35" column="26" />
+        <mark key="." line="19" column="45" />
       </file>
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/ResultController.scala" timestamp="1475824856554">
         <mark key="[" line="34" column="11" />
@@ -43,11 +43,11 @@
         <mark key="^" line="19" column="64" />
         <mark key="." line="19" column="60" />
       </file>
-      <file name="$USER_HOME$/Code/ApiLottery/conf/evolutions/default/1.sql" timestamp="1476778876428" />
-      <file name="$USER_HOME$/Code/ApiLottery/app/models/LotteryPerUserLimitation.scala" timestamp="1476780166563">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Code/ApiLottery/app/models/LotteryPerUserLimitation.scala" timestamp="1476784230263">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="18" column="73" />
+        <mark key="^" line="18" column="73" />
+        <mark key="." line="18" column="73" />
       </file>
       <file name="$USER_HOME$/Code/api-lottery/app/models/Lottery.scala" timestamp="1476431305151">
         <mark key="[" line="3" column="0" />
@@ -133,8 +133,8 @@
       <file name="$USER_HOME$/Code/api-lottery/app/models/Company/scala.scala" timestamp="1476256359243">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ApiLottery/app/models/LotteryPerServiceLimitation.scala" timestamp="1476780109153">
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/Code/ApiLottery/app/models/LotteryPerServiceLimitation.scala" timestamp="1476784282813">
+        <mark key="[" line="8" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="4" column="2" />
         <mark key="." line="7" column="0" />
@@ -145,29 +145,28 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ApiLottery/app/models/PremiumGroup.scala" timestamp="1476780338744">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="0" column="112" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Code/ApiLottery/app/models/PremiumGroup.scala" timestamp="1476783789344">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="19" column="24" />
+        <mark key="^" line="19" column="49" />
+        <mark key="." line="19" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/ApiLottery/app/models/Lottery.scala" timestamp="1476779686566">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="10" column="68" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Code/ApiLottery/app/models/Lottery.scala" timestamp="1476783114333">
+        <mark key="[" line="23" column="18" />
+        <mark key="]" line="23" column="62" />
+        <mark key="^" line="23" column="62" />
+        <mark key="." line="23" column="62" />
       </file>
       <file name="$USER_HOME$/Code/ApiLottery/test/ApplicationSpec.scala" timestamp="1476682054355">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ApiLottery/conf/db/migration/V1__Create_companies.sql" timestamp="1476433966365" />
-      <file name="$USER_HOME$/Code/ApiLottery/app/models/LotteryPremium.scala" timestamp="1476780203426">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="105" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Code/ApiLottery/app/models/LotteryPremium.scala" timestamp="1476783471384">
+        <mark key="[" line="24" column="51" />
+        <mark key="]" line="23" column="58" />
+        <mark key="^" line="23" column="58" />
+        <mark key="." line="23" column="58" />
       </file>
       <file name="/fragment.java" timestamp="1476689198516">
         <mark key="[" line="0" column="0" />
@@ -189,35 +188,35 @@
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuICAgICAgICAgICAgIDogSW50LAo=</text>
+      <register name="0" type="4">
+        <text>LotteryResult</text>
       </register>
       <register name="1" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICA=</text>
+        <text encoding="base64">IAogCiAKIAogCiAKIAog</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiA=</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8rLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSstLS0tLS0tLS0tLS0tLSstLS0tLS0rLS0tLS0rLS0tLS0tLS0tLS0tLS0tLS0tLSstLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSsK</text>
+      <register name="3" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAg</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly98IHVwZGF0ZWRBdCAgICAgICAgICAgICAgICAgICAgIHwgZGF0ZXRpbWUgICAgIHwgTk8gICB8ICAgICB8IENVUlJFTlRfVElNRVNUQU1QIHwgb24gdXBkYXRlIENVUlJFTlRfVElNRVNUQU1QIHwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgZXhjaGFuZ2VJZCAgICAgICA6IEludCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly98IGNyZWF0ZWRBdCAgICAgICAgICAgICAgICAgICAgIHwgZGF0ZXRpbWUgICAgIHwgTk8gICB8ICAgICB8IENVUlJFTlRfVElNRVNUQU1QIHwgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVzY3JpcHRpb24gICAgICA6IE9wdGlvbltTdHJpbmddLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly98IG5hbWUgICAgICAgICAgICAgICAgICAgICAgICAgIHwgdmFyY2hhcigyNTUpIHwgTk8gICB8ICAgICB8IE5VTEwgICAgICAgICAgICAgIHwgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJlbWl1bUdyb3VwSWQgICA6IEludCwK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly98IGxvdHRlcnlQZXJTZXJ2aWNlTGltaXRhdGlvbklkIHwgaW50KDExKSAgICAgIHwgTk8gICB8IFBSSSB8IE5VTEwgICAgICAgICAgICAgIHwgYXV0b19pbmNyZW1lbnQgICAgICAgICAgICAgIHwK</text>
+      <register name="7" type="8">
+        <text encoding="base64">ICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICA=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8rLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSstLS0tLS0tLS0tLS0tLSstLS0tLS0rLS0tLS0rLS0tLS0tLS0tLS0tLS0tLS0tLSstLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvdHRlcnlQZXJVc2VyTGltaXRhdGlvbklkZCAgICAgICAgICAgICAgICAgICAgICAgIDogSW50LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly98IEZpZWxkICAgICAgICAgICAgICAgICAgICAgICAgIHwgVHlwZSAgICAgICAgIHwgTnVsbCB8IEtleSB8IERlZmF1bHQgICAgICAgICAgIHwgRXh0cmEgICAgICAgICAgICAgICAgICAgICAgIHwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHBseVJlcXVpcmVzTG9naW4gICAgICAgICAgICAgICA6IEJvb2xlYW4sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
