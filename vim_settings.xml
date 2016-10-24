@@ -8,11 +8,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ApiLottery/app/db/Seed.scala" timestamp="1477290024393">
-        <mark key="[" line="2" column="12" />
-        <mark key="]" line="3" column="23" />
-        <mark key="^" line="3" column="23" />
-        <mark key="." line="3" column="23" />
+      <file name="$USER_HOME$/Code/ApiLottery/app/db/Seed.scala" timestamp="1477292003169">
+        <mark key="[" line="13" column="60" />
+        <mark key="]" line="13" column="60" />
+        <mark key="." line="13" column="60" />
+        <mark key="^" line="12" column="65" />
       </file>
       <file name="$USER_HOME$/Code/api-lottery/conf/evolutions/default/1.sql" timestamp="1476267453053">
         <mark key="[" line="18" column="18" />
@@ -66,7 +66,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ApiLottery/app/controllers/LotteryController.scala" timestamp="1476762668776">
+      <file name="$USER_HOME$/Code/ApiLottery/app/controllers/LotteryController.scala" timestamp="1477291609785">
         <mark key="[" line="11" column="28" />
         <mark key="]" line="11" column="37" />
         <mark key="." line="11" column="37" />
@@ -108,7 +108,7 @@
       <file name="/Dummy.txt" timestamp="1476434017631">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ApiLottery/app/controllers/HomeController.scala" timestamp="1476689418971">
+      <file name="$USER_HOME$/Code/ApiLottery/app/controllers/HomeController.scala" timestamp="1477291024872">
         <mark key="[" line="15" column="35" />
         <mark key="]" line="15" column="27" />
         <mark key="^" line="15" column="27" />
@@ -203,41 +203,41 @@
       <jump line="7" column="0" filename="$USER_HOME$/Code/ApiLottery/conf/evolutions/default/1.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>Alice</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Alice</text>
       </register>
-      <register name="0" type="4">
-        <text>LotteryResult</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIExvdHRlcnlQZXJVc2VyTGltaXRhdGlvbi5jcmVhdGVXaXRoQXR0cmlidXRlcygnbmFtZSAtPiAiQWxpY2UiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbCBsb3R0ZXJ5OiBPcHRpb25bTG90dGVyeV0gPSBMb3R0ZXJ5LmZpbmRCeUlkKDgpCg==</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAog</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IEpzb24K</text>
       </register>
       <register name="4" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICA=</text>
+        <text encoding="base64">ICAgIC8vICAgIAogICAgLy8gICAg</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAg</text>
+      <register name="5" type="4">
+        <text encoding="base64">Ly8gICAgTG90dGVyeS5jcmVhdGVXaXRoQXR0cmlidXRlcygnbmFtZSAtPiAiQWxpY2UiLCAnbG90dGVyeVR5cGVJZCAtPiAyKQogICAgLy8gICA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgZXhjaGFuZ2VJZCAgICAgICA6IEludCwK</text>
+        <text encoding="base64">ICAgIC8vIFJlYWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVzY3JpcHRpb24gICAgICA6IE9wdGlvbltTdHJpbmddLAo=</text>
+        <text encoding="base64">ICAgIC8vIENyZWF0ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJlbWl1bUdyb3VwSWQgICA6IEludCwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">ICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
