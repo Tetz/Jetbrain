@@ -45,7 +45,7 @@
         <mark key="^" line="19" column="64" />
         <mark key="." line="19" column="60" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/GachaPerServiceLimitation.scala" timestamp="1477558634619">
+      <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/GachaPerServiceLimitation.scala" timestamp="1477623707132">
         <mark key="[" line="19" column="26" />
         <mark key="]" line="19" column="25" />
         <mark key="." line="19" column="25" />
@@ -136,6 +136,9 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="23" column="25" />
       </file>
+      <file name="$USER_HOME$/Code/ApiOnlineContent/app/controllers/LotteryController.scala" timestamp="1477624244688">
+        <mark key="[" line="19" column="11" />
+      </file>
       <file name="$USER_HOME$/Code/api-lottery/conf/routes" timestamp="1475819975570">
         <mark key="[" line="10" column="52" />
         <mark key="]" line="5" column="28" />
@@ -168,11 +171,11 @@
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/Gacha.scala" timestamp="1477558145103">
+      <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/Gacha.scala" timestamp="1477624178301">
         <mark key="[" line="30" column="29" />
-        <mark key="]" line="29" column="52" />
-        <mark key="^" line="29" column="52" />
-        <mark key="." line="29" column="52" />
+        <mark key="]" line="21" column="58" />
+        <mark key="^" line="21" column="58" />
+        <mark key="." line="21" column="58" />
       </file>
       <file name="$USER_HOME$/Code/ApiLottery/app/models/Lottery.scala" timestamp="1476783114333">
         <mark key="[" line="23" column="18" />
