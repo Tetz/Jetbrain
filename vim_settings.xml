@@ -221,11 +221,11 @@
       <file name="$USER_HOME$/Code/ApiOnlineContent/app/controllers/GachaController.scala" timestamp="1477634022599">
         <mark key="[" line="12" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOnlineContent/app/seeds/Seed.scala" timestamp="1477638280720">
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="13" column="4" />
-        <mark key="." line="13" column="4" />
-        <mark key="^" line="12" column="12" />
+      <file name="$USER_HOME$/Code/ApiOnlineContent/app/seeds/Seed.scala" timestamp="1477643198197">
+        <mark key="[" line="12" column="52" />
+        <mark key="]" line="12" column="52" />
+        <mark key="." line="12" column="52" />
+        <mark key="^" line="12" column="52" />
       </file>
       <file name="/fragment.java" timestamp="1477288967247">
         <mark key="[" line="0" column="0" />
@@ -237,13 +237,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>GachaPerServiceLimitation</text>
+        <text>ィ</text>
       </register>
       <register name="-" type="4">
-        <text>GachaPerServiceLimitation</text>
+        <text>ィ</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIHByaW50bG4oIkluaXRpYWxpemluZyBEYXRhYmFzZSA+PiBUYWJsZSA+PiBHYWNoYVBlclNlcnZpY2VMaW1pdGF0aW9uIikKICAgIEdhY2hhUGVyU2VydmljZUxpbWl0YXRpb24uY3JlYXRlV2l0aEF0dHJpYnV0ZXMoJ25hbWUgLT4gIkxJTUlUIikKICAgIEdhY2hhUGVyU2VydmljZUxpbWl0YXRpb24uY3JlYXRlV2l0aEF0dHJpYnV0ZXMoJ25hbWUgLT4gIkRBSUxZX0xJTUlUIikKICAgIEdhY2hhUGVyU2VydmljZUxpbWl0YXRpb24uY3JlYXRlV2l0aEF0dHJpYnV0ZXMoJ25hbWUgLT4gIk1PTlRITFlfTElNSVQiKQogICAgR2FjaGFQZXJTZXJ2aWNlTGltaXRhdGlvbi5jcmVhdGVXaXRoQXR0cmlidXRlcygnbmFtZSAtPiAiQU5OVUFMX0xJTUlUIikKICAgIEdhY2hhUGVyU2VydmljZUxpbWl0YXRpb24uY3JlYXRlV2l0aEF0dHJpYnV0ZXMoJ25hbWUgLT4gIlVOTElNSVRFRCIpCiAgICBwcmludGxuKCJDcmVhdGVkIG5ldyByZWNvcmRzIikK</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEdhY2hhVHlwZS5jcmVhdGVXaXRoQXR0cmlidXRlcygnbmFtZSAtPiAi44Kk44Oz44K544K/44Oz44OI44Km44Kj44OzIikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEdhY2hhUGVyU2VydmljZUxpbWl0YXRpb24uY3JlYXRlV2l0aEF0dHJpYnV0ZXMoJ25hbWUgLT4gIuWFqOODl+ODrCIpCg==</text>
