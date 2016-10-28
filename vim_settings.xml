@@ -15,6 +15,12 @@
         <mark key="." line="10" column="48" />
         <mark key="^" line="10" column="48" />
       </file>
+      <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/GachaType.scala" timestamp="1477633406701">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/ResultController.scala" timestamp="1475824856554">
         <mark key="[" line="34" column="11" />
         <mark key="]" line="19" column="29" />
@@ -104,11 +110,11 @@
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/Gacha.scala" timestamp="1477631824011">
-        <mark key="[" line="8" column="53" />
-        <mark key="]" line="21" column="58" />
-        <mark key="^" line="21" column="58" />
-        <mark key="." line="21" column="58" />
+      <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/Gacha.scala" timestamp="1477633510837">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="1" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiLottery/app/models/Lottery.scala" timestamp="1476783114333">
         <mark key="[" line="23" column="18" />
@@ -143,7 +149,7 @@
         <mark key="^" line="4" column="69" />
         <mark key="." line="4" column="69" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/GachaPerServiceLimitation.scala" timestamp="1477631314966">
+      <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/GachaPerServiceLimitation.scala" timestamp="1477634012337">
         <mark key="[" line="18" column="2" />
         <mark key="]" line="19" column="25" />
         <mark key="." line="19" column="25" />
@@ -212,10 +218,15 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOnlineContent/app/controllers/GachaController.scala" timestamp="1477624874011">
+      <file name="$USER_HOME$/Code/ApiOnlineContent/app/controllers/GachaController.scala" timestamp="1477634022599">
         <mark key="[" line="12" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOnlineContent/app/seeds/Seed.scala" timestamp="1477632662437" />
+      <file name="$USER_HOME$/Code/ApiOnlineContent/app/seeds/Seed.scala" timestamp="1477634367577">
+        <mark key="[" line="10" column="63" />
+        <mark key="]" line="10" column="62" />
+        <mark key="^" line="10" column="62" />
+        <mark key="." line="10" column="62" />
+      </file>
       <file name="/fragment.java" timestamp="1477288967247">
         <mark key="[" line="0" column="0" />
       </file>
@@ -226,40 +237,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBza2lubnkuREJTZXR0aW5ncy5pbml0aWFsaXplKCkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>gpsl</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBwcmlvcml0eSAgICAgICAgICAgICAgIDogSW50LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBza2lubnkuREJTZXR0aW5ncy5pbml0aWFsaXplKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBwcmVtaXVtR3JvdXBTdGFydERhdGVkIDogSW50LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBwcmVtaXVtR3JvdXBFbmREYXRlZCAgIDogSW50LAo=</text>
+      <register name="3" type="8">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBuYW1lICAgICAgICAgICAgICAgICAgIDogU3RyaW5nLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBwcmVtaXVtR3JvdXBTdGFydERhdGVkIDogSW50LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8rLS0tLS0tLS0tLS0tLS0tLS0tLSstLS0tLS0tLS0tLS0tLSstLS0tLS0rLS0tLS0rLS0tLS0tLS0tLS0tLS0tLS0tLSstLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBwcmVtaXVtR3JvdXBFbmREYXRlZCAgIDogSW50LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly98IHVwZGF0ZWRBdCAgICAgICAgIHwgZGF0ZXRpbWUgICAgIHwgTk8gICB8ICAgICB8IENVUlJFTlRfVElNRVNUQU1QIHwgb24gdXBkYXRlIENVUlJFTlRfVElNRVNUQU1QIHwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBuYW1lICAgICAgICAgICAgICAgICAgIDogU3RyaW5nLAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly98IGNyZWF0ZWRBdCAgICAgICAgIHwgZGF0ZXRpbWUgICAgIHwgTk8gICB8ICAgICB8IENVUlJFTlRfVElNRVNUQU1QIHwgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwK</text>
+      <register name="8" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly98IGFwcGxpY2F0aW9uTnVtYmVyIHwgaW50KDExKSAgICAgIHwgTk8gICB8ICAgICB8IE5VTEwgICAgICAgICAgICAgIHwgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwK</text>
+        <text encoding="base64">Ly8rLS0tLS0tLS0tLS0tLS0tLS0tLSstLS0tLS0tLS0tLS0tLSstLS0tLS0rLS0tLS0rLS0tLS0tLS0tLS0tLS0tLS0tLSstLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
