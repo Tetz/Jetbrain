@@ -105,8 +105,8 @@
       <file name="$USER_HOME$/Code/api-lottery/app/models/Company/scala.scala" timestamp="1476256359243">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOnlineContent/build.sbt" timestamp="1477479799742">
-        <mark key="[" line="0" column="11" />
+      <file name="$USER_HOME$/Code/ApiOnlineContent/build.sbt" timestamp="1477644062014">
+        <mark key="[" line="21" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
@@ -221,7 +221,7 @@
       <file name="$USER_HOME$/Code/ApiOnlineContent/app/controllers/GachaController.scala" timestamp="1477634022599">
         <mark key="[" line="12" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOnlineContent/app/seeds/Seed.scala" timestamp="1477643198197">
+      <file name="$USER_HOME$/Code/ApiOnlineContent/app/seeds/Seed.scala" timestamp="1477644452848">
         <mark key="[" line="12" column="52" />
         <mark key="]" line="12" column="52" />
         <mark key="." line="12" column="52" />
