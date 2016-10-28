@@ -221,11 +221,10 @@
       <file name="$USER_HOME$/Code/ApiOnlineContent/app/controllers/GachaController.scala" timestamp="1477634022599">
         <mark key="[" line="12" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOnlineContent/app/seeds/Seed.scala" timestamp="1477644452848">
-        <mark key="[" line="12" column="52" />
-        <mark key="]" line="12" column="52" />
-        <mark key="." line="12" column="52" />
-        <mark key="^" line="12" column="52" />
+      <file name="$USER_HOME$/Code/ApiOnlineContent/app/seeds/Seed.scala" timestamp="1477647546189">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1477288967247">
         <mark key="[" line="0" column="0" />
@@ -236,8 +235,8 @@
       <jump line="7" column="0" filename="$USER_HOME$/Code/ApiLottery/conf/evolutions/default/1.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ィ</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEdhY2hhVHlwZS5jcmVhdGVXaXRoQXR0cmlidXRlcygnbmFtZSAtPiAiSU5TVEFOVF9XSU4iKQo=</text>
       </register>
       <register name="-" type="4">
         <text>ィ</text>
@@ -246,22 +245,22 @@
         <text encoding="base64">ICAgIEdhY2hhVHlwZS5jcmVhdGVXaXRoQXR0cmlidXRlcygnbmFtZSAtPiAi44Kk44Oz44K544K/44Oz44OI44Km44Kj44OzIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEdhY2hhUGVyU2VydmljZUxpbWl0YXRpb24uY3JlYXRlV2l0aEF0dHJpYnV0ZXMoJ25hbWUgLT4gIuWFqOODl+ODrCIpCg==</text>
+        <text encoding="base64">ICAgIEdhY2hhVHlwZS5jcmVhdGVXaXRoQXR0cmlidXRlcygnbmFtZSAtPiAiSU5TVEFOVF9XSU4iKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEdhY2hhUGVyU2VydmljZUxpbWl0YXRpb24uY3JlYXRlV2l0aEF0dHJpYnV0ZXMoJ25hbWUgLT4gIkFOTlVBTF9MSU1JVCIpCg==</text>
+        <text encoding="base64">ICAgIEdhY2hhUGVyU2VydmljZUxpbWl0YXRpb24uY3JlYXRlV2l0aEF0dHJpYnV0ZXMoJ25hbWUgLT4gIuWFqOODl+ODrCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEdhY2hhUGVyU2VydmljZUxpbWl0YXRpb24uY3JlYXRlV2l0aEF0dHJpYnV0ZXMoJ25hbWUgLT4gIk1PTlRITFlfTElNSVQiKQo=</text>
+        <text encoding="base64">ICAgIEdhY2hhUGVyU2VydmljZUxpbWl0YXRpb24uY3JlYXRlV2l0aEF0dHJpYnV0ZXMoJ25hbWUgLT4gIkFOTlVBTF9MSU1JVCIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIExJTUlULCBEQUlMWV9MSU1JVCwgTU9OVEhMWV9MSU1JVCwgQU5OVUFMX0xJTUlULCBVTkxJTUlURUQK</text>
+        <text encoding="base64">ICAgIEdhY2hhUGVyU2VydmljZUxpbWl0YXRpb24uY3JlYXRlV2l0aEF0dHJpYnV0ZXMoJ25hbWUgLT4gIk1PTlRITFlfTElNSVQiKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIC8vIExJTUlULCBEQUlMWV9MSU1JVCwgTU9OVEhMWV9MSU1JVCwgQU5OVUFMX0xJTUlULCBVTkxJTUlURUQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIExJTUlULCBEQUlMWV9MSU1JVCwgTU9OVEhMWV9MSU1JVCwgQU5OVUFMX0xJTUlULCBVTkxJTUlURUQK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -270,7 +269,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEdhY2hhUGVyVXNlckxpbWl0YXRpb24uY3JlYXRlV2l0aEF0dHJpYnV0ZXMoJ25hbWUgLT4gIkplY2NpZSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
