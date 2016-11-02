@@ -21,11 +21,11 @@
         <mark key="." line="10" column="48" />
         <mark key="^" line="10" column="48" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/GachaType.scala" timestamp="1478050830605">
-        <mark key="[" line="15" column="45" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
+      <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/GachaType.scala" timestamp="1478062027222">
+        <mark key="[" line="7" column="38" />
+        <mark key="]" line="7" column="21" />
+        <mark key="." line="7" column="21" />
+        <mark key="^" line="8" column="18" />
       </file>
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/ResultController.scala" timestamp="1475824856554">
         <mark key="[" line="34" column="11" />
@@ -171,7 +171,7 @@
         <mark key="." line="16" column="15" />
         <mark key="^" line="20" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/GachaPerUserLimitation.scala" timestamp="1477999717621">
+      <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/GachaPerUserLimitation.scala" timestamp="1478061418451">
         <mark key="[" line="15" column="45" />
         <mark key="]" line="20" column="25" />
         <mark key="." line="20" column="25" />
@@ -208,6 +208,7 @@
         <mark key="^" line="225" column="24" />
         <mark key="." line="225" column="24" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.skinny-framework/skinny-orm_2.11/srcs/skinny-orm_2.11-2.2.0-sources.jar!/skinny/orm/SkinnyCRUDMapper.scala" timestamp="1478061591526" />
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/LotteryController.scala" timestamp="1476431445889">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -255,11 +256,11 @@
         <mark key="^" line="21" column="86" />
         <mark key="." line="21" column="86" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOnlineContent/app/seeds/Seed.scala" timestamp="1478060161922">
-        <mark key="[" line="27" column="19" />
-        <mark key="]" line="27" column="15" />
-        <mark key="^" line="27" column="15" />
-        <mark key="." line="27" column="15" />
+      <file name="$USER_HOME$/Code/ApiOnlineContent/app/seeds/Seed.scala" timestamp="1478064544715">
+        <mark key="[" line="89" column="24" />
+        <mark key="]" line="89" column="22" />
+        <mark key="." line="89" column="22" />
+        <mark key="^" line="89" column="22" />
       </file>
       <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/Item.scala" timestamp="1477978222063">
         <mark key="[" line="20" column="25" />
@@ -277,40 +278,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEdhY2hhUGVyU2VydmljZUxpbWl0YXRpb24uZGVsZXRlQWxsKCkK</text>
+        <text encoding="base64">ICAgIHZhbCBGSVJTVF9JRCA6IExvbmcgPSAxCg==</text>
       </register>
       <register name="-" type="4">
-        <text>useSnakeCaseColumnName</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEdhY2hhUGVyU2VydmljZUxpbWl0YXRpb24uZGVsZXRlQWxsKCkK</text>
+        <text encoding="base64">ICAgIHZhbCBGSVJTVF9JRCA6IExvbmcgPSAxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5teXNxbC5mYWJyaWMueG1scnBjLmJhc2UuTWVtYmVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICduYW1lIC0+ICJob2dlIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICduYW1lIC0+ICJob2dlIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICduYW1lIC0+ICJob2dlIiwK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIkluaXRpYWxpemluZyBEYXRhYmFzZSIpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICduYW1lIC0+ICJob2dlIiwK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIHByaW50bG4oIkluaXRpYWxpemluZyBUYWJsZSA+PiBHYWNoYVR5cGUiKQogICAgR2FjaGFUeXBlLmRlbGV0ZUFsbCgpCiAgICBHYWNoYVR5cGUuY3JlYXRlV2l0aEF0dHJpYnV0ZXMoJ2dhY2hhVHlwZUlkIC0+IDEsICduYW1lIC0+ICLjgqTjg7Pjgrnjgr/jg7Pjg4jjgqbjgqPjg7MiKQogICAgR2FjaGFUeXBlLmNyZWF0ZVdpdGhBdHRyaWJ1dGVzKCdnYWNoYVR5cGVJZCAtPiAyLCAnbmFtZSAtPiAi5b6M5oq96YG4IikKCiAgICBwcmludGxuKCJJbml0aWFsaXppbmcgVGFibGUgPj4gR2FjaGFQZXJTZXJ2aWNlTGltaXRhdGlvbiIpCiAgICBHYWNoYVBlclNlcnZpY2VMaW1pdGF0aW9uLmRlbGV0ZUFsbCgpCiAgICBHYWNoYVBlclNlcnZpY2VMaW1pdGF0aW9uLmNyZWF0ZVdpdGhBdHRyaWJ1dGVzKCdnYWNoYVBlclNlcnZpY2VMaW1pdGF0aW9uSWQgLT4gMSwgJ25hbWUgLT4gIkxJTUlUIikKICAgIEdhY2hhUGVyU2VydmljZUxpbWl0YXRpb24uY3JlYXRlV2l0aEF0dHJpYnV0ZXMoJ2dhY2hhUGVyU2VydmljZUxpbWl0YXRpb25JZCAtPiAyLCAnbmFtZSAtPiAiREFJTFlfTElNSVQiKQogICAgR2FjaGFQZXJTZXJ2aWNlTGltaXRhdGlvbi5jcmVhdGVXaXRoQXR0cmlidXRlcygnZ2FjaGFQZXJTZXJ2aWNlTGltaXRhdGlvbklkIC0+IDMsICduYW1lIC0+ICJNT05USExZX0xJTUlUIikKICAgIEdhY2hhUGVyU2VydmljZUxpbWl0YXRpb24uY3JlYXRlV2l0aEF0dHJpYnV0ZXMoJ2dhY2hhUGVyU2VydmljZUxpbWl0YXRpb25JZCAtPiA0LCAnbmFtZSAtPiAiQU5OVUFMX0xJTUlUIikKICAgIEdhY2hhUGVyU2VydmljZUxpbWl0YXRpb24uY3JlYXRlV2l0aEF0dHJpYnV0ZXMoJ2dhY2hhUGVyU2VydmljZUxpbWl0YXRpb25JZCAtPiA1LCAnbmFtZSAtPiAiVU5MSU1JVEVEIikKCiAgICBwcmludGxuKCJJbml0aWFsaXppbmcgVGFibGUgPj4gR2FjaGFQZXJVc2VyTGltaXRhdGlvbiIpCiAgICBHYWNoYVBlclVzZXJMaW1pdGF0aW9uLmRlbGV0ZUFsbCgpCiAgICBHYWNoYVBlclVzZXJMaW1pdGF0aW9uLmNyZWF0ZVdpdGhBdHRyaWJ1dGVzKCdnYWNoYVBlclVzZXJMaW1pdGF0aW9uSWQgLT4gMSwgJ25hbWUgLT4gIkxJTUlUIikKICAgIEdhY2hhUGVyVXNlckxpbWl0YXRpb24uY3JlYXRlV2l0aEF0dHJpYnV0ZXMoJ2dhY2hhUGVyVXNlckxpbWl0YXRpb25JZCAtPiAyLCAnbmFtZSAtPiAiREFJTFlfTElNSVQiKQogICAgR2FjaGFQZXJVc2VyTGltaXRhdGlvbi5jcmVhdGVXaXRoQXR0cmlidXRlcygnZ2FjaGFQZXJVc2VyTGltaXRhdGlvbklkIC0+IDMsICduYW1lIC0+ICJNT05USExZX0xJTUlUIikKICAgIEdhY2hhUGVyVXNlckxpbWl0YXRpb24uY3JlYXRlV2l0aEF0dHJpYnV0ZXMoJ2dhY2hhUGVyVXNlckxpbWl0YXRpb25JZCAtPiA0LCAnbmFtZSAtPiAiQU5OVUFMX0xJTUlUIikKICAgIEdhY2hhUGVyVXNlckxpbWl0YXRpb24uY3JlYXRlV2l0aEF0dHJpYnV0ZXMoJ2dhY2hhUGVyVXNlckxpbWl0YXRpb25JZCAtPiA1LCAnbmFtZSAtPiAiVU5MSU1JVEVEIik=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICduYW1lIC0+ICJob2dlIiwK</text>
+      <register name="6" type="8">
+        <text encoding="base64">IAogCiAKIA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICduYW1lIC0+ICJob2dlIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICduYW1lIC0+ICJob2dlIiwK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIkNyZWF0ZWQgbmV3IHJlY29yZHMiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFByZW1pdW1Hcm91cC5jcmVhdGVXaXRoQXR0cmlidXRlcygnbmFtZSAtPiAiWFhYIikK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIkNyZWF0ZWQgbmV3IHJlY29yZHMgPj4gVGFibGUgPj4gR2FjaGFUeXBlIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
