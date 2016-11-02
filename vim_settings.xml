@@ -255,8 +255,11 @@
         <mark key="^" line="21" column="86" />
         <mark key="." line="21" column="86" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOnlineContent/app/seeds/Seed.scala" timestamp="1478058080162">
-        <mark key="[" line="36" column="33" />
+      <file name="$USER_HOME$/Code/ApiOnlineContent/app/seeds/Seed.scala" timestamp="1478060161922">
+        <mark key="[" line="27" column="19" />
+        <mark key="]" line="27" column="15" />
+        <mark key="^" line="27" column="15" />
+        <mark key="." line="27" column="15" />
       </file>
       <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/Item.scala" timestamp="1477978222063">
         <mark key="[" line="20" column="25" />
@@ -274,13 +277,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5teXNxbC5mYWJyaWMueG1scnBjLmJhc2UuTWVtYmVyCg==</text>
+        <text encoding="base64">ICAgIEdhY2hhUGVyU2VydmljZUxpbWl0YXRpb24uZGVsZXRlQWxsKCkK</text>
       </register>
       <register name="-" type="4">
         <text>useSnakeCaseColumnName</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSB2YWwgdXNlU25ha2VDYXNlQ29sdW1uTmFtZSA9IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgIEdhY2hhUGVyU2VydmljZUxpbWl0YXRpb24uZGVsZXRlQWxsKCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5teXNxbC5mYWJyaWMueG1scnBjLmJhc2UuTWVtYmVyCg==</text>
