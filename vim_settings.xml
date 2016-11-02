@@ -21,7 +21,7 @@
         <mark key="." line="10" column="48" />
         <mark key="^" line="10" column="48" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/GachaType.scala" timestamp="1477999724099">
+      <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/GachaType.scala" timestamp="1478050830605">
         <mark key="[" line="15" column="45" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
@@ -140,7 +140,7 @@
         <mark key="." line="24" column="56" />
         <mark key="^" line="24" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/ItemTable.scala" timestamp="1477977778882">
+      <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/ItemTable.scala" timestamp="1478051639620">
         <mark key="[" line="19" column="25" />
         <mark key="]" line="19" column="28" />
         <mark key="." line="19" column="28" />
@@ -158,6 +158,7 @@
         <mark key="^" line="35" column="26" />
         <mark key="." line="19" column="45" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.skinny-framework/skinny-orm_2.11/srcs/skinny-orm_2.11-2.2.0-sources.jar!/skinny/orm/feature/NoIdCUDFeature.scala" timestamp="1478051756992" />
       <file name="$USER_HOME$/Code/ApiOnlineContent/conf/routes" timestamp="1477631421414">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="4" column="69" />
@@ -182,6 +183,7 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
       </file>
+      <file name="$USER_HOME$/Code/ApiOnlineContent/conf/application.conf" timestamp="1477479813985" />
       <file name="$USER_HOME$/Code/RocoTest/build.sbt" timestamp="1475566929578">
         <mark key="[" line="12" column="45" />
         <mark key="]" line="12" column="47" />
@@ -253,11 +255,8 @@
         <mark key="^" line="21" column="86" />
         <mark key="." line="21" column="86" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOnlineContent/app/seeds/Seed.scala" timestamp="1477999734937">
-        <mark key="[" line="12" column="47" />
-        <mark key="]" line="13" column="37" />
-        <mark key="^" line="13" column="37" />
-        <mark key="." line="13" column="37" />
+      <file name="$USER_HOME$/Code/ApiOnlineContent/app/seeds/Seed.scala" timestamp="1478051750095">
+        <mark key="[" line="36" column="33" />
       </file>
       <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/Item.scala" timestamp="1477978222063">
         <mark key="[" line="20" column="25" />
@@ -274,8 +273,8 @@
       <jump line="7" column="0" filename="$USER_HOME$/Code/ApiLottery/conf/evolutions/default/1.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>useSnakeCaseColumnName</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5teXNxbC5mYWJyaWMueG1scnBjLmJhc2UuTWVtYmVyCg==</text>
       </register>
       <register name="-" type="4">
         <text>useSnakeCaseColumnName</text>
@@ -284,7 +283,7 @@
         <text encoding="base64">ICBvdmVycmlkZSB2YWwgdXNlU25ha2VDYXNlQ29sdW1uTmFtZSA9IGZhbHNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICduYW1lIC0+ICJob2dlIiwK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5teXNxbC5mYWJyaWMueG1scnBjLmJhc2UuTWVtYmVyCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICduYW1lIC0+ICJob2dlIiwK</text>
@@ -305,7 +304,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICduYW1lIC0+ICJob2dlIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFByZW1pdW1Hcm91cC5jcmVhdGVXaXRoQXR0cmlidXRlcygnbmFtZSAtPiAiWFhYIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICduYW1lIC0+ICJob2dlIiwK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIFByZW1pdW1Hcm91cC5jcmVhdGVXaXRoQXR0cmlidXRlcygnbmFtZSAtPiAiWFhYIikK</text>
@@ -342,6 +341,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
