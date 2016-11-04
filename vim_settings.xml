@@ -15,11 +15,11 @@
         <mark key="." line="7" column="20" />
         <mark key="^" line="12" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/GachaResult.scala" timestamp="1478075963328">
-        <mark key="[" line="7" column="46" />
-        <mark key="]" line="10" column="48" />
-        <mark key="." line="10" column="48" />
-        <mark key="^" line="10" column="48" />
+      <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/GachaResult.scala" timestamp="1478242955383">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="9" column="48" />
       </file>
       <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/GachaType.scala" timestamp="1478076162649">
         <mark key="[" line="7" column="38" />
@@ -57,21 +57,11 @@
         <mark key="^" line="25" column="1" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ApiLottery/LICENSE" timestamp="1476682246912">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/ApiLottery/app/controllers/LotteryController.scala" timestamp="1477291609785">
         <mark key="[" line="11" column="28" />
         <mark key="]" line="11" column="37" />
         <mark key="." line="11" column="37" />
         <mark key="^" line="11" column="37" />
-      </file>
-      <file name="$USER_HOME$/Code/api-lottery/conf/application.conf" timestamp="1476273366321">
-        <mark key="[" line="327" column="0" />
-        <mark key="]" line="327" column="0" />
-        <mark key="." line="327" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiLottery/conf/application.conf" timestamp="1476778985590">
         <mark key="[" line="325" column="47" />
@@ -79,18 +69,13 @@
       <file name="$USER_HOME$/Code/ApiLottery/build.sbt" timestamp="1476682227899">
         <mark key="[" line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/Code/ApiLottery/project/plugins.sbt" timestamp="1476682709266">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/ApiLottery/conf/db/seed.scala" timestamp="1477281122653">
         <mark key="[" line="1" column="10" />
         <mark key="]" line="1" column="10" />
         <mark key="^" line="1" column="10" />
         <mark key="." line="1" column="10" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/GachaPremium.scala" timestamp="1478075948568">
+      <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/GachaPremium.scala" timestamp="1478243734144">
         <mark key="[" line="8" column="44" />
         <mark key="]" line="7" column="44" />
         <mark key="." line="7" column="44" />
@@ -116,11 +101,6 @@
         <mark key="]" line="18" column="12" />
         <mark key="^" line="18" column="12" />
         <mark key="." line="18" column="12" />
-      </file>
-      <file name="$USER_HOME$/Code/api-lottery/app/controllers/HomeController.scala" timestamp="1475805912199">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Code/api-lottery/conf/routes" timestamp="1475819975570">
         <mark key="[" line="10" column="52" />
@@ -149,32 +129,17 @@
         <mark key="^" line="23" column="58" />
         <mark key="." line="23" column="58" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/PremiumGroup.scala" timestamp="1478078876611">
+      <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/PremiumGroup.scala" timestamp="1478243694250">
         <mark key="[" line="22" column="30" />
         <mark key="]" line="24" column="56" />
         <mark key="." line="24" column="56" />
         <mark key="^" line="24" column="56" />
-      </file>
-      <file name="$USER_HOME$/Code/api-lottery/app/models/Company.scala" timestamp="1476261382014">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/RocoTest/app/views/index.scala.html" timestamp="1475560621585">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/ItemTable.scala" timestamp="1478076198481">
         <mark key="[" line="7" column="38" />
         <mark key="]" line="19" column="28" />
         <mark key="." line="19" column="28" />
         <mark key="^" line="19" column="28" />
-      </file>
-      <file name="$USER_HOME$/Code/api-lottery/conf/evolutions/default/1.sql" timestamp="1476267453053">
-        <mark key="[" line="18" column="18" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Code/RocoTest/app/controllers/HomeController.scala" timestamp="1475577685807">
         <mark key="[" line="19" column="22" />
@@ -229,21 +194,11 @@
       <file name="/dummy.sql" timestamp="1477976022802">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/api-lottery/app/models/LotteryResult.scala" timestamp="1476431287655">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOnlineContent/conf/evolutions/default/1.sql" timestamp="1478075194467">
-        <mark key="[" line="207" column="0" />
-        <mark key="]" line="207" column="0" />
-        <mark key="^" line="225" column="24" />
-        <mark key="." line="207" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiLottery/app/Module.scala" timestamp="1476675295431">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Code/ApiOnlineContent/conf/evolutions/default/1.sql" timestamp="1478242346589">
+        <mark key="[" line="206" column="0" />
+        <mark key="]" line="206" column="0" />
+        <mark key="^" line="224" column="24" />
+        <mark key="." line="206" column="0" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/org.skinny-framework/skinny-orm_2.11/srcs/skinny-orm_2.11-2.2.0-sources.jar!/skinny/orm/SkinnyCRUDMapper.scala" timestamp="1478061591526" />
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/LotteryController.scala" timestamp="1476431445889">
@@ -288,10 +243,11 @@
         <mark key="^" line="21" column="86" />
         <mark key="." line="21" column="86" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOnlineContent/app/seeds/Seed.scala" timestamp="1478080683912">
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
+      <file name="$USER_HOME$/Code/ApiOnlineContent/app/seeds/Seed.scala" timestamp="1478243771056">
+        <mark key="[" line="89" column="17" />
+        <mark key="]" line="89" column="0" />
+        <mark key="^" line="89" column="5" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/Item.scala" timestamp="1478076190626">
         <mark key="[" line="9" column="40" />
@@ -306,7 +262,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8K</text>
+        <text encoding="base64">ICAgIEdhY2hhUHJlbWl1bXAuY3JlYXRlV2l0aEF0dHJpYnV0ZXMoJ25hbWUgLT4gIuODh+ODleOCqeODq+ODiCIsCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">J3ByZW1pdW1Hcm91cElkIC0+IDEudG9Mb25nLA==</text>
@@ -315,31 +271,31 @@
         <text encoding="base64">ICAgIFByZW1pdW1Hcm91cC5jcmVhdGVXaXRoQXR0cmlidXRlcygnbmFtZSAtPiAi44OH44OV44Kp44Or44OIIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdnYWNoYUlkIC0+IDEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAncHJpb3JpdHkgLT4gMTAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAncHJlbWl1bUdyb3VwU3RhcnREYXRlIC0+ICIyMDE2LTEwLTMwIDAwOjAwOjAwIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdwcmVtaXVtR3JvdXBFbmREYXRlIC0+ICIyMDIwLTEyLTMwIDAwOjAwOjAwIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8K</text>
+        <text encoding="base64">ICAgIEdhY2hhUHJlbWl1bXAuY3JlYXRlV2l0aEF0dHJpYnV0ZXMoJ25hbWUgLT4gIuODh+ODleOCqeODq+ODiCIsCg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIFByZW1pdW1Hcm91cC5jcmVhdGVXaXRoQXR0cmlidXRlcygnbmFtZSAtPiAi44OH44OV44Kp44Or44OIIiwKICAgICAgJ2dhY2hhSWQgLT4gMSwKICAgICAgJ3ByaW9yaXR5IC0+IDEwLAogICAgICAncHJlbWl1bUdyb3VwU3RhcnREYXRlIC0+ICIyMDE2LTEwLTMwIDAwOjAwOjAwIiwKICAgICAgJ3ByZW1pdW1Hcm91cEVuZERhdGUgLT4gIjIwMjAtMTItMzAgMDA6MDA6MDAiKQogICAgUHJlbWl1bUdyb3VwLmNyZWF0ZVdpdGhBdHRyaWJ1dGVzKCduYW1lIC0+ICLjg4fjg5Xjgqnjg6vjg4giLAogICAgICAnZ2FjaGFJZCAtPiAyLAogICAgICAncHJpb3JpdHkgLT4gMTAsCiAgICAgICdwcmVtaXVtR3JvdXBTdGFydERhdGUgLT4gIjIwMTYtMTAtMzAgMDA6MDA6MDAiLAogICAgICAncHJlbWl1bUdyb3VwRW5kRGF0ZSAtPiAiMjAyMC0xMi0zMCAwMDowMDowMCIpCiAgICBQcmVtaXVtR3JvdXAuY3JlYXRlV2l0aEF0dHJpYnV0ZXMoJ25hbWUgLT4gIuacn+mWk+mZkOWumuODneOCpOODs+ODiO+8kuWAjSIsCiAgICAgICdnYWNoYUlkIC0+IDEsCiAgICAgICdwcmlvcml0eSAtPiAxMDAsCiAgICAgICdwcmVtaXVtR3JvdXBTdGFydERhdGUgLT4gIjIwMTYtMTAtMzAgMDA6MDA6MDAiLAogICAgICAncHJlbWl1bUdyb3VwRW5kRGF0ZSAtPiAiMjAyMC0xMi0zMCAwMDowMDowMCIpCiAgICBQcmVtaXVtR3JvdXAuY3JlYXRlV2l0aEF0dHJpYnV0ZXMoJ25hbWUgLT4gIuacn+mWk+mZkOWumuODneOCpOODs+ODiO+8kuWAjSIsCiAgICAgICdnYWNoYUlkIC0+IDIsCiAgICAgICdwcmlvcml0eSAtPiAxMDAsCiAgICAgICdwcmVtaXVtR3JvdXBTdGFydERhdGUgLT4gIjIwMTYtMTAtMzAgMDA6MDA6MDAiLAogICAgICAncHJlbWl1bUdyb3VwRW5kRGF0ZSAtPiAiMjAyMC0xMi0zMCAwMDowMDowMCIpCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIFByZW1pdW1Hcm91cC5jcmVhdGVXaXRoQXR0cmlidXRlcygnbmFtZSAtPiAi5pyf6ZaT6ZmQ5a6a44Kv44O844Od44Oz77yS5YCNIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZ2FjaGFJZCAtPiA0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdwcmlvcml0eSAtPiAxLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdwcmVtaXVtR3JvdXBTdGFydERhdGUgLT4gIjIwMTYtMTAtMzAgMDA6MDA6MDAiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdwcmVtaXVtR3JvdXBFbmREYXRlIC0+ICIyMDIwLTEyLTMwIDAwOjAwOjAwIik=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIA==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgJ3ByZW1pdW1Hcm91cEVuZERhdGUgLT4gIjIwMjAtMTItMzAgMDA6MDA6MDAiKQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIFByZW1pdW1Hcm91cC5jcmVhdGVXaXRoQXR0cmlidXRlcygnbmFtZSAtPiAi44OH44OV44Kp44Or44OIIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZ2FjaGFJZCAtPiAzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdwcmlvcml0eSAtPiAxMCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAncHJlbWl1bUdyb3VwU3RhcnREYXRlIC0+ICIyMDE2LTEwLTMwIDAwOjAwOjAwIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAncHJlbWl1bUdyb3VwRW5kRGF0ZSAtPiAiMjAyMC0xMi0zMCAwMDowMDowMCIp</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJ3ByZW1pdW1Hcm91cFN0YXJ0RGF0ZSAtPiAiMjAxNi0xMC0zMCAwMDowMDowMCIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBnYWNoYUlkICAgICAgICAgICA6IExvbmcsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJ3ByaW9yaXR5IC0+IDEsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJ2dhY2hhSWQgLT4gMSwK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIEdhY2hhLmNyZWF0ZVdpdGhBdHRyaWJ1dGVzKCdnYWNoYVR5cGVJZCAtPiAxLnRvTG9uZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICduYW1lIC0+ICLmnJ3jgqjjg7Pjgr/jg6LjgY/jgZgiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2Rlc2NyaXB0aW9uIC0+ICLjgrPjg7zjg5Ljg7zjgYzlvZPjgZ/jgovvvIEiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2dhY2hhUGVyU2VydmljZUxpbWl0YXRpb25JZCAtPiAxLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2dhY2hhUGVyVXNlckxpbWl0YXRpb25JZCAtPiAxLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2dhY2hhUGVyU2VydmljZUxpbWl0YXRpb25WYWx1ZSAtPiAxMDAwMCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdnYWNoYVBlclVzZXJMaW1pdGF0aW9uVmFsdWUgLT4gMTAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZGlzcGxheVN0YXJ0RGF0ZSAtPiAiMjAxNi0xMC0wNSAwMDowMDowMCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZGlzcGxheUVuZERhdGUgLT4gIjIwMTYtMTItMjAgMDA6MDA6MDAiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2FwcGxpY2F0aW9uU3RhcnREYXRlIC0+ICIyMDE2LTEwLTAxIDAwOjAwOjAwIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdhcHBsaWNhdGlvbkVuZERhdGUgLT4gIjIwMTYtMTItMzAgMDA6MDA6MDAiKQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgJ25hbWUgLT4gIuODh+ODleOCqeODq+ODiCIsCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIEdhY2hhLmNyZWF0ZVdpdGhBdHRyaWJ1dGVzKCdnYWNoYVR5cGVJZCAtPiAxLnRvTG9uZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICduYW1lIC0+ICLjgqjjg7Pjgr/jg6LmnJ/plpPpmZDlrprjgY/jgZgiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2Rlc2NyaXB0aW9uIC0+ICLlhqzpmZDlrprjga7jgqjjg7Pjgr/jg6Ljg5Djg7zjgqzjg7zjgYzlvZPjgZ/jgovvvIEiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2dhY2hhUGVyU2VydmljZUxpbWl0YXRpb25JZCAtPiAxLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2dhY2hhUGVyVXNlckxpbWl0YXRpb25JZCAtPiAxLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2dhY2hhUGVyU2VydmljZUxpbWl0YXRpb25WYWx1ZSAtPiAxMDAwMCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdnYWNoYVBlclVzZXJMaW1pdGF0aW9uVmFsdWUgLT4gMTAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZGlzcGxheVN0YXJ0RGF0ZSAtPiAiMjAxNi0xMC0wNSAwMDowMDowMCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZGlzcGxheUVuZERhdGUgLT4gIjIwMTYtMTItMjAgMDA6MDA6MDAiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2FwcGxpY2F0aW9uU3RhcnREYXRlIC0+ICIyMDE2LTEwLTAxIDAwOjAwOjAwIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdhcHBsaWNhdGlvbkVuZERhdGUgLT4gIjIwMTYtMTItMzAgMDA6MDA6MDAiKQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
