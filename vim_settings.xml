@@ -63,6 +63,12 @@
         <mark key="." line="11" column="37" />
         <mark key="^" line="11" column="37" />
       </file>
+      <file name="$USER_HOME$/Code/ApiLottery/conf/application.conf" timestamp="1476778985590">
+        <mark key="[" line="325" column="47" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiLottery/build.sbt" timestamp="1476682227899">
+        <mark key="[" line="0" column="22" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/application.conf" timestamp="1479364137832">
         <mark key="[" line="325" column="52" />
         <mark key="]" line="325" column="53" />
@@ -94,6 +100,9 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/ApiLottery/conf/db/Seed.scala" timestamp="1477281461055">
+        <mark key="[" line="0" column="12" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOnlineContent/app/controllers/LotteryController.scala" timestamp="1477624779272">
         <mark key="[" line="19" column="11" />
         <mark key="]" line="18" column="12" />
@@ -106,11 +115,20 @@
         <mark key="." line="5" column="28" />
         <mark key="^" line="5" column="28" />
       </file>
+      <file name="$USER_HOME$/Code/api-lottery/app/models/Company/scala.scala" timestamp="1476256359243">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/Gacha.scala" timestamp="1478075896446">
         <mark key="[" line="12" column="53" />
         <mark key="]" line="12" column="53" />
         <mark key="^" line="12" column="53" />
         <mark key="." line="12" column="53" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/evolutions/default/1.sql" timestamp="1479372658207">
+        <mark key="[" line="35" column="12" />
+        <mark key="]" line="35" column="12" />
+        <mark key="^" line="34" column="20" />
+        <mark key="." line="35" column="12" />
       </file>
       <file name="$USER_HOME$/Code/ApiLottery/app/models/Lottery.scala" timestamp="1476783114333">
         <mark key="[" line="23" column="18" />
@@ -155,6 +173,12 @@
         <mark key="^" line="4" column="69" />
         <mark key="." line="4" column="69" />
       </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ShopController.scala" timestamp="1479371919294">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="11" column="24" />
+        <mark key="^" line="11" column="24" />
+        <mark key="." line="11" column="24" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/GachaPerServiceLimitation.scala" timestamp="1478075919392">
         <mark key="[" line="7" column="70" />
         <mark key="]" line="16" column="15" />
@@ -184,10 +208,11 @@
         <mark key="." line="12" column="32" />
         <mark key="^" line="12" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/routes" timestamp="1479364002846">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/routes" timestamp="1479371931835">
+        <mark key="[" line="3" column="52" />
+        <mark key="]" line="3" column="51" />
+        <mark key="." line="3" column="51" />
+        <mark key="^" line="3" column="51" />
       </file>
       <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/ExchangeItem.scala" timestamp="1478075838239">
         <mark key="[" line="8" column="44" />
@@ -195,17 +220,23 @@
         <mark key="^" line="8" column="44" />
         <mark key="." line="8" column="44" />
       </file>
+      <file name="/dummy.sql" timestamp="1477976022802">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOnlineContent/conf/evolutions/default/1.sql" timestamp="1478242346589">
         <mark key="[" line="206" column="0" />
         <mark key="]" line="206" column="0" />
         <mark key="^" line="224" column="24" />
         <mark key="." line="206" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Shop.scala" timestamp="1479369286587">
-        <mark key="[" line="13" column="16" />
-        <mark key="]" line="13" column="25" />
-        <mark key="^" line="13" column="25" />
-        <mark key="." line="13" column="25" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Shop.scala" timestamp="1479371589878">
+        <mark key="[" line="24" column="31" />
+        <mark key="]" line="24" column="33" />
+        <mark key="." line="24" column="33" />
+        <mark key="^" line="24" column="33" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1479372492358">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/build.sbt" timestamp="1479363139223" />
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/LotteryController.scala" timestamp="1476431445889">
@@ -269,6 +300,9 @@
         <mark key="." line="9" column="40" />
         <mark key="^" line="9" column="40" />
       </file>
+      <file name="/fragment.java" timestamp="1479371825402">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="63" column="0" filename="$USER_HOME$/Code/ApiLottery/conf/evolutions/default/1.sql" />
@@ -276,40 +310,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>xxx</text>
+        <text>GachaPerServiceLimitation</text>
       </register>
       <register name="-" type="4">
-        <text>xxx</text>
+        <text>GachaPerServiceLimitation</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHh4eCA6IE9wdGlvbltdLAo=</text>
+        <text encoding="base64">R0VUICAgICAvICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlcnMuSG9tZUNvbnRyb2xsZXIuaW5kZXgK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvU2hvcEl0ZW1JZCAgIDogSW50LAo=</text>
+        <text encoding="base64">RFJPUCBUQUJMRSBgR2FjaGFQZXJVc2VyTGltaXRhdGlvbmA7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNob3BDYXRlZ29yeUlkIDogTG9uZywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdlb2ZlbmNlQXJlYUlkIDogT3B0aW9uW0xvbmddLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvU2hvcEl0ZW1JZCAgIDogSW50LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvbmdpdHVkZSA6IE9wdGlvbltEb3VibGQsCg==</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">ICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICA6IE9wdGlvbltdLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgdG9TaG9wSXRlbUlkICAgOiBJbnQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvU2hvcEl0ZW1JZCAgIDogSW50LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgZnJvbVNob3BJdGVtSWQgOiBJbnQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNob3BDYXRlZ29yeUlkIDogTG9uZywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvU2hvcEl0ZW1JZCAgIDogSW50LAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">IyBHYWNoYSAgQVBJCg==</text>
+      <register name="8" type="8">
+        <text encoding="base64">ICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KiBGaWx0ZXJpbmcgYGdpdCBsb2dgIHdpdGggYC0tYXV0aG9yYCBvcHRpb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgdG9TaG9wSXRlbUlkICAgOiBJbnQsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
