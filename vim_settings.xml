@@ -124,12 +124,7 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="12" column="53" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/evolutions/default/1.sql" timestamp="1479372658207">
-        <mark key="[" line="35" column="12" />
-        <mark key="]" line="35" column="12" />
-        <mark key="^" line="34" column="20" />
-        <mark key="." line="35" column="12" />
-      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/evolutions/default/1.sql" timestamp="1479374507806" />
       <file name="$USER_HOME$/Code/ApiLottery/app/models/Lottery.scala" timestamp="1476783114333">
         <mark key="[" line="23" column="18" />
         <mark key="]" line="23" column="62" />
@@ -309,41 +304,41 @@
       <jump line="7" column="0" filename="$USER_HOME$/Code/ApiLottery/conf/evolutions/default/1.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>GachaPerServiceLimitation</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBFTkdJTkUgPSBJbm5vREI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>GachaPerServiceLimitation</text>
+        <text>Article</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">R0VUICAgICAvICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlcnMuSG9tZUNvbnRyb2xsZXIuaW5kZXgK</text>
+        <text encoding="base64">RFJPUCBUQUJMRSBgYDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RFJPUCBUQUJMRSBgR2FjaGFQZXJVc2VyTGltaXRhdGlvbmA7Cg==</text>
+        <text encoding="base64">ICBFTkdJTkUgPSBJbm5vREI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdlb2ZlbmNlQXJlYUlkIDogT3B0aW9uW0xvbmddLAo=</text>
+        <text encoding="base64">RFJPUCBUQUJMRSBgYDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvbmdpdHVkZSA6IE9wdGlvbltEb3VibGQsCg==</text>
+        <text encoding="base64">RFJPUCBUQUJMRSBgR2VvZmVuY2VBcmVhTWFwYDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICA6IE9wdGlvbltdLAo=</text>
+        <text encoding="base64">RFJPUCBUQUJMRSBgR2VvZmVuY2VBY3Rpb25Qcml6ZWA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvU2hvcEl0ZW1JZCAgIDogSW50LAo=</text>
+        <text encoding="base64">RFJPUCBUQUJMRSBgR2FjaGFQZXJVc2VyTGltaXRhdGlvbmA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNob3BDYXRlZ29yeUlkIDogTG9uZywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdlb2ZlbmNlQXJlYUlkIDogT3B0aW9uW0xvbmddLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvU2hvcEl0ZW1JZCAgIDogSW50LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvbmdpdHVkZSA6IE9wdGlvbltEb3VibGQsCg==</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">ICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICA6IE9wdGlvbltdLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgdG9TaG9wSXRlbUlkICAgOiBJbnQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvU2hvcEl0ZW1JZCAgIDogSW50LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -380,6 +375,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
