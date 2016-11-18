@@ -124,11 +124,10 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="12" column="53" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/evolutions/default/1.sql" timestamp="1479444275528">
-        <mark key="[" line="17" column="27" />
-        <mark key="]" line="6" column="12" />
-        <mark key="." line="6" column="12" />
-        <mark key="^" line="6" column="12" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/evolutions/default/1.sql" timestamp="1479458168516">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiLottery/app/models/Lottery.scala" timestamp="1476783114333">
         <mark key="[" line="23" column="18" />
@@ -229,20 +228,20 @@
         <mark key="^" line="224" column="24" />
         <mark key="." line="206" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Shop.scala" timestamp="1479449354808">
-        <mark key="[" line="11" column="39" />
-        <mark key="]" line="11" column="39" />
-        <mark key="." line="11" column="39" />
-        <mark key="^" line="21" column="51" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Shop.scala" timestamp="1479458129606">
+        <mark key="[" line="11" column="33" />
+        <mark key="]" line="11" column="33" />
+        <mark key="." line="11" column="33" />
+        <mark key="^" line="11" column="33" />
       </file>
       <file name="/Dummy.txt" timestamp="1479372492358">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/Seed.scala" timestamp="1479454159133">
-        <mark key="[" line="11" column="31" />
-        <mark key="]" line="11" column="31" />
-        <mark key="^" line="73" column="3" />
-        <mark key="." line="11" column="31" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/Seed.scala" timestamp="1479457873583">
+        <mark key="[" line="13" column="49" />
+        <mark key="]" line="13" column="49" />
+        <mark key="^" line="13" column="49" />
+        <mark key="." line="13" column="49" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/build.sbt" timestamp="1479363139223" />
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/LotteryController.scala" timestamp="1476431445889">
@@ -315,17 +314,17 @@
       <jump line="7" column="0" filename="$USER_HOME$/Code/ApiLottery/conf/evolutions/default/1.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>materialGroupI</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>materialGroupI</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIFNob3AuY3JlYXRlV2l0aEF0dHJpYnV0ZXMoJ21hdGVyaWFsR3JvdXBJZCAtPiAxLnRvTG9uZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ21hdGVyaWFsR3JvdXBJZCAtPiAxLnRvTG9uZyAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdjdXN0b21lclNob3BJZCAtPiAiIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3ByZWZlY3R1cmVJU08zMTY2IC0+IDEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICduYW1lIC0+ICIiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZGVzY3JpcHRpb24gLT4gIiIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdlbWFpbCAtPiAiIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2J1c2luZXNzSG91ciAtPiAiIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3Bob25lTnVtYmVyIC0+IDEudG9Mb25nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAncmVndWxhckhvbGlkYXkgLT4gIiIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdwb3N0Q29kZSAtPiAxLnRvTG9uZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2FkZHJlc3MgLT4gIiIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdkaXNwbGF5U3RhcnREYXRlIC0+ICIyMDE2LTEwLTA1IDAwOjAwOjAwIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2Rpc3BsYXlFbmREYXRlIC0+ICIyMDE3LTEyLTIwIDAwOjAwOjAwIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2lzSGlkZGVuIC0+IGZhbHNlKQog</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ21hdGVyaWFsR3JvdXBJZCAtPiAxLnRvTG9uZyAsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ21hdGVyaWFsR3JvdXBJZCAtPiAxLnRvTG9uZyAsCg==</text>
@@ -340,16 +339,16 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ21hdGVyaWFsR3JvdXBJZCAtPiAxLnRvTG9uZyAsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2dhY2hhUGVyVXNlckxpbWl0YXRpb25WYWx1ZSAtPiAxMCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ21hdGVyaWFsR3JvdXBJZCAtPiAxLnRvTG9uZyAsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2dhY2hhUGVyU2VydmljZUxpbWl0YXRpb25WYWx1ZSAtPiAxMDAwMCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2dhY2hhUGVyVXNlckxpbWl0YXRpb25WYWx1ZSAtPiAxMCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2dhY2hhUGVyVXNlckxpbWl0YXRpb25JZCAtPiAxLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2dhY2hhUGVyU2VydmljZUxpbWl0YXRpb25WYWx1ZSAtPiAxMDAwMCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2dhY2hhUGVyU2VydmljZUxpbWl0YXRpb25JZCAtPiAxLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2dhY2hhUGVyVXNlckxpbWl0YXRpb25JZCAtPiAxLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
