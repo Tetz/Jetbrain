@@ -246,10 +246,11 @@
         <mark key="^" line="224" column="24" />
         <mark key="." line="206" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Shop.scala" timestamp="1479706360784">
-        <mark key="]" line="11" column="33" />
-        <mark key="." line="11" column="33" />
-        <mark key="^" line="11" column="33" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Shop.scala" timestamp="1479707108619">
+        <mark key="[" line="37" column="53" />
+        <mark key="]" line="37" column="53" />
+        <mark key="." line="37" column="53" />
+        <mark key="^" line="37" column="49" />
       </file>
       <file name="/Dummy.txt" timestamp="1479372492358">
         <mark key="[" line="0" column="0" />
@@ -339,11 +340,11 @@
       <jump line="28" column="12" filename="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/ShopClipSeed.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIkluc2VydGluZyBkdW1taWVzIikK</text>
+      <register name="&quot;" type="4">
+        <text>skills</text>
       </register>
       <register name="-" type="4">
-        <text>エンタモ北海道支店</text>
+        <text>skills</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50bG4oVGFibGVOYW1lICsgIlNlZWQgaXMgaW1wb3J0ZWQiKQo=</text>
