@@ -183,7 +183,7 @@
         <mark key="." line="24" column="56" />
         <mark key="^" line="24" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/Json2Db.scala" timestamp="1479809450293">
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/Json2Db.scala" timestamp="1479811315264">
         <mark key="[" line="13" column="9" />
         <mark key="]" line="14" column="62" />
         <mark key="^" line="14" column="62" />
@@ -194,6 +194,12 @@
         <mark key="]" line="19" column="28" />
         <mark key="." line="19" column="28" />
         <mark key="^" line="19" column="28" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/assets/jsons/Test.json" timestamp="1479811364272">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2511" />
+        <mark key="^" line="0" column="2511" />
+        <mark key="." line="0" column="2511" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/.gitignore" timestamp="1479363624398" />
       <file name="$USER_HOME$/Code/RocoTest/app/controllers/HomeController.scala" timestamp="1475577685807">
