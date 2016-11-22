@@ -58,6 +58,12 @@
         <mark key="^" line="25" column="1" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/assets/jsons/Attribute.json" timestamp="1479809301272">
+        <mark key="[" line="0" column="983" />
+        <mark key="]" line="0" column="982" />
+        <mark key="^" line="0" column="982" />
+        <mark key="." line="0" column="982" />
+      </file>
       <file name="$USER_HOME$/Code/ApiLottery/app/controllers/LotteryController.scala" timestamp="1477291609785">
         <mark key="[" line="11" column="28" />
         <mark key="]" line="11" column="37" />
@@ -177,7 +183,7 @@
         <mark key="." line="24" column="56" />
         <mark key="^" line="24" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/Json2Db.scala" timestamp="1479805989955">
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/Json2Db.scala" timestamp="1479809450293">
         <mark key="[" line="13" column="9" />
         <mark key="]" line="14" column="62" />
         <mark key="^" line="14" column="62" />
