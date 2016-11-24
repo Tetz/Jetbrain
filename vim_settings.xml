@@ -57,12 +57,13 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/Json2Db.scala" timestamp="1479960124627">
-        <mark key="'" line="19" column="20" />
-        <mark key="[" line="18" column="52" />
-        <mark key="]" line="18" column="52" />
-        <mark key="." line="18" column="52" />
-        <mark key="^" line="18" column="52" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/Json2Db.scala" timestamp="1479964002609">
+        <mark key="a" line="19" column="22" />
+        <mark key="'" line="20" column="20" />
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="23" column="15" />
+        <mark key="." line="23" column="15" />
+        <mark key="^" line="23" column="15" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/assets/jsons/Test.json" timestamp="1479811364272">
         <mark key="[" line="0" column="0" />
@@ -127,14 +128,14 @@
       <jump line="25" column="20" filename="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/Json2Db.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>materialId</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>materialId</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIE9rKEpzb24udG9Kc29uKGR1bW15SnNvbikpCg==</text>
+        <text encoding="base64">ICAgIHZhbCBtYXRlcmlhbElkID0gKG1hdGVyaWFsR3JvdXAgXCAibWF0ZXJpYWxHcm91cElkIikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
