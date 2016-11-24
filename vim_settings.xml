@@ -63,18 +63,24 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/Json2Db.scala" timestamp="1479979870948">
-        <mark key="'" line="11" column="2" />
-        <mark key="[" line="18" column="10" />
-        <mark key="]" line="18" column="10" />
-        <mark key="." line="18" column="10" />
-        <mark key="^" line="18" column="10" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/Json2Db.scala" timestamp="1479985542530">
+        <mark key="'" line="12" column="2" />
+        <mark key="[" line="29" column="54" />
+        <mark key="]" line="26" column="45" />
+        <mark key="^" line="26" column="45" />
+        <mark key="." line="26" column="45" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/assets/jsons/Test.json" timestamp="1479811364272">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2511" />
         <mark key="^" line="0" column="2511" />
         <mark key="." line="0" column="2511" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/assets/jsons/Material.json" timestamp="1479980286519">
+        <mark key="[" line="0" column="68" />
+        <mark key="]" line="0" column="67" />
+        <mark key="." line="0" column="65" />
+        <mark key="^" line="0" column="65" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/.gitignore" timestamp="1479363624398" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ShopController.scala" timestamp="1479726230917">
@@ -135,41 +141,41 @@
       <jump line="11" column="2" filename="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/Json2Db.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4obGVuZ3RoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>\</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>\</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihpKQo=</text>
+      <register name="0" type="4">
+        <text>{&quot;materialGroupId&quot;:&quot;1&quot;,&quot;name&quot;:&quot;なまえ&quot;}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4obGVuZ3RoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oKG1hdGVyaWFsR3JvdXAgXFwgIm5hbWUiKSkK</text>
+        <text encoding="base64">ICAgIC8vICAgICAgTWF0ZXJpYWxHcm91cC5jcmVhdGVXaXRoQXR0cmlidXRlcygnbWF0ZXJpYWxHcm91cElkIC0+IGkudG9Mb25nLCAnbmFtZSAtPiAoanNWYWx1ZSBcICJNYXRlcmlhbEdyb3VwIikoaSkuZ2V0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICBNYXRlcmlhbEdyb3VwLmNyZWF0ZVdpdGhBdHRyaWJ1dGVzKCdtYXRlcmlhbEdyb3VwSWQgLT4gaS50b0xvbmcsICduYW1lIC0+IChqc1ZhbHVlIFwgIk1hdGVyaWFsR3JvdXAiKShpKS5nZXQpCg==</text>
+        <text encoding="base64">ICAgIC8vICAgICAgTWF0ZXJpYWxHcm91cC5kZWxldGVBbGwoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihtYXRlcmlhbEdyb3VwSWQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihuYW1lKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIHByaW50bG4obWF0ZXJpYWxHcm91cExlbmd0aCkK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgICBNYXRlcmlhbEdyb3VwLmNyZWF0ZVdpdGhBdHRyaWJ1dGVzKCdtYXRlcmlhbEdyb3VwSWQgLT4gaS50b0xvbmcsICduYW1lIC0+IChqc1ZhbHVlIFwgIk1hdGVyaWFsR3JvdXAiKShpKS5nZXQpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4obWF0ZXJpYWxHcm91cCkK</text>
+        <text encoding="base64">Ly8gICAgICBNYXRlcmlhbEdyb3VwLmRlbGV0ZUFsbCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBtYXRlcmlhbEdyb3VwTGVuZ3RoID0gbWF0ZXJpYWxHcm91a3AuCg==</text>
+        <text encoding="base64">Ly8gICAgdmFsIGxlbmd0aCA9IGpzVmFsdWVNYXRlcmlhbEdyb3VwCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
