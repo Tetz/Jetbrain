@@ -4,13 +4,19 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ApplicationSpec.scala" timestamp="1479701756501" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/MaterialGroup.scala" timestamp="1479973720288">
+        <mark key="[" line="9" column="35" />
+        <mark key="]" line="9" column="39" />
+        <mark key="." line="9" column="39" />
+        <mark key="^" line="9" column="39" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/assets/jsons/Attribute.json" timestamp="1479809301272">
         <mark key="[" line="0" column="983" />
         <mark key="]" line="0" column="982" />
         <mark key="^" line="0" column="982" />
         <mark key="." line="0" column="982" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/ShopSeed.scala" timestamp="1479813557374">
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/ShopSeed.scala" timestamp="1479973111078">
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="0" />
         <mark key="." line="100" column="0" />
@@ -57,13 +63,12 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/Json2Db.scala" timestamp="1479970451978">
-        <mark key="a" line="19" column="22" />
-        <mark key="'" line="20" column="20" />
-        <mark key="[" line="20" column="39" />
-        <mark key="]" line="23" column="15" />
-        <mark key="." line="23" column="15" />
-        <mark key="^" line="23" column="15" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/Json2Db.scala" timestamp="1479978315023">
+        <mark key="'" line="11" column="2" />
+        <mark key="[" line="18" column="10" />
+        <mark key="]" line="18" column="10" />
+        <mark key="." line="18" column="10" />
+        <mark key="^" line="18" column="10" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/assets/jsons/Test.json" timestamp="1479811364272">
         <mark key="[" line="0" column="0" />
@@ -100,7 +105,7 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/ShopClipSeed.scala" timestamp="1479794836144">
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/ShopClipSeed.scala" timestamp="1479973600508">
         <mark key="'" line="56" column="12" />
         <mark key="[" line="48" column="68" />
         <mark key="]" line="48" column="68" />
@@ -126,43 +131,45 @@
       <jump line="28" column="12" filename="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/ShopClipSeed.scala" />
       <jump line="18" column="20" filename="$USER_HOME$/Code/ApiOfflineMaterial/app/assets/jsons/Shop.json" />
       <jump line="25" column="20" filename="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/Json2Db.scala" />
+      <jump line="20" column="29" filename="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/Json2Db.scala" />
+      <jump line="11" column="2" filename="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/Json2Db.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>materialId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4obGVuZ3RoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>materialId</text>
+        <text>)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBtYXRlcmlhbElkID0gKG1hdGVyaWFsR3JvdXAgXCAibWF0ZXJpYWxHcm91cElkIikK</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbihpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4obGVuZ3RoKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGpzVmFsdWUpCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oKG1hdGVyaWFsR3JvdXAgXFwgIm5hbWUiKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8gICAgICBNYXRlcmlhbEdyb3VwLmNyZWF0ZVdpdGhBdHRyaWJ1dGVzKCdtYXRlcmlhbEdyb3VwSWQgLT4gaS50b0xvbmcsICduYW1lIC0+IChqc1ZhbHVlIFwgIk1hdGVyaWFsR3JvdXAiKShpKS5nZXQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbihtYXRlcmlhbEdyb3VwSWQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBqc29uT2JqZWN0ID0gSnNvbi50b0pzb24oanNWYWx1ZSkK</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbihuYW1lKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBtYXRlcmlhbEdyb3VwID0gSnNQYXRoIFwgIk1hdGVyaWFsR3JvdXAiCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4obWF0ZXJpYWxHcm91cExlbmd0aCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4obWF0ZXJpYWxHcm91cCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgfQo=</text>
+        <text encoding="base64">ICAgIHZhbCBtYXRlcmlhbEdyb3VwTGVuZ3RoID0gbWF0ZXJpYWxHcm91a3AuCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
