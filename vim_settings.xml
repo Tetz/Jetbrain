@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/ApiLottery/app/models/LotteryPerUserLimitation.scala" timestamp="1476784230263">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="18" column="73" />
-        <mark key="^" line="18" column="73" />
-        <mark key="." line="18" column="73" />
-      </file>
       <file name="$USER_HOME$/Code/RocoTest/build.sbt" timestamp="1475566929578">
         <mark key="[" line="12" column="45" />
         <mark key="]" line="12" column="47" />
@@ -27,35 +21,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="23" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/api-lottery/conf/routes" timestamp="1475819975570">
-        <mark key="[" line="10" column="52" />
-        <mark key="]" line="5" column="28" />
-        <mark key="." line="5" column="28" />
-        <mark key="^" line="5" column="28" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiLottery/conf/routes" timestamp="1476688857568">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/api-lottery/app/controllers/ResultController.scala" timestamp="1475824856554">
-        <mark key="[" line="34" column="11" />
-        <mark key="]" line="19" column="29" />
-        <mark key="." line="19" column="29" />
-        <mark key="^" line="19" column="29" />
-      </file>
       <file name="$USER_HOME$/Code/api-lottery/app/models/Lottery.scala" timestamp="1476431305151">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="25" column="1" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiLottery/app/models/PremiumGroup.scala" timestamp="1476783789344">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="19" column="24" />
-        <mark key="^" line="19" column="49" />
-        <mark key="." line="19" column="24" />
       </file>
       <file name="$USER_HOME$/Code/ApiLottery/app/models/LotteryPremium.scala" timestamp="1476783471384">
         <mark key="[" line="24" column="51" />
@@ -75,34 +45,11 @@
         <mark key="." line="19" column="22" />
         <mark key="^" line="19" column="22" />
       </file>
-      <file name="$USER_HOME$/Code/ApiLottery/app/controllers/LotteryController.scala" timestamp="1477291609785">
-        <mark key="[" line="11" column="28" />
-        <mark key="]" line="11" column="37" />
-        <mark key="." line="11" column="37" />
-        <mark key="^" line="11" column="37" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/Item.scala" timestamp="1478076190626">
-        <mark key="[" line="9" column="40" />
-        <mark key="]" line="9" column="40" />
-        <mark key="." line="9" column="40" />
-        <mark key="^" line="9" column="40" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/ExchangeCategory.scala" timestamp="1477977730686">
-        <mark key="[" line="19" column="25" />
-        <mark key="]" line="19" column="28" />
-        <mark key="^" line="19" column="28" />
-        <mark key="." line="19" column="28" />
-      </file>
       <file name="$USER_HOME$/Code/ApiLottery/app/db/Seed.scala" timestamp="1477292003169">
         <mark key="[" line="13" column="60" />
         <mark key="]" line="13" column="60" />
         <mark key="." line="13" column="60" />
         <mark key="^" line="12" column="65" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOnlineContent/conf/application.conf" timestamp="1478589902369">
-        <mark key="[" line="42" column="22" />
-        <mark key="]" line="42" column="22" />
-        <mark key="." line="42" column="22" />
       </file>
       <file name="$USER_HOME$/Code/ApiLottery/app/models/LotteryPerServiceLimitation.scala" timestamp="1476784282813">
         <mark key="[" line="8" column="0" />
@@ -110,38 +57,11 @@
         <mark key="^" line="4" column="2" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ApiLottery/conf/db/seed.scala" timestamp="1477281122653">
-        <mark key="[" line="1" column="10" />
-        <mark key="]" line="1" column="10" />
-        <mark key="^" line="1" column="10" />
-        <mark key="." line="1" column="10" />
-      </file>
       <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/Exchange.scala" timestamp="1477976831956">
         <mark key="[" line="7" column="20" />
         <mark key="]" line="7" column="20" />
         <mark key="." line="7" column="20" />
         <mark key="^" line="12" column="39" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiLottery/app/models/Company.scala" timestamp="1476435111702">
-        <mark key="[" line="19" column="60" />
-        <mark key="]" line="19" column="60" />
-        <mark key="^" line="19" column="64" />
-        <mark key="." line="19" column="60" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/PremiumGroup.scala" timestamp="1478243694250">
-        <mark key="[" line="22" column="30" />
-        <mark key="]" line="24" column="56" />
-        <mark key="." line="24" column="56" />
-        <mark key="^" line="24" column="56" />
-      </file>
-      <file name="/dummy.sql" timestamp="1477976022802">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOnlineContent/conf/evolutions/default/1.sql" timestamp="1478242346589">
-        <mark key="[" line="206" column="0" />
-        <mark key="]" line="206" column="0" />
-        <mark key="^" line="224" column="24" />
-        <mark key="." line="206" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOnlineContent/app/controllers/GachaController.scala" timestamp="1477981389907">
         <mark key="[" line="21" column="87" />
@@ -155,9 +75,6 @@
         <mark key="." line="7" column="44" />
         <mark key="^" line="7" column="44" />
       </file>
-      <file name="$USER_HOME$/Code/ApiLottery/conf/application.conf" timestamp="1476778985590">
-        <mark key="[" line="325" column="47" />
-      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/Json2Db.scala" timestamp="1480084019557" />
       <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/GachaPerUserLimitation.scala" timestamp="1478075934420">
         <mark key="[" line="15" column="45" />
@@ -170,9 +87,6 @@
         <mark key="]" line="8" column="44" />
         <mark key="^" line="8" column="44" />
         <mark key="." line="8" column="44" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiLottery/conf/db/Seed.scala" timestamp="1477281461055">
-        <mark key="[" line="0" column="12" />
       </file>
       <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/GachaResult.scala" timestamp="1478516332420">
         <mark key="[" line="8" column="0" />
@@ -192,12 +106,6 @@
         <mark key="^" line="15" column="27" />
         <mark key="." line="15" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/GachaPerServiceLimitation.scala" timestamp="1478075919392">
-        <mark key="[" line="7" column="70" />
-        <mark key="]" line="16" column="15" />
-        <mark key="." line="16" column="15" />
-        <mark key="^" line="20" column="25" />
-      </file>
       <file name="$USER_HOME$/Code/ApiOnlineContent/conf/routes" timestamp="1477631421414">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="4" column="69" />
@@ -209,18 +117,6 @@
         <mark key="]" line="19" column="45" />
         <mark key="^" line="35" column="26" />
         <mark key="." line="19" column="45" />
-      </file>
-      <file name="$USER_HOME$/Code/api-lottery/app/views/index.scala.html" timestamp="1475637750840">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOnlineContent/app/controllers/LotteryController.scala" timestamp="1477624779272">
-        <mark key="[" line="19" column="11" />
-        <mark key="]" line="18" column="12" />
-        <mark key="^" line="18" column="12" />
-        <mark key="." line="18" column="12" />
       </file>
       <file name="$USER_HOME$/Code/ApiLottery/app/models/Lottery.scala" timestamp="1476783114333">
         <mark key="[" line="23" column="18" />
@@ -240,17 +136,123 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ApiLottery/build.sbt" timestamp="1476682227899">
-        <mark key="[" line="0" column="22" />
-      </file>
       <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/ItemTable.scala" timestamp="1478076198481">
         <mark key="[" line="7" column="38" />
         <mark key="]" line="19" column="28" />
         <mark key="." line="19" column="28" />
         <mark key="^" line="19" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/api-lottery/app/models/Company/scala.scala" timestamp="1476256359243">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Code/ApiLottery/app/models/LotteryPerUserLimitation.scala" timestamp="1476784230263">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="18" column="73" />
+        <mark key="^" line="18" column="73" />
+        <mark key="." line="18" column="73" />
+      </file>
+      <file name="$USER_HOME$/Code/api-lottery/conf/routes" timestamp="1475819975570">
+        <mark key="[" line="10" column="52" />
+        <mark key="]" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+        <mark key="^" line="5" column="28" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiLottery/conf/routes" timestamp="1476688857568">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/api-lottery/app/controllers/ResultController.scala" timestamp="1475824856554">
+        <mark key="[" line="34" column="11" />
+        <mark key="]" line="19" column="29" />
+        <mark key="." line="19" column="29" />
+        <mark key="^" line="19" column="29" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopClip.scala" timestamp="1480085959235" />
+      <file name="$USER_HOME$/Code/ApiLottery/app/models/PremiumGroup.scala" timestamp="1476783789344">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="19" column="24" />
+        <mark key="^" line="19" column="49" />
+        <mark key="." line="19" column="24" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiLottery/app/controllers/LotteryController.scala" timestamp="1477291609785">
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="11" column="37" />
+        <mark key="." line="11" column="37" />
+        <mark key="^" line="11" column="37" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/Item.scala" timestamp="1478076190626">
+        <mark key="[" line="9" column="40" />
+        <mark key="]" line="9" column="40" />
+        <mark key="." line="9" column="40" />
+        <mark key="^" line="9" column="40" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/ExchangeCategory.scala" timestamp="1477977730686">
+        <mark key="[" line="19" column="25" />
+        <mark key="]" line="19" column="28" />
+        <mark key="^" line="19" column="28" />
+        <mark key="." line="19" column="28" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOnlineContent/conf/application.conf" timestamp="1478589902369">
+        <mark key="[" line="42" column="22" />
+        <mark key="]" line="42" column="22" />
+        <mark key="." line="42" column="22" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiLottery/conf/db/seed.scala" timestamp="1477281122653">
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="10" />
+        <mark key="^" line="1" column="10" />
+        <mark key="." line="1" column="10" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Function.scala" timestamp="1480086052948">
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiLottery/app/models/Company.scala" timestamp="1476435111702">
+        <mark key="[" line="19" column="60" />
+        <mark key="]" line="19" column="60" />
+        <mark key="^" line="19" column="64" />
+        <mark key="." line="19" column="60" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/PremiumGroup.scala" timestamp="1478243694250">
+        <mark key="[" line="22" column="30" />
+        <mark key="]" line="24" column="56" />
+        <mark key="." line="24" column="56" />
+        <mark key="^" line="24" column="56" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOnlineContent/conf/evolutions/default/1.sql" timestamp="1478242346589">
+        <mark key="[" line="206" column="0" />
+        <mark key="]" line="206" column="0" />
+        <mark key="^" line="224" column="24" />
+        <mark key="." line="206" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/evolutions/default/1.sql" timestamp="1480086173618">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/GachaPerServiceLimitation.scala" timestamp="1478075919392">
+        <mark key="[" line="7" column="70" />
+        <mark key="]" line="16" column="15" />
+        <mark key="." line="16" column="15" />
+        <mark key="^" line="20" column="25" />
+      </file>
+      <file name="$USER_HOME$/Code/api-lottery/app/views/index.scala.html" timestamp="1475637750840">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOnlineContent/app/controllers/LotteryController.scala" timestamp="1477624779272">
+        <mark key="[" line="19" column="11" />
+        <mark key="]" line="18" column="12" />
+        <mark key="^" line="18" column="12" />
+        <mark key="." line="18" column="12" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/MaterialHtml.scala" timestamp="1480086286398">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="12" column="47" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOnlineContent/app/seeds/Seed.scala" timestamp="1478582635890">
         <mark key="[" line="138" column="54" />
@@ -264,41 +266,41 @@
       <jump line="7" column="0" filename="$USER_HOME$/Code/ApiLottery/conf/evolutions/default/1.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>QCY?tAnfk?aZ?iwrNwnxIlR6CTf:G3gf:90Latabg@5241AB`R5W:1uDFN];Ik@n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YGlzSGlkZGVuYCBUSU5ZSU5UKDEpIE5PVCBOVUxMLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>QCY?tAnfk?aZ?iwrNwnxIlR6CTf:G3gf:90Latabg@5241AB`R5W:1uDFN];Ik@n</text>
+        <text>String</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIEdhY2hhUHJlbWl1bS5jcmVhdGVXaXRoQXR0cmlidXRlcygncHJlbWl1bUdyb3VwSWQgLT4gMywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbmFtZSAtPiAi77yR562JIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnd2VpZ2h0IC0+IDEwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdkZXNjcmlwdGlvbiAtPiAi44Od44Kk44Oz44OI44GM44GC44Gf44KL44KI44CCIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZXhjaGFuZ2VJZCAtPiAxKQogICAgR2FjaGFQcmVtaXVtLmNyZWF0ZVdpdGhBdHRyaWJ1dGVzKCdwcmVtaXVtR3JvdXBJZCAtPiAzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICduYW1lIC0+ICLvvJLnrYkiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICd3ZWlnaHQgLT4gMTAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2Rlc2NyaXB0aW9uIC0+ICLjg53jgqTjg7Pjg4jjgYzjgYLjgZ/jgovjgojjgIIiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdleGNoYW5nZUlkIC0+IDEpCg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmlsZUV4dGVuc2lvbiAgOiBTdHJpbmcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgZXhjaGFuZ2VJZCAgICAgOiBMb25nLAo=</text>
+        <text encoding="base64">YGlzSGlkZGVuYCBUSU5ZSU5UKDEpIE5PVCBOVUxMLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgZGVzY3JpcHRpb24gICAgOiBPcHRpb25bU3RyaW5nXSwK</text>
+        <text encoding="base64">YGZpbGVFeHRlbnNpb25gIFZBUkNIQVIoMjU1KSBOT1QgTlVMTCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgd2VpZ2h0ICAgICAgICAgOiBTdHJpbmcsCg==</text>
+        <text encoding="base64">YGZpbGVOYW1lYCBWQVJDSEFSKDI1NSkgTk9UIE5VTEwsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgbmFtZSAgICAgICAgICAgOiBTdHJpbmcsCg==</text>
+        <text encoding="base64">YGRpcmVjdG9yeWAgVEVYVCBOT1QgTlVMTCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgcHJlbWl1bUdyb3VwSWQgOiBMb25nLAo=</text>
+        <text encoding="base64">YGRvbWFpbmAgVkFSQ0hBUigyNTUpIE5PVCBOVUxMLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEdhY2hhUHJlbWl1bXAuY3JlYXRlV2l0aEF0dHJpYnV0ZXMoJ25hbWUgLT4gIuODh+ODleOCqeODq+ODiCIsCg==</text>
+        <text encoding="base64">YG5hbWVgIFZBUkNIQVIoMjU1KSBOT1QgTlVMTCwK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIFByZW1pdW1Hcm91cC5jcmVhdGVXaXRoQXR0cmlidXRlcygnbmFtZSAtPiAi44OH44OV44Kp44Or44OIIiwKICAgICAgJ2dhY2hhSWQgLT4gMSwKICAgICAgJ3ByaW9yaXR5IC0+IDEwLAogICAgICAncHJlbWl1bUdyb3VwU3RhcnREYXRlIC0+ICIyMDE2LTEwLTMwIDAwOjAwOjAwIiwKICAgICAgJ3ByZW1pdW1Hcm91cEVuZERhdGUgLT4gIjIwMjAtMTItMzAgMDA6MDA6MDAiKQogICAgUHJlbWl1bUdyb3VwLmNyZWF0ZVdpdGhBdHRyaWJ1dGVzKCduYW1lIC0+ICLjg4fjg5Xjgqnjg6vjg4giLAogICAgICAnZ2FjaGFJZCAtPiAyLAogICAgICAncHJpb3JpdHkgLT4gMTAsCiAgICAgICdwcmVtaXVtR3JvdXBTdGFydERhdGUgLT4gIjIwMTYtMTAtMzAgMDA6MDA6MDAiLAogICAgICAncHJlbWl1bUdyb3VwRW5kRGF0ZSAtPiAiMjAyMC0xMi0zMCAwMDowMDowMCIpCiAgICBQcmVtaXVtR3JvdXAuY3JlYXRlV2l0aEF0dHJpYnV0ZXMoJ25hbWUgLT4gIuacn+mWk+mZkOWumuODneOCpOODs+ODiO+8kuWAjSIsCiAgICAgICdnYWNoYUlkIC0+IDEsCiAgICAgICdwcmlvcml0eSAtPiAxMDAsCiAgICAgICdwcmVtaXVtR3JvdXBTdGFydERhdGUgLT4gIjIwMTYtMTAtMzAgMDA6MDA6MDAiLAogICAgICAncHJlbWl1bUdyb3VwRW5kRGF0ZSAtPiAiMjAyMC0xMi0zMCAwMDowMDowMCIpCiAgICBQcmVtaXVtR3JvdXAuY3JlYXRlV2l0aEF0dHJpYnV0ZXMoJ25hbWUgLT4gIuacn+mWk+mZkOWumuODneOCpOODs+ODiO+8kuWAjSIsCiAgICAgICdnYWNoYUlkIC0+IDIsCiAgICAgICdwcmlvcml0eSAtPiAxMDAsCiAgICAgICdwcmVtaXVtR3JvdXBTdGFydERhdGUgLT4gIjIwMTYtMTAtMzAgMDA6MDA6MDAiLAogICAgICAncHJlbWl1bUdyb3VwRW5kRGF0ZSAtPiAiMjAyMC0xMi0zMCAwMDowMDowMCIpCg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">YG1hdGVyaWFsQ2F0ZWdvcnlJZGAgQklHSU5UIE5PVCBOVUxMLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmlsZUV4dGVuc2lvbiAgOiBTdHJpbmcsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzaG9wSWQgICAgIDogTG9uZywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
