@@ -166,11 +166,11 @@
         <mark key="." line="19" column="1" />
         <mark key="^" line="19" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/evolutions/default/1.sql" timestamp="1480412199235">
-        <mark key="[" line="509" column="0" />
-        <mark key="]" line="509" column="0" />
-        <mark key="^" line="495" column="24" />
-        <mark key="." line="509" column="0" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/evolutions/default/1.sql" timestamp="1480415595534">
+        <mark key="[" line="510" column="12" />
+        <mark key="]" line="510" column="12" />
+        <mark key="^" line="509" column="18" />
+        <mark key="." line="510" column="12" />
       </file>
       <file name="$USER_HOME$/Code/ApiLottery/app/models/Lottery.scala" timestamp="1476783114333">
         <mark key="[" line="23" column="18" />
@@ -416,14 +416,14 @@
       <jump line="7" column="0" filename="$USER_HOME$/Code/ApiOfflineMaterial/conf/evolutions/default/1.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">RFJPUCBUQUJMRSBgTWF0ZXJpYWxJbWFnZVNpemVgOwo=</text>
+      <register name="&quot;" type="4">
+        <text>Material</text>
       </register>
       <register name="-" type="4">
-        <text>displayEndDate</text>
+        <text>Material</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnZGlzcGxheUVuZERhdGUgICAtPiAoanNvbiBcICJkaXNwbGF5RW5kRGF0ZSIpLmFzT3B0W1N0cmluZ10uZ2V0LAo=</text>
+        <text encoding="base64">RFJPUCBUQUJMRSBgTWF0ZXJpYWxgOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">RFJPUCBUQUJMRSBgTWF0ZXJpYWxJbWFnZVNpemVgOwo=</text>
