@@ -27,11 +27,11 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="8" column="18" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/MaterialGroup.scala" timestamp="1479973720288">
-        <mark key="[" line="9" column="35" />
-        <mark key="]" line="9" column="39" />
-        <mark key="." line="9" column="39" />
-        <mark key="^" line="9" column="39" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/MaterialGroup.scala" timestamp="1480584665968">
+        <mark key="[" line="22" column="19" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="11" column="31" />
       </file>
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/ResultController.scala" timestamp="1475824856554">
         <mark key="[" line="34" column="11" />
@@ -128,12 +128,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Material.scala" timestamp="1480578185704">
-        <mark key="[" line="15" column="53" />
-        <mark key="]" line="15" column="53" />
-        <mark key="." line="15" column="53" />
-        <mark key="^" line="15" column="53" />
-      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Material.scala" timestamp="1480583273742" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/Json2DB.scala" timestamp="1479794907815">
         <mark key="[" line="3" column="23" />
         <mark key="]" line="17" column="3" />
@@ -284,10 +279,11 @@
         <mark key="." line="20" column="25" />
         <mark key="^" line="20" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Function.scala" timestamp="1480150087772">
-        <mark key="[" line="7" column="24" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Function.scala" timestamp="1480584296191">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiLottery/app/seeds/Seed.scala" timestamp="1477296847567">
         <mark key="[" line="2" column="0" />
@@ -308,11 +304,11 @@
         <mark key="." line="12" column="32" />
         <mark key="^" line="12" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/routes" timestamp="1479464239803">
-        <mark key="[" line="8" column="32" />
-        <mark key="]" line="8" column="32" />
-        <mark key="." line="8" column="32" />
-        <mark key="^" line="8" column="27" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/routes" timestamp="1480584368122">
+        <mark key="[" line="11" column="52" />
+        <mark key="]" line="11" column="26" />
+        <mark key="." line="11" column="26" />
+        <mark key="^" line="11" column="17" />
       </file>
       <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/ExchangeItem.scala" timestamp="1478075838239">
         <mark key="[" line="8" column="44" />
@@ -326,11 +322,11 @@
         <mark key="^" line="224" column="24" />
         <mark key="." line="206" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Shop.scala" timestamp="1480582046477">
-        <mark key="[" line="24" column="49" />
-        <mark key="]" line="24" column="49" />
-        <mark key="^" line="24" column="49" />
-        <mark key="." line="24" column="49" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Shop.scala" timestamp="1480584181867">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="29" column="14" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/Seed.scala" timestamp="1479459397262">
         <mark key="[" line="10" column="36" />
@@ -350,6 +346,12 @@
         <mark key="]" line="9" column="52" />
         <mark key="." line="9" column="52" />
         <mark key="^" line="9" column="52" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/MaterialController.scala" timestamp="1480584670421">
+        <mark key="[" line="18" column="62" />
+        <mark key="]" line="18" column="61" />
+        <mark key="^" line="18" column="61" />
+        <mark key="." line="18" column="61" />
       </file>
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/LotteryController.scala" timestamp="1476431445889">
         <mark key="[" line="14" column="0" />
@@ -432,11 +434,11 @@
       <jump line="7" column="0" filename="$USER_HOME$/Code/ApiLottery/conf/evolutions/default/1.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICdtYXRlcmlhbFRleHRJZCAgICAtPiAoanNvbiBcICJtYXRlcmlhbFRleHRJZCIpLmFzT3B0W1N0cmluZ10uZ2V0LAo=</text>
+      <register name="&quot;" type="4">
+        <text>Shop</text>
       </register>
       <register name="-" type="4">
-        <text>(json \ &quot;materialHtmlId&quot;).asOpt[String].get</text>
+        <text>Shop</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOb25lXD4=</text>
@@ -445,38 +447,34 @@
         <text encoding="base64">ICAgICAgICAnbWF0ZXJpYWxJbWFnZUlkICAgLT4gKGpzb24gXCAibWF0ZXJpYWxJbWFnZUlkIikuYXNPcHRbU3RyaW5nXS5nZXQsCiAgICAgICAgJ21hdGVyaWFsSHRtbElkICAgIC0+IChqc29uIFwgIm1hdGVyaWFsSHRtbElkIikuYXNPcHRbU3RyaW5nXS5nZXQsCiAgICAgICAgJ21hdGVyaWFsVGV4dElkICAgIC0+IChqc29uIFwgIm1hdGVyaWFsVGV4dElkIikuYXNPcHRbU3RyaW5nXS5nZXQsCiA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICdtYXRlcmlhbFRleHRJZCAgICAtPiAoanNvbiBcICJtYXRlcmlhbFRleHRJZCIpLmFzT3B0W1N0cmluZ10uZ2V0LAo=</text>
+        <text encoding="base64">ICAgIC8vIFdpdGggc2hvcCBjbGlwcwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICdtYXRlcmlhbEh0bWxJZCAgICAtPiAoanNvbiBcICJtYXRlcmlhbEh0bWxJZCIpLmFzT3B0W1N0cmluZ10uZ2V0LAo=</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICdtYXRlcmlhbEltYWdlSWQgICAtPiAoanNvbiBcICJtYXRlcmlhbEltYWdlSWQiKS5hc09wdFtTdHJpbmddLmdldCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="8">
-        <text>Element
-Element
-Element</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="5" type="8">
-        <text>Element
-Element
-Element</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICA=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">YGlzSGlkZGVuYCBUSU5ZSU5UKDEpIE5PVCBOVUxMLAo=</text>
+      <register name="6" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">YGZpbGVFeHRlbnNpb25gIFZBUkNIQVIoMjU1KSBOT1QgTlVMTCwK</text>
+      <register name="7" type="8">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YGZpbGVOYW1lYCBWQVJDSEFSKDI1NSkgTk9UIE5VTEwsCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICdtYXRlcmlhbFRleHRJZCAgICAtPiAoanNvbiBcICJtYXRlcmlhbFRleHRJZCIpLmFzT3B0W1N0cmluZ10uZ2V0LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YGRpcmVjdG9yeWAgVEVYVCBOT1QgTlVMTCwK</text>
+        <text encoding="base64">Ly8gICAgICAgICdtYXRlcmlhbEh0bWxJZCAgICAtPiAoanNvbiBcICJtYXRlcmlhbEh0bWxJZCIpLmFzT3B0W1N0cmluZ10uZ2V0LAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
@@ -489,8 +487,8 @@ Element</text>
       </history-search>
       <history-cmd>
         <entry>set paste</entry>
-        <entry>noh</entry>
         <entry>w</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -525,6 +523,9 @@ Element</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
