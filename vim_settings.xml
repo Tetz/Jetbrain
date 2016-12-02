@@ -33,11 +33,11 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="8" column="18" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Attribute.scala" timestamp="1480672755608">
-        <mark key="[" line="20" column="13" />
-        <mark key="]" line="20" column="13" />
-        <mark key="." line="20" column="13" />
-        <mark key="^" line="20" column="13" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Attribute.scala" timestamp="1480675562668">
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="13" />
+        <mark key="." line="11" column="13" />
+        <mark key="^" line="11" column="13" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/MaterialGroup.scala" timestamp="1480651828727">
         <mark key="[" line="9" column="20" />
@@ -461,16 +461,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fun</text>
+        <text>Long</text>
       </register>
       <register name="-" type="4">
-        <text>fun</text>
+        <text>Long</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOb25lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBsYWJlbFRvQXJ0aWNsZVJlZklkIDogTG9uZywK</text>
+        <text encoding="base64">ICBhdHRyaWJ1dGVJZCA6IExvbmcsCg==</text>
       </register>
       <register name="1" type="8">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgIA==</text>
