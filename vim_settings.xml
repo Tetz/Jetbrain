@@ -45,6 +45,11 @@
         <mark key="^" line="25" column="1" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/ShopSeed.scala" timestamp="1480411180622">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/AllSeed.scala" timestamp="1480044866355">
         <mark key="[" line="8" column="20" />
         <mark key="]" line="8" column="35" />
@@ -128,6 +133,11 @@
         <mark key="]" line="4" column="69" />
         <mark key="^" line="4" column="69" />
         <mark key="." line="4" column="69" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ShopController.scala" timestamp="1479726230917">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/GachaPerServiceLimitation.scala" timestamp="1478075919392">
         <mark key="[" line="7" column="70" />
@@ -298,10 +308,10 @@
         <mark key="." line="11" column="42" />
         <mark key="^" line="11" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Material.scala" timestamp="1480588751072">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Material.scala" timestamp="1480916689427">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/Json2DB.scala" timestamp="1479794907815">
         <mark key="[" line="3" column="23" />
@@ -490,8 +500,8 @@
       <jump line="7" column="0" filename="$USER_HOME$/Code/ApiLottery/conf/evolutions/default/1.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>String</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="-" type="4">
         <text>String</text>
@@ -503,31 +513,31 @@
         <text>Option[</text>
       </register>
       <register name="1" type="8">
-        <text encoding="base64">IAogCiAKIAog</text>
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBnZW5kZXJJU08gICAgICAgOiBTdHJpbmcsCg==</text>
+      <register name="2" type="8">
+        <text encoding="base64">IAogCiAKIAog</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBmaXJzdE5hbWUgICAgICAgICAgIDogU3RyaW5nLAogIHV1aWQgICAgICAgICAgIDogU3RyaW5nLAo=</text>
+        <text encoding="base64">ICBnZW5kZXJJU08gICAgICAgOiBTdHJpbmcsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdW1lclBJTiAgICA6IExvbmcsCg==</text>
+        <text encoding="base64">ICBmaXJzdE5hbWUgICAgICAgICAgIDogU3RyaW5nLAogIHV1aWQgICAgICAgICAgIDogU3RyaW5nLAo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICBjb25zdW1lclBJTiAgICA6IExvbmcsCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICBjb25zdW1lck51bWJlciA6IExvbmcsCg==</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAg</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBvdmVycmlkZSBsYXp5IHZhbCBkZWZhdWx0QWxpYXMgPSBjcmVhdGVBbGlhcygicnN0IikK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICBuYW1lICAgICAgIDogU3RyaW5nLAo=</text>
-      </register>
-      <register name="9" type="8">
-        <text encoding="base64">IAogCiAKIAog</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
