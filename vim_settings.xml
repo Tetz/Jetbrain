@@ -32,6 +32,12 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="8" column="35" />
       </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/application.conf" timestamp="1481021087264">
+        <mark key="[" line="42" column="30" />
+        <mark key="]" line="325" column="53" />
+        <mark key="^" line="325" column="53" />
+        <mark key="." line="325" column="53" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ArticleClip.scala" timestamp="1480576729480">
         <mark key="[" line="19" column="11" />
         <mark key="]" line="19" column="12" />
