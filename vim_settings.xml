@@ -116,6 +116,12 @@
         <mark key="^" line="48" column="68" />
         <mark key="." line="48" column="68" />
       </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/build.sbt" timestamp="1481019799086">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="11" />
+        <mark key="^" line="2" column="11" />
+        <mark key="." line="2" column="11" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ArticleGroupKey.scala" timestamp="1480589243080">
         <mark key="[" line="20" column="11" />
         <mark key="]" line="20" column="13" />
