@@ -247,6 +247,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/README.md" timestamp="1481022244715">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="18" column="2" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/MaterialText.scala" timestamp="1480651868740">
         <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="21" />
@@ -259,17 +265,17 @@
       <jump line="7" column="0" filename="$USER_HOME$/Code/ApiLottery/conf/evolutions/default/1.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOb25lXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>Option[</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyMgTG9jYWwgRGV2ZWxvcG1lbnQgTW9kZQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -284,10 +290,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20udHlwZXNhZmUuc2J0IiAlICJzYnQtcmpzIiAlICIxLjAuOCIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20udHlwZXNhZmUuc2J0IiAlICJzYnQtcmpzIiAlICIxLjAuOCIpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -296,7 +302,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmFkZFNidFBsdWdpbigib3JnLmlydW5kYWlhLnNidCIgJSAic2J0LXNhc3NpZnkiICUgIjEuNC42IikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
