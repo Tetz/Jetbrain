@@ -434,11 +434,11 @@
         <mark key="^" line="19" column="60" />
         <mark key="." line="19" column="60" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/MaterialController.scala" timestamp="1481195972657">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="23" column="2" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/MaterialController.scala" timestamp="1481197306307">
+        <mark key="[" line="27" column="94" />
+        <mark key="]" line="27" column="94" />
+        <mark key="." line="27" column="94" />
+        <mark key="^" line="27" column="91" />
       </file>
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/LotteryController.scala" timestamp="1476431445889">
         <mark key="[" line="14" column="0" />
@@ -499,7 +499,7 @@
         <mark key="^" line="11" column="16" />
         <mark key="." line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ArticleController.scala" timestamp="1481193844592" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ArticleController.scala" timestamp="1481197179899" />
       <file name="$USER_HOME$/Code/ApiLottery/test/IntegrationSpec.scala" timestamp="1476844251769">
         <mark key="[" line="14" column="62" />
         <mark key="]" line="14" column="45" />
@@ -536,44 +536,44 @@
       <jump line="7" column="0" filename="$USER_HOME$/Code/ApiLottery/conf/evolutions/default/1.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgT2soSnNvbi50b0pzb24oZHVtbXlKc29uKSkK</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOb25lXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIE9rKEpzb24udG9Kc29uKGR1bW15SnNvbikpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIHZhbCBtYXRlcmlhbEdyb3VwTGlzdCA9IE1hdGVyaWFsR3JvdXAuZmluZEFsbCgpCiAgICBPayhKc29uLnRvSnNvbihtYXRlcmlhbEdyb3VwTGlzdCkp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgT2soSnNvbi50b0pzb24oZHVtbXlKc29uKSkK</text>
+        <text encoding="base64">Ly8gICAgdmFsIG1hdGVyaWFsTGlzdCA9IE1hdGVyaWFsR3JvdXAuam9pbnMoTWF0ZXJpYWxHcm91cC5tYXRlcmlhbHNSZWYpLndoZXJlKHNxbHMuZXEoTWF0ZXJpYWxHcm91cC5tZy5tYXRlcmlhbEdyb3VwSWQsaWQpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgcHJpbnRsbihtYXRlcmlhbEdyb3VwTGlzdCkK</text>
+        <text encoding="base64">Ly8gICAgdmFsIG1hdGVyaWFsTGlzdCA9IE1hdGVyaWFsR3JvdXAuam9pbnMoTWF0ZXJpYWxHcm91cC5tYXRlcmlhbHNSZWYpLndoZXJlKHNxbHMuZXEoTWF0ZXJpYWxHcm91cC5tZy5tYXRlcmlhbEdyb3VwSWQsaWQpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgT2soSnNvbi50b0pzb24obWF0ZXJpYWxMaXN0KSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE9rKEpzb24udG9Kc29uKGR1bW15SnNvbikpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIG1hdGVyaWFsTGlzdCA9IE1hdGVyaWFsLndoZXJlKHNxbHMuZXEoTWF0ZXJpYWwubS5pc0hpZGRlbiwgZmFsc2UpKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgT2soSnNvbi50b0pzb24oZHVtbXlKc29uKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgcHJpbnRsbihtYXRlcmlhbEdyb3VwTGlzdCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgY2FzZSBpZCA9PiBtYXRlcmlhbExpc3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgIG1hdGVyaWFsTGlzdCA9IGlkIG1hdGNoIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
