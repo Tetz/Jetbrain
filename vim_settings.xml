@@ -139,11 +139,11 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/application.conf" timestamp="1481187192268">
-        <mark key="[" line="341" column="48" />
-        <mark key="]" line="325" column="53" />
-        <mark key="^" line="325" column="53" />
-        <mark key="." line="325" column="53" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/application.conf" timestamp="1481523801401">
+        <mark key="[" line="339" column="57" />
+        <mark key="]" line="339" column="52" />
+        <mark key="^" line="339" column="52" />
+        <mark key="." line="339" column="52" />
       </file>
       <file name="$USER_HOME$/Code/ApiLottery/conf/db/seed.scala" timestamp="1477281122653">
         <mark key="[" line="1" column="10" />
@@ -193,13 +193,20 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Material.scala" timestamp="1481513088380">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/application-test.conf" timestamp="1481525114669">
+        <mark key="[" line="64" column="57" />
+        <mark key="]" line="60" column="55" />
+        <mark key="^" line="60" column="55" />
+        <mark key="." line="60" column="55" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/MaterialType.scala" timestamp="1481273232835">
-        <mark key="[" line="20" column="13" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Material.scala" timestamp="1481524952148">
+        <mark key="[" line="48" column="99" />
+        <mark key="]" line="48" column="99" />
+        <mark key="." line="48" column="99" />
+        <mark key="^" line="48" column="71" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/MaterialType.scala" timestamp="1481524540764">
+        <mark key="[" line="20" column="24" />
         <mark key="]" line="20" column="15" />
         <mark key="." line="20" column="15" />
         <mark key="^" line="20" column="15" />
@@ -361,13 +368,6 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Article.scala" timestamp="1481167290878">
-        <mark key="'" line="11" column="22" />
-        <mark key="[" line="14" column="34" />
-        <mark key="]" line="14" column="34" />
-        <mark key="^" line="14" column="34" />
-        <mark key="." line="14" column="34" />
-      </file>
       <file name="$USER_HOME$/Code/ApiOnlineContent/conf/application.conf" timestamp="1478589902369">
         <mark key="[" line="42" column="22" />
         <mark key="]" line="42" column="22" />
@@ -414,13 +414,6 @@
         <mark key="]" line="0" column="12" />
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/ShopClipSeed.scala" timestamp="1479973600508">
-        <mark key="'" line="56" column="12" />
-        <mark key="[" line="48" column="68" />
-        <mark key="]" line="48" column="68" />
-        <mark key="^" line="48" column="68" />
-        <mark key="." line="48" column="68" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/AttributeToShopRef.scala" timestamp="1480912047139">
         <mark key="[" line="10" column="25" />
@@ -549,10 +542,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>mtype</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>mtype</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOb25lXD4=</text>
