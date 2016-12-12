@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ApplicationSpec.scala" timestamp="1481516751350">
+        <mark key="[" line="38" column="52" />
+        <mark key="]" line="38" column="60" />
+        <mark key="^" line="38" column="60" />
+        <mark key="." line="38" column="60" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/Exchange.scala" timestamp="1477976831956">
         <mark key="[" line="7" column="20" />
         <mark key="]" line="7" column="20" />
@@ -533,11 +539,11 @@
       <jump line="7" column="0" filename="$USER_HOME$/Code/ApiLottery/conf/evolutions/default/1.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
+      <register name="&quot;" type="4">
+        <text>articles</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>articles</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOb25lXD4=</text>
