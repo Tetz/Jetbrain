@@ -162,11 +162,11 @@
         <mark key="." line="11" column="22" />
         <mark key="^" line="11" column="22" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ShopControllerSpec.scala" timestamp="1481534071094">
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ShopControllerSpec.scala" timestamp="1481536608623">
         <mark key="[" line="28" column="20" />
-        <mark key="]" line="28" column="16" />
-        <mark key="^" line="28" column="7" />
-        <mark key="." line="28" column="16" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopAttributeGroupDescription.scala" timestamp="1480912456177">
         <mark key="[" line="11" column="36" />
@@ -345,12 +345,12 @@
         <mark key="^" line="4" column="69" />
         <mark key="." line="4" column="69" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ShopController.scala" timestamp="1481534299610">
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ShopController.scala" timestamp="1481537902642">
         <mark key="'" line="29" column="20" />
-        <mark key="[" line="33" column="28" />
-        <mark key="]" line="33" column="17" />
-        <mark key="^" line="33" column="17" />
-        <mark key="." line="33" column="17" />
+        <mark key="[" line="39" column="3" />
+        <mark key="]" line="40" column="1" />
+        <mark key="^" line="40" column="1" />
+        <mark key="." line="40" column="1" />
       </file>
       <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/GachaPerServiceLimitation.scala" timestamp="1478075919392">
         <mark key="[" line="7" column="70" />
@@ -393,11 +393,11 @@
         <mark key="." line="12" column="32" />
         <mark key="^" line="12" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/routes" timestamp="1481534249175">
-        <mark key="[" line="8" column="16" />
-        <mark key="]" line="7" column="74" />
-        <mark key="." line="7" column="74" />
-        <mark key="^" line="7" column="74" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/routes" timestamp="1481538483939">
+        <mark key="[" line="6" column="36" />
+        <mark key="]" line="6" column="36" />
+        <mark key="." line="6" column="36" />
+        <mark key="^" line="5" column="37" />
       </file>
       <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/ExchangeItem.scala" timestamp="1478075838239">
         <mark key="[" line="8" column="44" />
@@ -549,10 +549,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICBkZWYgZGVsZXRlU2hvcENsaXAoaWQ6IExvbmcpID0gQWN0aW9uIHsKICAgIE9rKEpzb24udG9Kc29uKGR1bW15SnNvbikpCiAgfQo=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOb25lXD4=</text>
@@ -561,31 +561,31 @@
         <text encoding="base64">ICBkZWYgZGVsZXRlU2hvcENsaXAoaWQ6IExvbmcpID0gQWN0aW9uIHsKICAgIE9rKEpzb24udG9Kc29uKGR1bW15SnNvbikpCiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gIHNob3AtYXR0cmlidXRlZ3JvdXBzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">R0VUICAgICAvc2hvcHMvY2xpcHBlZCAgICAgICAgICAgICAgY29udHJvbGxlcnMuU2hvcENvbnRyb2xsZXIubGlzdFNob3BDbGlwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">R0VUICAgICAvc2hvcHMvY2xpcHBlZCAgICAgICAgICAgICAgY29udHJvbGxlcnMuU2hvcENvbnRyb2xsZXIubGlzdFNob3BDbGlwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I1BVVCAgICAgL3Nob3BzICAgICAgICAgICAgICAgICAgICAgIGNvbnRyb2xsZXJzLlNob3BDb250cm9sbGVyLmluZGV4Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">UFVUICAgICAvc2hvcHMvOmlkL2NsaXAgICAgICAgICAgICAgY29udHJvbGxlcnMuU2hvcENvbnRyb2xsZXIuY3JlYXRlU2hvcENsaXAoaWQ6IExvbmcpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">UFVUICAgICAvc2hvcHMvOmlkL2NsaXAgICAgICAgICAgICAgY29udHJvbGxlcnMuU2hvcENvbnRyb2xsZXIuY3JlYXRlU2hvcENsaXAoaWQ6IExvbmcpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">UFVUICAgICAvc2hvcHMvOmlkL2NsaXAgICAgICAgICAgICAgY29udHJvbGxlcnMuU2hvcENvbnRyb2xsZXIuY3JlYXRlU2hvcENsaXAoaWQ6IExvbmcpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAiUm91dGVzIiBzaG91bGQgewogICAgInNlbmQgNDA0IG9uIGEgYmFkIHJlcXVlc3QiIGluICB7CiAgICAgIHJvdXRlKGFwcCwgRmFrZVJlcXVlc3QoR0VULCAiL2JvdW0iKSkubWFwKHN0YXR1cyhfKSkgbXVzdEJlIFNvbWUoTk9UX0ZPVU5EKQogICAgfQogIH0K</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">I1BVVCAgICAgL3Nob3BzICAgICAgICAgICAgICAgICAgICAgIGNvbnRyb2xsZXJzLlNob3BDb250cm9sbGVyLmluZGV4Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">UFVUICAgICAvc2hvcHMvOmlkL2NsaXAgICAgICAgICAgICAgY29udHJvbGxlcnMuU2hvcENvbnRyb2xsZXIuY3JlYXRlU2hvcENsaXAoaWQ6IExvbmcpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">UFVUICAgICAvc2hvcHMvOmlkL2NsaXAgICAgICAgICAgICAgY29udHJvbGxlcnMuU2hvcENvbnRyb2xsZXIuY3JlYXRlU2hvcENsaXAoaWQ6IExvbmcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
