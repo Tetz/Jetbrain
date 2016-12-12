@@ -139,7 +139,7 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/application.conf" timestamp="1481523801401">
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/application.conf" timestamp="1481526794400">
         <mark key="[" line="339" column="57" />
         <mark key="]" line="339" column="52" />
         <mark key="^" line="339" column="52" />
@@ -193,7 +193,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/application-test.conf" timestamp="1481525114669">
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/application-test.conf" timestamp="1481526456871">
         <mark key="[" line="64" column="57" />
         <mark key="]" line="60" column="55" />
         <mark key="^" line="60" column="55" />
@@ -312,6 +312,9 @@
         <mark key="]" line="21" column="11" />
         <mark key="." line="21" column="11" />
         <mark key="^" line="21" column="11" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/test.conf" timestamp="1481526803922">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/assets/jsons/Material.json" timestamp="1479980286519">
         <mark key="[" line="0" column="68" />
@@ -433,11 +436,11 @@
         <mark key="^" line="14" column="28" />
         <mark key="." line="14" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/build.sbt" timestamp="1481187008265">
-        <mark key="[" line="19" column="60" />
-        <mark key="]" line="19" column="60" />
-        <mark key="^" line="19" column="60" />
-        <mark key="." line="19" column="60" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/build.sbt" timestamp="1481526818337">
+        <mark key="[" line="24" column="55" />
+        <mark key="]" line="24" column="42" />
+        <mark key="^" line="24" column="42" />
+        <mark key="." line="24" column="42" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/MaterialController.scala" timestamp="1481520572772">
         <mark key="[" line="19" column="7" />
@@ -542,10 +545,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mtype</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>mtype</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOb25lXD4=</text>
@@ -554,31 +557,33 @@
         <text encoding="base64">ICAgICJHRVQgL3Nob3BzIHJldHVybnMgMjAwIiBpbiB7CiAgICAgIHZhbCByZXN1bHQgPSByb3V0ZShhcHAsIEZha2VSZXF1ZXN0KEdFVCwgIi9zaG9wcyIpKS5nZXQKICAgICAgc3RhdHVzKHJlc3VsdCkgbXVzdEJlIE9LCiAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFsIHRlc3RPcHRpb25zID0gIi1EY29uZmlnLmZpbGU9Y29uZi8iICsgT3B0aW9uKFN5c3RlbS5nZXRQcm9wZXJ0eSgiYXBwbGljYXRpb24tdGVzdC5jb25maWciKSkuZ2V0T3JFbHNlKCJhcHBsaWNhdGlvbiIpICsgIi5jb25mIgo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICBkZWYgcmVhZEFsbCA9IEFjdGlvbiB7CiAgICBPayhKc29uLnRvSnNvbihkdW1teUpzb24pKQogIH0K</text>
+        <text>val main = PlayProject(appName, appVersion, appDependencies, mainLang = SCALA).settings(
+  javaOptions in Test += testOptions
+)</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICBkZWYgdXBkYXRlID0gQWN0aW9uIHsKICAgIE9rKEpzb24udG9Kc29uKGR1bW15SnNvbikpCiAgfQo=</text>
+        <text encoding="base64">ICBkZWYgcmVhZEFsbCA9IEFjdGlvbiB7CiAgICBPayhKc29uLnRvSnNvbihkdW1teUpzb24pKQogIH0K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICBkZWYgY3JlYXRlID0gQWN0aW9uIHsKICAgIE9rKEpzb24udG9Kc29uKGR1bW15SnNvbikpCiAgfQo=</text>
+        <text encoding="base64">ICBkZWYgdXBkYXRlID0gQWN0aW9uIHsKICAgIE9rKEpzb24udG9Kc29uKGR1bW15SnNvbikpCiAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE9rKEpzb24ucHJldHR5UHJpbnQoSnNvbi50b0pzb24obWF0ZXJpYWxMaXN0KSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBtYXRlcmlhbExpc3QgPSBNYXRlcmlhbC5maW5kQWxsQnkoc3Fscy5lcShNYXRlcmlhbC5tLm1hdGVyaWFsR3JvdXBJZCwgaWQpKQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICBkZWYgY3JlYXRlID0gQWN0aW9uIHsKICAgIE9rKEpzb24udG9Kc29uKGR1bW15SnNvbikpCiAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNob3BMaXN0KQo=</text>
+        <text encoding="base64">ICAgIE9rKEpzb24ucHJldHR5UHJpbnQoSnNvbi50b0pzb24obWF0ZXJpYWxMaXN0KSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
