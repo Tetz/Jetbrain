@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ApplicationSpec.scala" timestamp="1481516751350">
-        <mark key="[" line="38" column="52" />
-        <mark key="]" line="38" column="60" />
-        <mark key="^" line="38" column="60" />
-        <mark key="." line="38" column="60" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ApplicationSpec.scala" timestamp="1481517767188">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="31" column="60" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/Exchange.scala" timestamp="1477976831956">
         <mark key="[" line="7" column="20" />
@@ -438,10 +438,10 @@
         <mark key="^" line="19" column="60" />
         <mark key="." line="19" column="60" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/MaterialController.scala" timestamp="1481275254845">
-        <mark key="[" line="28" column="49" />
-        <mark key="]" line="27" column="62" />
-        <mark key="." line="27" column="62" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/MaterialController.scala" timestamp="1481517933396">
+        <mark key="[" line="19" column="37" />
+        <mark key="]" line="19" column="37" />
+        <mark key="." line="19" column="37" />
         <mark key="^" line="27" column="62" />
       </file>
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/LotteryController.scala" timestamp="1476431445889">
@@ -540,10 +540,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>articles</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>articles</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOb25lXD4=</text>
@@ -552,19 +552,19 @@
         <text encoding="base64">ICAgICAgICAibWF0ZXJpYWxUeXBlIiAgICAtPiBKc29uLnRvSnNvbihtYXRlcmlhbC5tYXRlcmlhbFR5cGUpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBkZWYgZXh0cmFjdChyczogV3JhcHBlZFJlc3VsdFNldCwgcm46IFJlc3VsdE5hbWVbTWF0ZXJpYWxdKSA9IGF1dG9Db25zdHJ1Y3QocnMsIHJuLCAibWF0ZXJpYWxUeXBlIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgY29udGVudFR5cGUoaG9tZSkgbXVzdEJlIFNvbWUoInRleHQvaHRtbCIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBkZWYgZXh0cmFjdChyczogV3JhcHBlZFJlc3VsdFNldCwgcm46IFJlc3VsdE5hbWVbTWF0ZXJpYWxdKSA9IGF1dG9Db25zdHJ1Y3QocnMsIHJuLCAibWF0ZXJpYWxUeXBlIiwibWF0ZXJpYWxLZXkiLCJtYXRlcmlhbEltYWdlIiwgIm1hdGVyaWFsSHRtbCIsICJtYXRlcmlhbFRleHQiKQo=</text>
+        <text encoding="base64">ICAgICAgY29udGVudEFzU3RyaW5nKGhvbWUpIG11c3QgaW5jbHVkZSAoIllvdXIgbmV3IGFwcGxpY2F0aW9uIGlzIHJlYWR5LiIpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -573,10 +573,18 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgIA==</text>
+      <register name="9" type="4">
+        <text>&quot;HomeController&quot; should {
+    &quot;render the index page&quot; in {
+      val home = route(app, FakeRequest(GET, &quot;/&quot;)).get
+
+      status(home) mustBe OK
+      contentType(home) mustBe Some(&quot;text/html&quot;)
+      contentAsString(home) must include (&quot;Your new application is ready.&quot;)
+    }
+  }</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
