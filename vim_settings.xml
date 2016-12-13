@@ -14,11 +14,11 @@
         <mark key="." line="7" column="20" />
         <mark key="^" line="12" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/AttributeGroup.scala" timestamp="1481542031866">
-        <mark key="[" line="9" column="19" />
-        <mark key="]" line="9" column="19" />
-        <mark key="." line="9" column="19" />
-        <mark key="^" line="9" column="19" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/AttributeGroup.scala" timestamp="1481613614031">
+        <mark key="[" line="26" column="102" />
+        <mark key="]" line="26" column="118" />
+        <mark key="." line="26" column="118" />
+        <mark key="^" line="26" column="118" />
       </file>
       <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/GachaType.scala" timestamp="1478076162649">
         <mark key="[" line="7" column="38" />
@@ -49,11 +49,11 @@
         <mark key="^" line="18" column="73" />
         <mark key="." line="18" column="73" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/AttributeGroupKey.scala" timestamp="1480589645619">
-        <mark key="[" line="9" column="17" />
-        <mark key="]" line="9" column="17" />
-        <mark key="." line="9" column="17" />
-        <mark key="^" line="9" column="14" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/AttributeGroupKey.scala" timestamp="1481613485420">
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="20" column="50" />
+        <mark key="." line="20" column="50" />
+        <mark key="^" line="20" column="50" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialPresenter.scala" timestamp="1481274375045">
         <mark key="[" line="87" column="25" />
@@ -183,12 +183,12 @@
         <mark key="^" line="4" column="69" />
         <mark key="." line="4" column="69" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ShopController.scala" timestamp="1481537902642">
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ShopController.scala" timestamp="1481613994841">
         <mark key="'" line="29" column="20" />
-        <mark key="[" line="39" column="3" />
-        <mark key="]" line="40" column="1" />
-        <mark key="^" line="40" column="1" />
-        <mark key="." line="40" column="1" />
+        <mark key="[" line="39" column="12" />
+        <mark key="]" line="39" column="29" />
+        <mark key="^" line="39" column="29" />
+        <mark key="." line="39" column="29" />
       </file>
       <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/GachaPerServiceLimitation.scala" timestamp="1478075919392">
         <mark key="[" line="7" column="70" />
@@ -363,8 +363,8 @@
         <mark key="." line="11" column="42" />
         <mark key="^" line="11" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Material.scala" timestamp="1481540287707">
-        <mark key="[" line="48" column="0" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Material.scala" timestamp="1481613687399">
+        <mark key="[" line="20" column="40" />
         <mark key="]" line="48" column="1" />
         <mark key="." line="48" column="1" />
         <mark key="^" line="48" column="1" />
@@ -574,16 +574,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ithLimitOffset(,0)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>ithLimitOffset(,0)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOb25lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAid2VpZ2h0IiAgICAgICAgICAgICAgIC0+IGF0dHJpYnV0ZUdyb3VwLndlaWdodAo=</text>
+        <text encoding="base64">ICB1cGRhdGVkQXQgICAgICAgICAgIDogRGF0ZVRpbWUsCg==</text>
       </register>
       <register name="1" type="8">
         <text>//
