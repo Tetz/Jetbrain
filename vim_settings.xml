@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ApplicationSpec.scala" timestamp="1481539801519">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/Exchange.scala" timestamp="1477976831956">
         <mark key="[" line="7" column="20" />
         <mark key="]" line="7" column="20" />
@@ -31,11 +26,6 @@
         <mark key="]" line="10" column="21" />
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="21" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/MaterialGroup.scala" timestamp="1481282136952">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ShopPresenter.scala" timestamp="1481542082650">
         <mark key="[" line="23" column="27" />
@@ -67,13 +57,8 @@
         <mark key="^" line="25" column="1" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/ShopSeed.scala" timestamp="1480411180622">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/application-prod.conf" timestamp="1481089289057">
-        <mark key="[" line="51" column="35" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/application-prod.conf" timestamp="1481697304981">
+        <mark key="[" line="66" column="48" />
         <mark key="]" line="58" column="0" />
         <mark key="^" line="44" column="12" />
         <mark key="." line="58" column="0" />
@@ -84,7 +69,7 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/application.conf" timestamp="1481602754040">
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/application.conf" timestamp="1481697524676">
         <mark key="[" line="339" column="57" />
         <mark key="]" line="339" column="52" />
         <mark key="^" line="339" column="52" />
@@ -198,18 +183,13 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOnlineContent/conf/application.conf" timestamp="1478589902369">
-        <mark key="[" line="42" column="22" />
-        <mark key="]" line="42" column="22" />
-        <mark key="." line="42" column="22" />
-      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/LabelGroup.scala" timestamp="1480653636705">
         <mark key="[" line="22" column="11" />
         <mark key="]" line="22" column="12" />
         <mark key="." line="22" column="12" />
         <mark key="^" line="22" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/routes" timestamp="1481685061247">
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/routes" timestamp="1481697136115">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="75" />
         <mark key="^" line="19" column="31" />
@@ -402,7 +382,9 @@
         <mark key="^" line="541" column="18" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/application-dev.conf" timestamp="1481694189341" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/application-dev.conf" timestamp="1481697298690">
+        <mark key="[" line="66" column="48" />
+      </file>
       <file name="$USER_HOME$/Code/ApiLottery/app/models/Lottery.scala" timestamp="1476783114333">
         <mark key="[" line="23" column="18" />
         <mark key="]" line="23" column="62" />
@@ -493,11 +475,6 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/IntegrationSpec.scala" timestamp="1481528336092">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/MaterialController.scala" timestamp="1481611630463">
         <mark key="[" line="18" column="87" />
         <mark key="]" line="18" column="87" />
@@ -539,11 +516,6 @@
         <mark key="]" line="6" column="24" />
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/project/plugins.sbt" timestamp="1481003414245">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/README.md" timestamp="1481529368501">
         <mark key="[" line="19" column="14" />
