@@ -149,13 +149,6 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="10" column="58" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/Json2Db.scala" timestamp="1481691659576">
-        <mark key="'" line="260" column="50" />
-        <mark key="[" line="140" column="38" />
-        <mark key="]" line="140" column="38" />
-        <mark key="." line="140" column="38" />
-        <mark key="^" line="140" column="16" />
-      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/MaterialCategory.scala" timestamp="1480304981183">
         <mark key="[" line="19" column="14" />
         <mark key="]" line="18" column="49" />
@@ -361,11 +354,11 @@
         <mark key="." line="11" column="42" />
         <mark key="^" line="11" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Material.scala" timestamp="1481613687399">
-        <mark key="[" line="20" column="40" />
-        <mark key="]" line="48" column="1" />
-        <mark key="." line="48" column="1" />
-        <mark key="^" line="48" column="1" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Material.scala" timestamp="1481696420357">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/Json2DB.scala" timestamp="1479794907815">
         <mark key="[" line="3" column="23" />
@@ -573,10 +566,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>name</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOb25lXD4=</text>
@@ -585,34 +578,34 @@
         <text encoding="base64">ICAgIHNlZWQoRklMRV9TSE9QLCBBVFRSSUJVVEUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnYXR0cmlidXRlSWQgICAgICAgICAgICAgICAgICAgICAtPiAoanNvbiBcICJhdHRyaWJ1dGVJZCIpLmFzT3B0W1N0cmluZ10uZ2V0LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">IAogCiAKIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnYXJ0aWNsZUNsaXBJZCAtPiAoanNvbiBcICJhcnRpY2xlQ2xpcElkIikuYXNPcHRbU3RyaW5nXS5nZXQsCg==</text>
+        <text encoding="base64">ICAgICAgICAnYXR0cmlidXRlSWQgICAgICAgICAgICAgICAgICAgICAtPiAoanNvbiBcICJhdHRyaWJ1dGVJZCIpLmFzT3B0W1N0cmluZ10uZ2V0LAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHNlZWQoRklMRV9TSE9QLCApCg==</text>
+      <register name="4" type="8">
+        <text encoding="base64">IAogCiAKIA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNlZWQoRklMRV9TSE9QLCApCg==</text>
+        <text encoding="base64">ICAgICAgICAnYXJ0aWNsZUNsaXBJZCAtPiAoanNvbiBcICJhcnRpY2xlQ2xpcElkIikuYXNPcHRbU3RyaW5nXS5nZXQsCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIHNlZWQoRklMRV9TSE9QLCApCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHNlZWQoRklMRV9TSE9QLCApCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHNlZWQoRklMRV9TSE9QLCBBVFRSSUJVVEVfR1JPVVApCg==</text>
       </register>
-      <register name="7" type="8">
+      <register name="9" type="8">
         <text>ARTICLE
 ARTICLE
 ARTICLE
 ARTICLE</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
