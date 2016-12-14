@@ -149,12 +149,12 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="10" column="58" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/Json2Db.scala" timestamp="1481690255260">
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/Json2Db.scala" timestamp="1481691659576">
         <mark key="'" line="260" column="50" />
-        <mark key="[" line="306" column="35" />
-        <mark key="]" line="308" column="36" />
-        <mark key="." line="308" column="0" />
-        <mark key="^" line="206" column="28" />
+        <mark key="[" line="140" column="38" />
+        <mark key="]" line="140" column="38" />
+        <mark key="." line="140" column="38" />
+        <mark key="^" line="140" column="16" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/MaterialCategory.scala" timestamp="1480304981183">
         <mark key="[" line="19" column="14" />
@@ -354,6 +354,7 @@
         <mark key="^" line="1" column="10" />
         <mark key="." line="1" column="10" />
       </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/assets/jsons/OfflineMaterial_Shop.json" timestamp="1481692517645" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopAttributeGroupDescription.scala" timestamp="1480912456177">
         <mark key="[" line="11" column="36" />
         <mark key="]" line="11" column="42" />
@@ -480,11 +481,11 @@
         <mark key="^" line="8" column="44" />
         <mark key="." line="8" column="44" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Shop.scala" timestamp="1480584181867">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="29" column="14" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Shop.scala" timestamp="1481691383217">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="12" column="11" />
+        <mark key="^" line="12" column="9" />
+        <mark key="." line="12" column="11" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/AttributeToShopRef.scala" timestamp="1480912047139">
         <mark key="[" line="10" column="25" />
@@ -570,17 +571,17 @@
       <jump line="25" column="20" filename="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ShopController.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNlZWQoRklMRV9TSE9QLCBBVFRSSUJVVEVfR1JPVVApCg==</text>
+      <register name="&quot;" type="4">
+        <text>name</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOb25lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNlZWQoRklMRV9TSE9QLCBBVFRSSUJVVEVfR1JPVVApCg==</text>
+        <text encoding="base64">ICAgIHNlZWQoRklMRV9TSE9QLCBBVFRSSUJVVEUpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAnYXR0cmlidXRlSWQgICAgICAgICAgICAgICAgICAgICAtPiAoanNvbiBcICJhdHRyaWJ1dGVJZCIpLmFzT3B0W1N0cmluZ10uZ2V0LAo=</text>
