@@ -149,12 +149,12 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="10" column="58" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/Json2Db.scala" timestamp="1481617851746">
-        <mark key="'" line="244" column="50" />
-        <mark key="[" line="119" column="81" />
-        <mark key="]" line="119" column="81" />
-        <mark key="^" line="119" column="81" />
-        <mark key="." line="119" column="81" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/Json2Db.scala" timestamp="1481687373249">
+        <mark key="'" line="254" column="50" />
+        <mark key="[" line="159" column="42" />
+        <mark key="]" line="159" column="49" />
+        <mark key="." line="159" column="49" />
+        <mark key="^" line="159" column="49" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/MaterialCategory.scala" timestamp="1480304981183">
         <mark key="[" line="19" column="14" />
@@ -570,47 +570,47 @@
       <jump line="25" column="20" filename="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ShopController.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNlZWQoRklMRV9TSE9QLCApCg==</text>
+      <register name="&quot;" type="4">
+        <text>weight</text>
       </register>
       <register name="-" type="4">
-        <text>LABEL_TO_ARTICLE_REF</text>
+        <text>weight</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOb25lXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIHZhbCBGSUxFX0FSVElDTEUgPSAiT2ZmbGluZU1hdGVyaWFsX0FydGljbGUiCiAgICBzZWVkKEZJTEVfQVJUSUNMRSwgQVJUSUNMRSkKICAgIHNlZWQoRklMRV9BUlRJQ0xFLCBMQUJFTF9HUk9VUCkKICAgIHNlZWQoRklMRV9BUlRJQ0xFLCBMQUJFTCkKICAgIHNlZWQoRklMRV9BUlRJQ0xFLCBMQUJFTF9UT19BUlRJQ0xFX1JFRikK</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAnYXJ0aWNsZUlkICAgICAtPiAoanNvbiBcICJhcnRpY2xlSWQiKS5hc09wdFtTdHJpbmddLmdldCwK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHNlZWQoRklMRV9TSE9QLCApCg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">IAogCiAKIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlZWQoRklMRV9TSE9QLCApCg==</text>
+        <text encoding="base64">ICAgICAgICAnYXJ0aWNsZUNsaXBJZCAtPiAoanNvbiBcICJhcnRpY2xlQ2xpcElkIikuYXNPcHRbU3RyaW5nXS5nZXQsCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIHNlZWQoRklMRV9TSE9QLCApCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHNlZWQoRklMRV9TSE9QLCApCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHNlZWQoRklMRV9TSE9QLCBBVFRSSUJVVEVfR1JPVVApCg==</text>
       </register>
-      <register name="4" type="8">
+      <register name="6" type="8">
         <text>ARTICLE
 ARTICLE
 ARTICLE
 ARTICLE</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIE9rKCJvayIpCg==</text>
+        <text encoding="base64">Ly8gICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
