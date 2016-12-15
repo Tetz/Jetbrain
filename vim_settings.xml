@@ -9,11 +9,6 @@
         <mark key="." line="7" column="20" />
         <mark key="^" line="12" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/AttributeGroup.scala" timestamp="1481707965024">
-        <mark key="[" line="33" column="132" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1481705064439">
         <mark key="[" line="0" column="0" />
       </file>
@@ -29,11 +24,7 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/MaterialGroup.scala" timestamp="1481707081713">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/MaterialGroup.scala" timestamp="1481707081713" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ShopPresenter.scala" timestamp="1481542082650">
         <mark key="[" line="23" column="27" />
         <mark key="]" line="23" column="27" />
@@ -391,9 +382,7 @@
         <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/evolutions/default/1.sql" timestamp="1481770994028">
-        <mark key="[" line="67" column="51" />
         <mark key="]" line="2" column="0" />
-        <mark key="^" line="541" column="18" />
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/application-dev.conf" timestamp="1481697298690">
