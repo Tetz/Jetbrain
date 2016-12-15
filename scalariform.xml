@@ -1,0 +1,16 @@
+<application>
+  <component name="ScalariformSettings">
+    <option name="alignParameters" value="true" />
+    <option name="alignSingleLineCase" value="true" />
+    <option name="compactControlReadability" value="true" />
+    <option name="compactStringConcatenation" value="true" />
+    <option name="doubleIndentClassDeclaration" value="true" />
+    <option name="formatXML" value="true" />
+    <option name="indentLocalDefs" value="true" />
+    <option name="multilineScalaDocCommentsStartOnFirstLine" value="true" />
+    <option name="placeScalaDocAsteriskBeneathSecondAsterisk" value="true" />
+    <option name="preserveDanglineCloseParenthesis" value="true" />
+    <option name="preserveSpaceBeforeArguments" value="true" />
+    <option name="rewriteArrowSymbols" value="true" />
+  </component>
+</application>
