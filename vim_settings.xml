@@ -24,7 +24,12 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/MaterialGroup.scala" timestamp="1481707081713" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/MaterialGroup.scala" timestamp="1481781003982">
+        <mark key="[" line="31" column="78" />
+        <mark key="]" line="31" column="56" />
+        <mark key="^" line="31" column="56" />
+        <mark key="." line="31" column="56" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ShopPresenter.scala" timestamp="1481542082650">
         <mark key="[" line="23" column="27" />
         <mark key="]" line="23" column="27" />
@@ -100,7 +105,7 @@
         <mark key="^" line="15" column="27" />
         <mark key="." line="15" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ArticleClip.scala" timestamp="1480576729480">
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ArticleClip.scala" timestamp="1481781014074">
         <mark key="[" line="19" column="11" />
         <mark key="]" line="19" column="12" />
         <mark key="." line="19" column="12" />
