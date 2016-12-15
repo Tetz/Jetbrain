@@ -33,6 +33,9 @@
         <mark key="^" line="31" column="56" />
         <mark key="." line="31" column="56" />
       </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ShopPresenter.scala" timestamp="1481795849182">
+        <mark key="[" line="10" column="31" />
+      </file>
       <file name="$USER_HOME$/Code/ApiLottery/app/models/LotteryPerUserLimitation.scala" timestamp="1476784230263">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="18" column="73" />
@@ -338,7 +341,7 @@
         <mark key="^" line="1" column="10" />
         <mark key="." line="1" column="10" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopAttributeGroupDescription.scala" timestamp="1481795537393">
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopAttributeGroupDescription.scala" timestamp="1481795782086">
         <mark key="[" line="8" column="34" />
         <mark key="]" line="8" column="34" />
         <mark key="^" line="8" column="32" />
@@ -451,7 +454,7 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Article.scala" timestamp="1481787926602">
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Article.scala" timestamp="1481796537316">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />

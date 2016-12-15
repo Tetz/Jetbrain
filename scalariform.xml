@@ -11,6 +11,5 @@
     <option name="placeScalaDocAsteriskBeneathSecondAsterisk" value="true" />
     <option name="preserveDanglineCloseParenthesis" value="true" />
     <option name="preserveSpaceBeforeArguments" value="true" />
-    <option name="rewriteArrowSymbols" value="true" />
   </component>
 </application>
