@@ -12,9 +12,6 @@
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/AttributeGroup.scala" timestamp="1481785751058">
         <mark key="[" line="14" column="51" />
       </file>
-      <file name="/a.dummy" timestamp="1481705064439">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/GachaType.scala" timestamp="1478076162649">
         <mark key="[" line="7" column="38" />
         <mark key="]" line="7" column="21" />
@@ -73,9 +70,6 @@
         <mark key="]" line="58" column="0" />
         <mark key="^" line="44" column="12" />
         <mark key="." line="58" column="0" />
-      </file>
-      <file name="/Dummy.scala" timestamp="1481704163940">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/AllSeed.scala" timestamp="1481859651533">
         <mark key="[" line="9" column="0" />
@@ -147,9 +141,6 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
         <mark key="^" line="10" column="58" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/Json2Db.scala" timestamp="1481782922264">
-        <mark key="[" line="204" column="58" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/MaterialCategory.scala" timestamp="1480304981183">
         <mark key="[" line="19" column="14" />
@@ -399,9 +390,6 @@
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/evolutions/default/1.sql" timestamp="1481770994028">
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/application-dev.conf" timestamp="1481697298690">
-        <mark key="[" line="66" column="48" />
       </file>
       <file name="$USER_HOME$/Code/ApiLottery/app/models/Lottery.scala" timestamp="1476783114333">
         <mark key="[" line="23" column="18" />
