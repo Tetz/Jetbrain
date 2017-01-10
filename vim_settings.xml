@@ -139,7 +139,7 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="10" column="58" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/Json2Db.scala" timestamp="1484019790103" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/Json2Db.scala" timestamp="1484041688113" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/MaterialCategory.scala" timestamp="1480304981183">
         <mark key="[" line="19" column="14" />
         <mark key="]" line="18" column="49" />
@@ -218,11 +218,11 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/build.sbt" timestamp="1481540780271">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="10" column="7" />
-        <mark key="^" line="10" column="7" />
-        <mark key="." line="10" column="7" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/build.sbt" timestamp="1484041891242">
+        <mark key="[" line="32" column="10" />
+        <mark key="]" line="32" column="10" />
+        <mark key="." line="32" column="10" />
+        <mark key="^" line="32" column="10" />
       </file>
       <file name="$USER_HOME$/Code/api-lottery/app/controllers/LotteryController.scala" timestamp="1476431445889">
         <mark key="[" line="14" column="0" />
@@ -544,10 +544,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dmFsIHVwZGF0ZWRDb3VudCA9IA==</text>
+        <text>Test</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsIHVwZGF0ZWRDb3VudCA9IA==</text>
+        <text>Test</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOb25lXD4=</text>
@@ -556,31 +556,31 @@
         <text encoding="base64">Ly8gICJtYXRlcmlhbHMiIC0+IEpzb24udG9Kc29uKE1hdGVyaWFsLmZpbmRBbGxCeShzcWxzLmVxKE1hdGVyaWFsLm0ubWF0ZXJpYWxHcm91cElkLCBzaG9wLm1hdGVyaWFsR3JvdXBJZCkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBsaW1pdER1bW15ID0gNTAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBvZmZzZXREdW1teSA9IDEwMAo=</text>
+        <text encoding="base64">ICBpbXBvcnQgc2J0Lgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHZhbCBsaW1pdER1bW15ID0gNTAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBOb25lID0+IG1hdGVyaWFsR3JvdXBMaXN0dAo=</text>
+        <text encoding="base64">ICAgIHZhbCBvZmZzZXREdW1teSA9IDEwMAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBTb21lKG4pID0+IG1hdGVyaWFsR3JvdXBMaXN0Lm9mZnNldChvZmZzZXREdW1teXQpLmxpbWl0KG4pCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1hdGVyaWFsR3JvdXBMaXN0ID0gbGltaXQgbWF0Y2ggewo=</text>
+        <text encoding="base64">ICAgICAgY2FzZSBOb25lID0+IG1hdGVyaWFsR3JvdXBMaXN0dAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBtYXRlcmlhbEdyb3VwTGlzdCA9IE1hdGVyaWFsR3JvdXAuaW5jbHVkZXMoTWF0ZXJpYWxHcm91cC5tYXRlcmlhbHNSZWYpLmZpbmRBbGwoKQo=</text>
+        <text encoding="base64">ICAgICAgY2FzZSBTb21lKG4pID0+IG1hdGVyaWFsR3JvdXBMaXN0Lm9mZnNldChvZmZzZXREdW1teXQpLmxpbWl0KG4pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1hdGVyaWFsR3JvdXBMaXN0ID0gbGltaXQgbWF0Y2ggewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBtYXRlcmlhbEdyb3VwTGlzdCA9IE1hdGVyaWFsR3JvdXAuaW5jbHVkZXMoTWF0ZXJpYWxHcm91cC5tYXRlcmlhbHNSZWYpLmZpbmRBbGwoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
