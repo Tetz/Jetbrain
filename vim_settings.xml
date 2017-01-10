@@ -91,6 +91,12 @@
         <mark key="." line="55" column="77" />
         <mark key="^" line="55" column="79" />
       </file>
+      <file name="$USER_HOME$/Code/roco-migration-tool/bin/reset" timestamp="1484033109827">
+        <mark key="[" line="26" column="13" />
+        <mark key="]" line="26" column="10" />
+        <mark key="." line="26" column="10" />
+        <mark key="^" line="26" column="10" />
+      </file>
       <file name="$USER_HOME$/Code/ApiLottery/app/controllers/HomeController.scala" timestamp="1477291024872">
         <mark key="[" line="15" column="35" />
         <mark key="]" line="15" column="27" />
@@ -539,11 +545,11 @@
       <jump line="25" column="20" filename="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ShopController.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBsaW1pdER1bW15ID0gNTAK</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOb25lXD4=</text>
