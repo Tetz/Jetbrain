@@ -33,8 +33,8 @@
         <mark key="^" line="31" column="56" />
         <mark key="." line="31" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ShopPresenter.scala" timestamp="1484117757569">
-        <mark key="[" line="16" column="23" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ShopPresenter.scala" timestamp="1484119085334">
+        <mark key="[" line="14" column="31" />
         <mark key="]" line="16" column="25" />
         <mark key="^" line="16" column="25" />
         <mark key="." line="16" column="25" />
@@ -180,11 +180,11 @@
         <mark key="^" line="4" column="69" />
         <mark key="." line="4" column="69" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ShopController.scala" timestamp="1484118362956">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="30" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="32" column="17" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ShopController.scala" timestamp="1484118959491">
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="5" column="31" />
+        <mark key="." line="5" column="31" />
+        <mark key="^" line="5" column="31" />
       </file>
       <file name="$USER_HOME$/Code/ApiOnlineContent/app/models/GachaPerServiceLimitation.scala" timestamp="1478075919392">
         <mark key="[" line="7" column="70" />
@@ -252,7 +252,7 @@
         <mark key="^" line="19" column="28" />
         <mark key="." line="19" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ArticleController.scala" timestamp="1484118286287" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ArticleController.scala" timestamp="1484118691694" />
       <file name="$USER_HOME$/Code/ApiLottery/test/IntegrationSpec.scala" timestamp="1476844251769">
         <mark key="[" line="14" column="62" />
         <mark key="]" line="14" column="45" />
