@@ -55,11 +55,11 @@
         <mark key="]" line="13" column="6" />
         <mark key="." line="13" column="6" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ShopController.scala" timestamp="1484133305378">
-        <mark key="[" line="52" column="4" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="52" column="42" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ShopController.scala" timestamp="1484189922935">
+        <mark key="[" line="53" column="4" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="53" column="42" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/routes" timestamp="1484122519226">
         <mark key="[" line="13" column="82" />
@@ -79,7 +79,7 @@
         <mark key="." line="30" column="38" />
         <mark key="^" line="30" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ArticleController.scala" timestamp="1484189256867" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ArticleController.scala" timestamp="1484189891255" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopAttributeGroupDescription.scala" timestamp="1481873177492">
         <mark key="[" line="8" column="34" />
         <mark key="]" line="8" column="34" />
