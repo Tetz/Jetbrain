@@ -37,11 +37,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ShopControllerSpec.scala" timestamp="1484133235143">
-        <mark key="[" line="55" column="14" />
-        <mark key="]" line="54" column="15" />
-        <mark key="." line="54" column="15" />
-        <mark key="^" line="54" column="15" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ShopControllerSpec.scala" timestamp="1484196968256">
+        <mark key="[" line="0" column="58" />
+        <mark key="]" line="0" column="54" />
+        <mark key="." line="0" column="54" />
+        <mark key="^" line="0" column="54" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ArticleClip.scala" timestamp="1484121762264">
         <mark key="[" line="12" column="0" />
@@ -55,10 +55,10 @@
         <mark key="]" line="13" column="6" />
         <mark key="." line="13" column="6" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ShopController.scala" timestamp="1484193335282">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ShopController.scala" timestamp="1484197040396">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/routes" timestamp="1484122519226">
         <mark key="[" line="13" column="82" />
@@ -137,7 +137,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBPayhBcnRpY2xlUHJlc2VudGVyKGFydGljbGUsIHRydWUpLnRvSnNvbikK</text>
+        <text encoding="base64">aW1wb3J0IGNsaWVudGpzb24uQXJ0aWNsZVByZXNlbnRlcgo=</text>
       </register>
       <register name="-" type="4">
         <text>article</text>
@@ -149,31 +149,31 @@
         <text encoding="base64">ICAgICAgKGpzb24oMSkgXCAic2hvcElkIikuYXNbTG9uZ10gbXVzdEJlIGhlYWRDbGlwcGVkSWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBPayhBcnRpY2xlUHJlc2VudGVyKGFydGljbGUsIHRydWUpLnRvSnNvbikK</text>
+        <text encoding="base64">aW1wb3J0IGNsaWVudGpzb24uQXJ0aWNsZVByZXNlbnRlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLmluamVjdC5ndWljZS5HdWljZUFwcGxpY2F0aW9uQnVpbGRlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIE9rKEpzb24udG9Kc29uKGR1bW15SnNvbikpCg==</text>
+        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLmRiLkRCQXBpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgKGpzb24oMikgXCAic2hvcElkIikuYXNbTG9uZ10gbXVzdEJlIGhlYWRDbGlwcGVkSWQK</text>
+        <text encoding="base64">ICAgICAgICAvLyBPayhBcnRpY2xlUHJlc2VudGVyKGFydGljbGUsIHRydWUpLnRvSnNvbikK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24ubXV0YWJsZS5MaXN0QnVmZmVyCg==</text>
+        <text encoding="base64">ICAgIE9rKEpzb24udG9Kc29uKGR1bW15SnNvbikpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgKGNvbnRlbnRBc0pzb24ocmVzdWx0KSBcICJzaG9wSWQiKSBtdXN0QmUgaGVhZENsaXBwZWRJZAo=</text>
+        <text encoding="base64">ICAgICAgKGpzb24oMikgXCAic2hvcElkIikuYXNbTG9uZ10gbXVzdEJlIGhlYWRDbGlwcGVkSWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24ubXV0YWJsZS5MaXN0QnVmZmVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
