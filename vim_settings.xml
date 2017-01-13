@@ -15,11 +15,11 @@
         <mark key="^" line="31" column="56" />
         <mark key="." line="31" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ShopPresenter.scala" timestamp="1484302183642">
-        <mark key="[" line="35" column="32" />
-        <mark key="]" line="35" column="31" />
-        <mark key="." line="35" column="31" />
-        <mark key="^" line="35" column="31" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ShopPresenter.scala" timestamp="1484302812225">
+        <mark key="[" line="6" column="37" />
+        <mark key="]" line="6" column="37" />
+        <mark key="." line="6" column="37" />
+        <mark key="^" line="6" column="56" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/AttributeGroupKey.scala" timestamp="1481795654519">
         <mark key="[" line="9" column="29" />
@@ -87,7 +87,7 @@
         <mark key="^" line="8" column="32" />
         <mark key="." line="8" column="34" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ArticlePresenter.scala" timestamp="1484125842402">
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ArticlePresenter.scala" timestamp="1484302791521">
         <mark key="[" line="50" column="20" />
         <mark key="]" line="5" column="19" />
         <mark key="^" line="5" column="19" />
@@ -140,10 +140,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>consumerWith</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>consumerWith</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOb25lXD4=</text>
