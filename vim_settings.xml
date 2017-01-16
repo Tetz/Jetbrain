@@ -96,6 +96,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/.gitignore" timestamp="1484559962420">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="9" />
+        <mark key="^" line="5" column="9" />
+        <mark key="." line="5" column="9" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/routes" timestamp="1484122519226">
         <mark key="[" line="13" column="82" />
         <mark key="]" line="13" column="63" />
@@ -122,11 +128,11 @@
       <jump line="100" column="0" filename="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ShopPresenter.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>setup</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>setup</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOb25lXD4=</text>
@@ -135,31 +141,31 @@
         <text encoding="base64">ICAgIGRiLnNldHVwKCdkZWZhdWx0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIERCc1dpdGhFbnYoImRldmVsb3BtZW50Iikuc2V0dXAoJ2RlZmF1bHQpCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgU2hvcENsaXAud2hlcmUoc3Fscy5lcShTaG9wQ2xpcC5zYy5jb25zdW1lcklkLCBjLmNvbnN1bWVySWQpKS5jb3VudCgnY29uc3VtZXJJZCwgdHJ1ZSkgbXVzdEJlIDEK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhc2UgXyA9PiBFcnJvcihBcHBsaWNhdGlvbkVycm9yLlJlc291cmNlTm90Rm91bmQpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgKGpzb24gXCAiaXNEZWxldGVkIikuYXNbTG9uZ10gbXVzdEJlIHRydWUK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgKGpzb24gXCAiaXNDbGlwcGVkIikuYXNbQm9vbGVhbl0gbXVzdEJlIGZhbHNlCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ly50bXBCaW4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly5jYWNoZS0qCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyBlY2xpcHNlCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">cHJvamVjdC9wcm9qZWN0Lwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly5pZGVhX21vZHVsZXMK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT2soSnNvbi50b0pzb24ocmVzdWx0KSkK</text>
+        <text encoding="base64">L1JVTk5JTkdfUElECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29uc29sZS5wcmludGxuKEpzb24ucHJldHR5UHJpbnQocmVzdWx0KSkK</text>
+        <text encoding="base64">Ly5zZXR0aW5ncwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">Ly5wcm9qZWN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
