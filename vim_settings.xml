@@ -73,8 +73,10 @@
         <mark key="." line="13" column="63" />
         <mark key="^" line="13" column="63" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/Filters.scala" timestamp="1484638901332">
-        <mark key="[" line="15" column="7" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/Filters.scala" timestamp="1484644728813">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Code/seeder/src/seeder/json/skinny/seeder.scala" timestamp="1484035003218">
         <mark key="[" line="5" column="20" />
@@ -82,11 +84,9 @@
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/HomeController.scala" timestamp="1484643419356">
-        <mark key="[" line="13" column="69" />
-        <mark key="]" line="13" column="71" />
-        <mark key="." line="13" column="71" />
-        <mark key="^" line="13" column="71" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/HomeController.scala" timestamp="1484645171438">
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopAttributeGroupDescription.scala" timestamp="1481873177492">
         <mark key="[" line="8" column="34" />
@@ -143,11 +143,10 @@
         <mark key="^" line="5" column="9" />
         <mark key="." line="5" column="9" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/filters/HttpRequestFilter.scala" timestamp="1484642762184">
-        <mark key="[" line="20" column="129" />
-        <mark key="]" line="20" column="129" />
-        <mark key="." line="20" column="129" />
-        <mark key="^" line="20" column="129" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/filters/HttpRequestFilter.scala" timestamp="1484644204956">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -158,11 +157,11 @@
       <jump line="126" column="2" filename="$USER_HOME$/Code/ApiOfflineMaterial/conf/application.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Consumer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Consumer</text>
+        <text>requestWithConsumer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGF5XD4=</text>
@@ -171,31 +170,31 @@
         <text encoding="base64">ICAgIHByaW50bG4oIj09PT09PT09PT09PT09PT09PT09PT09IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCByZXF1ZXN0ID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciByZXF1ZXN0ID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJsbwo=</text>
+        <text encoding="base64">ICAgIHZhciByZXF1ZXN0V2l0aENvbnN1bWVyID0gTGlzdChyZXF1ZXN0LGNvbnN1bWVyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIExvZ2dlci5pbmZvKCJDYWxsaW5nIGFjdGlvbiIpCg==</text>
+        <text encoding="base64">ICAgIGlmIChlbnYubW9kZSA9PSBNb2RlLkRldikgU2VxKGh0dHBSZXF1ZXN0RmlsdGVyKSBlbHNlIFNlcS5lbXB0eQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIHZhciByZXF1ZXN0V2l0aENvbnN1bWVyID0gTGlzdChyZXF1ZXN0LGNvbnN1bWVyKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgc2V0Cg==</text>
+        <text encoding="base64">ICAgIHZhbCByZXF1ZXN0ID0gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhciByZXF1ZXN0ID0gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGJsbwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
