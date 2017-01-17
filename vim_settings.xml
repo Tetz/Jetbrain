@@ -13,8 +13,8 @@
         <mark key="]" line="13" column="6" />
         <mark key="." line="13" column="6" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/filters/ExampleFilter.scala" timestamp="1484623768145">
-        <mark key="[" line="15" column="0" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/filters/ExampleFilter.scala" timestamp="1484627256856">
+        <mark key="[" line="9" column="4" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
@@ -24,6 +24,7 @@
         <mark key="^" line="31" column="56" />
         <mark key="." line="31" column="56" />
       </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ShopController.scala" timestamp="1484625467847" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ShopPresenter.scala" timestamp="1484306156403">
         <mark key="'" line="95" column="0" />
       </file>
@@ -64,16 +65,22 @@
         <mark key="." line="13" column="63" />
         <mark key="^" line="13" column="63" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/Filters.scala" timestamp="1484624176813">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/Filters.scala" timestamp="1484626409930">
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="20" />
+        <mark key="." line="14" column="20" />
+        <mark key="^" line="14" column="20" />
       </file>
       <file name="$USER_HOME$/Code/seeder/src/seeder/json/skinny/seeder.scala" timestamp="1484035003218">
         <mark key="[" line="5" column="20" />
         <mark key="]" line="5" column="18" />
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="18" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/HomeController.scala" timestamp="1484628501662">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopAttributeGroupDescription.scala" timestamp="1481873177492">
         <mark key="[" line="8" column="34" />
@@ -139,52 +146,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIGZpbHRlcnMgYXQgYWxsLgo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocmVxdWVzdC5oZWFkZXJzLmFwcGx5KCJYLUV4YW1wbGVGaWx0ZXIiKSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOb25lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRiLnNldHVwKCdkZWZhdWx0KQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocmVxdWVzdC5oZWFkZXJzLmdldCgiWC1FeGFtcGxlRmlsdGVyIikpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGZpbHRlcnMgYXQgYWxsLgo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocmVxdWVzdC5oZWFkZXJzLmFwcGx5KCJYLUV4YW1wbGVGaWx0ZXIiKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIHdlJ3JlIHJ1bm5pbmcgaW4gcHJvZHVjdGlvbiBvciB0ZXN0IG1vZGUgdGhlbiBkb24ndCB1c2UgYW55Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocmVxdWVzdC5hcHBseSgpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFVzZSB0aGUgZXhhbXBsZSBmaWx0ZXIgaWYgd2UncmUgcnVubmluZyBkZXZlbG9wbWVudCBtb2RlLiBJZgo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocmVxdWVzdC5oZWFkZXJzLmdldEFsbCgiWC1FeGFtcGxlRmlsdGVyIikpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocmVxdWVzdC5oZWFkZXJzLmdldEFsbCgiWC1FeGFtcGxlRmlsdGVyIikpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>/**
-  * This class configures filters that run on every request. This
-  * class is queried by Play to get a list of filters.
-  *
-  * Play will automatically use filters from any class called
-  * `Filters` that is placed the root package. You can load filters
-  * from a different class by adding a `play.http.filters` setting to
-  * the `application.conf` configuration file.
-  *
-  * @param env Basic environment settings for the current application.
-  * @param exampleFilter A demonstration filter that adds a header to
-  * each response.
-  */</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4ocmVxdWVzdC5oZWFkZXJzLmdldEFsbCgiWC1FeGFtcGxlRmlsdGVyIikpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGJ5IGFkZGluZyBhIG5ldyBoZWFkZXIuCg==</text>
+        <text encoding="base64">ICAgIC8vIGZpbHRlcnMgYXQgYWxsLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIGFuZCBldmVudHVhbGx5IGNhbGwgdGhlIGFjdGlvbi4gVGFrZSB0aGUgcmVzdWx0IGFuZCBtb2RpZnkgaXQK</text>
+        <text encoding="base64">ICAgIC8vIHdlJ3JlIHJ1bm5pbmcgaW4gcHJvZHVjdGlvbiBvciB0ZXN0IG1vZGUgdGhlbiBkb24ndCB1c2UgYW55Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIFJ1biB0aGUgbmV4dCBmaWx0ZXIgaW4gdGhlIGNoYWluLiBUaGlzIHdpbGwgY2FsbCBvdGhlciBmaWx0ZXJzCg==</text>
+        <text encoding="base64">ICAgIC8vIFVzZSB0aGUgZXhhbXBsZSBmaWx0ZXIgaWYgd2UncmUgcnVubmluZyBkZXZlbG9wbWVudCBtb2RlLiBJZgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
