@@ -132,11 +132,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ArticleControllerSpec.scala" timestamp="1484716970077">
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ArticleControllerSpec.scala" timestamp="1484721034845">
         <mark key="[" line="59" column="30" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="43" column="27" />
+        <mark key="]" line="1" column="30" />
+        <mark key="." line="1" column="30" />
+        <mark key="^" line="1" column="30" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Material.scala" timestamp="1481864439417">
         <mark key="[" line="20" column="0" />
