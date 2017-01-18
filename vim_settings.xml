@@ -107,11 +107,10 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ShopControllerSpec.scala" timestamp="1484735304157">
-        <mark key="[" line="22" column="20" />
-        <mark key="]" line="22" column="19" />
-        <mark key="^" line="22" column="19" />
-        <mark key="." line="22" column="19" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ShopControllerSpec.scala" timestamp="1484738792568">
+        <mark key="[" line="37" column="12" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopAttributeGroupDescription.scala" timestamp="1481873177492">
         <mark key="[" line="8" column="34" />
@@ -138,7 +137,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ArticleControllerSpec.scala" timestamp="1484722042419">
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ArticleControllerSpec.scala" timestamp="1484737479545">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="1" column="30" />
@@ -198,6 +197,7 @@
         <mark key="^" line="5" column="9" />
         <mark key="." line="5" column="9" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/Option.scala" timestamp="1484738160049" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/filters/HttpRequestFilter.scala" timestamp="1484647776611">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -213,43 +213,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIE9rKEpzb24udG9Kc29uKHNob3BMaXN0KSkK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGF5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNsaWVudGpzb24uU2hvcFByZXNlbnRlci5fCg==</text>
+        <text encoding="base64">ICAgICAgICBzaG9wLmtleXMuY29udGFpbnMoIm1hdGVyaWFscyIpIG11c3RCZSB0cnVlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE9rKEpzb24udG9Kc29uKHNob3BMaXN0KSkK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaG9wLmtleXMuY29udGFpbnMoImhvZ2UiKSBtdXN0QmUgdHJ1ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIE9rKEpzb24udG9Kc29uKHNob3ApKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKHNob3ApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gUnVybgo=</text>
+        <text encoding="base64">ICAgICAgICBzaG9wLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaG9wIHNob3VsZCBjb250YWluICgibWF0ZXJpYWxzIikK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBUT0RPIEVycm9yIEhhbmRsaW5nCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUucHJpbnRsbihKc29uLnByZXR0eVByaW50KHJlc3VsdCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
