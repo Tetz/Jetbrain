@@ -136,7 +136,12 @@
         <mark key="." line="31" column="38" />
         <mark key="^" line="31" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/MessageController.scala" timestamp="1484648869674" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/MessageController.scala" timestamp="1484710718821">
+        <mark key="[" line="13" column="97" />
+        <mark key="]" line="13" column="39" />
+        <mark key="^" line="13" column="39" />
+        <mark key="." line="13" column="39" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopClip.scala" timestamp="1484646731405">
         <mark key="[" line="25" column="57" />
         <mark key="]" line="25" column="56" />
@@ -149,11 +154,23 @@
         <mark key="^" line="15" column="7" />
         <mark key="." line="15" column="7" />
       </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/LabelController.scala" timestamp="1484710635187">
+        <mark key="[" line="28" column="3" />
+        <mark key="]" line="29" column="1" />
+        <mark key="." line="29" column="1" />
+        <mark key="^" line="29" column="1" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ArticleController.scala" timestamp="1484710012731">
         <mark key="[" line="4" column="25" />
         <mark key="]" line="5" column="56" />
         <mark key="^" line="5" column="56" />
         <mark key="." line="5" column="56" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/LabelGroupController.scala" timestamp="1484710649146">
+        <mark key="[" line="31" column="3" />
+        <mark key="]" line="32" column="1" />
+        <mark key="." line="32" column="1" />
+        <mark key="^" line="32" column="1" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/.gitignore" timestamp="1484559962420">
         <mark key="[" line="5" column="10" />
@@ -175,8 +192,8 @@
       <jump line="126" column="2" filename="$USER_HOME$/Code/ApiOfflineMaterial/conf/application.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ApplicationErrorPresenter</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>ApplicationErrorPresenter</text>
@@ -191,28 +208,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLmxpYnMuanNvbi5Kc29uCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICApCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJjb250cm9sbGVyIiAtPiAiTGFiZWxHcm91cENvbnRyb2xsZXIiCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJjb250cm9sbGVyIiAtPiAiQXJ0aWNsZUNvbnRyb2xsZXIiCg==</text>
+        <text encoding="base64">ICB2YWwgZHVtbXlKc29uID0gSnNvbi5vYmooCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YWwgZHVtbXlKc29uID0gSnNvbi5vYmooCg==</text>
+        <text encoding="base64">ICApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2YWwgZHVtbXlKc29uID0gSnNvbi5vYmooCg==</text>
+        <text encoding="base64">ICAgICJjb250cm9sbGVyIiAtPiAiTGFiZWxDb250cm9sbGVyIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb25zdW1lciBDb25zdW1lci5maW5kQnkoc3Fscy5lcShDb25zdW1lci5jbnMudXVpZCwgcmVxdWVzdC5oZWFkZXJzLmdldCgiWC1BV1MtQ29nbml0by1JZGVudGl0eS1JZCIpKSkuZ2V0Cg==</text>
+        <text encoding="base64">ICB2YWwgZHVtbXlKc29uID0gSnNvbi5vYmooCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLmxpYnMuanNvbi5Kc29uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
