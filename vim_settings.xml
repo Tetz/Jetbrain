@@ -22,11 +22,11 @@
         <mark key="^" line="24" column="68" />
         <mark key="." line="24" column="68" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/terraform.tfvars" timestamp="1484898331264">
-        <mark key="[" line="18" column="12" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="18" column="32" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/terraform.tfvars" timestamp="1484899041431">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="32" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/aws_sg.tf" timestamp="1484897696603">
         <mark key="'" line="43" column="35" />
@@ -115,13 +115,18 @@
         <mark key="." line="13" column="63" />
         <mark key="^" line="13" column="63" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/aws_rds.tf" timestamp="1484895054783" />
-      <file name="$USER_HOME$/Code/terraform-ciatr/variables.tf" timestamp="1484895551696">
+      <file name="$USER_HOME$/Code/terraform-ciatr/aws_rds.tf" timestamp="1484899503506">
+        <mark key="[" line="26" column="50" />
+        <mark key="]" line="26" column="34" />
+        <mark key="^" line="26" column="34" />
+        <mark key="." line="26" column="34" />
+      </file>
+      <file name="$USER_HOME$/Code/terraform-ciatr/variables.tf" timestamp="1484899509619">
         <mark key="'" line="16" column="29" />
-        <mark key="[" line="9" column="25" />
-        <mark key="]" line="17" column="8" />
-        <mark key="." line="17" column="8" />
-        <mark key="^" line="17" column="8" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="24" column="21" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopAttributeGroupDescription.scala" timestamp="1481873177492">
         <mark key="[" line="8" column="34" />
@@ -180,7 +185,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">dmFyaWFibGUgInJkc19wYXJhbWV0ZXJfZ3JvdXAiIHt9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -215,38 +220,31 @@
 }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">dmFyaWFibGUgInJkc19wYXJhbWV0ZXJfZ3JvdXAiIHt9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNpZHJfYmxvY2tzID0gWyIke3Zhci5yb290X3NlZ21lbnR9Il0K</text>
+        <text encoding="base64">cmRzX3BhcmFtZXRlcl9ncm91cCA9ICJ0ZXJyYWZvcm0tdml2aWFuZS1jaWF0ci1tYXRvbWUtcGFyYW1ldGVyLWdyb3VwIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb3RvY29sID0gInRjcCIK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRvX3BvcnQgPSAyMgo=</text>
+        <text encoding="base64">ICAgIGNpZHJfYmxvY2tzID0gWyIke3Zhci5yb290X3NlZ21lbnR9Il0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZyb21fcG9ydCA9IDIyCg==</text>
+        <text encoding="base64">ICAgIHByb3RvY29sID0gInRjcCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpbmdyZXNzIHsK</text>
+        <text encoding="base64">ICAgIHRvX3BvcnQgPSAyMgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVzb3VyY2UgImF3c19zZWN1cml0eV9ncm91cCIgIndlYl9zZyIgewo=</text>
+        <text encoding="base64">ICAgIGZyb21fcG9ydCA9IDIyCg==</text>
       </register>
-      <register name="8" type="8">
-        <text>variable &quot;
-variable &quot;
-variable &quot;
-variable &quot;
-variable &quot;
-variable &quot;
-variable &quot;
-variable &quot;</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBpbmdyZXNzIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBSRFMK</text>
+        <text encoding="base64">cmVzb3VyY2UgImF3c19zZWN1cml0eV9ncm91cCIgIndlYl9zZyIgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
