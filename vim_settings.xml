@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Code/terraform-ciatr/aws_ec2.tf" timestamp="1484909788585">
+        <mark key="[" line="19" column="22" />
+        <mark key="]" line="0" column="40" />
+        <mark key="." line="0" column="40" />
+        <mark key="^" line="0" column="40" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ShopPresenter.scala" timestamp="1484306156403">
         <mark key="'" line="95" column="0" />
       </file>
@@ -197,10 +203,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEVudmlyb25tZW50ID0gIkRldiIK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>s3_bucket_policy</text>
+        <text>ubuntu</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOb25lXD4=</text>
@@ -232,31 +238,31 @@
 }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEVudmlyb25tZW50ID0gIkRldiIK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmRzX3BhcmFtZXRlcl9ncm91cCA9ICIiCg==</text>
+        <text encoding="base64">ICByZWdpb24gPSAidXMtd2VzdC0yIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFyaWFibGUgInJkc19wYXJhbWV0ZXJfZ3JvdXAiIHt9Cg==</text>
+        <text encoding="base64">cHJvdmlkZXIgImF3cyIgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmRzX3BhcmFtZXRlcl9ncm91cCA9ICJ0ZXJyYWZvcm0tdml2aWFuZS1jaWF0ci1tYXRvbWUtcGFyYW1ldGVyLWdyb3VwIgo=</text>
+        <text encoding="base64">IyB0Mi5taWNybyBub2RlIHdpdGggYW4gQVdTIFRhZyBuYW1pbmcgaXQgIkhlbGxvV29ybGQiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIEVudmlyb25tZW50ID0gIkRldiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNpZHJfYmxvY2tzID0gWyIke3Zhci5yb290X3NlZ21lbnR9Il0K</text>
+        <text encoding="base64">cmRzX3BhcmFtZXRlcl9ncm91cCA9ICIiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByb3RvY29sID0gInRjcCIK</text>
+        <text encoding="base64">dmFyaWFibGUgInJkc19wYXJhbWV0ZXJfZ3JvdXAiIHt9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRvX3BvcnQgPSAyMgo=</text>
+        <text encoding="base64">cmRzX3BhcmFtZXRlcl9ncm91cCA9ICJ0ZXJyYWZvcm0tdml2aWFuZS1jaWF0ci1tYXRvbWUtcGFyYW1ldGVyLWdyb3VwIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZyb21fcG9ydCA9IDIyCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
