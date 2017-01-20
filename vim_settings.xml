@@ -169,8 +169,10 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/terraform.tfvars.sample" timestamp="1484889482925">
-        <mark key="[" line="3" column="1" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/terraform.tfvars.sample" timestamp="1484900355363">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -185,7 +187,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dmFyaWFibGUgInJkc19wYXJhbWV0ZXJfZ3JvdXAiIHt9Cg==</text>
+        <text encoding="base64">cmRzX3BhcmFtZXRlcl9ncm91cCA9ICIiCg==</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -220,31 +222,31 @@
 }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFyaWFibGUgInJkc19wYXJhbWV0ZXJfZ3JvdXAiIHt9Cg==</text>
+        <text encoding="base64">cmRzX3BhcmFtZXRlcl9ncm91cCA9ICIiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmRzX3BhcmFtZXRlcl9ncm91cCA9ICJ0ZXJyYWZvcm0tdml2aWFuZS1jaWF0ci1tYXRvbWUtcGFyYW1ldGVyLWdyb3VwIgo=</text>
+        <text encoding="base64">dmFyaWFibGUgInJkc19wYXJhbWV0ZXJfZ3JvdXAiIHt9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">cmRzX3BhcmFtZXRlcl9ncm91cCA9ICJ0ZXJyYWZvcm0tdml2aWFuZS1jaWF0ci1tYXRvbWUtcGFyYW1ldGVyLWdyb3VwIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNpZHJfYmxvY2tzID0gWyIke3Zhci5yb290X3NlZ21lbnR9Il0K</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb3RvY29sID0gInRjcCIK</text>
+        <text encoding="base64">ICAgIGNpZHJfYmxvY2tzID0gWyIke3Zhci5yb290X3NlZ21lbnR9Il0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRvX3BvcnQgPSAyMgo=</text>
+        <text encoding="base64">ICAgIHByb3RvY29sID0gInRjcCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZyb21fcG9ydCA9IDIyCg==</text>
+        <text encoding="base64">ICAgIHRvX3BvcnQgPSAyMgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpbmdyZXNzIHsK</text>
+        <text encoding="base64">ICAgIGZyb21fcG9ydCA9IDIyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmVzb3VyY2UgImF3c19zZWN1cml0eV9ncm91cCIgIndlYl9zZyIgewo=</text>
+        <text encoding="base64">ICBpbmdyZXNzIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
