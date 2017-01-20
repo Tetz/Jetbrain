@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/terraform-ciatr/aws_ec2.tf" timestamp="1484918643272">
-        <mark key="[" line="5" column="15" />
-        <mark key="]" line="5" column="15" />
-        <mark key="." line="5" column="15" />
-        <mark key="^" line="4" column="21" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/aws_ec2.tf" timestamp="1484922745010">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ShopPresenter.scala" timestamp="1484306156403">
         <mark key="'" line="95" column="0" />
@@ -21,7 +20,7 @@
       <file name="$USER_HOME$/Code/terraform-ciatr/README.md" timestamp="1484892658111">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/aws_vpc.tf" timestamp="1484887360002" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/aws_vpc.tf" timestamp="1484922548442" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopClip.scala" timestamp="1484122690258">
         <mark key="[" line="24" column="6" />
         <mark key="]" line="24" column="68" />
@@ -34,7 +33,7 @@
         <mark key="^" line="25" column="32" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/aws_sg.tf" timestamp="1484897696603">
+      <file name="$USER_HOME$/Code/terraform-ciatr/aws_sg.tf" timestamp="1484922698022">
         <mark key="'" line="43" column="35" />
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -202,8 +201,8 @@
       <jump line="43" column="35" filename="$USER_HOME$/Code/terraform-ciatr/aws_sg.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Dev-CiatrMatomeAPI-2017-01-11</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB2cGNfc2VjdXJpdHlfZ3JvdXBfaWRzID0gIiR7ZGF0YS5hd3Nfc2VjdXJpdHlfZ3JvdXAud30iCg==</text>
       </register>
       <register name="-" type="4">
         <text>Dev-CiatrMatomeAPI-2017-01-11</text>
@@ -238,31 +237,31 @@
 }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2cGNfc2VjdXJpdHlfZ3JvdXBfaWRzID0gIiR7ZGF0YS5hd3Nfc2VjdXJpdHlfZ3JvdXAud30iCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICB2cGNfc2VjdXJpdHlfZ3JvdXBfaWRzID0gIiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZWdpb24gPSAiJHt2YXIucmVnaW9ufSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJvdmlkZXIgImF3cyIgewo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBvd25lcnMgPSBbIjA5OTcyMDEwOTQ3NyJdICMgQ2Fub25pY2FsCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICByZWdpb24gPSAidXMtd2VzdC0yIgo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICByZWdpb24gPSAiJHt2YXIucmVnaW9ufSIK</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">cHJvdmlkZXIgImF3cyIgewo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBvd25lcnMgPSBbIjA5OTcyMDEwOTQ3NyJdICMgQ2Fub25pY2FsCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">IyB0Mi5taWNybyBub2RlIHdpdGggYW4gQVdTIFRhZyBuYW1pbmcgaXQgIkhlbGxvV29ybGQiCg==</text>
+        <text encoding="base64">ICByZWdpb24gPSAidXMtd2VzdC0yIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
