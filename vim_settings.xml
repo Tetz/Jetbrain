@@ -19,7 +19,7 @@
         <mark key="^" line="24" column="68" />
         <mark key="." line="24" column="68" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/terraform.tfvars" timestamp="1484888551262">
+      <file name="$USER_HOME$/Code/terraform-ciatr/terraform.tfvars" timestamp="1484889400854">
         <mark key="[" line="10" column="12" />
         <mark key="]" line="10" column="19" />
         <mark key="^" line="10" column="19" />
@@ -153,7 +153,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/terraform.tfvars.sample" timestamp="1484884353052">
+      <file name="$USER_HOME$/Code/terraform-ciatr/terraform.tfvars.sample" timestamp="1484889482925">
         <mark key="[" line="3" column="1" />
       </file>
     </filemarks>
