@@ -22,11 +22,17 @@
         <mark key="^" line="24" column="68" />
         <mark key="." line="24" column="68" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/terraform.tfvars" timestamp="1484896356711">
+      <file name="$USER_HOME$/Code/terraform-ciatr/terraform.tfvars" timestamp="1484898331264">
         <mark key="[" line="18" column="12" />
         <mark key="]" line="18" column="0" />
         <mark key="^" line="18" column="32" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/terraform-ciatr/aws_sg.tf" timestamp="1484897696603">
+        <mark key="'" line="43" column="35" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ArticlePresenter.scala" timestamp="1484303387028">
         <mark key="[" line="50" column="20" />
@@ -170,17 +176,11 @@
       <jump line="29" column="0" filename="$USER_HOME$/Code/ApiOfflineMaterial/test/ShopControllerSpec.scala" />
       <jump line="37" column="41" filename="$USER_HOME$/Code/ApiOfflineMaterial/test/ShopControllerSpec.scala" />
       <jump line="9" column="29" filename="$USER_HOME$/Code/terraform-ciatr/variables.tf" />
+      <jump line="43" column="35" filename="$USER_HOME$/Code/terraform-ciatr/aws_sg.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>variable &quot;
-variable &quot;
-variable &quot;
-variable &quot;
-variable &quot;
-variable &quot;
-variable &quot;
-variable &quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -188,10 +188,54 @@ variable &quot;</text>
       <register name="/" type="4">
         <text encoding="base64">XDxOb25lXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRHcm91cC5rZXlzLmNvbnRhaW5zKCJhdHRyaWJ1dGVzIikgbXVzdEJlIHRydWUK</text>
+      <register name="0" type="4">
+        <text>resource &quot;aws_security_group&quot; &quot;web_sg&quot; {
+  name = &quot;${var.app_name} WEB Server&quot;
+  vpc_id = &quot;${aws_vpc.vpc_main.id}&quot;
+  ingress {
+    from_port = 22
+    to_port = 22
+    protocol = &quot;tcp&quot;
+    cidr_blocks = [&quot;${var.root_segment}&quot;]
+  }
+  ingress {
+    from_port = 80
+    to_port = 80
+    protocol = &quot;tcp&quot;
+    cidr_blocks = [&quot;${var.root_segment}&quot;]
+    security_groups = [&quot;${aws_security_group.lb_sg.id}&quot;]
+  }
+  egress {
+    from_port = 0
+    to_port = 0
+    protocol = &quot;-1&quot;
+    cidr_blocks = [&quot;0.0.0.0/0&quot;]
+  }
+  description = &quot;${var.app_name} WEB Server&quot;
+}</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNpZHJfYmxvY2tzID0gWyIke3Zhci5yb290X3NlZ21lbnR9Il0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByb3RvY29sID0gInRjcCIK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRvX3BvcnQgPSAyMgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGZyb21fcG9ydCA9IDIyCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBpbmdyZXNzIHsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">cmVzb3VyY2UgImF3c19zZWN1cml0eV9ncm91cCIgIndlYl9zZyIgewo=</text>
+      </register>
+      <register name="8" type="8">
         <text>variable &quot;
 variable &quot;
 variable &quot;
@@ -201,35 +245,8 @@ variable &quot;
 variable &quot;
 variable &quot;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">IyBSRFMK</text>
-      </register>
-      <register name="3" type="8">
-        <text>//variable &quot;
-//variable &quot;
-//variable &quot;
-//variable &quot;
-//variable &quot;
-//variable &quot;
-//variable &quot;</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyBBV1MgVlBDCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">dmFyaWFibGUgInJvb3Rfc2VnbWVudCIge30K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDb25zb2xlLnByaW50bG4oa2V5d29yZCkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgKGpzb24gXCAic2hvcCIpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgQ29uc29sZS5wcmludGxuKGpzb24pCg==</text>
+        <text encoding="base64">IyBSRFMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
