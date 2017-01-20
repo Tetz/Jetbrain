@@ -22,11 +22,11 @@
         <mark key="^" line="24" column="68" />
         <mark key="." line="24" column="68" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/terraform.tfvars" timestamp="1484889400854">
-        <mark key="[" line="10" column="12" />
-        <mark key="]" line="10" column="19" />
-        <mark key="^" line="10" column="19" />
-        <mark key="." line="10" column="19" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/terraform.tfvars" timestamp="1484895643922">
+        <mark key="[" line="18" column="12" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="32" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ArticlePresenter.scala" timestamp="1484303387028">
         <mark key="[" line="50" column="20" />
@@ -109,11 +109,13 @@
         <mark key="." line="13" column="63" />
         <mark key="^" line="13" column="63" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/variables.tf" timestamp="1484885117615">
+      <file name="$USER_HOME$/Code/terraform-ciatr/aws_rds.tf" timestamp="1484895054783" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/variables.tf" timestamp="1484895551696">
         <mark key="'" line="16" column="29" />
         <mark key="[" line="9" column="25" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+        <mark key="]" line="17" column="8" />
+        <mark key="." line="17" column="8" />
+        <mark key="^" line="17" column="8" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopAttributeGroupDescription.scala" timestamp="1481873177492">
         <mark key="[" line="8" column="34" />
@@ -171,13 +173,14 @@
     </jumps>
     <registers>
       <register name="&quot;" type="8">
-        <text>//variable &quot;
-//variable &quot;
-//variable &quot;
-//variable &quot;
-//variable &quot;
-//variable &quot;
-//variable &quot;</text>
+        <text>variable &quot;
+variable &quot;
+variable &quot;
+variable &quot;
+variable &quot;
+variable &quot;
+variable &quot;
+variable &quot;</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -189,6 +192,19 @@
         <text encoding="base64">ICAgICAgICBhdHRHcm91cC5rZXlzLmNvbnRhaW5zKCJhdHRyaWJ1dGVzIikgbXVzdEJlIHRydWUK</text>
       </register>
       <register name="1" type="8">
+        <text>variable &quot;
+variable &quot;
+variable &quot;
+variable &quot;
+variable &quot;
+variable &quot;
+variable &quot;
+variable &quot;</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">IyBSRFMK</text>
+      </register>
+      <register name="3" type="8">
         <text>//variable &quot;
 //variable &quot;
 //variable &quot;
@@ -197,29 +213,23 @@
 //variable &quot;
 //variable &quot;</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">IyBBV1MgVlBDCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">dmFyaWFibGUgInJvb3Rfc2VnbWVudCIge30K</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBDb25zb2xlLnByaW50bG4oa2V5d29yZCkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgKGpzb24gXCAic2hvcCIpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgQ29uc29sZS5wcmludGxuKGpzb24pCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgQ29uc29sZS5wcmludGxuKGpzb24pCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3QuTWF0Y2hlcnMuXwo=</text>
+        <text encoding="base64">ICAgICAgQ29uc29sZS5wcmludGxuKGpzb24pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
