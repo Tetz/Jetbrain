@@ -27,7 +27,7 @@
         <mark key="^" line="24" column="68" />
         <mark key="." line="24" column="68" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/terraform.tfvars" timestamp="1484903931561">
+      <file name="$USER_HOME$/Code/terraform-ciatr/terraform.tfvars" timestamp="1485141854732">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="^" line="25" column="32" />
@@ -125,13 +125,13 @@
         <mark key="." line="13" column="63" />
         <mark key="^" line="13" column="63" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/aws_rds.tf" timestamp="1484899503506">
+      <file name="$USER_HOME$/Code/terraform-ciatr/aws_rds.tf" timestamp="1485141902960">
         <mark key="[" line="26" column="50" />
         <mark key="]" line="26" column="34" />
         <mark key="^" line="26" column="34" />
         <mark key="." line="26" column="34" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/variables.tf" timestamp="1484903038661">
+      <file name="$USER_HOME$/Code/terraform-ciatr/variables.tf" timestamp="1485141910973">
         <mark key="'" line="16" column="29" />
         <mark key="[" line="27" column="25" />
         <mark key="]" line="27" column="26" />
@@ -179,10 +179,8 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/terraform.tfvars.sample" timestamp="1484900355363">
+      <file name="$USER_HOME$/Code/terraform-ciatr/terraform.tfvars.sample" timestamp="1485141827331">
         <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/s3_bucket_policy.json" timestamp="1484903870187">
         <mark key="[" line="0" column="0" />
