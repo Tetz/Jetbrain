@@ -14,7 +14,6 @@
         <mark key="." line="15" column="12" />
         <mark key="^" line="15" column="12" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.11/srcs/play_2.11-2.5.9-sources.jar!/play/api/Play.scala" timestamp="1484638113829" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ConsumerController.scala" timestamp="1484728591305">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="83" />
@@ -66,6 +65,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/frontend-android/project/app/src/main/java/jp/entermotion/roco/api/service/ApiClient.java" timestamp="1485242990630" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/AllSeed.scala" timestamp="1484034907115">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -84,7 +84,6 @@
         <mark key="." line="7" column="51" />
         <mark key="^" line="7" column="51" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.scalikejdbc/scalikejdbc-core_2.11/srcs/scalikejdbc-core_2.11-2.4.2-sources.jar!/scalikejdbc/interpolation/SQLSyntax.scala" timestamp="1484812138949" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/Authentication.scala" timestamp="1484713081274">
         <mark key="[" line="8" column="57" />
         <mark key="]" line="8" column="57" />
@@ -115,21 +114,18 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ShopControllerSpec.scala" timestamp="1484824515664" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopAttributeGroupDescription.scala" timestamp="1481873177492">
         <mark key="[" line="8" column="34" />
         <mark key="]" line="8" column="34" />
         <mark key="^" line="8" column="32" />
         <mark key="." line="8" column="34" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Shop.scala" timestamp="1484812391157" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ArticleClip.scala" timestamp="1484121762264">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/app/controllers/HomeController.scala" timestamp="1484558955861" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ArticlePresenter.scala" timestamp="1484303387028">
         <mark key="[" line="50" column="20" />
         <mark key="]" line="5" column="19" />
@@ -202,7 +198,6 @@
         <mark key="^" line="5" column="9" />
         <mark key="." line="5" column="9" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/Option.scala" timestamp="1484738160049" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/filters/HttpRequestFilter.scala" timestamp="1484647776611">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
