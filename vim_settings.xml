@@ -31,11 +31,10 @@
         <mark key="." line="7" column="51" />
         <mark key="^" line="7" column="51" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/MaterialGroupController.scala" timestamp="1485530260393">
-        <mark key="[" line="40" column="41" />
-        <mark key="]" line="34" column="50" />
-        <mark key="^" line="34" column="50" />
-        <mark key="." line="34" column="50" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/MaterialGroupController.scala" timestamp="1485531155488">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/aws_sg.tf" timestamp="1484922698022">
         <mark key="'" line="43" column="35" />
@@ -298,8 +297,8 @@
       <jump line="50" column="38" filename="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/MaterialGroupController.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bWF0ZXJpYWxHcm91cExpc3QuYXBwbHkubWFwKG1nID0+IGZvcm1hdChtZykp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgImRhdGEiIC0+IEpzb24udG9Kc29uKG1hdGVyaWFsR3JvdXAuYXBwbHkpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">bWF0ZXJpYWxHcm91cExpc3QuYXBwbHkubWFwKG1nID0+IGZvcm1hdChtZykp</text>
@@ -311,28 +310,28 @@
         <text encoding="base64">ICAgICAgImRhdGEiIC0+IG1hdGVyaWFsR3JvdXBMaXN0LmFwcGx5Lm1hcChtZyA9PiBmb3JtYXQobWcpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgImRhdGEiIC0+IEpzb24udG9Kc29uKG1hdGVyaWFsR3JvdXAuYXBwbHkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBfID0+IE1hdGVyaWFsV3JpdGVzLm1hdGVyaWFsR3JvdXBXcml0ZQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSAiZnVsbCIgPT4gTWF0ZXJpYWxXcml0ZXMubWF0ZXJpYWxHcm91cFdyaXRlCg==</text>
+        <text encoding="base64">ICAgICAgY2FzZSBfID0+IE1hdGVyaWFsV3JpdGVzLm1hdGVyaWFsR3JvdXBXcml0ZQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgY2FzZSAiZnVsbCIgPT4gTWF0ZXJpYWxXcml0ZXMubWF0ZXJpYWxHcm91cFdyaXRlCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgQ29uc29sZS5wcmludGxuKG1hdGVyaWFsKQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">fSBtYXRlcmlhbC5tYXRlcmlhbEh0bWwuZ2V0LmZpbGVOYW1lCiAgICAgICAgICAgIGNhc2UgMyA9Pnt9</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgIHZhbCBrZXkgPQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBOb25lID0+ICIiCg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBOb25lID0+ICIiCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
