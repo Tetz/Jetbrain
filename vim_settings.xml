@@ -152,8 +152,10 @@
         <mark key="." line="15" column="12" />
         <mark key="^" line="15" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-roco/README.md" timestamp="1485491152252">
-        <mark key="[" line="0" column="17" />
+      <file name="$USER_HOME$/Code/terraform-roco/README.md" timestamp="1485496712180">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ShopController.scala" timestamp="1485429883299">
         <mark key="[" line="26" column="56" />
@@ -172,7 +174,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-roco/terraform.tfvars.sample" timestamp="1485491572651">
+      <file name="$USER_HOME$/Code/terraform-roco/terraform.tfvars.sample" timestamp="1485496301856">
         <mark key="[" line="13" column="43" />
         <mark key="]" line="9" column="25" />
         <mark key="." line="9" column="25" />
@@ -272,8 +274,8 @@
       <jump line="126" column="2" filename="$USER_HOME$/Code/ApiOfflineMaterial/conf/application.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -285,31 +287,31 @@
         <text encoding="base64">ICAgIHNob3BDbGlwczogICAgICAgICAgICAgICAgICAgICAgU2VxW1Nob3BDbGlwXSAgICAgICAgICAgICAgICAgICAgICA9IE5pbCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXBwX25hbWUgPSAidGVycmFmb3JtLXZpdmlhbmUtY2lhdHItbWF0b21lIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">SWYgeW91Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">R0VUICAgICAvc2hvcHMgICAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlcnMuU2hvcENvbnRyb2xsZXIubGlzdEJ5Q29uc3VtZXIobGltaXQ6IE9wdGlvbltJbnRdLCBvZmZzZXQ6IEludCA/PSAwLCBrZXl3b3JkOiBPcHRpb25bU3RyaW5nXSwgc3ViZGl2aXNpb25JU09zOiBTdHJpbmcgPz0gIiIsIGF0dHJpYnV0ZUlkOiBPcHRpb25bTG9uZ10pCg==</text>
+        <text encoding="base64">Y3AgdGVycmFmb3JtLnRmdmFycy5zYW1wbGUgdGVycmFmb3JtLnRmdmFycwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA2NGZiNjAyNGVlMTdiM2FlMjUwNmRhZGM3NDdmMDhmMTUwNTY3YzJjCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Y3AgdGVycmFmb3JtLnRmdmFycy5zYW1wbGUgdGVycmFmb3JtLnRmdmFycwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Ly8gQ3JlYXRlIHYK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgbGlzdEJ5Q29uc3VtZXIobGltaXQ6IE9wdGlvbltJbnRdLCBvZmZzZXQ6IEludCwga2V5d29yZDogT3B0aW9uW1N0cmluZ10sIHN1YmRpdmlzaW9uSVNPczogU3RyaW5nLCBhdHRyaWJ1dGVJZDogT3B0aW9uW0xvbmddKSA9IEFjdGlvbiB7IGltcGxpY2l0IHJlcXVlc3QgPT4K</text>
+        <text encoding="base64">Y2Qgfi9Db2RlL3RlcnJhZm9ybS1yb2NvCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA2NGZiNjAyNGVlMTdiM2FlMjUwNmRhZGM3NDdmMDhmMTUwNTY3YzJjCg==</text>
+        <text encoding="base64">YXBwX25hbWUgPSAidGVycmFmb3JtLXZpdmlhbmUtY2lhdHItbWF0b21lIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -368,6 +370,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
