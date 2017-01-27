@@ -282,11 +282,11 @@
       <file name="/fragment.java" timestamp="1484814100123">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialGroupSummaryWrites.scala" timestamp="1485527375738">
-        <mark key="[" line="42" column="16" />
-        <mark key="]" line="42" column="27" />
-        <mark key="." line="42" column="27" />
-        <mark key="^" line="42" column="27" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialGroupSummaryWrites.scala" timestamp="1485528777859">
+        <mark key="[" line="10" column="35" />
+        <mark key="]" line="10" column="34" />
+        <mark key="." line="10" column="34" />
+        <mark key="^" line="10" column="34" />
       </file>
     </filemarks>
     <jumps>
@@ -299,10 +299,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgXyA9PiAiIgo=</text>
+        <text encoding="base64">ICAgICAgQ29uc29sZS5wcmludGxuKG1hdGVyaWFsKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>image</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGF5XD4=</text>
@@ -310,32 +310,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgXyA9PiAiIgo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgQ29uc29sZS5wcmludGxuKG1hdGVyaWFsKQo=</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">fSBtYXRlcmlhbC5tYXRlcmlhbEh0bWwuZ2V0LmZpbGVOYW1lCiAgICAgICAgICAgIGNhc2UgMyA9Pnt9</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgIHZhbCBrZXkgPQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBOb25lID0+ICIiCg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBOb25lID0+ICIiCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICB2YWwgbWF0ZXJpYWxUeXBlID0gbWF0ZXJpYWwubWF0ZXJpYWxUeXBlLmdldAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICJtYXRlcmlhbFR5cGVOYW1lIiAtPiBtYXRlcmlhbFR5cGUubmFtZSwK</text>
+        <text encoding="base64">Ly8gICAgICB2YWwgbWF0ZXJpYWxUeXBlID0gbWF0ZXJpYWwubWF0ZXJpYWxUeXBlLmdldAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICJtYXRlcmlhbFR5cGVJZCIgLT4gbWF0ZXJpYWxUeXBlLm1hdGVyaWFsVHlwZUlkLAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICJtYXRlcmlhbFR5cGVOYW1lIiAtPiBtYXRlcmlhbFR5cGUubmFtZSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAibWF0ZXJpYWxUeXBlTmFtZSIgLT4gbWF0ZXJpYWxUeXBlLm5hbWUsCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICJtYXRlcmlhbFR5cGVJZCIgLT4gbWF0ZXJpYWxUeXBlLm1hdGVyaWFsVHlwZUlkLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
