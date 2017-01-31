@@ -74,11 +74,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ShopControllerSpec.scala" timestamp="1485838223691">
-        <mark key="[" line="136" column="20" />
-        <mark key="]" line="136" column="20" />
-        <mark key="^" line="133" column="20" />
-        <mark key="." line="136" column="20" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ShopControllerSpec.scala" timestamp="1485842820009">
+        <mark key="[" line="24" column="10" />
+        <mark key="]" line="24" column="13" />
+        <mark key="^" line="24" column="13" />
+        <mark key="." line="24" column="13" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopAttributeGroupDescription.scala" timestamp="1481873177492">
         <mark key="[" line="8" column="34" />
@@ -290,10 +290,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>I</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>I</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGF5XD4=</text>
