@@ -255,7 +255,12 @@
         <mark key="." line="73" column="38" />
         <mark key="^" line="73" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialGroupSummaryWrites.scala" timestamp="1485843786318" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialGroupSummaryWrites.scala" timestamp="1485859453016">
+        <mark key="[" line="16" column="23" />
+        <mark key="]" line="16" column="26" />
+        <mark key="." line="16" column="26" />
+        <mark key="^" line="16" column="26" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/README.md" timestamp="1484043794680">
         <mark key="[" line="15" column="7" />
         <mark key="]" line="15" column="7" />
@@ -295,44 +300,48 @@
       <jump line="13" column="11" filename="$USER_HOME$/Code/ApiOfflineMaterial/test/MaterialGroupControllerSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text encoding="base64">IAog</text>
+      <register name="&quot;" type="4">
+        <text>Image</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Image</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGF5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF0ZXJpYWwua2V5cy5jb250YWlucygidmFsdWUiKSBtdXN0QmUgdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAxID0+ICJJbWFnZSIK</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">IAog</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBuIGlmIG4gPT0yID0+IE1hdGVyaWFsS2V5LmZpbmRCeUlkKG4pLmdldC5uYW1lCg==</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">ICAgCiAgIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBuIGlmIG4gPT0zID0+IE1hdGVyaWFsS2V5LmZpbmRCeUlkKG4pLmdldC5uYW1lCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xpcHBlZFNob3AgbWF0Y2ggewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAzID0+IE1hdGVyaWFsS2V5LmZpbmRCeUlkKG4pLmdldC5uYW1lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjYXNlIExpc3QoKSA9Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAyID0+IE1hdGVyaWFsS2V5LmZpbmRCeUlkKG4pLmdldC5uYW1lCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xpcHBlZFNob3AgbWF0Y2ggewo=</text>
+      <register name="5" type="8">
+        <text encoding="base64">PT0gCj09IAo9PSA=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjYXNlIExpc3QoKSA9Pgo=</text>
+      <register name="6" type="8">
+        <text encoding="base64">biBpZiBuIApuIGlmIG4gCm4gaWYgbiA=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCByZXN1bHQgPSBKc29uLm9iaigic3VjY2VzcyIgLT4gdHJ1ZSkK</text>
+      <register name="7" type="8">
+        <text>)
+)
+)</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjYXNlIF8gPT4gRXJyb3IoQXBwbGljYXRpb25FcnJvci5SZXNvdXJjZU5vdEZvdW5kKQo=</text>
+      <register name="8" type="8">
+        <text>(
+(
+(</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAyID0+IE1hdGVyaWFsS2V5LmZpbmRCeUlkKG4pLmdldC5uYW1lCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
