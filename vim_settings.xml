@@ -74,11 +74,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ShopControllerSpec.scala" timestamp="1485847822510">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="30" column="13" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ShopControllerSpec.scala" timestamp="1485850343375">
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="0" />
+        <mark key="." line="159" column="0" />
+        <mark key="^" line="159" column="61" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopAttributeGroupDescription.scala" timestamp="1481873177492">
         <mark key="[" line="8" column="34" />
@@ -291,10 +291,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF0ZXJpYWwua2V5cy5jb250YWlucygiaG9nZSIpIG11c3RCZSB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGpzb24gPSBjb250ZW50QXNKc29uKHJlc3VsdCkgXCAiZGF0YSIK</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGF5XD4=</text>
@@ -303,34 +303,35 @@
         <text encoding="base64">ICAgICAgICAgICAgbWF0ZXJpYWwua2V5cy5jb250YWlucygidmFsdWUiKSBtdXN0QmUgdHJ1ZQo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgdmFsIGpzb24gPSBjb250ZW50QXNKc29uKHJlc3VsdCkgXCAiZGF0YSIK</text>
+      </register>
+      <register name="2" type="8">
+        <text>.as[JsObject]
+.as[JsObject]</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAganNvbi5hc1tKc09iamVjdF0ua2V5cy5jb250YWlucygibWF0ZXJpYWxzIikgbXVzdEJlIHRydWUK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbWF0ZXJpYWwua2V5cy5jb250YWlucygiaG9nZSIpIG11c3RCZSB0cnVlCg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ29uc29sZS5wcmludGxuKG1hdGVyaWFsKQo=</text>
       </register>
-      <register name="3" type="8">
+      <register name="8" type="8">
         <text>.asOpt[JsObject].get.
 .asOpt[JsObject].get.
 .asOpt[JsObject].get.
 .asOpt[JsObject].get.</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF0ZXJpYWxzCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIENvbnNvbGUucHJpbnRsbihtYXRlcmlhbHMpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1hdGVyaWFsLgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDb25zb2xlLnByaW50bG4obWF0ZXJpYWxzKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBDb25zb2xlLnByaW50bG4oanNvbikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
