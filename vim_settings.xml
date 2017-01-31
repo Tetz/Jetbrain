@@ -20,9 +20,9 @@
         <mark key="^" line="31" column="56" />
         <mark key="." line="31" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ShopPresenter.scala" timestamp="1485837911635">
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ShopPresenter.scala" timestamp="1485843816343">
         <mark key="'" line="99" column="0" />
-        <mark key="[" line="142" column="19" />
+        <mark key="[" line="4" column="26" />
         <mark key="]" line="142" column="9" />
         <mark key="^" line="142" column="9" />
         <mark key="." line="142" column="9" />
@@ -74,11 +74,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ShopControllerSpec.scala" timestamp="1485842820009">
-        <mark key="[" line="24" column="10" />
-        <mark key="]" line="24" column="13" />
-        <mark key="^" line="24" column="13" />
-        <mark key="." line="24" column="13" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ShopControllerSpec.scala" timestamp="1485844508785">
+        <mark key="[" line="34" column="34" />
+        <mark key="]" line="34" column="38" />
+        <mark key="." line="34" column="38" />
+        <mark key="^" line="34" column="38" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopAttributeGroupDescription.scala" timestamp="1481873177492">
         <mark key="[" line="8" column="34" />
@@ -250,6 +250,7 @@
         <mark key="." line="73" column="38" />
         <mark key="^" line="73" column="38" />
       </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialGroupSummaryWrites.scala" timestamp="1485843786318" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/README.md" timestamp="1484043794680">
         <mark key="[" line="15" column="7" />
         <mark key="]" line="15" column="7" />
@@ -290,43 +291,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>id</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGF5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNsaWVudGpzb24uTWF0ZXJpYWxXcml0ZXMK</text>
+        <text encoding="base64">ICAgICAgICAgIG1hdGVyaWFsLmtleXMuY29udGFpbnMoImlkIikgbXVzdEJlIHRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNsaWVudGpzb24uTWF0ZXJpYWxTdW1tYXJ5V3JpdGVzCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNsaWVudGpzb24uTWF0ZXJpYWxXcml0ZQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgZm9ybWF0KG1hdGVyaWFsOiBNYXRlcmlhbCk6IEpzT2JqZWN0ID0gewo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGYud3JpdGVzKG1hdGVyaWFsKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBmID0gTWF0ZXJpYWxTdW1tYXJ5V3JpdGVzLm1hdGVyaWFsV3JpdGUK</text>
-      </register>
-      <register name="8" type="2">
+      <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IGNsaWVudGpzb24uTWF0ZXJpYWxTdW1tYXJ5V3JpdGVzCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGNsaWVudGpzb24uTWF0ZXJpYWxXcml0ZQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBkZWYgZm9ybWF0KG1hdGVyaWFsOiBNYXRlcmlhbCk6IEpzT2JqZWN0ID0gewo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGYud3JpdGVzKG1hdGVyaWFsKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHZhbCBmID0gTWF0ZXJpYWxTdW1tYXJ5V3JpdGVzLm1hdGVyaWFsV3JpdGUK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IGNsaWVudGpzb24uTWF0ZXJpYWxTdW1tYXJ5V3JpdGVzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
