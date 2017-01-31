@@ -20,6 +20,13 @@
         <mark key="^" line="31" column="56" />
         <mark key="." line="31" column="56" />
       </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ShopPresenter.scala" timestamp="1485837911635">
+        <mark key="'" line="99" column="0" />
+        <mark key="[" line="142" column="19" />
+        <mark key="]" line="142" column="9" />
+        <mark key="^" line="142" column="9" />
+        <mark key="." line="142" column="9" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/tasks/seed.scala" timestamp="1485411406080">
         <mark key="[" line="16" column="4" />
         <mark key="]" line="16" column="4" />
@@ -48,6 +55,13 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/application.conf" timestamp="1484633538457">
+        <mark key="'" line="126" column="2" />
+        <mark key="[" line="126" column="2" />
+        <mark key="]" line="126" column="1" />
+        <mark key="^" line="126" column="1" />
+        <mark key="." line="126" column="1" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/Filters.scala" timestamp="1484647826471">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -59,6 +73,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="15" column="19" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ShopControllerSpec.scala" timestamp="1485838223691">
+        <mark key="[" line="136" column="20" />
+        <mark key="]" line="136" column="20" />
+        <mark key="^" line="133" column="20" />
+        <mark key="." line="136" column="20" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopAttributeGroupDescription.scala" timestamp="1481873177492">
         <mark key="[" line="8" column="34" />
@@ -269,11 +289,11 @@
       <jump line="13" column="11" filename="$USER_HOME$/Code/ApiOfflineMaterial/test/MaterialGroupControllerSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNsaWVudGpzb24uTWF0ZXJpYWxTdW1tYXJ5V3JpdGVzCg==</text>
+      <register name="&quot;" type="4">
+        <text>I</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>I</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGF5XD4=</text>
