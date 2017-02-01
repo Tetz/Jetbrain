@@ -9,6 +9,12 @@
         <mark key="." line="78" column="45" />
         <mark key="^" line="78" column="36" />
       </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/MaterialGroupModelSpec.scala" timestamp="1485933565587">
+        <mark key="[" line="15" column="65" />
+        <mark key="]" line="16" column="5" />
+        <mark key="." line="16" column="5" />
+        <mark key="^" line="16" column="5" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ConsumerController.scala" timestamp="1484728591305">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="83" />
@@ -87,7 +93,6 @@
         <mark key="^" line="8" column="32" />
         <mark key="." line="8" column="34" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-roco/aws_rds.tf" timestamp="1485491696054" />
       <file name="$USER_HOME$/Code/roco-migration-tool/bin/reset" timestamp="1485404367820">
         <mark key="[" line="41" column="57" />
       </file>
@@ -156,8 +161,11 @@
         <mark key="." line="32" column="1" />
         <mark key="^" line="32" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/MaterialGroupController.scala" timestamp="1485516313599">
-        <mark key="^" line="56" column="11" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/MaterialGroupController.scala" timestamp="1485932595842">
+        <mark key="[" line="5" column="34" />
+        <mark key="]" line="5" column="33" />
+        <mark key="^" line="5" column="33" />
+        <mark key="." line="5" column="33" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/filters/HttpRequestFilter.scala" timestamp="1484647776611">
         <mark key="[" line="5" column="0" />
@@ -279,8 +287,6 @@
         <mark key="." line="35" column="86" />
         <mark key="^" line="35" column="86" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-roco/variables.tf" timestamp="1485491684085" />
-      <file name="$USER_HOME$/Code/terraform-roco/terraform.tfvars" timestamp="1485493579876" />
       <file name="$USER_HOME$/Code/roco-admin-dashboard/.gitignore" timestamp="1484559962420">
         <mark key="[" line="5" column="10" />
         <mark key="]" line="5" column="9" />
@@ -301,10 +307,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>material</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>material</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGF5XD4=</text>
@@ -313,33 +319,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY2FzZSAxID0+ICJJbWFnZSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29uc29sZS5wcmludGxuKEpzb24ucHJldHR5UHJpbnQobWF0ZXJpYWwpKQo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcHBqKGpzb24pCg==</text>
+        <text encoding="base64">ICAgICAgICByb3cua2V5cy5jb250YWlucygibWF0ZXJpYWxzIikgbXVzdEJlIHRydWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBuIGlmIG4gPT0yID0+IE1hdGVyaWFsS2V5LmZpbmRCeUlkKG4pLmdldC5uYW1lCg==</text>
+        <text encoding="base64">ICAgICAgICByb3cua2V5cy5jb250YWlucygiaWQiKSBtdXN0QmUgdHJ1ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBuIGlmIG4gPT0zID0+IE1hdGVyaWFsS2V5LmZpbmRCeUlkKG4pLmdldC5uYW1lCg==</text>
+        <text encoding="base64">ICAgICAganNvbi5hc1tMaXN0W0pzT2JqZWN0XV0uZm9yZWFjaCB7IHJvdyA9Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAzID0+IE1hdGVyaWFsS2V5LmZpbmRCeUlkKG4pLmdldC5uYW1lCg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGpzb24gPSBjb250ZW50QXNKc29uKHJlc3VsdCkgXCAiZGF0YSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAyID0+IE1hdGVyaWFsS2V5LmZpbmRCeUlkKG4pLmdldC5uYW1lCg==</text>
+        <text encoding="base64">ICAgICAgLy8gQ2hlY2sgdGhlIHJlc3BvbnNlCg==</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">PT0gCj09IAo9PSA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">biBpZiBuIApuIGlmIG4gCm4gaWYgbiA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgc3RhdHVzKHJlc3VsdCkgbXVzdEJlIE9LCg==</text>
       </register>
-      <register name="9" type="8">
-        <text>)
-)
-)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgdmFsIHJlc3VsdCA9IHJvdXRlKGFwcCwgRmFrZVJlcXVlc3QoR0VULCBzIi9tYXRlcmlhbEdyb3VwcyIpKS5nZXQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
