@@ -26,7 +26,12 @@
         <mark key="^" line="31" column="56" />
         <mark key="." line="31" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ShopPresenter.scala" timestamp="1486104934784" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ShopPresenter.scala" timestamp="1486106661707">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="25" column="14" />
+        <mark key="^" line="25" column="14" />
+        <mark key="." line="25" column="14" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/tasks/seed.scala" timestamp="1485411406080">
         <mark key="[" line="16" column="4" />
         <mark key="]" line="16" column="4" />
@@ -167,11 +172,11 @@
         <mark key="." line="15" column="12" />
         <mark key="^" line="15" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ShopController.scala" timestamp="1486105125934">
-        <mark key="[" line="145" column="19" />
-        <mark key="]" line="145" column="24" />
-        <mark key="." line="145" column="24" />
-        <mark key="^" line="145" column="24" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ShopController.scala" timestamp="1486106533500">
+        <mark key="[" line="17" column="64" />
+        <mark key="]" line="17" column="64" />
+        <mark key="." line="17" column="64" />
+        <mark key="^" line="17" column="64" />
       </file>
       <file name="$USER_HOME$/Code/terraform-roco/.gitignore" timestamp="1485494751134">
         <mark key="[" line="0" column="12" />
