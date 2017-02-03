@@ -26,11 +26,11 @@
         <mark key="^" line="31" column="56" />
         <mark key="." line="31" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ShopPresenter.scala" timestamp="1486113043531">
-        <mark key="[" line="58" column="35" />
-        <mark key="]" line="58" column="35" />
-        <mark key="." line="58" column="35" />
-        <mark key="^" line="58" column="35" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ShopPresenter.scala" timestamp="1486117830376">
+        <mark key="[" line="58" column="65" />
+        <mark key="]" line="58" column="33" />
+        <mark key="^" line="58" column="33" />
+        <mark key="." line="58" column="33" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/AttributeGroupKey.scala" timestamp="1481795654519">
         <mark key="[" line="9" column="29" />
@@ -162,11 +162,11 @@
         <mark key="." line="15" column="12" />
         <mark key="^" line="15" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ShopController.scala" timestamp="1486116271396">
-        <mark key="[" line="66" column="43" />
-        <mark key="]" line="66" column="43" />
-        <mark key="." line="66" column="43" />
-        <mark key="^" line="66" column="36" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ShopController.scala" timestamp="1486117590060">
+        <mark key="[" line="67" column="43" />
+        <mark key="]" line="67" column="43" />
+        <mark key="." line="67" column="43" />
+        <mark key="^" line="67" column="36" />
       </file>
       <file name="$USER_HOME$/Code/terraform-roco/.gitignore" timestamp="1485494751134">
         <mark key="[" line="0" column="12" />
@@ -284,43 +284,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>shopAttributeGroupDescriptionsRef</text>
+        <text>attributeId</text>
       </register>
       <register name="-" type="4">
-        <text>shopAttributeGroupDescriptionsRef</text>
+        <text>attributeId</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiaWQiIC0+IGF0dHJpYnV0ZVRvU2hvcFJlZi5hdHRyaWJ1dGVUb1Nob3BSZWZJZCwK</text>
+        <text encoding="base64">ICAgICAgICAiYXR0cmlidXRlSWQiIC0+IGF0dHJpYnV0ZVRvU2hvcFJlZi5hdHRyaWJ1dGVJZCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAic2hvcElkIiAtPiBhdHRyaWJ1dGVUb1Nob3BSZWYuc2hvcElkLAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiYXR0cmlidXRlR3JvdXBLZXkiIC0+IEpzb24udG9Kc29uKGF0dHJpYnV0ZVRvU2hvcFJlZi5hdHRyaWJ1dGVHcm91cEtleSksCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAibWF4U2VsZWN0aW9uQ291bnQiIC0+IGF0dHJpYnV0ZVRvU2hvcFJlZi5tYXhTZWxlY3Rpb25Db3VudCwK</text>
+        <text encoding="base64">ICAgICAgICAiYXR0cmlidXRlR3JvdXBLZXkiIC0+IEpzb24udG9Kc29uKGF0dHJpYnV0ZVRvU2hvcFJlZi5hdHRyaWJ1dGVHcm91cEtleSksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAid2VpZ2h0IiAtPiBhdHRyaWJ1dGVUb1Nob3BSZWYud2VpZ2h0LAo=</text>
+        <text encoding="base64">ICAgICAgICAibWF4U2VsZWN0aW9uQ291bnQiIC0+IGF0dHJpYnV0ZVRvU2hvcFJlZi5tYXhTZWxlY3Rpb25Db3VudCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAibmFtZSIgLT4gYXR0cmlidXRlVG9TaG9wUmVmLm5hbWUsCg==</text>
+        <text encoding="base64">ICAgICAgICAid2VpZ2h0IiAtPiBhdHRyaWJ1dGVUb1Nob3BSZWYud2VpZ2h0LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiYXR0cmlidXRlR3JvdXBLZXlJZCIgLT4gYXR0cmlidXRlVG9TaG9wUmVmLmF0dHJpYnV0ZUdyb3VwS2V5SWQsCg==</text>
+        <text encoding="base64">ICAgICAgICAibmFtZSIgLT4gYXR0cmlidXRlVG9TaG9wUmVmLm5hbWUsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAiYXR0cmlidXRlR3JvdXBLZXlJZCIgLT4gYXR0cmlidXRlVG9TaG9wUmVmLmF0dHJpYnV0ZUdyb3VwS2V5SWQsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2ltZy9odG1sL2dj</text>
