@@ -26,12 +26,10 @@
         <mark key="^" line="31" column="56" />
         <mark key="." line="31" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ShopPresenter.scala" timestamp="1485843816343">
-        <mark key="'" line="99" column="0" />
-        <mark key="[" line="4" column="26" />
-        <mark key="]" line="142" column="9" />
-        <mark key="^" line="142" column="9" />
-        <mark key="." line="142" column="9" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ShopPresenter.scala" timestamp="1486101920552">
+        <mark key="[" line="120" column="55" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/tasks/seed.scala" timestamp="1485411406080">
         <mark key="[" line="16" column="4" />
@@ -55,13 +53,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/application.conf" timestamp="1484633538457">
-        <mark key="'" line="126" column="2" />
-        <mark key="[" line="126" column="2" />
-        <mark key="]" line="126" column="1" />
-        <mark key="^" line="126" column="1" />
-        <mark key="." line="126" column="1" />
-      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/Filters.scala" timestamp="1484647826471">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -74,10 +65,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ShopControllerSpec.scala" timestamp="1486095169408">
-        <mark key="[" line="227" column="0" />
-        <mark key="]" line="227" column="0" />
-        <mark key="." line="227" column="0" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ShopControllerSpec.scala" timestamp="1486101554939">
+        <mark key="[" line="163" column="10" />
+        <mark key="]" line="163" column="10" />
+        <mark key="." line="163" column="10" />
+        <mark key="^" line="163" column="10" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopAttributeGroupDescription.scala" timestamp="1481873177492">
         <mark key="[" line="8" column="34" />
@@ -179,11 +171,11 @@
         <mark key="." line="15" column="12" />
         <mark key="^" line="15" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ShopController.scala" timestamp="1486098400628">
-        <mark key="[" line="64" column="43" />
-        <mark key="]" line="64" column="42" />
-        <mark key="." line="64" column="42" />
-        <mark key="^" line="64" column="42" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ShopController.scala" timestamp="1486103004586">
+        <mark key="[" line="81" column="8" />
+        <mark key="]" line="81" column="20" />
+        <mark key="." line="81" column="20" />
+        <mark key="^" line="81" column="20" />
       </file>
       <file name="$USER_HOME$/Code/terraform-roco/.gitignore" timestamp="1485494751134">
         <mark key="[" line="0" column="12" />
@@ -309,11 +301,11 @@
       <jump line="11" column="34" filename="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialGroupSummaryWrites.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIE9rKHJlc3VsdCkK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">dmFsIHJlc3VsdCA9IA==</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
@@ -322,31 +314,31 @@
         <text encoding="base64">ICB2YWwgTWF0ZXJpYWxIdG1sTm90Rm91bmQgPSAibWF0ZXJpYWxIdG1sIGlzIG5vdCBmb3VuZCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcHBqKGpzb24pCg==</text>
+        <text encoding="base64">ICAgIE9rKHJlc3VsdCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNsaWVudGpzb24uTWF0ZXJpYWxXcml0ZXMuXwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBPayhyZXN1bHQpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIHZhbCByZXN1bHQgPSBKc29uLm9iaigiZGF0YSIgLT4gU2hvcFdyaXRlKHNob3AsIGZhbHNlKS50b0pzb24pKQogICAgT2socmVzdWx0KQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIENvbnNvbGUucHJpbnRsbihKc29uLnByZXR0eVByaW50KHJlc3VsdCkpCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBNYXRlcmlhbEdyb3VwIHNob3VsZCBoYXZlIGEgb25lIGNvbnRlbnQK</text>
+        <text encoding="base64">ICAgICAgY2FzZSBfID0+IHRydWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxpa2VqZGJjLnNxbHMK</text>
+        <text encoding="base64">ICAgICAgY2FzZSAwID0+IGZhbHNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLnRlc3QuSGVscGVycy5fCg==</text>
+        <text encoding="base64">ICAgIGRlZiBpc0NsaXBwZWQoeDogSW50KTogQm9vbGVhbiA9IHggbWF0Y2ggewo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2ltZy9odG1sL2dj</text>
