@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/application.conf" timestamp="1484633538457">
-        <mark key="'" line="126" column="2" />
-        <mark key="[" line="126" column="2" />
-        <mark key="]" line="126" column="1" />
-        <mark key="^" line="126" column="1" />
-        <mark key="." line="126" column="1" />
-      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/Filters.scala" timestamp="1484647826471">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -46,6 +39,7 @@
         <mark key="^" line="9" column="57" />
         <mark key="." line="9" column="57" />
       </file>
+      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/php70/defaults/main.yml" timestamp="1486186134108" />
       <file name="$USER_HOME$/Code/seeder/src/seeder/json/skinny/seeder.scala" timestamp="1484035003218">
         <mark key="[" line="5" column="20" />
         <mark key="]" line="5" column="18" />
@@ -100,6 +94,7 @@
         <mark key="." line="87" column="25" />
         <mark key="^" line="87" column="25" />
       </file>
+      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/php70/tasks/configure.yml" timestamp="1486186161040" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ConsumerController.scala" timestamp="1484728591305">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="83" />
@@ -124,19 +119,14 @@
         <mark key="." line="35" column="86" />
         <mark key="^" line="35" column="86" />
       </file>
+      <file name="$USER_HOME$/vm/ciatr-vm/README.md" timestamp="1486187914886" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/seeder/src/seeder/json/skinny/seeder.scala" timestamp="1485408991466">
         <mark key="[" line="9" column="10" />
         <mark key="]" line="9" column="20" />
         <mark key="^" line="9" column="20" />
         <mark key="." line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ShopPresenter.scala" timestamp="1485843816343">
-        <mark key="'" line="99" column="0" />
-        <mark key="[" line="4" column="26" />
-        <mark key="]" line="142" column="9" />
-        <mark key="^" line="142" column="9" />
-        <mark key="." line="142" column="9" />
-      </file>
+      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/php70/handlers/main.yml" timestamp="1486186155228" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/AttributeGroupKey.scala" timestamp="1481795654519">
         <mark key="[" line="9" column="29" />
         <mark key="]" line="20" column="50" />
@@ -286,6 +276,7 @@
         <mark key="^" line="5" column="9" />
         <mark key="." line="5" column="9" />
       </file>
+      <file name="$USER_HOME$/vm/ciatr-vm/Vagrantfile" timestamp="1486188388122" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/MaterialGroup.scala" timestamp="1486009206472">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
