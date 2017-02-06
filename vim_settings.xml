@@ -79,10 +79,9 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/aws_alb.tf" timestamp="1486371619352">
-        <mark key="[" line="4" column="44" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/aws_alb.tf" timestamp="1486375557589">
+        <mark key="[" line="1" column="24" />
         <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ArticleClip.scala" timestamp="1484121762264">
@@ -133,8 +132,8 @@
         <mark key="." line="20" column="50" />
         <mark key="^" line="20" column="50" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/aws_vpc.tf" timestamp="1486371570324">
-        <mark key="[" line="55" column="1" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/aws_vpc.tf" timestamp="1486375246130">
+        <mark key="[" line="64" column="1" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopClip.scala" timestamp="1484646731405">
         <mark key="[" line="25" column="57" />
@@ -153,11 +152,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/terraform.tfvars" timestamp="1486371514238">
-        <mark key="[" line="18" column="28" />
-        <mark key="]" line="18" column="27" />
-        <mark key="^" line="18" column="27" />
-        <mark key="." line="18" column="27" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/terraform.tfvars" timestamp="1486374889781">
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="21" column="14" />
+        <mark key="^" line="21" column="14" />
+        <mark key="." line="21" column="14" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialWrites.scala" timestamp="1485516296738">
         <mark key="[" line="4" column="0" />
@@ -255,11 +254,11 @@
         <mark key="]" line="28" column="1" />
         <mark key="." line="28" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/variables.tf" timestamp="1486371522890">
-        <mark key="[" line="17" column="28" />
-        <mark key="]" line="17" column="32" />
-        <mark key="^" line="16" column="30" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/variables.tf" timestamp="1486374939089">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="19" column="24" />
+        <mark key="^" line="19" column="24" />
+        <mark key="." line="19" column="24" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopAttributeGroupDescription.scala" timestamp="1481873177492">
         <mark key="[" line="8" column="34" />
@@ -316,43 +315,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dmFyaWFibGUgInB1YmxpY19zZWdtZW50X2FsYiIge30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">dmFyaWFibGUgInB1YmxpY19zZWdtZW50X2FsYiIge30K</text>
+      <register name="0" type="4">
+        <text encoding="base64">cHVibGljX3NlZ21lbnQxX2FsYiA9ICI3Ny4wLjMuMC8yNCIKcHVibGljX3NlZ21lbnQxX2FsYl9heiA9ICJhcC1ub3J0aGVhc3QtMWMiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHVibGljX3NlZ21lbnQxX2F6ID0gImFwLW5vcnRoZWFzdC0xYSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHVibGljX3NlZ21lbnQxID0gIjc3LjAuMS4wLzI0Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIChTb21lKG1pKSxtdCkgPT4gCg==</text>
+      <register name="3" type="4">
+        <text>//  access_logs {
+//    bucket = &quot;${aws_s3_bucket.alb_logs.bucket}&quot;
+//    prefix = &quot;test-alb&quot;
+//  }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">cHVibGljX3NlZ21lbnQxX2F6ID0gImFwLW5vcnRoZWFzdC0xYSIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgKG1hdGVyaWFsLm1hdGVyaWFsVHlwZSwgbWF0ZXJpYWwgCg==</text>
+        <text encoding="base64">cHVibGljX3NlZ21lbnQxID0gIjc3LjAuMS4wLzI0Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIChTb21lKG1pKSxtdCkgPT4gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgXyA9PiAiIgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgU29tZSh0ZXh0KSA9PiB0ZXh0LnRleHQK</text>
+        <text encoding="base64">ICAgICAgKG1hdGVyaWFsLm1hdGVyaWFsVHlwZSwgbWF0ZXJpYWwgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBNYXRlcmlhbFRleHQuZmluZEJ5SWQobWF0ZXJpYWwubWF0ZXJpYWxUZXh0SWQuZ2V0KSBtYXRjaCB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2ltZy9odG1sL2dj</text>
