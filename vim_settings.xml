@@ -39,7 +39,6 @@
         <mark key="^" line="9" column="57" />
         <mark key="." line="9" column="57" />
       </file>
-      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/php70/defaults/main.yml" timestamp="1486186134108" />
       <file name="$USER_HOME$/Code/seeder/src/seeder/json/skinny/seeder.scala" timestamp="1484035003218">
         <mark key="[" line="5" column="20" />
         <mark key="]" line="5" column="18" />
@@ -58,7 +57,6 @@
         <mark key="^" line="8" column="57" />
         <mark key="." line="8" column="57" />
       </file>
-      <file name="$USER_HOME$/Code/ciatr_matome_api/app/Models/Commons/ArticleComponentTypeEnum.php" timestamp="1486185205797" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/LabelController.scala" timestamp="1484710635187">
         <mark key="[" line="28" column="3" />
         <mark key="]" line="29" column="1" />
@@ -86,15 +84,12 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/ciatr_matome_api/app/Http/Controllers/BaseController.php" timestamp="1486183655396" />
-      <file name="$USER_HOME$/Code/ciatr_matome_api/app/Http/Middleware/Authenticate.php" timestamp="1486183955771" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialPresenter.scala" timestamp="1481786103650">
         <mark key="[" line="87" column="25" />
         <mark key="]" line="87" column="25" />
         <mark key="." line="87" column="25" />
         <mark key="^" line="87" column="25" />
       </file>
-      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/php70/tasks/configure.yml" timestamp="1486186161040" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ConsumerController.scala" timestamp="1484728591305">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="83" />
@@ -119,14 +114,12 @@
         <mark key="." line="35" column="86" />
         <mark key="^" line="35" column="86" />
       </file>
-      <file name="$USER_HOME$/vm/ciatr-vm/README.md" timestamp="1486187914886" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/seeder/src/seeder/json/skinny/seeder.scala" timestamp="1485408991466">
         <mark key="[" line="9" column="10" />
         <mark key="]" line="9" column="20" />
         <mark key="^" line="9" column="20" />
         <mark key="." line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/php70/handlers/main.yml" timestamp="1486186155228" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/AttributeGroupKey.scala" timestamp="1481795654519">
         <mark key="[" line="9" column="29" />
         <mark key="]" line="20" column="50" />
@@ -149,6 +142,9 @@
         <mark key="[" line="12" column="33" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/terraform-ciatr/terraform.tfvars" timestamp="1486365999888">
+        <mark key="[" line="4" column="14" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialWrites.scala" timestamp="1485516296738">
         <mark key="[" line="4" column="0" />
@@ -276,7 +272,6 @@
         <mark key="^" line="5" column="9" />
         <mark key="." line="5" column="9" />
       </file>
-      <file name="$USER_HOME$/vm/ciatr-vm/Vagrantfile" timestamp="1486188388122" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/MaterialGroup.scala" timestamp="1486009206472">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
