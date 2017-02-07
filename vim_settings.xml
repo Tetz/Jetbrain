@@ -39,8 +39,8 @@
         <mark key="^" line="9" column="57" />
         <mark key="." line="9" column="57" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/aws_sg.tf" timestamp="1486386217282">
-        <mark key="[" line="4" column="47" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/aws_sg.tf" timestamp="1486389890633">
+        <mark key="[" line="19" column="8" />
         <mark key="]" line="5" column="1" />
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="1" />
@@ -69,7 +69,7 @@
         <mark key="." line="29" column="1" />
         <mark key="^" line="29" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/aws_alb.tf" timestamp="1486386372353">
+      <file name="$USER_HOME$/Code/terraform-ciatr/aws_alb.tf" timestamp="1486388570068">
         <mark key="[" line="10" column="2" />
         <mark key="]" line="10" column="8" />
         <mark key="^" line="10" column="8" />
@@ -81,8 +81,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/aws_rds.tf" timestamp="1486386026805">
-        <mark key="[" line="12" column="3" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/aws_rds.tf" timestamp="1486389071389">
+        <mark key="[" line="0" column="42" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="57" column="2" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialPresenter.scala" timestamp="1481786103650">
         <mark key="[" line="87" column="25" />
@@ -120,11 +123,11 @@
         <mark key="^" line="9" column="20" />
         <mark key="." line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/aws_ec2.tf" timestamp="1486385223958">
-        <mark key="[" line="20" column="22" />
-        <mark key="]" line="24" column="34" />
-        <mark key="^" line="24" column="34" />
-        <mark key="." line="24" column="34" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/aws_ec2.tf" timestamp="1486390494445">
+        <mark key="[" line="27" column="22" />
+        <mark key="]" line="32" column="34" />
+        <mark key="^" line="32" column="34" />
+        <mark key="." line="32" column="34" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/AttributeGroupKey.scala" timestamp="1481795654519">
         <mark key="[" line="9" column="29" />
@@ -132,8 +135,8 @@
         <mark key="." line="20" column="50" />
         <mark key="^" line="20" column="50" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/aws_vpc.tf" timestamp="1486375246130">
-        <mark key="[" line="64" column="1" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/aws_vpc.tf" timestamp="1486390342836">
+        <mark key="[" line="80" column="1" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopClip.scala" timestamp="1484646731405">
         <mark key="[" line="25" column="57" />
@@ -147,8 +150,8 @@
         <mark key="^" line="3" column="72" />
         <mark key="." line="3" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/terraform.tfvars" timestamp="1486386315543">
-        <mark key="[" line="10" column="14" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/terraform.tfvars" timestamp="1486389346822">
+        <mark key="[" line="9" column="36" />
         <mark key="]" line="10" column="22" />
         <mark key="^" line="10" column="22" />
         <mark key="." line="10" column="22" />
@@ -189,7 +192,7 @@
         <mark key="." line="32" column="1" />
         <mark key="^" line="32" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/aws_s3.tf" timestamp="1486386367844">
+      <file name="$USER_HOME$/Code/terraform-ciatr/aws_s3.tf" timestamp="1486389496405">
         <mark key="[" line="6" column="3" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/README.md" timestamp="1484043794680">
@@ -278,7 +281,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBkZXNjcmlwdGlvbiA9ICIke3Zhci5hcHBfbmFtZX0gTG9hZCBCYWxhbmNlciIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -298,31 +301,31 @@
 }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZXNjcmlwdGlvbiA9ICIke3Zhci5hcHBfbmFtZX0gTG9hZCBCYWxhbmNlciIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZXNjcmlwdGlvbiA9ICIke3Zhci5hcHBfbmFtZX0gTXlTUUwgU2VydmVyIgo=</text>
+        <text encoding="base64">ICB0YWdzIHtDcmVhdGVkQnkgPSAiJHt2YXIuYXBwX25hbWV9In0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0YWdzIHsK</text>
+        <text encoding="base64">ICB0YWdzIHtDcmVhdGVkQnkgPSAiJHt2YXIuYXBwX25hbWV9In0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZWRCeSA9ICJ0ZXJhZm9ybSIK</text>
+        <text encoding="base64">ICBkZXNjcmlwdGlvbiA9ICIke3Zhci5hcHBfbmFtZX0gTG9hZCBCYWxhbmNlciIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZXNjcmlwdGlvbiA9ICIke3Zhci5hcHBfbmFtZX0gTXlTUUwgU2VydmVyIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZXNjcmlwdGlvbiA9ICIke3Zhci5hcHBfbmFtZX0gV0VCIFNlcnZlciIK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0YWdzIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0YWdzIHsK</text>
+        <text encoding="base64">ICAgIGNyZWF0ZWRCeSA9ICJ0ZXJhZm9ybSIK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2ltZy9odG1sL2dj</text>
