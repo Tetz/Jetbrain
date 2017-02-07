@@ -169,7 +169,7 @@
         <mark key="." line="32" column="1" />
         <mark key="^" line="32" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/MaterialGroupController.scala" timestamp="1486093177999">
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/MaterialGroupController.scala" timestamp="1486445655057">
         <mark key="[" line="4" column="45" />
         <mark key="]" line="4" column="45" />
         <mark key="^" line="39" column="45" />
@@ -191,11 +191,11 @@
         <mark key="." line="15" column="12" />
         <mark key="^" line="15" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ShopController.scala" timestamp="1486117590060">
-        <mark key="[" line="67" column="43" />
-        <mark key="]" line="67" column="43" />
-        <mark key="." line="67" column="43" />
-        <mark key="^" line="67" column="36" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ShopController.scala" timestamp="1486445874297">
+        <mark key="[" line="156" column="13" />
+        <mark key="]" line="156" column="13" />
+        <mark key="." line="156" column="13" />
+        <mark key="^" line="155" column="54" />
       </file>
       <file name="$USER_HOME$/Code/terraform-roco/.gitignore" timestamp="1485494751134">
         <mark key="[" line="0" column="12" />
@@ -283,7 +283,7 @@
         <mark key="." line="18" column="68" />
         <mark key="^" line="18" column="68" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/MaterialController.scala" timestamp="1485516615010">
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/MaterialController.scala" timestamp="1486445883423">
         <mark key="[" line="72" column="54" />
         <mark key="]" line="73" column="38" />
         <mark key="." line="73" column="38" />
@@ -333,11 +333,11 @@
       <jump line="11" column="34" filename="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialGroupSummaryWrites.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNsaWVudGpzb24uTWF0ZXJpYWxHcm91cFN1bW1hcnlXcml0ZXMuXwo=</text>
+      <register name="&quot;" type="4">
+        <text>materialGroup</text>
       </register>
       <register name="-" type="4">
-        <text>attributeId</text>
+        <text>materialGroup</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
