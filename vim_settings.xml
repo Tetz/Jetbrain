@@ -309,11 +309,6 @@
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/MaterialGroup.scala" timestamp="1486009206472">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialWrites.scala" timestamp="1485516296738">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -383,10 +378,11 @@
         <mark key="^" line="11" column="4" />
         <mark key="." line="11" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/admin/MaterialGroupController.scala" timestamp="1486715331621">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/admin/MaterialGroupController.scala" timestamp="1486719026931">
+        <mark key="[" line="41" column="78" />
+        <mark key="]" line="41" column="86" />
+        <mark key="." line="41" column="86" />
+        <mark key="^" line="41" column="86" />
       </file>
       <file name="/fragment.java" timestamp="1484814100123">
         <mark key="[" line="0" column="0" />
@@ -402,11 +398,11 @@
       <jump line="21" column="102" filename="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialGroupSummaryWrites.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>message_id</text>
       </register>
       <register name="-" type="4">
-        <text>materialGroupIds</text>
+        <text>message_id</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
