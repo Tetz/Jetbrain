@@ -181,22 +181,23 @@
         <mark key="]" line="13" column="6" />
         <mark key="." line="13" column="6" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/api/app.js" timestamp="1486703770847">
-        <mark key="[" line="32" column="23" />
-        <mark key="]" line="32" column="21" />
-        <mark key="." line="32" column="21" />
-        <mark key="^" line="32" column="21" />
-      </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/api/routes/upload.js" timestamp="1486705315784">
-        <mark key="[" line="21" column="20" />
-        <mark key="]" line="2" column="20" />
-        <mark key="." line="2" column="20" />
-        <mark key="^" line="2" column="20" />
-      </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/README.md" timestamp="1486533417554">
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/api/app.js" timestamp="1486706575420">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="32" />
+      </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/api/routes/upload.js" timestamp="1486707903774">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="13" />
+        <mark key="." line="13" column="13" />
+        <mark key="^" line="13" column="13" />
+      </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/README.md" timestamp="1486707286568">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="5" column="8" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/api/routes/index.js" timestamp="1486703479506">
         <mark key="[" line="3" column="0" />
@@ -355,11 +356,11 @@
       <jump line="21" column="102" filename="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialGroupSummaryWrites.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>angular2html</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
@@ -367,33 +368,33 @@
       <register name="0" type="2">
         <text encoding="base64">dmFyIGluZGV4ID0gcmVxdWlyZSgnLi9yb3V0ZXMvaW5kZXgnKTsK</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Y29uc3QgZmF2aWNvbiA9IHJlcXVpcmUoJ3NlcnZlLWZhdmljb24nKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y29uc3QgZmF2aWNvbiA9IHJlcXVpcmUoJ3NlcnZlLWZhdmljb24nKTsK</text>
+      </register>
+      <register name="4" type="8">
         <text>c
 m</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gSW5kZXgK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">LyogR0VUIGhvbWUgcGFnZS4gKi8K</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">LyogR0VUIHVzZXJzIGxpc3RpbmcuICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgQVdTX1JFR0lPTiA9ICdhcC1ub3J0aGVhc3QtMSc7Cg==</text>
+        <text encoding="base64">Ly8gSW5kZXgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyogR0VUIGhvbWUgcGFnZS4gKi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyogR0VUIHVzZXJzIGxpc3RpbmcuICovCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Y29uc3QgYXdzID0gcmVxdWlyZSgnYXdzLXNkaycpOwpjb25zdCBBV1NfQUNDRVNTX0tFWSA9IHByb2Nlc3MuZW52LkFXU19BQ0NFU1NfS0VZX0lEOwpjb25zdCBBV1NfU0VDUkVUX0tFWSA9IHByb2Nlc3MuZW52LkFXU19TRUNSRVRfQUNDRVNTX0tFWTsK</text>
+      <register name="9" type="2">
+        <text encoding="base64">Y29uc3QgQVdTX1JFR0lPTiA9ICdhcC1ub3J0aGVhc3QtMSc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2ltZy9odG1sL2dj</text>
