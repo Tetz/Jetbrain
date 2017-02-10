@@ -3,17 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/MaterialGroupModelSpec.scala" timestamp="1486009283764">
-        <mark key="[" line="20" column="71" />
-        <mark key="]" line="15" column="43" />
-        <mark key="." line="15" column="43" />
-        <mark key="^" line="15" column="43" />
-      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ApplicationSpec.scala" timestamp="1485854404527">
         <mark key="[" line="78" column="45" />
         <mark key="]" line="78" column="45" />
         <mark key="." line="78" column="45" />
         <mark key="^" line="78" column="36" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/MaterialGroupModelSpec.scala" timestamp="1486009283764">
+        <mark key="[" line="20" column="71" />
+        <mark key="]" line="15" column="43" />
+        <mark key="." line="15" column="43" />
+        <mark key="^" line="15" column="43" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ConsumerController.scala" timestamp="1484728591305">
         <mark key="[" line="31" column="0" />
@@ -27,10 +27,23 @@
         <mark key="^" line="31" column="56" />
         <mark key="." line="31" column="56" />
       </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/AttributeGroupFormatter.scala" timestamp="1486443370541">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ShopPresenter.scala" timestamp="1486464751419">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/tasks/seed.scala" timestamp="1485411406080">
         <mark key="[" line="16" column="4" />
         <mark key="]" line="16" column="4" />
         <mark key="." line="16" column="4" />
+      </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/build.sbt" timestamp="1484557114856">
+        <mark key="[" line="3" column="24" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/AttributeGroupKey.scala" timestamp="1481795654519">
         <mark key="[" line="9" column="29" />
@@ -43,6 +56,15 @@
         <mark key="]" line="87" column="25" />
         <mark key="." line="87" column="25" />
         <mark key="^" line="87" column="25" />
+      </file>
+      <file name="$USER_HOME$/Code/terraform-roco/s3_bucket_policy.json" timestamp="1485491831492">
+        <mark key="[" line="8" column="61" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/AttributeToShopRef.scala" timestamp="1486458024808">
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="13" column="28" />
+        <mark key="^" line="13" column="17" />
+        <mark key="." line="13" column="28" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/AllSeed.scala" timestamp="1484034907115">
         <mark key="[" line="9" column="0" />
@@ -71,6 +93,7 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
+        <mark key="^" line="163" column="10" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopAttributeGroupDescription.scala" timestamp="1481873177492">
         <mark key="[" line="8" column="34" />
@@ -78,7 +101,9 @@
         <mark key="^" line="8" column="32" />
         <mark key="." line="8" column="34" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/package.json" timestamp="1486613003339" />
+      <file name="$USER_HOME$/Code/roco-migration-tool/bin/reset" timestamp="1485404367820">
+        <mark key="[" line="41" column="57" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ArticleClip.scala" timestamp="1484121762264">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -115,17 +140,43 @@
         <mark key="^" line="13" column="39" />
         <mark key="." line="13" column="39" />
       </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/AttributeGroup.scala" timestamp="1486463082837">
+        <mark key="[" line="30" column="3" />
+        <mark key="]" line="38" column="152" />
+        <mark key="." line="38" column="152" />
+        <mark key="^" line="38" column="152" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOnlineContent/build.sbt" timestamp="1486539674884">
+        <mark key="[" line="24" column="61" />
+        <mark key="]" line="24" column="62" />
+        <mark key="^" line="24" column="62" />
+        <mark key="." line="24" column="62" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/MaterialImage.scala" timestamp="1486547193615">
+        <mark key="[" line="20" column="37" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/build.sbt" timestamp="1486010502511">
         <mark key="[" line="3" column="38" />
         <mark key="]" line="3" column="38" />
         <mark key="^" line="3" column="72" />
         <mark key="." line="3" column="38" />
       </file>
+      <file name="$USER_HOME$/Code/ApiOnlineContent/README.md" timestamp="1486540350117">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopClip.scala" timestamp="1484646731405">
         <mark key="[" line="25" column="57" />
         <mark key="]" line="25" column="56" />
         <mark key="^" line="25" column="56" />
         <mark key="." line="25" column="56" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/Attribute.scala" timestamp="1486458696881">
+        <mark key="[" line="25" column="52" />
+        <mark key="]" line="25" column="66" />
+        <mark key="^" line="25" column="66" />
+        <mark key="." line="25" column="66" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialSummaryWrites.scala" timestamp="1485515838258">
         <mark key="[" line="9" column="57" />
@@ -162,21 +213,27 @@
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="23" />
       </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/MaterialHtml.scala" timestamp="1486611513006">
+        <mark key="[" line="17" column="37" />
+        <mark key="]" line="27" column="37" />
+        <mark key="^" line="27" column="37" />
+        <mark key="." line="27" column="37" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/filters/HttpRequestFilter.scala" timestamp="1484647776611">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/Json2Db.scala" timestamp="1484042993927">
+        <mark key="[" line="13" column="6" />
+        <mark key="]" line="13" column="6" />
+        <mark key="." line="13" column="6" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/filters/ExampleFilter.scala" timestamp="1484633267941">
         <mark key="[" line="15" column="7" />
         <mark key="]" line="15" column="12" />
         <mark key="." line="15" column="12" />
         <mark key="^" line="15" column="12" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/Json2Db.scala" timestamp="1484042993927">
-        <mark key="[" line="13" column="6" />
-        <mark key="]" line="13" column="6" />
-        <mark key="." line="13" column="6" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/api/app.js" timestamp="1486633491640">
         <mark key="[" line="12" column="0" />
@@ -202,6 +259,7 @@
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ShopController.scala" timestamp="1485857042911">
         <mark key="[" line="126" column="12" />
         <mark key="]" line="126" column="12" />
+        <mark key="^" line="86" column="9" />
         <mark key="." line="126" column="12" />
       </file>
       <file name="$USER_HOME$/Code/terraform-roco/.gitignore" timestamp="1485494751134">
@@ -233,6 +291,12 @@
         <mark key="^" line="8" column="57" />
         <mark key="." line="8" column="57" />
       </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/ShopAttributeGroupDescription.scala" timestamp="1486462946958">
+        <mark key="[" line="24" column="133" />
+        <mark key="]" line="24" column="130" />
+        <mark key="^" line="24" column="130" />
+        <mark key="." line="24" column="130" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/routes" timestamp="1485513511245">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -245,10 +309,10 @@
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/MaterialGroup.scala" timestamp="1486009206472">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialWrites.scala" timestamp="1485516296738">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Shop.scala" timestamp="1485427090528">
         <mark key="[" line="82" column="126" />
@@ -256,10 +320,11 @@
         <mark key="." line="82" column="123" />
         <mark key="^" line="82" column="123" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialWrites.scala" timestamp="1485516296738">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/Shop.scala" timestamp="1486463248350">
+        <mark key="[" line="106" column="162" />
+        <mark key="]" line="106" column="171" />
+        <mark key="." line="106" column="171" />
+        <mark key="^" line="106" column="171" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/AttributeToShopRef.scala" timestamp="1485427237727">
         <mark key="[" line="12" column="33" />
@@ -272,25 +337,23 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/MaterialController.scala" timestamp="1485516615010">
-        <mark key="[" line="72" column="54" />
-        <mark key="]" line="73" column="38" />
-        <mark key="." line="73" column="38" />
-        <mark key="^" line="73" column="38" />
-      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/build.sbt" timestamp="1486010450920">
         <mark key="[" line="18" column="71" />
         <mark key="]" line="18" column="68" />
         <mark key="." line="18" column="68" />
         <mark key="^" line="18" column="68" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialGroupSummaryWrites.scala" timestamp="1486017156469">
-        <mark key="'" line="26" column="102" />
-        <mark key="i" line="10" column="53" />
-        <mark key="[" line="10" column="52" />
-        <mark key="]" line="10" column="52" />
-        <mark key="." line="10" column="52" />
-        <mark key="^" line="10" column="40" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/MaterialController.scala" timestamp="1485516615010">
+        <mark key="[" line="72" column="54" />
+        <mark key="]" line="73" column="38" />
+        <mark key="." line="73" column="38" />
+        <mark key="^" line="73" column="38" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/README.md" timestamp="1484043794680">
+        <mark key="[" line="15" column="7" />
+        <mark key="]" line="15" column="7" />
+        <mark key="^" line="15" column="7" />
+        <mark key="." line="15" column="7" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/LabelController.scala" timestamp="1484710635187">
         <mark key="[" line="28" column="3" />
@@ -304,23 +367,19 @@
         <mark key="." line="35" column="86" />
         <mark key="^" line="35" column="86" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/README.md" timestamp="1484043794680">
-        <mark key="[" line="15" column="7" />
-        <mark key="]" line="15" column="7" />
-        <mark key="^" line="15" column="7" />
-        <mark key="." line="15" column="7" />
-      </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/.eslintrc" timestamp="1486636219554">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/react-s3-upload-sample/index.html" timestamp="1486626396384" />
       <file name="$USER_HOME$/Code/roco-admin-dashboard/.gitignore" timestamp="1486630499622">
         <mark key="[" line="12" column="12" />
         <mark key="]" line="11" column="4" />
         <mark key="^" line="11" column="4" />
         <mark key="." line="11" column="4" />
+      </file>
+      <file name="/fragment.java" timestamp="1484814100123">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
