@@ -69,7 +69,7 @@
         <mark key="." line="29" column="1" />
         <mark key="^" line="29" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/aws_alb.tf" timestamp="1486796030665">
+      <file name="$USER_HOME$/Code/terraform-ciatr/aws_alb.tf" timestamp="1486799617601">
         <mark key="[" line="15" column="3" />
         <mark key="]" line="10" column="38" />
         <mark key="^" line="10" column="39" />
@@ -120,7 +120,8 @@
         <mark key="^" line="9" column="20" />
         <mark key="." line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/aws_ec2.tf" timestamp="1486786729943">
+      <file name="$USER_HOME$/Code/terraform-ciatr/aws_ec2.tf" timestamp="1486799805782">
+        <mark key="[" line="15" column="31" />
         <mark key="]" line="7" column="9" />
         <mark key="^" line="7" column="9" />
         <mark key="." line="7" column="9" />
@@ -132,10 +133,10 @@
         <mark key="^" line="20" column="50" />
       </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/aws_vpc.tf" timestamp="1486796512791">
-        <mark key="[" line="25" column="3" />
-        <mark key="]" line="140" column="1" />
-        <mark key="^" line="140" column="1" />
-        <mark key="." line="140" column="1" />
+        <mark key="[" line="29" column="3" />
+        <mark key="]" line="172" column="1" />
+        <mark key="^" line="172" column="1" />
+        <mark key="." line="172" column="1" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopClip.scala" timestamp="1484646731405">
         <mark key="[" line="25" column="57" />
@@ -191,8 +192,8 @@
         <mark key="." line="32" column="1" />
         <mark key="^" line="32" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/aws_s3.tf" timestamp="1486796700264">
-        <mark key="[" line="6" column="50" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/aws_s3.tf" timestamp="1486799687508">
+        <mark key="[" line="11" column="3" />
         <mark key="]" line="6" column="50" />
         <mark key="^" line="6" column="49" />
         <mark key="." line="6" column="50" />
