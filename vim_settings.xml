@@ -39,12 +39,6 @@
         <mark key="^" line="9" column="57" />
         <mark key="." line="9" column="57" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/aws_sg.tf" timestamp="1486389890633">
-        <mark key="[" line="19" column="8" />
-        <mark key="]" line="5" column="1" />
-        <mark key="^" line="5" column="1" />
-        <mark key="." line="5" column="1" />
-      </file>
       <file name="$USER_HOME$/Code/seeder/src/seeder/json/skinny/seeder.scala" timestamp="1484035003218">
         <mark key="[" line="5" column="20" />
         <mark key="]" line="5" column="18" />
@@ -69,12 +63,6 @@
         <mark key="." line="29" column="1" />
         <mark key="^" line="29" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/aws_alb.tf" timestamp="1486388570068">
-        <mark key="[" line="10" column="2" />
-        <mark key="]" line="10" column="8" />
-        <mark key="^" line="10" column="8" />
-        <mark key="." line="10" column="8" />
-      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ArticleClip.scala" timestamp="1484121762264">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -83,9 +71,6 @@
       </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/aws_rds.tf" timestamp="1486389071389">
         <mark key="[" line="0" column="42" />
-        <mark key="]" line="55" column="0" />
-        <mark key="^" line="57" column="2" />
-        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialPresenter.scala" timestamp="1481786103650">
         <mark key="[" line="87" column="25" />
@@ -123,20 +108,16 @@
         <mark key="^" line="9" column="20" />
         <mark key="." line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/aws_ec2.tf" timestamp="1486390494445">
-        <mark key="[" line="27" column="22" />
-        <mark key="]" line="32" column="34" />
-        <mark key="^" line="32" column="34" />
-        <mark key="." line="32" column="34" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/aws_ec2.tf" timestamp="1486786729943">
+        <mark key="]" line="7" column="9" />
+        <mark key="^" line="7" column="9" />
+        <mark key="." line="7" column="9" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/AttributeGroupKey.scala" timestamp="1481795654519">
         <mark key="[" line="9" column="29" />
         <mark key="]" line="20" column="50" />
         <mark key="." line="20" column="50" />
         <mark key="^" line="20" column="50" />
-      </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/aws_vpc.tf" timestamp="1486390342836">
-        <mark key="[" line="80" column="1" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopClip.scala" timestamp="1484646731405">
         <mark key="[" line="25" column="57" />
@@ -192,9 +173,7 @@
         <mark key="." line="32" column="1" />
         <mark key="^" line="32" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/aws_s3.tf" timestamp="1486389496405">
-        <mark key="[" line="6" column="3" />
-      </file>
+      <file name="$USER_HOME$/Code/terraform-ciatr/aws_s3.tf" timestamp="1486389496405" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/README.md" timestamp="1484043794680">
         <mark key="[" line="15" column="7" />
         <mark key="]" line="15" column="7" />
@@ -224,12 +203,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="30" column="35" />
-      </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/variables.tf" timestamp="1486385937020">
-        <mark key="[" line="7" column="19" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="21" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopAttributeGroupDescription.scala" timestamp="1481873177492">
         <mark key="[" line="8" column="34" />
