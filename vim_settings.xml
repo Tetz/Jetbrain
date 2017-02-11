@@ -119,6 +119,12 @@
         <mark key="." line="20" column="50" />
         <mark key="^" line="20" column="50" />
       </file>
+      <file name="$USER_HOME$/Code/terraform-ciatr/aws_vpc.tf" timestamp="1486791090958">
+        <mark key="[" line="111" column="3" />
+        <mark key="]" line="112" column="1" />
+        <mark key="^" line="112" column="1" />
+        <mark key="." line="112" column="1" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopClip.scala" timestamp="1484646731405">
         <mark key="[" line="25" column="57" />
         <mark key="]" line="25" column="56" />
@@ -173,7 +179,7 @@
         <mark key="." line="32" column="1" />
         <mark key="^" line="32" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/aws_s3.tf" timestamp="1486389496405" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/aws_s3.tf" timestamp="1486790904919" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/README.md" timestamp="1484043794680">
         <mark key="[" line="15" column="7" />
         <mark key="]" line="15" column="7" />
