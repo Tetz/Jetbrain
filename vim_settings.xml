@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ApplicationSpec.scala" timestamp="1485854404527">
-        <mark key="[" line="78" column="45" />
-        <mark key="]" line="78" column="45" />
-        <mark key="." line="78" column="45" />
-        <mark key="^" line="78" column="36" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ApplicationSpec.scala" timestamp="1487061114470">
+        <mark key="[" line="42" column="51" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/MaterialGroupModelSpec.scala" timestamp="1486009283764">
         <mark key="[" line="20" column="71" />
@@ -89,11 +88,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ShopControllerSpec.scala" timestamp="1487054131029">
-        <mark key="[" line="15" column="9" />
-        <mark key="]" line="15" column="18" />
-        <mark key="." line="15" column="18" />
-        <mark key="^" line="15" column="18" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ShopControllerSpec.scala" timestamp="1487061004918">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="28" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="92" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopAttributeGroupDescription.scala" timestamp="1481873177492">
         <mark key="[" line="8" column="34" />
@@ -172,6 +171,7 @@
         <mark key="^" line="25" column="56" />
         <mark key="." line="25" column="56" />
       </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/ApplicationError.scala" timestamp="1486023978381" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/Attribute.scala" timestamp="1486458696881">
         <mark key="[" line="25" column="52" />
         <mark key="]" line="25" column="66" />
@@ -386,6 +386,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ApplicationErrorResponder.scala" timestamp="1486023428202" />
+      <file name="$USER_HOME$/.ivy2/cache/org.scalikejdbc/scalikejdbc-config_2.11/srcs/scalikejdbc-config_2.11-2.5.0-sources.jar!/scalikejdbc/config/DBs.scala" timestamp="1487057687658" />
       <file name="$USER_HOME$/Code/roco-admin-dashboard/.gitignore" timestamp="1486630499622">
         <mark key="[" line="12" column="12" />
         <mark key="]" line="11" column="4" />
@@ -402,6 +404,7 @@
       <file name="/fragment.java" timestamp="1487048122531">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/Lab/material-groups/src/main/resources/application.conf" timestamp="1485949639404" />
     </filemarks>
     <jumps>
       <jump line="63" column="0" filename="$USER_HOME$/Code/ApiLottery/conf/evolutions/default/1.sql" />
@@ -415,43 +418,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB2YWwgYyA9IG5ld0NvbnN1bWVyCg==</text>
+        <text encoding="base64">ICAgIHZhbCBob2dlID0gbmV3Q29uc3VtZXIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNsaWVudGpzb24uTWF0ZXJpYWxXcml0ZXMK</text>
+        <text encoding="base64">ICAgICAgdmFsIGMgPSBuZXdDb25zdW1lcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YWwgYyA9IG5ld0NvbnN1bWVyCg==</text>
+        <text encoding="base64">ICAgIHZhbCBob2dlID0gbmV3Q29uc3VtZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YWwgYyA9IG5ld0NvbnN1bWVyCg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGMgPSBuZXdDb25zdW1lcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBjID0gbmV3Q29uc3VtZXIK</text>
+        <text encoding="base64">ICAgICAgdmFsIGMgPSBuZXdDb25zdW1lcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGMgPSBuZXdDb25zdW1lcgo=</text>
+        <text encoding="base64">ICB2YXIgYyA6IENvbnN1bWVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGMgPSBuZXdDb25zdW1lcgo=</text>
+        <text encoding="base64">ICAgIGMgPSBuZXdDb25zdW1lcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGMgPSBuZXdDb25zdW1lcgo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGMgPSBuZXdDb25zdW1lcgo=</text>
+        <text encoding="base64">ICAgIG5ld0NvbnN1bWVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGMgPSBuZXdDb25zdW1lcgo=</text>
+        <text encoding="base64">ICBvdmVycmlkZSBkZWYgY29uc3VtZXI6IENvbnN1bWVyID0gewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGMgPSBuZXdDb25zdW1lcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2ltZy9odG1sL2dj</text>
