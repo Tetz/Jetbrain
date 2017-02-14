@@ -88,10 +88,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ShopControllerSpec.scala" timestamp="1487068941074">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ShopControllerSpec.scala" timestamp="1487069153424">
+        <mark key="[" line="207" column="15" />
+        <mark key="]" line="207" column="18" />
+        <mark key="." line="207" column="18" />
+        <mark key="^" line="207" column="18" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopAttributeGroupDescription.scala" timestamp="1481873177492">
         <mark key="[" line="8" column="34" />
@@ -416,11 +417,11 @@
       <jump line="33" column="73" filename="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/admin/MaterialGroupController.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzaG9wLmtleXMuY29udGFpbnMoIm1hdGVyaWFscyIpIG11c3RCZSB0cnVlCg==</text>
+      <register name="&quot;" type="4">
+        <text>materwial</text>
       </register>
       <register name="-" type="4">
-        <text>else</text>
+        <text>materwial</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
