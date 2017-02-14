@@ -89,11 +89,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ShopControllerSpec.scala" timestamp="1486009930754">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="163" column="10" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ShopControllerSpec.scala" timestamp="1487054131029">
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="15" column="18" />
+        <mark key="." line="15" column="18" />
+        <mark key="^" line="15" column="18" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopAttributeGroupDescription.scala" timestamp="1481873177492">
         <mark key="[" line="8" column="34" />
@@ -184,7 +184,7 @@
         <mark key="^" line="9" column="57" />
         <mark key="." line="9" column="57" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/MaterialGroupControllerSpec.scala" timestamp="1486720707853">
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/MaterialGroupControllerSpec.scala" timestamp="1487053091266">
         <mark key="[" line="26" column="43" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
@@ -265,11 +265,11 @@
         <mark key="." line="5" column="13" />
         <mark key="^" line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ShopController.scala" timestamp="1485857042911">
-        <mark key="[" line="126" column="12" />
-        <mark key="]" line="126" column="12" />
-        <mark key="^" line="86" column="9" />
-        <mark key="." line="126" column="12" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ShopController.scala" timestamp="1487052952916">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="^" line="61" column="19" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/Code/terraform-roco/.gitignore" timestamp="1485494751134">
         <mark key="[" line="0" column="12" />
@@ -414,11 +414,11 @@
       <jump line="33" column="73" filename="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/admin/MaterialGroupController.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB2YWwgYyA9IG5ld0NvbnN1bWVyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
@@ -427,31 +427,31 @@
         <text encoding="base64">aW1wb3J0IGNsaWVudGpzb24uTWF0ZXJpYWxXcml0ZXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YWwgYyA9IG5ld0NvbnN1bWVyCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICBkZWYgdXBkYXRlID0gQWN0aW9uIHsKICAgIE9rKEpzb24udG9Kc29uKGR1bW15SnNvbikpCiAgfQoKICBkZWYgZGVsZXRlID0gQWN0aW9uIHsKICAgIE9rKEpzb24udG9Kc29uKGR1bW15SnNvbikpCiAgfQo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICB2YWwgYyA9IG5ld0NvbnN1bWVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBjID0gbmV3Q29uc3VtZXIK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBkZWYgY3JlYXRlID0gQWN0aW9uIHsKICAgIE9rKEpzb24udG9Kc29uKGR1bW15SnNvbikpCiAgfQo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgdmFsIGMgPSBuZXdDb25zdW1lcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGMgPSBuZXdDb25zdW1lcgo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICB2YWwgZHVtbXlKc29uID0gSnNvbi5vYmooCiAgICAiY29udHJvbGxlciIgLT4gIk1hdGVyaWFsQ29udHJvbGxlciIKICApCg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgdmFsIGMgPSBuZXdDb25zdW1lcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLmxpYnMuanNvbi5fCg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGMgPSBuZXdDb25zdW1lcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGMgPSBuZXdDb25zdW1lcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICApCg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGMgPSBuZXdDb25zdW1lcgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2ltZy9odG1sL2dj</text>
