@@ -190,7 +190,7 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="21" column="35" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/MaterialControllerSpec.scala" timestamp="1485514212464">
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/MaterialControllerSpec.scala" timestamp="1487048651342">
         <mark key="[" line="28" column="1" />
         <mark key="]" line="28" column="1" />
         <mark key="." line="28" column="1" />
@@ -250,11 +250,14 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/admin/MaterialController.scala" timestamp="1486722296253">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="38" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/admin/MaterialController.scala" timestamp="1487048179169">
+        <mark key="[" line="15" column="28" />
+        <mark key="]" line="15" column="28" />
+        <mark key="." line="15" column="28" />
+        <mark key="^" line="15" column="27" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/AdminMaterialControllerSpec.scala" timestamp="1487049098968">
+        <mark key="[" line="15" column="3" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/api/routes/index.js" timestamp="1486630361227">
         <mark key="[" line="5" column="43" />
@@ -396,7 +399,7 @@
         <mark key="." line="34" column="23" />
         <mark key="^" line="34" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1484814100123">
+      <file name="/fragment.java" timestamp="1487048122531">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -411,11 +414,11 @@
       <jump line="33" column="73" filename="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/admin/MaterialGroupController.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmlsdGVyKG0gPT4gKG0gXCAidHlwZSIpID09ICJJTUFHRSIp</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
