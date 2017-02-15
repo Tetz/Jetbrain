@@ -90,10 +90,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ShopControllerSpec.scala" timestamp="1487144904872">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="15" />
-        <mark key="." line="65" column="0" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ShopControllerSpec.scala" timestamp="1487147220378">
+        <mark key="[" line="200" column="29" />
+        <mark key="]" line="200" column="82" />
+        <mark key="." line="200" column="82" />
+        <mark key="^" line="200" column="82" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopAttributeGroupDescription.scala" timestamp="1481873177492">
         <mark key="[" line="8" column="34" />
