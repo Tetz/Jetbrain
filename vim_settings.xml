@@ -89,11 +89,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ShopControllerSpec.scala" timestamp="1487136099149">
-        <mark key="[" line="69" column="51" />
-        <mark key="]" line="70" column="7" />
-        <mark key="^" line="70" column="7" />
-        <mark key="." line="70" column="7" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ShopControllerSpec.scala" timestamp="1487139159991">
+        <mark key="[" line="169" column="22" />
+        <mark key="]" line="169" column="29" />
+        <mark key="." line="169" column="29" />
+        <mark key="^" line="169" column="29" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopAttributeGroupDescription.scala" timestamp="1481873177492">
         <mark key="[" line="8" column="34" />
@@ -430,11 +430,11 @@
       <jump line="21" column="102" filename="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialGroupSummaryWrites.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>json</text>
       </register>
       <register name="-" type="4">
-        <text>public_segment2_alb_az</text>
+        <text>json</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
@@ -443,31 +443,31 @@
         <text encoding="base64">dGVycmFmb3JtLnRmc3RhdGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBqc09iamVjdC5rZXlzLmNvbnRhaW5zKCJtYXRlcmlhbHMiKSBtdXN0QmUgdHJ1ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzaG9wLmtleXMuY29udGFpbnMoIm1hdGVyaWFscyIpIG11c3RCZSB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAganNvbi5rZXlzLmNvbnRhaW5zKCJtYXRlcmlhbHMiKSBtdXN0QmUgdHJ1ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzaG9wLmtleXMuY29udGFpbnMoIm1hdGVyaWFscyIpIG11c3RCZSB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgKGpzb24gXCAiaWQiKS5hc1tMb25nXSBtdXN0QmUgY2xpcHBlZElkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzaG9wLmtleXMuY29udGFpbnMoImF0dHJpYnV0ZUdyb3VwcyIpIG11c3RCZSB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAganNvbi5rZXlzLmNvbnRhaW5zKCJtYXRlcmlhbHMiKSBtdXN0QmUgdHJ1ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzaG9wLmtleXMuY29udGFpbnMoIm1hdGVyaWFscyIpIG11c3RCZSB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAganNvbi5rZXlzLmNvbnRhaW5zKCJhdHRyaWJ1dGVHcm91cHMiKSBtdXN0QmUgdHJ1ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzaG9wLmtleXMuY29udGFpbnMoImF0dHJpYnV0ZUdyb3VwcyIpIG11c3RCZSB0cnVlCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzaG9wLmtleXMuY29udGFpbnMoIm1hdGVyaWFscyIpIG11c3RCZSB0cnVlCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzaG9wLmtleXMuY29udGFpbnMoIm1hdGVyaWFscyIpIG11c3RCZSB0cnVlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzaG9wLmtleXMuY29udGFpbnMoIm1hdGVyaWFscyIpIG11c3RCZSB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBzaG9wLmtleXMuY29udGFpbnMoImF0dHJpYnV0ZUdyb3VwcyIpIG11c3RCZSB0cnVlCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2ltZy9odG1sL2dj</text>
