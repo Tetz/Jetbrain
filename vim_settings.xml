@@ -288,7 +288,7 @@
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/roco_core/model/build.sbt" timestamp="1487224270241">
+      <file name="$USER_HOME$/Code/roco_core/model/build.sbt" timestamp="1487225860153">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -386,7 +386,7 @@
         <mark key="]" line="9" column="17" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/roco_core/build.sbt" timestamp="1487224821933">
+      <file name="$USER_HOME$/Code/roco_core/build.sbt" timestamp="1487225847222">
         <mark key="[" line="22" column="53" />
         <mark key="]" line="4" column="21" />
         <mark key="." line="4" column="21" />
@@ -472,13 +472,13 @@
         <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArKz0gU2VxKAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2NhbGFUZXN0VmVyc2lvbiA6PSAiMi4yLjYiCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">KQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArPSAib3JnLnNjYWxhdGVzdCIgJSUgInNjYWxhdGVzdCIgJSAiMS45LjEiICUgInRlc3QiCg==</text>
+        <text encoding="base64">ICAib3JnLnNjYWxpa2VqZGJjIiAgICAgICUlICJzY2FsaWtlamRiYyIgJSAiMi40LjIiCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2ltZy9odG1sL2dj</text>
