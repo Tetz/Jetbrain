@@ -288,6 +288,12 @@
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
       </file>
+      <file name="$USER_HOME$/Code/roco_core/src/test/scala/MaterialSpec.scala" timestamp="1487227766713">
+        <mark key="[" line="18" column="3" />
+        <mark key="]" line="3" column="13" />
+        <mark key="^" line="3" column="13" />
+        <mark key="." line="3" column="13" />
+      </file>
       <file name="$USER_HOME$/Code/roco_core/model/build.sbt" timestamp="1487225860153">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -386,11 +392,11 @@
         <mark key="]" line="9" column="17" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/roco_core/build.sbt" timestamp="1487225847222">
-        <mark key="[" line="22" column="53" />
-        <mark key="]" line="4" column="21" />
-        <mark key="." line="4" column="21" />
-        <mark key="^" line="4" column="3" />
+      <file name="$USER_HOME$/Code/roco_core/build.sbt" timestamp="1487227707720">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="16" column="68" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/aws_vpc.tf" timestamp="1486990432587">
         <mark key="[" line="172" column="41" />
@@ -442,7 +448,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJvcmcuc2NhbGF0ZXN0IiAgICAgICAgJSUgInNjYWxhdGVzdCIgICAlIHNjYWxhVGVzdFZlcnNpb24gJSAidGVzdCIsCg==</text>
       </register>
       <register name="-" type="4">
         <text>:</text>
@@ -454,31 +460,31 @@
         <text encoding="base64">ICAgICAgICAgIGNhc2UgXyA9PiBOb25lICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJvcmcuc2NhbGF0ZXN0IiAgICAgICAgJSUgInNjYWxhdGVzdCIgICAlIHNjYWxhVGVzdFZlcnNpb24gJSAidGVzdCIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">ICAgICJvcmcuc2NhbGFjdGljIiAgICAgICAgJSUgInNjYWxhY3RpYyIgICAlIHNjYWxhVGVzdFZlcnNpb24sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAib3JnLnNjYWxpa2VqZGJjIiAgICAgICUlICJzY2FsaWtlamRiYyIgJSAiMi40LjIiCg==</text>
+        <text encoding="base64">ICAib3JnLnNjYWxpa2VqZGJjIiAgICAgICUlICJzY2FsaWtlamRiYyIgJSBzY2FsaWtlamRiY1ZlcnNpb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAib3JnLnNraW5ueS1mcmFtZXdvcmsiICUlICJza2lubnktb3JtIiAgJSAiMi4zLjQiLAo=</text>
+        <text encoding="base64">ICAib3JnLnNraW5ueS1mcmFtZXdvcmsiICUlICJza2lubnktb3JtIiAgJSBza2lubnlWZXJzaW9uLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAiY29tLmxpaGFveWkiICAgICAgICAgICUlICJwcHJpbnQiICAgICAgJSAiMC40LjMiLAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArKz0gU2VxKAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICB0ZXN0KCl7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAib3JnLnNjYWxpa2VqZGJjIiAgICAgICUlICJzY2FsaWtlamRiYyIgJSAiMi40LjIiCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2ltZy9odG1sL2dj</text>
