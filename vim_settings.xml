@@ -289,10 +289,10 @@
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/roco_core/src/test/scala/MaterialSpec.scala" timestamp="1487232938624">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Code/roco_core/src/test/scala/MaterialSpec.scala" timestamp="1487237776548">
+        <mark key="[" line="7" column="64" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Code/roco_core/model/build.sbt" timestamp="1487225860153">
         <mark key="[" line="1" column="0" />
@@ -427,11 +427,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/roco_core/seeding/src/main/scala/ApplicationTestHelper.scala" timestamp="1487234743329">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="25" />
-        <mark key="^" line="9" column="25" />
-        <mark key="." line="9" column="25" />
+      <file name="$USER_HOME$/Code/roco_core/seeding/src/main/scala/ApplicationTestHelper.scala" timestamp="1487237741462">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/.gitignore" timestamp="1486630499622">
         <mark key="[" line="12" column="12" />
@@ -454,7 +453,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAiY29tLnR5cGVzYWZlLnBsYXkiICAgICUgICJzYnQtcGx1Z2luIiAgJSBwbGF5VmVyc2lvbiwK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3QuQmVmb3JlQW5kQWZ0ZXJBbGwK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -466,31 +465,31 @@
         <text encoding="base64">ICAgICAgICAgIGNhc2UgXyA9PiBOb25lICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiY29tLnR5cGVzYWZlLnBsYXkiICAgICUgICJzYnQtcGx1Z2luIiAgJSBwbGF5VmVyc2lvbiwK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3QuQmVmb3JlQW5kQWZ0ZXJBbGwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3QuQmVmb3JlQW5kQWZ0ZXJBbGwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFsIHBsYXlWZXJzaW9uID0gIjIuNS4xIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHJvY29fY29yZS5zZWVkaW5nLlNlZWRlcgo=</text>
+        <text encoding="base64">ICBsYXp5IHZhbCBkYXRhYmFzZUFwaSA9IGluamVjdG9yLmluc3RhbmNlT2ZbREJBcGldCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsYXp5IHZhbCBpbmplY3RvciA9IGFwcEJ1aWxkZXIuaW5qZWN0b3IoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsYXp5IHZhbCBhcHBCdWlsZGVyID0gbmV3IEd1aWNlQXBwbGljYXRpb25CdWlsZGVyKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHJvY29fY29yZS5zZWVkaW5nLl8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLnRlc3QuSGVscGVycy5fCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEFyaQo=</text>
+        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLnRlc3QuXwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2ltZy9odG1sL2dj</text>
