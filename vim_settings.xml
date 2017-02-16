@@ -288,10 +288,10 @@
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/roco_core/model/build.sbt" timestamp="1487220897607">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Code/roco_core/model/build.sbt" timestamp="1487224270241">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/Utility.scala" timestamp="1484646647950">
         <mark key="[" line="7" column="10" />
@@ -386,11 +386,11 @@
         <mark key="]" line="9" column="17" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/roco_core/build.sbt" timestamp="1487221498977">
-        <mark key="[" line="20" column="41" />
-        <mark key="]" line="20" column="42" />
-        <mark key="^" line="20" column="42" />
-        <mark key="." line="20" column="42" />
+      <file name="$USER_HOME$/Code/roco_core/build.sbt" timestamp="1487224821933">
+        <mark key="[" line="22" column="53" />
+        <mark key="]" line="4" column="21" />
+        <mark key="." line="4" column="21" />
+        <mark key="^" line="4" column="3" />
       </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/aws_vpc.tf" timestamp="1486990432587">
         <mark key="[" line="172" column="41" />
@@ -445,7 +445,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;2.11.7&quot;</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
@@ -457,32 +457,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArPSAib3JnLnNjYWxhdGVzdCIgJSUgInNjYWxhdGVzdCIgJSAiMS45LjEiICUgInRlc3QiCg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArPSAib3JnLnNjYWxhdGVzdCIgJSUgInNjYWxhdGVzdCIgJSAiMS45LjEiICUgInRlc3QiCg==</text>
+        <text encoding="base64">ICAib3JnLnNjYWxpa2VqZGJjIiAgICAgICUlICJzY2FsaWtlamRiYyIgJSAiMi40LjIiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2NhbGFWZXJzaW9uIDo9IAo=</text>
+        <text encoding="base64">ICAib3JnLnNraW5ueS1mcmFtZXdvcmsiICUlICJza2lubnktb3JtIiAgJSAiMi4zLjQiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiY29tLmxpaGFveWkiICAgICAgICAgICUlICJwcHJpbnQiICAgICAgJSAiMC40LjMiLAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>libraryDependencies ++= Seq(
-  &quot;com.lihaoyi&quot;          %% &quot;pprint&quot;      % &quot;0.4.3&quot;,
-  &quot;org.skinny-framework&quot; %% &quot;skinny-orm&quot;  % &quot;2.3.4&quot;,
-  &quot;org.scalikejdbc&quot;      %% &quot;scalikejdbc&quot; % &quot;2.4.2&quot;
-)</text>
+      <register name="6" type="2">
+        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArKz0gU2VxKAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcHBqKGpzb24pCg==</text>
+        <text encoding="base64">c2NhbGFUZXN0VmVyc2lvbiA6PSAiMi4yLjYiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcHBqKGpzb24pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPCg==</text>
+        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArPSAib3JnLnNjYWxhdGVzdCIgJSUgInNjYWxhdGVzdCIgJSAiMS45LjEiICUgInRlc3QiCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2ltZy9odG1sL2dj</text>
