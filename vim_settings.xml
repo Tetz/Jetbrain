@@ -193,6 +193,7 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="21" column="35" />
       </file>
+      <file name="$USER_HOME$/Code/roco_core/seeding/src/main/scala/roco_core/seeding/Seeder.scala" timestamp="1487232794983" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/MaterialControllerSpec.scala" timestamp="1485514212464">
         <mark key="[" line="28" column="1" />
         <mark key="]" line="28" column="1" />
@@ -288,11 +289,10 @@
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/roco_core/src/test/scala/MaterialSpec.scala" timestamp="1487231463870">
-        <mark key="[" line="9" column="63" />
-        <mark key="]" line="2" column="40" />
-        <mark key="." line="2" column="40" />
-        <mark key="^" line="2" column="40" />
+      <file name="$USER_HOME$/Code/roco_core/src/test/scala/MaterialSpec.scala" timestamp="1487232938624">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Code/roco_core/model/build.sbt" timestamp="1487225860153">
         <mark key="[" line="1" column="0" />
@@ -446,8 +446,8 @@
       <jump line="21" column="102" filename="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialGroupSummaryWrites.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHJvY29fY29yZS5zZWVkaW5nLlNlZWRlcgo=</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -459,31 +459,31 @@
         <text encoding="base64">ICAgICAgICAgIGNhc2UgXyA9PiBOb25lICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHJvY29fY29yZS5zZWVkaW5nLlNlZWRlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEFyaQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArKz0gU2VxKAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFyaQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAiY29tLmxpaGFveWkiICAgICAgICAgICUlICJwcHJpbnQiICAgICAgJSAiMC40LjMiLAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGF6eSB2YWwgcHJpbnRDbGFzc3BhdGggPSBtb2RlbAo=</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArKz0gU2VxKAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2ltZy9odG1sL2dj</text>
