@@ -15,11 +15,11 @@
         <mark key="." line="15" column="12" />
         <mark key="^" line="15" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/aws_elasticache.tf" timestamp="1487398341435">
+      <file name="$USER_HOME$/Code/terraform-ciatr/aws_elasticache.tf" timestamp="1487399445088">
         <mark key="[" line="43" column="68" />
-        <mark key="]" line="43" column="67" />
-        <mark key="^" line="43" column="67" />
-        <mark key="." line="43" column="67" />
+        <mark key="]" line="38" column="39" />
+        <mark key="^" line="38" column="39" />
+        <mark key="." line="38" column="39" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/Utility.scala" timestamp="1484646647950">
         <mark key="[" line="7" column="10" />
@@ -188,8 +188,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/aws_ec2.tf" timestamp="1486986825620">
-        <mark key="[" line="44" column="31" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/aws_ec2.tf" timestamp="1487400275191">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="34" />
+        <mark key="^" line="19" column="23" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ShopPresenter.scala" timestamp="1486464751419">
         <mark key="[" line="119" column="0" />
@@ -354,12 +357,12 @@
         <mark key="]" line="28" column="1" />
         <mark key="." line="28" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/variables.tf" timestamp="1487397498145">
-        <mark key="'" line="79" column="0" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="48" column="24" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/variables.tf" timestamp="1487400098108">
+        <mark key="'" line="82" column="0" />
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="22" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopAttributeGroupDescription.scala" timestamp="1481873177492">
         <mark key="[" line="8" column="34" />
@@ -435,7 +438,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBrZXlfbmFtZSA9ICIke3Zhci5zc2hfa2V5X25hbWV9Igo=</text>
       </register>
       <register name="-" type="4">
         <text>maotme</text>
@@ -444,7 +447,7 @@
         <text>img</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwYXJhbWV0ZXJfZ3JvdXBfbmFtZSAgICAgICAgICA9ICIke3Zhci5wYXJhbWV0ZXJfZ3JvdXB9Igo=</text>
+        <text encoding="base64">ICBrZXlfbmFtZSA9ICIke3Zhci5zc2hfa2V5X25hbWV9Igo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
