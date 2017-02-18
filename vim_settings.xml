@@ -45,6 +45,9 @@
         <mark key="^" line="9" column="57" />
         <mark key="." line="9" column="57" />
       </file>
+      <file name="$USER_HOME$/Code/terraform-ciatr/aws_sg.tf" timestamp="1487404789472">
+        <mark key="[" line="35" column="3" />
+      </file>
       <file name="$USER_HOME$/Code/seeder/src/seeder/json/skinny/seeder.scala" timestamp="1484035003218">
         <mark key="[" line="5" column="20" />
         <mark key="]" line="5" column="18" />
@@ -177,6 +180,9 @@
         <mark key="." line="35" column="86" />
         <mark key="^" line="35" column="86" />
       </file>
+      <file name="$USER_HOME$/Code/terraform-ciatr/s3_bucket_policy.json" timestamp="1487404356836">
+        <mark key="[" line="8" column="61" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/seeder/src/seeder/json/skinny/seeder.scala" timestamp="1485408991466">
         <mark key="[" line="9" column="10" />
         <mark key="]" line="9" column="20" />
@@ -239,7 +245,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/terraform.tfvars" timestamp="1486990298806">
+      <file name="$USER_HOME$/Code/terraform-ciatr/terraform.tfvars" timestamp="1487404349330">
         <mark key="[" line="29" column="16" />
         <mark key="]" line="29" column="20" />
         <mark key="^" line="29" column="20" />
@@ -357,7 +363,7 @@
         <mark key="]" line="28" column="1" />
         <mark key="." line="28" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/variables.tf" timestamp="1487400098108">
+      <file name="$USER_HOME$/Code/terraform-ciatr/variables.tf" timestamp="1487404333330">
         <mark key="'" line="82" column="0" />
         <mark key="[" line="7" column="10" />
         <mark key="]" line="8" column="22" />
