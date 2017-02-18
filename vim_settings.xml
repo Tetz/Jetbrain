@@ -15,11 +15,11 @@
         <mark key="." line="15" column="12" />
         <mark key="^" line="15" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/aws_elasticache.tf" timestamp="1487394189878">
-        <mark key="[" line="41" column="53" />
-        <mark key="]" line="41" column="59" />
-        <mark key="." line="41" column="59" />
-        <mark key="^" line="41" column="59" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/aws_elasticache.tf" timestamp="1487398341435">
+        <mark key="[" line="43" column="68" />
+        <mark key="]" line="43" column="67" />
+        <mark key="^" line="43" column="67" />
+        <mark key="." line="43" column="67" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/Utility.scala" timestamp="1484646647950">
         <mark key="[" line="7" column="10" />
@@ -354,11 +354,12 @@
         <mark key="]" line="28" column="1" />
         <mark key="." line="28" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/variables.tf" timestamp="1487394086807">
-        <mark key="[" line="25" column="26" />
-        <mark key="]" line="25" column="26" />
-        <mark key="^" line="25" column="26" />
-        <mark key="." line="25" column="26" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/variables.tf" timestamp="1487397498145">
+        <mark key="'" line="79" column="0" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="48" column="24" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopAttributeGroupDescription.scala" timestamp="1481873177492">
         <mark key="[" line="8" column="34" />
@@ -428,49 +429,75 @@
       <jump line="126" column="2" filename="$USER_HOME$/Code/ApiOfflineMaterial/conf/application.conf" />
       <jump line="13" column="11" filename="$USER_HOME$/Code/ApiOfflineMaterial/test/MaterialGroupControllerSpec.scala" />
       <jump line="21" column="102" filename="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialGroupSummaryWrites.scala" />
+      <jump line="92" column="0" filename="$USER_HOME$/Code/terraform-ciatr/variables.tf" />
+      <jump line="89" column="0" filename="$USER_HOME$/Code/terraform-ciatr/aws_elasticache.tf" />
+      <jump line="60" column="3" filename="$USER_HOME$/Code/terraform-ciatr/aws_elasticache.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>var.app_name}-pg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>var.app_name}-pg</text>
+        <text>maotme</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dGVycmFmb3JtLnRmc3RhdGUK</text>
+        <text encoding="base64">ICBwYXJhbWV0ZXJfZ3JvdXBfbmFtZSAgICAgICAgICA9ICIke3Zhci5wYXJhbWV0ZXJfZ3JvdXB9Igo=</text>
       </register>
-      <register name="1" type="8">
-        <text>alb
-alb
-alb
-alb</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">W2pqampqal0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">dGVycmFmb3JtLnRmcGxhbgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gQ29weSB0aGlzIGZpbGUsIGFuZCBhZGQgcnVsZSBvdmVycmlkZXMgYXMgbmVlZGVkLgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gVXNlIHRoaXMgZmlsZSBhcyBhIHN0YXJ0aW5nIHBvaW50IGZvciB5b3VyIHByb2plY3QncyAuZXNsaW50cmMuCg==</text>
-      </register>
-      <register name="6" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Iwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyBTZWN1cml0eSBncm91cCByZXNvdXJjZXMK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Iwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="6" type="4">
+        <text>#
+# ElastiCache resources
+#
+resource &quot;aws_elasticache_replication_group&quot; &quot;redis&quot; {
+  replication_group_id          = &quot;${lower(var.cache_identifier)}&quot;
+  replication_group_description = &quot;Replication group for Redis&quot;
+  automatic_failover_enabled    = &quot;${var.automatic_failover_enabled}&quot;
+  number_cache_clusters         = &quot;${var.desired_clusters}&quot;
+  node_type                     = &quot;${var.instance_type}&quot;
+  engine_version                = &quot;${var.engine_version}&quot;
+  parameter_group_name          = &quot;${var.parameter_group}&quot;
+  subnet_group_name             = &quot;${aws_elasticache_subnet_group.matome.name}&quot;
+  security_group_ids            = [&quot;${aws_security_group.redis.id}&quot;]
+  port                          = &quot;6379&quot;
+
+  tags {
+    Name = &quot;${var.app_name}-redis&quot;
+  }
+
+  tags {
+    AppName = &quot;${var.app_name}&quot;
+  }
+
+  tags {
+    CreatedBy = &quot;${var.created_by}&quot;
+  }
+}</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly9hcHAudXNlKGZhdmljb24ocGF0aC5qb2luKF9fZGlybmFtZSwgJ3B1YmxpYycsICdmYXZpY29uLmljbycpKSk7Cg==</text>
+        <text encoding="base64">ICBwYXJhbWV0ZXJfZ3JvdXBfbmFtZSA9ICJkZWZhdWx0Lm1lbWNhY2hlZDEuNCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gdW5jb21tZW50IGFmdGVyIHBsYWNpbmcgeW91ciBmYXZpY29uIGluIC9wdWJsaWMK</text>
+        <text encoding="base64">Iwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8gYXBwLnNldCgndmlldyBlbmdpbmUnLCAnamFkZScpOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IyBFbGFzdGlDYWNoZSByZXNvdXJjZXMKIwpyZXNvdXJjZSAiYXdzX2VsYXN0aWNhY2hlX3JlcGxpY2F0aW9uX2dyb3VwIiAicmVkaXMiIHsKICByZXBsaWNhdGlvbl9ncm91cF9pZCAgICAgICAgICA9ICIke2xvd2VyKHZhci5jYWNoZV9pZGVudGlmaWVyKX0iCiAgcmVwbGljYXRpb25fZ3JvdXBfZGVzY3JpcHRpb24gPSAiUmVwbGljYXRpb24gZ3JvdXAgZm9yIFJlZGlzIgogIGF1dG9tYXRpY19mYWlsb3Zlcl9lbmFibGVkICAgID0gIiR7dmFyLmF1dG9tYXRpY19mYWlsb3Zlcl9lbmFibGVkfSIKICBudW1iZXJfY2FjaGVfY2x1c3RlcnMgICAgICAgICA9ICIke3Zhci5kZXNpcmVkX2NsdXN0ZXJzfSIKICBub2RlX3R5cGUgICAgICAgICAgICAgICAgICAgICA9ICIke3Zhci5pbnN0YW5jZV90eXBlfSIKICBlbmdpbmVfdmVyc2lvbiAgICAgICAgICAgICAgICA9ICIke3Zhci5lbmdpbmVfdmVyc2lvbn0iCiAgcGFyYW1ldGVyX2dyb3VwX25hbWUgICAgICAgICAgPSAiJHt2YXIucGFyYW1ldGVyX2dyb3VwfSIKICBzdWJuZXRfZ3JvdXBfbmFtZSAgICAgICAgICAgICA9ICIke2F3c19lbGFzdGljYWNoZV9zdWJuZXRfZ3JvdXAubWF0b21lLm5hbWV9IgogIHNlY3VyaXR5X2dyb3VwX2lkcyAgICAgICAgICAgID0gWyIke2F3c19zZWN1cml0eV9ncm91cC5yZWRpcy5pZH0iXQogIHBvcnQgICAgICAgICAgICAgICAgICAgICAgICAgID0gIjYzNzkiCgogIHRhZ3MgewogICAgTmFtZSA9ICIke3Zhci5hcHBfbmFtZX0tcmVkaXMiCiAgfQoKICB0YWdzIHsKICAgIEFwcE5hbWUgPSAiJHt2YXIuYXBwX25hbWV9IgogIH0KCiAgdGFncyB7CiAgICBDcmVhdGVkQnkgPSAiJHt2YXIuY3JlYXRlZF9ieX0iCiAgfQp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2ltZy9odG1sL2dj</text>
