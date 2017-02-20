@@ -194,11 +194,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/aws_ec2.tf" timestamp="1487402987360">
-        <mark key="[" line="41" column="32" />
-        <mark key="]" line="63" column="34" />
-        <mark key="^" line="19" column="23" />
-        <mark key="." line="63" column="0" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/aws_ec2.tf" timestamp="1487573822915">
+        <mark key="[" line="55" column="32" />
+        <mark key="]" line="77" column="34" />
+        <mark key="^" line="33" column="23" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ShopPresenter.scala" timestamp="1486464751419">
         <mark key="[" line="119" column="0" />
@@ -245,8 +245,8 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/terraform.tfvars" timestamp="1487571373553">
-        <mark key="[" line="29" column="16" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/terraform.tfvars" timestamp="1487573795563">
+        <mark key="[" line="38" column="41" />
         <mark key="]" line="29" column="20" />
         <mark key="^" line="29" column="20" />
         <mark key="." line="29" column="20" />
