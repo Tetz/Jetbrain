@@ -426,6 +426,12 @@
         <mark key="^" line="10" column="67" />
         <mark key="." line="10" column="67" />
       </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/login/main.jsx" timestamp="1487672155265">
+        <mark key="[" line="56" column="15" />
+        <mark key="]" line="56" column="14" />
+        <mark key="^" line="56" column="14" />
+        <mark key="." line="56" column="14" />
+      </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/aws_vpc.tf" timestamp="1486990432587">
         <mark key="[" line="172" column="41" />
         <mark key="]" line="173" column="29" />
@@ -461,6 +467,12 @@
         <mark key="^" line="19" column="6" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/login/config.js" timestamp="1487671921159">
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="5" column="1" />
+        <mark key="." line="5" column="1" />
+        <mark key="^" line="5" column="1" />
+      </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/.gitignore" timestamp="1486630499622">
         <mark key="[" line="12" column="12" />
         <mark key="]" line="11" column="4" />
@@ -481,11 +493,11 @@
       <jump line="21" column="102" filename="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialGroupSummaryWrites.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKTsK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>hogehoge</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
@@ -494,34 +506,34 @@
         <text encoding="base64">ICAgICAgICAgIGNhc2UgXyA9PiBOb25lICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKTsK</text>
+        <text encoding="base64">Y29uZmlnLmpzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3Qgd2VicGFjayA9IHJlcXVpcmUoJ3dlYnBhY2snKTsK</text>
+        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tYWRkLW1vZHVsZS1leHBvcnRzIjogIiIsCg==</text>
+        <text encoding="base64">Y29uc3Qgd2VicGFjayA9IHJlcXVpcmUoJ3dlYnBhY2snKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJidWlsZCI6ICJ3ZWJwYWNrIC0tY29uZmlnIHdlYnBhY2suY29uZmlnLnByb2QuanMiCg==</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tYWRkLW1vZHVsZS1leHBvcnRzIjogIiIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3QuQmVmb3JlQW5kQWZ0ZXJBbGwKCg==</text>
+        <text encoding="base64">ICAgICJidWlsZCI6ICJ3ZWJwYWNrIC0tY29uZmlnIHdlYnBhY2suY29uZmlnLnByb2QuanMiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3QuQmVmb3JlQW5kQWZ0ZXJBbGwKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNlZWRPZmZsaW5lTWF0ZXJpYWwoc2Vzc2lvbiwgaXNQcmludGFibGUpCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBOYW1lZERCKCdzZXJ2aWNlXzFfX2FwaV9vZmZsaW5lX21hdGVyaWFsKS5sb2NhbFR4IHsgaW1wbGljaXQgc2Vzc2lvbiA9Pgo=</text>
+        <text encoding="base64">ICAgIHNlZWRPZmZsaW5lTWF0ZXJpYWwoc2Vzc2lvbiwgaXNQcmludGFibGUpCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2ltZy9odG1sL2dj</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -542,8 +554,8 @@
       <history-cmd>
         <entry>set paste</entry>
         <entry>noh</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL2ltZy9odG1sL2dj</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
