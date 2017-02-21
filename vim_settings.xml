@@ -21,6 +21,12 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="53" column="71" />
       </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/api/routes/image.js" timestamp="1487329199452">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="12" />
+        <mark key="^" line="5" column="19" />
+        <mark key="." line="5" column="12" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/AttributeGroupFormatter.scala" timestamp="1486443370541">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -66,6 +72,9 @@
         <mark key="]" line="13" column="28" />
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="28" />
+      </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/api/routes/html.js" timestamp="1487329657295">
+        <mark key="[" line="0" column="35" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/AllSeed.scala" timestamp="1484034907115">
         <mark key="[" line="9" column="0" />
@@ -453,11 +462,11 @@
       <jump line="21" column="102" filename="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialGroupSummaryWrites.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3QuQmVmb3JlQW5kQWZ0ZXJBbGwKCg==</text>
+      <register name="&quot;" type="4">
+        <text>hogehoge</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>hogehoge</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
