@@ -412,10 +412,10 @@
         <mark key="]" line="9" column="17" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/roco_core/build.sbt" timestamp="1487234716644">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Code/roco_core/build.sbt" timestamp="1487754829119">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Code/roco_core/src/main/resources/application.conf" timestamp="1487239551407">
@@ -492,8 +492,12 @@
       <jump line="21" column="102" filename="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialGroupSummaryWrites.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bGF6eSB2YWwgcm9jb0NvcmVVcmkgPSB1cmkoIi4vbGliL3JvY29fY29yZSIpCg==</text>
+      <register name="&quot;" type="8">
+        <text>//
+//
+//
+//
+//</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -504,44 +508,48 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGNhc2UgXyA9PiBOb25lICAK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">bGF6eSB2YWwgcm9jb0NvcmVVcmkgPSB1cmkoIi4vbGliL3JvY29fY29yZSIpCg==</text>
-      </register>
-      <register name="2" type="4">
-        <text>lazy val root = (project in file(&quot;.&quot;)).enablePlugins(PlayScala).dependsOn(
-  ProjectRef(rocoCoreUri, &quot;model&quot;),
-  ProjectRef(rocoCoreUri, &quot;error&quot;),
-  ProjectRef(rocoCoreUri, &quot;seeding&quot;)
-)</text>
-      </register>
-      <register name="3" type="8">
-        <text>#
-#
-#
-#
-#</text>
-      </register>
-      <register name="4" type="8">
+      <register name="1" type="8">
         <text>//
 //
 //
 //
 //</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">bGF6eSB2YWwgcm9jb0NvcmVVcmkgPSB1cmkoIi4vbGliL3JvY29fY29yZSIpCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>lazy val root = (project in file(&quot;.&quot;)).enablePlugins(PlayScala).dependsOn(
+  ProjectRef(rocoCoreUri, &quot;model&quot;),
+  ProjectRef(rocoCoreUri, &quot;error&quot;),
+  ProjectRef(rocoCoreUri, &quot;seeding&quot;)
+)</text>
+      </register>
+      <register name="4" type="8">
+        <text>#
+#
+#
+#
+#</text>
+      </register>
+      <register name="5" type="8">
+        <text>//
+//
+//
+//
+//</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAiaW5kZW50IjogWyJlcnJvciIsIDJdLAo9PT09PT09</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8g44Kv44Op44Kk44Ki44Oz44OI5ZCR44GRIC8g44K144O844OQ44O85ZCR44GRIOOCkuWQjOaZguOBq+ODk+ODq+ODieOBmeOCi+OAggo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
