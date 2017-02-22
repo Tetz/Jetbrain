@@ -134,7 +134,6 @@
         <mark key="^" line="9" column="20" />
         <mark key="." line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/CognitoPlayground/CognitoPlaygroundServer/backend_request/index.js" timestamp="1487749389681" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ArticlePresenter.scala" timestamp="1485245977165">
         <mark key="[" line="50" column="20" />
         <mark key="]" line="5" column="19" />
@@ -408,11 +407,10 @@
         <mark key="." line="73" column="38" />
         <mark key="^" line="73" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/build.sbt" timestamp="1486010450920">
-        <mark key="[" line="18" column="71" />
-        <mark key="]" line="18" column="68" />
-        <mark key="." line="18" column="68" />
-        <mark key="^" line="18" column="68" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/build.sbt" timestamp="1487754341687">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/.gitignore" timestamp="1486975865907">
         <mark key="[" line="9" column="17" />
@@ -499,8 +497,8 @@
       <jump line="21" column="102" filename="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialGroupSummaryWrites.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bGF6eSB2YWwgcm9jb0NvcmVVcmkgPSB1cmkoIi4vbGliL3JvY29fY29yZSIpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -512,28 +510,40 @@
         <text encoding="base64">ICAgICAgICAgIGNhc2UgXyA9PiBOb25lICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
+        <text encoding="base64">bGF6eSB2YWwgcm9jb0NvcmVVcmkgPSB1cmkoIi4vbGliL3JvY29fY29yZSIpCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>lazy val root = (project in file(&quot;.&quot;)).enablePlugins(PlayScala).dependsOn(
+  ProjectRef(rocoCoreUri, &quot;model&quot;),
+  ProjectRef(rocoCoreUri, &quot;error&quot;),
+  ProjectRef(rocoCoreUri, &quot;seeding&quot;)
+)</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAiaW5kZW50IjogWyJlcnJvciIsIDJdLAo9PT09PT09</text>
+      <register name="3" type="8">
+        <text>#
+#
+#
+#
+#</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="8">
+        <text>//
+//
+//
+//
+//</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8g44Kv44Op44Kk44Ki44Oz44OI5ZCR44GRIC8g44K144O844OQ44O85ZCR44GRIOOCkuWQjOaZguOBq+ODk+ODq+ODieOBmeOCi+OAggo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PT09PT09PQoKbGV0IGNvbW1vbiA9IHsgLy8gZXMtbGludCBlcnJvciByZWFzb246IGluc2VydCBvYmplY3QgYnkgT2JqZWN0LmFzc2lnbigpCj4+Pj4+Pj4gZGV2ZWxvcA==</text>
+      <register name="7" type="4">
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAiaW5kZW50IjogWyJlcnJvciIsIDJdLAo9PT09PT09</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Ly8g44Kv44Op44Kk44Ki44Oz44OI5ZCR44GRIC8g44K144O844OQ44O85ZCR44GRIOOCkuWQjOaZguOBq+ODk+ODq+ODieOBmeOCi+OAggo=</text>
