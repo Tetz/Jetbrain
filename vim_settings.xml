@@ -197,10 +197,11 @@
         <mark key="^" line="9" column="57" />
         <mark key="." line="9" column="57" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/webpack.config.js" timestamp="1487740333644">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/webpack.config.js" timestamp="1487741146429">
+        <mark key="[" line="42" column="52" />
+        <mark key="]" line="36" column="5" />
+        <mark key="." line="36" column="5" />
+        <mark key="^" line="36" column="5" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/MaterialGroupControllerSpec.scala" timestamp="1485514285062">
         <mark key="[" line="26" column="43" />
@@ -491,11 +492,11 @@
       <jump line="21" column="102" filename="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialGroupSummaryWrites.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>// 各主要ブラウザーの直近2バージョンに対応できる js を出力</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>// 各主要ブラウザーの直近2バージョンに対応できる js を出力</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
