@@ -21,6 +21,12 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="53" column="71" />
       </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/api/routes/image.js" timestamp="1487329199452">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="12" />
+        <mark key="^" line="5" column="19" />
+        <mark key="." line="5" column="12" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/AttributeGroupFormatter.scala" timestamp="1486443370541">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -67,6 +73,9 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="28" />
       </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/api/routes/html.js" timestamp="1487329657295">
+        <mark key="[" line="0" column="35" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/AllSeed.scala" timestamp="1484034907115">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -84,6 +93,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="13" column="6" />
       </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/lib/image.js" timestamp="1487743037636">
+        <mark key="[" line="11" column="2" />
+        <mark key="]" line="11" column="3" />
+        <mark key="^" line="11" column="3" />
+        <mark key="." line="11" column="3" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/HomeController.scala" timestamp="1484647292880">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -98,6 +113,9 @@
       </file>
       <file name="$USER_HOME$/Code/roco-migration-tool/bin/reset" timestamp="1485404367820">
         <mark key="[" line="41" column="57" />
+      </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/package.json" timestamp="1487744511215">
+        <mark key="[" line="1" column="30" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ArticleClip.scala" timestamp="1484121762264">
         <mark key="[" line="12" column="0" />
@@ -182,6 +200,9 @@
         <mark key="^" line="9" column="57" />
         <mark key="." line="9" column="57" />
       </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/webpack.config.js" timestamp="1487741146429">
+        <mark key="[" line="0" column="52" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/MaterialGroupControllerSpec.scala" timestamp="1485514285062">
         <mark key="[" line="26" column="43" />
         <mark key="]" line="19" column="0" />
@@ -233,10 +254,11 @@
         <mark key="]" line="13" column="6" />
         <mark key="." line="13" column="6" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/api/app.js" timestamp="1486633491640">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/.gitignore" timestamp="1487658364475">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="10" column="3" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="10" column="3" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/api/routes/upload.js" timestamp="1486630663267">
         <mark key="[" line="15" column="0" />
@@ -247,6 +269,11 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/webpack.config.prod.js" timestamp="1487659391843">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/api/routes/index.js" timestamp="1486630361227">
         <mark key="[" line="5" column="43" />
@@ -392,6 +419,12 @@
         <mark key="^" line="10" column="67" />
         <mark key="." line="10" column="67" />
       </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/login/main.jsx" timestamp="1487743053586">
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="26" column="1" />
+        <mark key="^" line="26" column="6" />
+        <mark key="." line="26" column="1" />
+      </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/aws_vpc.tf" timestamp="1486990432587">
         <mark key="[" line="172" column="41" />
         <mark key="]" line="173" column="29" />
@@ -416,16 +449,23 @@
         <mark key="^" line="15" column="7" />
         <mark key="." line="15" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/.eslintrc" timestamp="1486636219554">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/.eslintrc" timestamp="1487742465388">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="26" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Code/roco_core/seeding/src/main/scala/ApplicationTestHelper.scala" timestamp="1487239837395">
         <mark key="[" line="18" column="8" />
         <mark key="]" line="11" column="0" />
         <mark key="^" line="19" column="6" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/login/config.js" timestamp="1487671921159">
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="5" column="1" />
+        <mark key="." line="5" column="1" />
+        <mark key="^" line="5" column="1" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/.gitignore" timestamp="1486630499622">
         <mark key="[" line="12" column="12" />
@@ -447,8 +487,8 @@
       <jump line="21" column="102" filename="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialGroupSummaryWrites.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3QuQmVmb3JlQW5kQWZ0ZXJBbGwKCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -460,34 +500,34 @@
         <text encoding="base64">ICAgICAgICAgIGNhc2UgXyA9PiBOb25lICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3QuQmVmb3JlQW5kQWZ0ZXJBbGwKCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAiaW5kZW50IjogWyJlcnJvciIsIDJdLAo9PT09PT09</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNlZWRPZmZsaW5lTWF0ZXJpYWwoc2Vzc2lvbiwgaXNQcmludGFibGUpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBOYW1lZERCKCdzZXJ2aWNlXzFfX2FwaV9vZmZsaW5lX21hdGVyaWFsKS5sb2NhbFR4IHsgaW1wbGljaXQgc2Vzc2lvbiA9Pgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBEQnMuc2V0dXAoJ3NlcnZpY2VfMV9fYXBpX29mZmxpbmVfbWF0ZXJpYWwpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBEQnMubG9hZEdsb2JhbFNldHRpbmdzKCkK</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgdmFsIGRiID0gREJzV2l0aEVudihFTlYpCiAgICAgIGRiLnNldHVwKERCX05BTUUpCiAgICAgIE5hbWVkREIoREJfTkFNRSkgbG9jYWxUeCB7IGltcGxpY2l0IHNlc3Npb24gPT4KICAgICAgICBTZWVkTWFpbi5zZWVkT2ZmbGluZU1hdGVyaWFsKHNlc3Npb24sIGZhbHNlKQogICAgICB9</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8g44Kv44Op44Kk44Ki44Oz44OI5ZCR44GRIC8g44K144O844OQ44O85ZCR44GRIOOCkuWQjOaZguOBq+ODk+ODq+ODieOBmeOCi+OAggo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">PT09PT09PQoKbGV0IGNvbW1vbiA9IHsgLy8gZXMtbGludCBlcnJvciByZWFzb246IGluc2VydCBvYmplY3QgYnkgT2JqZWN0LmFzc2lnbigpCj4+Pj4+Pj4gZGV2ZWxvcA==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8g44Kv44Op44Kk44Ki44Oz44OI5ZCR44GRIC8g44K144O844OQ44O85ZCR44GRIOOCkuWQjOaZguOBq+ODk+ODq+ODieOBmeOCi+OAggo=</text>
+      </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2ltZy9odG1sL2dj</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -508,8 +548,8 @@
       <history-cmd>
         <entry>set paste</entry>
         <entry>noh</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL2ltZy9odG1sL2dj</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
