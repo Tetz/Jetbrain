@@ -87,7 +87,12 @@
         <mark key="^" line="13" column="65" />
         <mark key="." line="13" column="65" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/dist/index.html" timestamp="1487832237419" />
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/dist/index.html" timestamp="1487842929778">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="17" />
+        <mark key="^" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/Filters.scala" timestamp="1484647826471">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -218,11 +223,11 @@
         <mark key="^" line="9" column="57" />
         <mark key="." line="9" column="57" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/webpack.config.js" timestamp="1487840265855">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="6" column="33" />
-        <mark key="." line="6" column="33" />
-        <mark key="^" line="6" column="33" />
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/webpack.config.js" timestamp="1487842914579">
+        <mark key="[" line="9" column="36" />
+        <mark key="]" line="9" column="34" />
+        <mark key="." line="9" column="34" />
+        <mark key="^" line="9" column="34" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/MaterialGroupControllerSpec.scala" timestamp="1485514285062">
         <mark key="[" line="26" column="43" />
@@ -275,11 +280,11 @@
         <mark key="]" line="13" column="6" />
         <mark key="." line="13" column="6" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/.gitignore" timestamp="1487658364475">
-        <mark key="[" line="9" column="5" />
-        <mark key="]" line="10" column="3" />
-        <mark key="^" line="10" column="3" />
-        <mark key="." line="10" column="3" />
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/.gitignore" timestamp="1487843091308">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/api/routes/upload.js" timestamp="1486630663267">
         <mark key="[" line="15" column="0" />
@@ -516,7 +521,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1haW46ICcuL3NyYy9pbmRleC5qcycK</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
@@ -525,34 +530,34 @@
         <text>img</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNpZ25VcDogJy4vcGFnZUEnLAo=</text>
+        <text encoding="base64">ICAgIHNpZ25fdXA6ICcuL3NyYy9sb2dpbi9tYWluLmpzeCcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1haW46ICcuL3NyYy9pbmRleC5qcycK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNpZ25VcDogJy4vcGFnZUEnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZ2luOiAnLi9wYWdlQicK</text>
+        <text encoding="base64">ICAgIHNpZ25VcDogJy4vcGFnZUEnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gY29uc3Qgd2VicGFjayA9IHJlcXVpcmUoJ3dlYnBhY2snKTsK</text>
+        <text encoding="base64">ICAgIGxvZ2luOiAnLi9wYWdlQicK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gY29uc3Qgd2VicGFjayA9IHJlcXVpcmUoJ3dlYnBhY2snKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNodW5rRmlsZW5hbWU6ICJbaWRdLmNodW5rLmpzIgo=</text>
+        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFyIENvbW1vbnNDaHVua1BsdWdpbiA9IHJlcXVpcmUoIi4uLy4uL2xpYi9vcHRpbWl6ZS9Db21tb25zQ2h1bmtQbHVnaW4iKTsK</text>
+        <text encoding="base64">ICAgIGNodW5rRmlsZW5hbWU6ICJbaWRdLmNodW5rLmpzIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
