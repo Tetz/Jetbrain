@@ -87,6 +87,7 @@
         <mark key="^" line="13" column="65" />
         <mark key="." line="13" column="65" />
       </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/dist/index.html" timestamp="1487832237419" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/Filters.scala" timestamp="1484647826471">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -155,6 +156,12 @@
       <file name="$USER_HOME$/Code/terraform-ciatr/aws_ec2.tf" timestamp="1486986825620">
         <mark key="[" line="44" column="31" />
       </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/dist/sign_up.html" timestamp="1487832900363">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/AttributeGroup.scala" timestamp="1486463082837">
         <mark key="[" line="30" column="3" />
         <mark key="]" line="38" column="152" />
@@ -211,11 +218,11 @@
         <mark key="^" line="9" column="57" />
         <mark key="." line="9" column="57" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/webpack.config.js" timestamp="1487762197668">
-        <mark key="[" line="70" column="7" />
-        <mark key="]" line="70" column="7" />
-        <mark key="^" line="69" column="35" />
-        <mark key="." line="70" column="7" />
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/webpack.config.js" timestamp="1487832752684">
+        <mark key="[" line="6" column="34" />
+        <mark key="]" line="6" column="33" />
+        <mark key="." line="6" column="33" />
+        <mark key="^" line="6" column="33" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/MaterialGroupControllerSpec.scala" timestamp="1485514285062">
         <mark key="[" line="26" column="43" />
@@ -505,102 +512,47 @@
       <jump line="126" column="2" filename="$USER_HOME$/Code/ApiOfflineMaterial/conf/application.conf" />
       <jump line="13" column="11" filename="$USER_HOME$/Code/ApiOfflineMaterial/test/MaterialGroupControllerSpec.scala" />
       <jump line="21" column="102" filename="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialGroupSummaryWrites.scala" />
+      <jump line="5" column="0" filename="$USER_HOME$/Code/roco-admin-dashboard/client/webpack.config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,
-      plugins: common.plugins.concat([
-        new CopyWebpackPlugin([{ from: 'src/' }], {
-          // html 等のコード以外のファイルをコピー
-          ignore: [
-            'test/',
-            '*.jsx',
-            '*.js',
-            '.DS_Store',
-            '.gitkeep'
-          ]
-        })
-      ])
-        .concat(isProduction
-          ? [
-            new webpack.optimize.UglifyJsPlugin({
-              output: { comments: uglifySaveLicense } // リリースビルドのみ uglify する
-            })
-          ]
-          : []),
-      target: 'web'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhc2UgXyA9PiBOb25lICAK</text>
+        <text encoding="base64">ICAgIHNpZ25VcDogJy4vcGFnZUEnLAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>,
-      plugins: common.plugins.concat([
-        new CopyWebpackPlugin([{ from: 'src/' }], {
-          // html 等のコード以外のファイルをコピー
-          ignore: [
-            'test/',
-            '*.jsx',
-            '*.js',
-            '.DS_Store',
-            '.gitkeep'
-          ]
-        })
-      ])
-        .concat(isProduction
-          ? [
-            new webpack.optimize.UglifyJsPlugin({
-              output: { comments: uglifySaveLicense } // リリースビルドのみ uglify する
-            })
-          ]
-          : []),
-      target: 'web'</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbW9kdWxlOiBiYWJlbE1vZHVsZSh7IGJyb3dzZXJzOiBbJ2xhc3QgMiB2ZXJzaW9ucyddIH0pLAo=</text>
+        <text encoding="base64">ICAgIHNpZ25VcDogJy4vcGFnZUEnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8g5ZCE5Li76KaB44OW44Op44Km44K244O844Gu55u06L+RMuODkOODvOOCuOODp+ODs+OBq+WvvuW/nOOBp+OBjeOCiyBqcyDjgpLlh7rlipsK</text>
+        <text encoding="base64">ICAgIGxvZ2luOiAnLi9wYWdlQicK</text>
       </register>
-      <register name="4" type="8">
-        <text>//
-//
-//
-//
-//</text>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gY29uc3Qgd2VicGFjayA9IHJlcXVpcmUoJ3dlYnBhY2snKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bGF6eSB2YWwgcm9jb0NvcmVVcmkgPSB1cmkoIi4vbGliL3JvY29fY29yZSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>lazy val root = (project in file(&quot;.&quot;)).enablePlugins(PlayScala).dependsOn(
-  ProjectRef(rocoCoreUri, &quot;model&quot;),
-  ProjectRef(rocoCoreUri, &quot;error&quot;),
-  ProjectRef(rocoCoreUri, &quot;seeding&quot;)
-)</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text>#
-#
-#
-#
-#</text>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKTsK</text>
       </register>
-      <register name="8" type="8">
-        <text>//
-//
-//
-//
-//</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNodW5rRmlsZW5hbWU6ICJbaWRdLmNodW5rLmpzIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
+        <text encoding="base64">dmFyIENvbW1vbnNDaHVua1BsdWdpbiA9IHJlcXVpcmUoIi4uLy4uL2xpYi9vcHRpbWl6ZS9Db21tb25zQ2h1bmtQbHVnaW4iKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
