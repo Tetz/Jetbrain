@@ -27,7 +27,7 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/index.html" timestamp="1488262289108">
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/index.html" timestamp="1488265386207">
         <mark key="[" line="8" column="23" />
         <mark key="]" line="8" column="16" />
         <mark key="^" line="8" column="16" />
@@ -272,6 +272,9 @@
         <mark key="]" line="17" column="23" />
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="23" />
+      </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/dist/router.html" timestamp="1488265381381">
+        <mark key="[" line="8" column="17" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/MaterialHtml.scala" timestamp="1486611513006">
         <mark key="[" line="17" column="37" />
