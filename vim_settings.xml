@@ -15,11 +15,11 @@
         <mark key="." line="78" column="45" />
         <mark key="^" line="78" column="36" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/index.html" timestamp="1488265386207">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="16" />
-        <mark key="^" line="8" column="16" />
-        <mark key="." line="8" column="16" />
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/index.html" timestamp="1488345926745">
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="3" column="30" />
+        <mark key="^" line="3" column="30" />
+        <mark key="." line="3" column="30" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/MaterialGroup.scala" timestamp="1485502124735">
         <mark key="[" line="31" column="78" />
@@ -171,11 +171,12 @@
         <mark key="^" line="12" column="34" />
         <mark key="." line="12" column="34" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/Material.js" timestamp="1488341539995">
-        <mark key="[" line="3" column="26" />
-        <mark key="]" line="3" column="30" />
-        <mark key="^" line="3" column="30" />
-        <mark key="." line="3" column="30" />
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/Material.js" timestamp="1488345695615">
+        <mark key="'" line="6" column="13" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+        <mark key="^" line="100" column="17" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/Utility.scala" timestamp="1484646647950">
         <mark key="[" line="7" column="10" />
@@ -231,7 +232,7 @@
         <mark key="^" line="10" column="67" />
         <mark key="." line="10" column="67" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/login/main.jsx" timestamp="1488342563806">
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/login/main.jsx" timestamp="1488343535927">
         <mark key="'" line="26" column="5" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="26" column="3" />
@@ -262,7 +263,12 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="53" column="71" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/Home.js" timestamp="1488340341754" />
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/Home.js" timestamp="1488345200381">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="6" />
+        <mark key="^" line="7" column="28" />
+        <mark key="." line="8" column="6" />
+      </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/index.js" timestamp="1488341489207">
         <mark key="[" line="3" column="10" />
         <mark key="]" line="2" column="11" />
@@ -302,11 +308,11 @@
         <mark key="^" line="8" column="32" />
         <mark key="." line="8" column="34" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/package.json" timestamp="1488262305762">
-        <mark key="[" line="8" column="73" />
-        <mark key="]" line="8" column="73" />
-        <mark key="." line="8" column="73" />
-        <mark key="^" line="8" column="73" />
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/package.json" timestamp="1488345949633">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="21" />
+        <mark key="^" line="10" column="21" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ArticlePresenter.scala" timestamp="1485245977165">
         <mark key="[" line="50" column="20" />
@@ -350,11 +356,11 @@
         <mark key="^" line="25" column="56" />
         <mark key="." line="25" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/webpack.config.js" timestamp="1488266747892">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/webpack.config.js" timestamp="1488345887881">
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="38" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/LabelGroupController.scala" timestamp="1484710649146">
         <mark key="[" line="31" column="3" />
@@ -449,11 +455,11 @@
         <mark key="^" line="15" column="7" />
         <mark key="." line="15" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/Login.js" timestamp="1488341549691">
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="3" column="23" />
-        <mark key="^" line="3" column="23" />
-        <mark key="." line="3" column="23" />
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/Login.js" timestamp="1488345656605">
+        <mark key="'" line="13" column="3" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Code/roco_core/seeding/src/main/scala/ApplicationTestHelper.scala" timestamp="1487239837395">
         <mark key="[" line="18" column="8" />
@@ -487,55 +493,59 @@
       <jump line="21" column="102" filename="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialGroupSummaryWrites.scala" />
       <jump line="5" column="0" filename="$USER_HOME$/Code/roco-admin-dashboard/client/webpack.config.js" />
       <jump line="26" column="5" filename="$USER_HOME$/Code/roco-admin-dashboard/client/src/login/main.jsx" />
+      <jump line="79" column="0" filename="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/Login.js" />
+      <jump line="15" column="3" filename="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/Login.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/Material.js" />
+      <jump line="6" column="13" filename="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/Material.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Bar</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJkZXYiOiAib3BlbiBodHRwOi8vbG9jYWxob3N0OjgwODAvd2VicGFjay1kZXYtc2VydmVyL2Rpc3QvICYmIHdlYnBhY2stZGV2LXNlcnZlciAtLXByb2dyZXNzIC0taW5saW5lIC0tY29sb3JzIC0taG90Igo=</text>
       </register>
       <register name="-" type="4">
-        <text>Bar</text>
+        <text>webpack</text>
       </register>
       <register name="/" type="4">
-        <text>action</text>
+        <text>SignUpForm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNpZ25fdXA6ICcuL3NyYy9sb2dpbi9tYWluLmpzeCcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJkZXYiOiAib3BlbiBodHRwOi8vbG9jYWxob3N0OjgwODAvd2VicGFjay1kZXYtc2VydmVyL2Rpc3QvICYmIHdlYnBhY2stZGV2LXNlcnZlciAtLXByb2dyZXNzIC0taW5saW5lIC0tY29sb3JzIC0taG90Igo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGluZGV4OiAnLi9zcmMvaW5kZXguanMnLAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">Ly8gcmVuZGVyKAovLyAgIDxBcHAvPiwKLy8gICBkb2N1bWVudC5xdWVyeVNlbGVjdG9yKCcjbWFpbicpCi8vICk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICBlbnRyeTogJy4vYXBwLmpzJywKICBvdXRwdXQ6IHsKICAgIHBhdGg6IHBhdGguam9pbihfX2Rpcm5hbWUsICdkaXN0JyksCiAgICBmaWxlbmFtZTogJ2J1bmRsZS5qcycKICB9LAogIG1vZHVsZTogewogICAgbG9hZGVyczogW3sKICAgICAgdGVzdDogL1wuanMkLywKICAgICAgbG9hZGVyOiAnYmFiZWwnLAogICAgICBleGNsdWRlOiAvbm9kZV9tb2R1bGVzLywKICAgIH1dCiAgfQp9Cg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaW5jbHVkZTogX19kaXJuYW1lCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gTWF0ZXJpYWwoKSB7CiAgcmV0dXJuIDxkaXY+QW5kIEkgYW0gTWF0ZXJpYWwhPC9kaXY+Cn0K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">aW1wb3J0IHsgcmVuZGVyIH0gZnJvbSAncmVhY3QtZG9tJzsKaW1wb3J0IERyb3B6b25lIGZyb20gJ3JlYWN0LWRyb3B6b25lJzsKaW1wb3J0IGF4aW9zIGZyb20gJ2F4aW9zJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IENvbXBvbmVudCB9IGZyb20gJ3JlYWN0JzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>action</last-search>
+      <last-search>SignUpForm</last-search>
       <last-offset />
-      <last-pattern>action</last-pattern>
+      <last-pattern>SignUpForm</last-pattern>
       <last-replace>html</last-replace>
       <last-substitute>img</last-substitute>
       <last-dir>1</last-dir>
@@ -547,6 +557,7 @@
         <entry encoding="base64">XDxwbGF5XD4=</entry>
         <entry>img</entry>
         <entry>action</entry>
+        <entry>SignUpForm</entry>
       </history-search>
       <history-cmd>
         <entry>set paste</entry>
