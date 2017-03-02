@@ -165,13 +165,7 @@
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/app.js" timestamp="1488365003960">
-        <mark key="[" line="37" column="26" />
-        <mark key="]" line="37" column="28" />
-        <mark key="^" line="37" column="28" />
-        <mark key="." line="37" column="28" />
-      </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/Material.js" timestamp="1488364619610">
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/Material.js" timestamp="1488432917736">
         <mark key="'" line="4" column="13" />
         <mark key="[" line="95" column="0" />
         <mark key="]" line="95" column="0" />
@@ -275,12 +269,6 @@
         <mark key="]" line="8" column="6" />
         <mark key="^" line="7" column="28" />
         <mark key="." line="8" column="6" />
-      </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/index.js" timestamp="1488365010917">
-        <mark key="[" line="2" column="11" />
-        <mark key="]" line="2" column="10" />
-        <mark key="^" line="2" column="10" />
-        <mark key="." line="2" column="10" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/api/routes/image.js" timestamp="1487329199452">
         <mark key="[" line="5" column="12" />
@@ -451,10 +439,10 @@
         <mark key="^" line="73" column="38" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/App.js" timestamp="1488364829799">
-        <mark key="[" line="16" column="58" />
-        <mark key="]" line="16" column="56" />
-        <mark key="^" line="16" column="56" />
-        <mark key="." line="16" column="56" />
+        <mark key="[" line="18" column="58" />
+        <mark key="]" line="18" column="56" />
+        <mark key="^" line="18" column="56" />
+        <mark key="." line="18" column="56" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/LabelController.scala" timestamp="1484710635187">
         <mark key="[" line="28" column="3" />
@@ -516,7 +504,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECgo9PT09PT09Cj4+Pj4+Pj4gZGV2ZWxvcA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -527,8 +515,8 @@
       <register name="0" type="2">
         <text encoding="base64">Y2Qgc2VydmVyICYmIG5wbSBpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">PDw8PDw8PCBIRUFECgo9PT09PT09Cj4+Pj4+Pj4gZGV2ZWxvcA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -537,22 +525,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2QgY2xpZW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bnBtIHN0YXJ0Cg==</text>
+        <text encoding="base64">Y2QgY2xpZW50Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bnBtIGkK</text>
+        <text encoding="base64">bnBtIHN0YXJ0Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">bnBtIGkK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Y2Qgc2VydmVyCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IyMjIERldmVsb3BtZW50IE1vZGUKbm9kZW1vbiBpcyB1c2VmdWwgdG8gcmVzdGFydCB5b3VyIG5vZGUgYXBwbGljYXRpb24gYXV0b21hdGljYWxseSB3aGVuIGFueSBmaWxlcyBjaGFuZ2UKYGBgCm5wbSBpbnN0YWxsIC1nIG5vZGVtb24Kbm9kZW1vbiBzdGFydApgYGAK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
