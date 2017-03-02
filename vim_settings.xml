@@ -402,11 +402,11 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/README.md" timestamp="1488347290792">
-        <mark key="[" line="9" column="64" />
-        <mark key="]" line="9" column="85" />
-        <mark key="." line="9" column="85" />
-        <mark key="^" line="9" column="85" />
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/README.md" timestamp="1488431998052">
+        <mark key="[" line="21" column="32" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Code/terraform-roco/.gitignore" timestamp="1485494751134">
         <mark key="[" line="0" column="12" />
@@ -516,43 +516,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Login</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Login</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>SignUpForm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bm9kZW1vbiBzdGFydAo=</text>
+        <text encoding="base64">Y2Qgc2VydmVyICYmIG5wbSBpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxkaXY+PFNpZ25VcEZvcm0gLz48L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXR1cm4gKAo=</text>
+        <text encoding="base64">Y2QgY2xpZW50Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gTG9naW4oKSB7Cg==</text>
+        <text encoding="base64">bnBtIHN0YXJ0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gfQo=</text>
+        <text encoding="base64">bnBtIGkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICApCg==</text>
+        <text encoding="base64">Y2Qgc2VydmVyCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgIDxkaXY+PE1hdGVyaWFsIC8+PC9kaXY+Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IyMjIERldmVsb3BtZW50IE1vZGUKbm9kZW1vbiBpcyB1c2VmdWwgdG8gcmVzdGFydCB5b3VyIG5vZGUgYXBwbGljYXRpb24gYXV0b21hdGljYWxseSB3aGVuIGFueSBmaWxlcyBjaGFuZ2UKYGBgCm5wbSBpbnN0YWxsIC1nIG5vZGVtb24Kbm9kZW1vbiBzdGFydApgYGAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICByZXR1cm4gKAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
