@@ -276,10 +276,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/README.md" timestamp="1486533417554">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/README.md" timestamp="1488434727858">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="20" column="2" />
+        <mark key="." line="20" column="2" />
+        <mark key="^" line="20" column="2" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/client/webpack.config.prod.js" timestamp="1487659391843">
         <mark key="[" line="1" column="0" />
@@ -471,6 +472,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="^" line="21" column="26" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/bin/deploy_client.sh" timestamp="1488434867609">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="3" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="4" column="3" />
       </file>
       <file name="$USER_HOME$/Code/roco_core/seeding/src/main/scala/ApplicationTestHelper.scala" timestamp="1487239837395">
         <mark key="[" line="18" column="8" />
