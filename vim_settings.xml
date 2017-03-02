@@ -456,6 +456,12 @@
         <mark key="^" line="15" column="7" />
         <mark key="." line="15" column="7" />
       </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/bin/deploy_client.sh" timestamp="1488434139697">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="1" column="21" />
+        <mark key="." line="1" column="21" />
+      </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/Login.js" timestamp="1488363107717">
         <mark key="'" line="65" column="0" />
         <mark key="[" line="3" column="0" />
