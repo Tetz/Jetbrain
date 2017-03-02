@@ -327,6 +327,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/.elasticbeanstalk/config.yml" timestamp="1488448370561">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="62" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/roco_core/model/build.sbt" timestamp="1487225860153">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -512,7 +518,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVwbG95Ogo=</text>
       </register>
       <register name="-" type="4">
         <text>angular2html</text>
@@ -524,43 +530,35 @@
         <text encoding="base64">ICAgICAgICAgIGNhc2UgXyA9PiBOb25lICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVwbG95Ogo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhcnRpZmFjdDogdGFyZ2V0L3VuaXZlcnNhbC9hcGlvZmZsaW5lbWF0ZXJpYWwtdmVyc2lvbi0wLjUuemlwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGF6eSB2YWwgcm9jb0NvcmVVcmkgPSB1cmkoIi4iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBQcm9qZWN0UmVmKHJvY29Db3JlVXJpLCAic2VlZGluZyIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">bGF6eSB2YWwgcm9jb0NvcmVVcmkgPSB1cmkoIi4iKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBQcm9qZWN0UmVmKHJvY29Db3JlVXJpLCAic2VlZGluZyIpCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICBQcm9qZWN0UmVmKHJvY29Db3JlVXJpLCAibW9kZWwiKSwK</text>
       </register>
-      <register name="6" type="8">
+      <register name="8" type="8">
         <text>//
 //
 //
 //
 //</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">bGF6eSB2YWwgcm9jb0NvcmVVcmkgPSB1cmkoIi4vbGliL3JvY29fY29yZSIpCg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>lazy val root = (project in file(&quot;.&quot;)).enablePlugins(PlayScala).dependsOn(
-  ProjectRef(rocoCoreUri, &quot;model&quot;),
-  ProjectRef(rocoCoreUri, &quot;error&quot;),
-  ProjectRef(rocoCoreUri, &quot;seeding&quot;)
-)</text>
-      </register>
-      <register name="9" type="8">
-        <text>#
-#
-#
-#
-#</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
