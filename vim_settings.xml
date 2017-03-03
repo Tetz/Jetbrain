@@ -244,11 +244,11 @@
         <mark key="^" line="40" column="45" />
         <mark key="." line="40" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/bin/deploy.sh" timestamp="1488519929432">
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/bin/deploy.sh" timestamp="1488521550929">
         <mark key="[" line="3" column="37" />
-        <mark key="]" line="2" column="8" />
-        <mark key="." line="2" column="8" />
-        <mark key="^" line="2" column="8" />
+        <mark key="]" line="1" column="54" />
+        <mark key="." line="1" column="54" />
+        <mark key="^" line="1" column="54" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/api/package.json" timestamp="1486635949256">
         <mark key="[" line="17" column="23" />
