@@ -270,6 +270,12 @@
         <mark key="^" line="173" column="48" />
         <mark key="." line="173" column="29" />
       </file>
+      <file name="$USER_HOME$/Code/terraform-ciatr/production/terraform-prod.tfvars" timestamp="1488632495510">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="17" />
+        <mark key="." line="4" column="17" />
+        <mark key="^" line="4" column="17" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopClip.scala" timestamp="1484646731405">
         <mark key="[" line="25" column="57" />
         <mark key="]" line="25" column="56" />
@@ -515,11 +521,11 @@
       <jump line="119" column="20" filename="$USER_HOME$/Code/ApiOfflineMaterial/test/ShopControllerSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIENvbnNvbGUucHJpbnRsbigiPT09PT09IHNob3AvOmlkIERFQlVHID09PT09PSIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>AKIAI7PKNBDKYVKX23NA</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>AKIAI7PKNBDKYVKX23NA</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG9wXD4=</text>
