@@ -79,6 +79,11 @@
         <mark key="." line="38" column="152" />
         <mark key="^" line="38" column="152" />
       </file>
+      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/tasks/main.yml" timestamp="1488796056157">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/AllSeed.scala" timestamp="1484034907115">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -186,11 +191,12 @@
         <mark key="^" line="122" column="50" />
         <mark key="." line="122" column="50" />
       </file>
-      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/tasks/install.yml" timestamp="1488794433279">
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="11" column="20" />
-        <mark key="^" line="11" column="20" />
-        <mark key="." line="11" column="20" />
+      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/tasks/install.yml" timestamp="1488796848861">
+        <mark key="'" line="40" column="28" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="11" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="46" column="27" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/MaterialGroup.scala" timestamp="1485502124735">
         <mark key="[" line="31" column="78" />
@@ -198,7 +204,7 @@
         <mark key="^" line="31" column="56" />
         <mark key="." line="31" column="56" />
       </file>
-      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/templates/MariaDB.repo" timestamp="1488794370231" />
+      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/templates/MariaDB.repo" timestamp="1488795892409" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/filters/HttpRequestFilter.scala" timestamp="1484647776611">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -430,6 +436,11 @@
         <mark key="^" line="9" column="20" />
         <mark key="." line="9" column="20" />
       </file>
+      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/templates/MySQL.repo" timestamp="1488795878621">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+      </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/production/terraform-prod.tfvars" timestamp="1488634811250">
         <mark key="[" line="5" column="18" />
         <mark key="]" line="5" column="18" />
@@ -577,55 +588,58 @@
       <jump line="118" column="0" filename="$USER_HOME$/Code/ApiOfflineMaterial/test/ShopControllerSpec.scala" />
       <jump line="119" column="20" filename="$USER_HOME$/Code/ApiOfflineMaterial/test/ShopControllerSpec.scala" />
       <jump line="49" column="2" filename="$USER_HOME$/vm/ciatr-vm/Vagrantfile" />
+      <jump line="30" column="9" filename="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/tasks/install.yml" />
+      <jump line="41" column="12" filename="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/tasks/install.yml" />
+      <jump line="39" column="28" filename="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/tasks/install.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdWRvOiB5ZXMK</text>
       </register>
       <register name="-" type="4">
-        <text>mariadb</text>
+        <text>client</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25maWdcPg==</text>
+        <text encoding="base64">XDx0bXBcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmFyaWFibGUgInJkc19uYW1lIiB7fQo=</text>
+        <text encoding="base64">ICBzdWRvOiB5ZXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LSBuYW1lOiBkb3dubG9hZCBmb28uY29uZgo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IyB0aGlzIGlzIHJlYWQgYnkgdGhlIHN0YW5kYWxvbmUgZGFlbW9uIGFuZCBlbWJlZGRlZCBzZXJ2ZXJzCltzZXJ2ZXJdCg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">LSBpbmNsdWRlOiBjb25maWd1cmUueW1sCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IwojICogR2FsZXJhLXJlbGF0ZWQgc2V0dGluZ3MKIwpbZ2FsZXJhXQoKIyB0aGlzIGlzIG9ubHkgZm9yIGVtYmVkZGVkIHNlcnZlcgpbZW1iZWRkZWRdCgo=</text>
+        <text encoding="base64">IyB0aGlzIGlzIHJlYWQgYnkgdGhlIHN0YW5kYWxvbmUgZGFlbW9uIGFuZCBlbWJlZGRlZCBzZXJ2ZXJzCltzZXJ2ZXJdCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IyBUaGlzIGdyb3VwIGlzIG9ubHkgcmVhZCBieSBNYXJpYURCIHNlcnZlcnMsIG5vdCBieSBNeVNRTC4KIyBJZiB5b3UgdXNlIHRoZSBzYW1lIC5jbmYgZmlsZSBmb3IgTXlTUUwgYW5kIE1hcmlhREIsCiMgeW91IGNhbiBwdXQgTWFyaWFEQi1vbmx5IG9wdGlvbnMgaGVyZQpbbXlzcWxdCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y2hhcmFjdGVyLXNldC1zZXJ2ZXI9e3sgbXlzcWxfc2VydmVyX2RlZmF1bHRfY2hhcmFjdGVyX3NldCB9fQo=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IwojICogR2FsZXJhLXJlbGF0ZWQgc2V0dGluZ3MKIwpbZ2FsZXJhXQoKIyB0aGlzIGlzIG9ubHkgZm9yIGVtYmVkZGVkIHNlcnZlcgpbZW1iZWRkZWRdCgojIFRoaXMgZ3JvdXAgaXMgb25seSByZWFkIGJ5IE1hcmlhREIgc2VydmVycywgbm90IGJ5IE15U1FMLgojIElmIHlvdSB1c2UgdGhlIHNhbWUgLmNuZiBmaWxlIGZvciBNeVNRTCBhbmQgTWFyaWFEQiwKIyB5b3UgY2FuIHB1dCBNYXJpYURCLW9ubHkgb3B0aW9ucyBoZXJlCltteXNxbF0KY2hhcmFjdGVyLXNldC1zZXJ2ZXI9e3sgbXlzcWxfc2VydmVyX2RlZmF1bHRfY2hhcmFjdGVyX3NldCB9fQo=</text>
-      </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="4">
+        <text encoding="base64">IwojICogR2FsZXJhLXJlbGF0ZWQgc2V0dGluZ3MKIwpbZ2FsZXJhXQoKIyB0aGlzIGlzIG9ubHkgZm9yIGVtYmVkZGVkIHNlcnZlcgpbZW1iZWRkZWRdCgo=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IyBUaGlzIGdyb3VwIGlzIG9ubHkgcmVhZCBieSBNYXJpYURCIHNlcnZlcnMsIG5vdCBieSBNeVNRTC4KIyBJZiB5b3UgdXNlIHRoZSBzYW1lIC5jbmYgZmlsZSBmb3IgTXlTUUwgYW5kIE1hcmlhREIsCiMgeW91IGNhbiBwdXQgTWFyaWFEQi1vbmx5IG9wdGlvbnMgaGVyZQpbbXlzcWxdCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Y2hhcmFjdGVyLXNldC1zZXJ2ZXI9e3sgbXlzcWxfc2VydmVyX2RlZmF1bHRfY2hhcmFjdGVyX3NldCB9fQo=</text>
+      </register>
       <register name="9" type="4">
-        <text encoding="base64">IwojIFRoZXNlIGdyb3VwcyBhcmUgcmVhZCBieSBNYXJpYURCIHNlcnZlci4KIyBVc2UgaXQgZm9yIG9wdGlvbnMgdGhhdCBvbmx5IHRoZSBzZXJ2ZXIgKGJ1dCBub3QgY2xpZW50cykgc2hvdWxkIHNlZQojCiMgU2VlIHRoZSBleGFtcGxlcyBvZiBzZXJ2ZXIgbXkuY25mIGZpbGVzIGluIC91c3Ivc2hhcmUvbXlzcWwvCiMK</text>
+        <text encoding="base64">IwojICogR2FsZXJhLXJlbGF0ZWQgc2V0dGluZ3MKIwpbZ2FsZXJhXQoKIyB0aGlzIGlzIG9ubHkgZm9yIGVtYmVkZGVkIHNlcnZlcgpbZW1iZWRkZWRdCgojIFRoaXMgZ3JvdXAgaXMgb25seSByZWFkIGJ5IE1hcmlhREIgc2VydmVycywgbm90IGJ5IE15U1FMLgojIElmIHlvdSB1c2UgdGhlIHNhbWUgLmNuZiBmaWxlIGZvciBNeVNRTCBhbmQgTWFyaWFEQiwKIyB5b3UgY2FuIHB1dCBNYXJpYURCLW9ubHkgb3B0aW9ucyBoZXJlCltteXNxbF0KY2hhcmFjdGVyLXNldC1zZXJ2ZXI9e3sgbXlzcWxfc2VydmVyX2RlZmF1bHRfY2hhcmFjdGVyX3NldCB9fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25maWdcPg==</last-search>
+      <last-search encoding="base64">XDx0bXBcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25maWdcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx0bXBcPg==</last-pattern>
       <last-replace>html</last-replace>
       <last-substitute>img</last-substitute>
       <last-dir>-1</last-dir>
@@ -638,6 +652,8 @@
         <entry>img</entry>
         <entry encoding="base64">XDxzaG9wXD4=</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
+        <entry encoding="base64">XDxodHRwXD4=</entry>
+        <entry encoding="base64">XDx0bXBcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>set paste</entry>
