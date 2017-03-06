@@ -144,11 +144,14 @@
         <mark key="." line="20" column="50" />
         <mark key="^" line="20" column="50" />
       </file>
-      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/vars/main.yml" timestamp="1488792653861">
-        <mark key="[" line="3" column="19" />
+      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/vars/main.yml" timestamp="1488798258640">
+        <mark key="[" line="4" column="7" />
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/templates/.my.cnf.j2" timestamp="1488798406273">
+        <mark key="[" line="2" column="34" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/api/middleware/error-response.js" timestamp="1486635715051">
         <mark key="[" line="13" column="65" />
@@ -191,7 +194,7 @@
         <mark key="^" line="122" column="50" />
         <mark key="." line="122" column="50" />
       </file>
-      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/tasks/install.yml" timestamp="1488796848861">
+      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/tasks/install.yml" timestamp="1488797936457">
         <mark key="'" line="40" column="28" />
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="11" />
@@ -222,7 +225,7 @@
         <mark key="^" line="1" column="30" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/tasks/secure.yml" timestamp="1488792510505">
+      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/tasks/secure.yml" timestamp="1488798484846">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
@@ -425,10 +428,8 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/templates/server.cnf.j2" timestamp="1488794498770">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/templates/server.cnf.j2" timestamp="1488798418349">
+        <mark key="[" line="2" column="61" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/seeder/src/seeder/json/skinny/seeder.scala" timestamp="1485408991466">
         <mark key="[" line="9" column="10" />
