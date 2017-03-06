@@ -3,29 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/Filters.scala" timestamp="1484647826471">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="13" column="6" />
-      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/filters/ExampleFilter.scala" timestamp="1484633267941">
         <mark key="[" line="15" column="7" />
         <mark key="]" line="15" column="12" />
         <mark key="." line="15" column="12" />
         <mark key="^" line="15" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/aws_elasticache.tf" timestamp="1486994719397">
-        <mark key="[" line="14" column="1" />
-        <mark key="]" line="4" column="36" />
-        <mark key="." line="4" column="36" />
-        <mark key="^" line="4" column="36" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/Utility.scala" timestamp="1484646647950">
-        <mark key="[" line="7" column="10" />
-        <mark key="]" line="7" column="51" />
-        <mark key="." line="7" column="51" />
-        <mark key="^" line="7" column="51" />
+      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/init/tasks/main.yml" timestamp="1488792001899">
+        <mark key="[" line="14" column="10" />
+        <mark key="]" line="15" column="8" />
+        <mark key="^" line="15" column="8" />
+        <mark key="." line="15" column="8" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/MaterialGroupController.scala" timestamp="1486012541417">
         <mark key="[" line="40" column="43" />
@@ -62,21 +50,10 @@
         <mark key="^" line="26" column="3" />
         <mark key="." line="26" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/roco_core/model/build.sbt" timestamp="1487225860153">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/client/webpack.config.prod.js" timestamp="1487659391843">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/ShopAttributeGroupDescription.scala" timestamp="1486462946958">
-        <mark key="[" line="24" column="133" />
-        <mark key="]" line="24" column="130" />
-        <mark key="^" line="24" column="130" />
-        <mark key="." line="24" column="130" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/HomeController.scala" timestamp="1484647292880">
         <mark key="[" line="6" column="0" />
@@ -102,6 +79,245 @@
         <mark key="." line="38" column="152" />
         <mark key="^" line="38" column="152" />
       </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/AllSeed.scala" timestamp="1484034907115">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ArticleClip.scala" timestamp="1484121762264">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="21" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/Attribute.scala" timestamp="1486458696881">
+        <mark key="[" line="25" column="52" />
+        <mark key="]" line="25" column="66" />
+        <mark key="^" line="25" column="66" />
+        <mark key="." line="25" column="66" />
+      </file>
+      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/tasks/configure.yml" timestamp="1488794559911">
+        <mark key="[" line="3" column="23" />
+      </file>
+      <file name="$USER_HOME$/vm/ciatr-vm/.gitignore" timestamp="1488788087893">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="11" />
+        <mark key="^" line="12" column="11" />
+        <mark key="." line="12" column="11" />
+      </file>
+      <file name="$USER_HOME$/vm/ciatr-vm/README.md" timestamp="1488790084051">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="6" column="15" />
+        <mark key="^" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+      </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/api/routes/upload.js" timestamp="1486630663267">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/roco_core/src/test/scala/MaterialSpec.scala" timestamp="1487240375928">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ShopPresenter.scala" timestamp="1487145371386">
+        <mark key="[" line="112" column="8" />
+        <mark key="]" line="112" column="9" />
+        <mark key="." line="112" column="9" />
+        <mark key="^" line="112" column="9" />
+      </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/.eslintrc" timestamp="1487742465388">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="26" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/AttributeGroupKey.scala" timestamp="1481795654519">
+        <mark key="[" line="9" column="29" />
+        <mark key="]" line="20" column="50" />
+        <mark key="." line="20" column="50" />
+        <mark key="^" line="20" column="50" />
+      </file>
+      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/vars/main.yml" timestamp="1488792653861">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/api/middleware/error-response.js" timestamp="1486635715051">
+        <mark key="[" line="13" column="65" />
+        <mark key="]" line="13" column="65" />
+        <mark key="^" line="13" column="65" />
+        <mark key="." line="13" column="65" />
+      </file>
+      <file name="$USER_HOME$/Code/terraform-ciatr/aws_vpc.tf" timestamp="1486990432587">
+        <mark key="[" line="172" column="41" />
+        <mark key="]" line="173" column="29" />
+        <mark key="^" line="173" column="48" />
+        <mark key="." line="173" column="29" />
+      </file>
+      <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_rds.tf" timestamp="1488784086062">
+        <mark key="a" line="24" column="53" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/terraform-ciatr/terraform.tfvars" timestamp="1486990298806">
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="29" column="20" />
+        <mark key="^" line="29" column="20" />
+        <mark key="." line="29" column="20" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialWrites.scala" timestamp="1485516296738">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ArticlePresenter.scala" timestamp="1485245977165">
+        <mark key="[" line="50" column="20" />
+        <mark key="]" line="5" column="19" />
+        <mark key="^" line="5" column="19" />
+        <mark key="." line="5" column="19" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ShopController.scala" timestamp="1488274638636">
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="122" column="50" />
+        <mark key="^" line="122" column="50" />
+        <mark key="." line="122" column="50" />
+      </file>
+      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/tasks/install.yml" timestamp="1488794433279">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="11" column="20" />
+        <mark key="^" line="11" column="20" />
+        <mark key="." line="11" column="20" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/MaterialGroup.scala" timestamp="1485502124735">
+        <mark key="[" line="31" column="78" />
+        <mark key="]" line="31" column="56" />
+        <mark key="^" line="31" column="56" />
+        <mark key="." line="31" column="56" />
+      </file>
+      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/templates/MariaDB.repo" timestamp="1488794370231" />
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/filters/HttpRequestFilter.scala" timestamp="1484647776611">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/lib/image.js" timestamp="1487743037636">
+        <mark key="[" line="11" column="2" />
+        <mark key="]" line="11" column="3" />
+        <mark key="^" line="11" column="3" />
+        <mark key="." line="11" column="3" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ArticleControllerSpec.scala" timestamp="1484737479545">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="1" column="30" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/tasks/secure.yml" timestamp="1488792510505">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/terraform-roco/.gitignore" timestamp="1485494751134">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/routes" timestamp="1485513511245">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="30" column="35" />
+      </file>
+      <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_elasticache.tf" timestamp="1488779650078">
+        <mark key="[" line="33" column="25" />
+        <mark key="]" line="33" column="32" />
+        <mark key="." line="33" column="32" />
+        <mark key="^" line="33" column="32" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/MaterialControllerSpec.scala" timestamp="1485514212464">
+        <mark key="[" line="28" column="1" />
+        <mark key="]" line="28" column="1" />
+        <mark key="." line="28" column="1" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopAttributeGroupDescription.scala" timestamp="1481873177492">
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="8" column="34" />
+        <mark key="^" line="8" column="32" />
+        <mark key="." line="8" column="34" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/MaterialKey.scala" timestamp="1481783937187">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/roco_core/src/main/resources/application.conf" timestamp="1487239551407">
+        <mark key="[" line="10" column="63" />
+        <mark key="]" line="10" column="67" />
+        <mark key="^" line="10" column="67" />
+        <mark key="." line="10" column="67" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/build.sbt" timestamp="1486010450920">
+        <mark key="[" line="18" column="71" />
+        <mark key="]" line="18" column="68" />
+        <mark key="." line="18" column="68" />
+        <mark key="^" line="18" column="68" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOnlineContent/README.md" timestamp="1486540350117">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/Shop.scala" timestamp="1488267705630">
+        <mark key="[" line="45" column="54" />
+        <mark key="]" line="45" column="57" />
+        <mark key="." line="45" column="57" />
+        <mark key="^" line="45" column="57" />
+      </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/login/config.js" timestamp="1487671921159">
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="5" column="1" />
+        <mark key="." line="5" column="1" />
+        <mark key="^" line="5" column="1" />
+      </file>
+      <file name="$USER_HOME$/vm/ciatr-vm/Vagrantfile" timestamp="1488790763532">
+        <mark key="'" line="49" column="2" />
+        <mark key="[" line="49" column="2" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/Filters.scala" timestamp="1484647826471">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="13" column="6" />
+      </file>
+      <file name="$USER_HOME$/Code/terraform-ciatr/aws_elasticache.tf" timestamp="1486994719397">
+        <mark key="[" line="14" column="1" />
+        <mark key="]" line="4" column="36" />
+        <mark key="." line="4" column="36" />
+        <mark key="^" line="4" column="36" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/Utility.scala" timestamp="1484646647950">
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="51" />
+        <mark key="." line="7" column="51" />
+        <mark key="^" line="7" column="51" />
+      </file>
+      <file name="$USER_HOME$/Code/roco_core/model/build.sbt" timestamp="1487225860153">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/ShopAttributeGroupDescription.scala" timestamp="1486462946958">
+        <mark key="[" line="24" column="133" />
+        <mark key="]" line="24" column="130" />
+        <mark key="^" line="24" column="130" />
+        <mark key="." line="24" column="130" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/AttributeGroupFormatter.scala" timestamp="1486443370541">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -112,6 +328,9 @@
         <mark key="]" line="8" column="57" />
         <mark key="^" line="8" column="57" />
         <mark key="." line="8" column="57" />
+      </file>
+      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/handlers/main.yml" timestamp="1488793254935">
+        <mark key="[" line="4" column="23" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/MaterialHtml.scala" timestamp="1486611513006">
         <mark key="[" line="17" column="37" />
@@ -135,21 +354,10 @@
         <mark key="]" line="13" column="6" />
         <mark key="." line="13" column="6" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/AllSeed.scala" timestamp="1484034907115">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Article.scala" timestamp="1485245815806">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ArticleClip.scala" timestamp="1484121762264">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="21" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/AttributeToShopRef.scala" timestamp="1486458024808">
         <mark key="[" line="13" column="28" />
@@ -169,12 +377,6 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/Attribute.scala" timestamp="1486458696881">
-        <mark key="[" line="25" column="52" />
-        <mark key="]" line="25" column="66" />
-        <mark key="^" line="25" column="66" />
-        <mark key="." line="25" column="66" />
-      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ConsumerController.scala" timestamp="1484728591305">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="83" />
@@ -192,12 +394,6 @@
         <mark key="]" line="73" column="38" />
         <mark key="." line="73" column="38" />
         <mark key="^" line="73" column="38" />
-      </file>
-      <file name="$USER_HOME$/vm/ciatr-vm/.gitignore" timestamp="1488788087893">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="11" />
-        <mark key="^" line="12" column="11" />
-        <mark key="." line="12" column="11" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/api/package.json" timestamp="1486635949256">
         <mark key="[" line="17" column="23" />
@@ -223,57 +419,16 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/vm/ciatr-vm/README.md" timestamp="1488790084051">
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="6" column="15" />
-        <mark key="^" line="6" column="15" />
-        <mark key="." line="6" column="15" />
-      </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/api/routes/upload.js" timestamp="1486630663267">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/templates/server.cnf.j2" timestamp="1488794498770">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/seeder/src/seeder/json/skinny/seeder.scala" timestamp="1485408991466">
         <mark key="[" line="9" column="10" />
         <mark key="]" line="9" column="20" />
         <mark key="^" line="9" column="20" />
         <mark key="." line="9" column="20" />
-      </file>
-      <file name="$USER_HOME$/Code/roco_core/src/test/scala/MaterialSpec.scala" timestamp="1487240375928">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ShopPresenter.scala" timestamp="1487145371386">
-        <mark key="[" line="112" column="8" />
-        <mark key="]" line="112" column="9" />
-        <mark key="." line="112" column="9" />
-        <mark key="^" line="112" column="9" />
-      </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/.eslintrc" timestamp="1487742465388">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="21" column="26" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/AttributeGroupKey.scala" timestamp="1481795654519">
-        <mark key="[" line="9" column="29" />
-        <mark key="]" line="20" column="50" />
-        <mark key="." line="20" column="50" />
-        <mark key="^" line="20" column="50" />
-      </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/api/middleware/error-response.js" timestamp="1486635715051">
-        <mark key="[" line="13" column="65" />
-        <mark key="]" line="13" column="65" />
-        <mark key="^" line="13" column="65" />
-        <mark key="." line="13" column="65" />
-      </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/aws_vpc.tf" timestamp="1486990432587">
-        <mark key="[" line="172" column="41" />
-        <mark key="]" line="173" column="29" />
-        <mark key="^" line="173" column="48" />
-        <mark key="." line="173" column="29" />
       </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/production/terraform-prod.tfvars" timestamp="1488634811250">
         <mark key="[" line="5" column="18" />
@@ -298,28 +453,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_rds.tf" timestamp="1488784086062">
-        <mark key="a" line="24" column="53" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/terraform.tfvars" timestamp="1486990298806">
-        <mark key="[" line="29" column="16" />
-        <mark key="]" line="29" column="20" />
-        <mark key="^" line="29" column="20" />
-        <mark key="." line="29" column="20" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialWrites.scala" timestamp="1485516296738">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ArticlePresenter.scala" timestamp="1485245977165">
-        <mark key="[" line="50" column="20" />
-        <mark key="]" line="5" column="19" />
-        <mark key="^" line="5" column="19" />
-        <mark key="." line="5" column="19" />
+      <file name="$USER_HOME$/vm/ciatr-vm/ansible/playbook.yml" timestamp="1488793803210">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="6" column="4" />
+        <mark key="^" line="6" column="4" />
+        <mark key="." line="6" column="4" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/tasks/seed.scala" timestamp="1485411406080">
         <mark key="[" line="16" column="4" />
@@ -332,40 +470,17 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="21" column="35" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ShopController.scala" timestamp="1488274638636">
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="122" column="50" />
-        <mark key="^" line="122" column="50" />
-        <mark key="." line="122" column="50" />
-      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/MaterialGroupModelSpec.scala" timestamp="1486009283764">
         <mark key="[" line="20" column="71" />
         <mark key="]" line="15" column="43" />
         <mark key="." line="15" column="43" />
         <mark key="^" line="15" column="43" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/MaterialGroup.scala" timestamp="1485502124735">
-        <mark key="[" line="31" column="78" />
-        <mark key="]" line="31" column="56" />
-        <mark key="^" line="31" column="56" />
-        <mark key="." line="31" column="56" />
-      </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/.gitignore" timestamp="1488625215406">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="5" />
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="5" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/filters/HttpRequestFilter.scala" timestamp="1484647776611">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/lib/image.js" timestamp="1487743037636">
-        <mark key="[" line="11" column="2" />
-        <mark key="]" line="11" column="3" />
-        <mark key="^" line="11" column="3" />
-        <mark key="." line="11" column="3" />
       </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/development/terraform.tfvars" timestamp="1488784025932">
         <mark key="[" line="32" column="0" />
@@ -397,19 +512,6 @@
         <mark key="^" line="15" column="7" />
         <mark key="." line="15" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ShopControllerSpec.scala" timestamp="1488271935304">
-        <mark key="'" line="119" column="20" />
-        <mark key="[" line="127" column="39" />
-        <mark key="]" line="129" column="21" />
-        <mark key="^" line="129" column="21" />
-        <mark key="." line="129" column="21" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ArticleControllerSpec.scala" timestamp="1484737479545">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="1" column="30" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_sg.tf" timestamp="1488778055630">
         <mark key="[" line="1" column="39" />
         <mark key="]" line="15" column="0" />
@@ -420,29 +522,6 @@
         <mark key="]" line="13" column="39" />
         <mark key="^" line="13" column="39" />
         <mark key="." line="13" column="39" />
-      </file>
-      <file name="$USER_HOME$/Code/terraform-roco/.gitignore" timestamp="1485494751134">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="17" />
-        <mark key="^" line="0" column="17" />
-        <mark key="." line="0" column="17" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/routes" timestamp="1485513511245">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="30" column="35" />
-      </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_elasticache.tf" timestamp="1488779650078">
-        <mark key="[" line="33" column="25" />
-        <mark key="]" line="33" column="32" />
-        <mark key="." line="33" column="32" />
-        <mark key="^" line="33" column="32" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/MaterialControllerSpec.scala" timestamp="1485514212464">
-        <mark key="[" line="28" column="1" />
-        <mark key="]" line="28" column="1" />
-        <mark key="." line="28" column="1" />
       </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/variables.tf" timestamp="1486990287996">
         <mark key="[" line="25" column="26" />
@@ -456,52 +535,17 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopAttributeGroupDescription.scala" timestamp="1481873177492">
-        <mark key="[" line="8" column="34" />
-        <mark key="]" line="8" column="34" />
-        <mark key="^" line="8" column="32" />
-        <mark key="." line="8" column="34" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/MaterialKey.scala" timestamp="1481783937187">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/roco_core/src/main/resources/application.conf" timestamp="1487239551407">
-        <mark key="[" line="10" column="63" />
-        <mark key="]" line="10" column="67" />
-        <mark key="^" line="10" column="67" />
-        <mark key="." line="10" column="67" />
-      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Material.scala" timestamp="1481864439417">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/build.sbt" timestamp="1486010450920">
-        <mark key="[" line="18" column="71" />
-        <mark key="]" line="18" column="68" />
-        <mark key="." line="18" column="68" />
-        <mark key="^" line="18" column="68" />
-      </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/api/routes/index.js" timestamp="1486630361227">
         <mark key="[" line="5" column="43" />
         <mark key="]" line="5" column="13" />
         <mark key="." line="5" column="13" />
         <mark key="^" line="5" column="13" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOnlineContent/README.md" timestamp="1486540350117">
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/Shop.scala" timestamp="1488267705630">
-        <mark key="[" line="45" column="54" />
-        <mark key="]" line="45" column="57" />
-        <mark key="." line="45" column="57" />
-        <mark key="^" line="45" column="57" />
       </file>
       <file name="$USER_HOME$/Code/roco_core/seeding/src/main/scala/ApplicationTestHelper.scala" timestamp="1487239837395">
         <mark key="[" line="18" column="8" />
@@ -521,16 +565,6 @@
         <mark key="^" line="33" column="15" />
         <mark key="." line="33" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/login/config.js" timestamp="1487671921159">
-        <mark key="[" line="5" column="1" />
-        <mark key="]" line="5" column="1" />
-        <mark key="." line="5" column="1" />
-        <mark key="^" line="5" column="1" />
-      </file>
-      <file name="$USER_HOME$/vm/ciatr-vm/Vagrantfile" timestamp="1488790763532">
-        <mark key="'" line="49" column="2" />
-        <mark key="[" line="49" column="2" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="63" column="0" filename="$USER_HOME$/Code/ApiLottery/conf/evolutions/default/1.sql" />
@@ -549,7 +583,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>aurorademo</text>
+        <text>mariadb</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25maWdcPg==</text>
@@ -560,29 +594,29 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">IyB0aGlzIGlzIHJlYWQgYnkgdGhlIHN0YW5kYWxvbmUgZGFlbW9uIGFuZCBlbWJlZGRlZCBzZXJ2ZXJzCltzZXJ2ZXJdCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICB0YWdzIHsKICAgIE5hbWUgPSAiJHt2YXIuYXBwX25hbWV9LWNsdXN0ZXItaW5zdGFuY2UiCiAgfQ==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IwojICogR2FsZXJhLXJlbGF0ZWQgc2V0dGluZ3MKIwpbZ2FsZXJhXQoKIyB0aGlzIGlzIG9ubHkgZm9yIGVtYmVkZGVkIHNlcnZlcgpbZW1iZWRkZWRdCgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">dmFyaWFibGUgInJkc19uYW1lIiB7fQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">cmRzX25hbWUgPSAiY2lhdHItbWF0b21lIgo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IyBUaGlzIGdyb3VwIGlzIG9ubHkgcmVhZCBieSBNYXJpYURCIHNlcnZlcnMsIG5vdCBieSBNeVNRTC4KIyBJZiB5b3UgdXNlIHRoZSBzYW1lIC5jbmYgZmlsZSBmb3IgTXlTUUwgYW5kIE1hcmlhREIsCiMgeW91IGNhbiBwdXQgTWFyaWFEQi1vbmx5IG9wdGlvbnMgaGVyZQpbbXlzcWxdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2hhcmFjdGVyLXNldC1zZXJ2ZXI9e3sgbXlzcWxfc2VydmVyX2RlZmF1bHRfY2hhcmFjdGVyX3NldCB9fQo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgdGFncyB7CiAgICBOYW1lID0gIiR7dmFyLmFwcF9uYW1lfS1jbHVzdGVyLXBnIgogIH0=</text>
+        <text encoding="base64">IwojICogR2FsZXJhLXJlbGF0ZWQgc2V0dGluZ3MKIwpbZ2FsZXJhXQoKIyB0aGlzIGlzIG9ubHkgZm9yIGVtYmVkZGVkIHNlcnZlcgpbZW1iZWRkZWRdCgojIFRoaXMgZ3JvdXAgaXMgb25seSByZWFkIGJ5IE1hcmlhREIgc2VydmVycywgbm90IGJ5IE15U1FMLgojIElmIHlvdSB1c2UgdGhlIHNhbWUgLmNuZiBmaWxlIGZvciBNeVNRTCBhbmQgTWFyaWFEQiwKIyB5b3UgY2FuIHB1dCBNYXJpYURCLW9ubHkgb3B0aW9ucyBoZXJlCltteXNxbF0KY2hhcmFjdGVyLXNldC1zZXJ2ZXI9e3sgbXlzcWxfc2VydmVyX2RlZmF1bHRfY2hhcmFjdGVyX3NldCB9fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhdmFpbGFiaWxpdHlfem9uZXMgPSBbInVzLXdlc3QtMmEiLCJ1cy13ZXN0LTJiIiwidXMtd2VzdC0yYyJdCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">IwojIFRoZXNlIGdyb3VwcyBhcmUgcmVhZCBieSBNYXJpYURCIHNlcnZlci4KIyBVc2UgaXQgZm9yIG9wdGlvbnMgdGhhdCBvbmx5IHRoZSBzZXJ2ZXIgKGJ1dCBub3QgY2xpZW50cykgc2hvdWxkIHNlZQojCiMgU2VlIHRoZSBleGFtcGxlcyBvZiBzZXJ2ZXIgbXkuY25mIGZpbGVzIGluIC91c3Ivc2hhcmUvbXlzcWwvCiMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
