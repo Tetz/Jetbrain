@@ -207,7 +207,6 @@
         <mark key="^" line="31" column="56" />
         <mark key="." line="31" column="56" />
       </file>
-      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/templates/MariaDB.repo" timestamp="1488795892409" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/filters/HttpRequestFilter.scala" timestamp="1484647776611">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -294,7 +293,7 @@
         <mark key="." line="5" column="1" />
         <mark key="^" line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/vm/ciatr-vm/Vagrantfile" timestamp="1488790763532">
+      <file name="$USER_HOME$/vm/ciatr-vm/Vagrantfile" timestamp="1488800170488">
         <mark key="'" line="49" column="2" />
         <mark key="[" line="49" column="2" />
       </file>
