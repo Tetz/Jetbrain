@@ -79,7 +79,8 @@
         <mark key="." line="38" column="152" />
         <mark key="^" line="38" column="152" />
       </file>
-      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/tasks/main.yml" timestamp="1488796056157">
+      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/httpd/tasks/install.yml" timestamp="1488803513394" />
+      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/tasks/main.yml" timestamp="1488804343433">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -188,18 +189,20 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="19" />
       </file>
+      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/httpd/tasks/main.yml" timestamp="1488803969043">
+        <mark key="[" line="2" column="15" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ShopController.scala" timestamp="1488274638636">
         <mark key="[" line="121" column="0" />
         <mark key="]" line="122" column="50" />
         <mark key="^" line="122" column="50" />
         <mark key="." line="122" column="50" />
       </file>
-      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/tasks/install.yml" timestamp="1488799153164">
-        <mark key="'" line="40" column="28" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-        <mark key="^" line="46" column="27" />
+      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/tasks/install.yml" timestamp="1488803200576">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="62" column="28" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/MaterialGroup.scala" timestamp="1485502124735">
         <mark key="[" line="31" column="78" />
@@ -293,7 +296,7 @@
         <mark key="." line="5" column="1" />
         <mark key="^" line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/vm/ciatr-vm/Vagrantfile" timestamp="1488800170488">
+      <file name="$USER_HOME$/vm/ciatr-vm/Vagrantfile" timestamp="1488804555900">
         <mark key="'" line="49" column="2" />
         <mark key="[" line="49" column="2" />
       </file>
@@ -464,10 +467,10 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/vm/ciatr-vm/ansible/playbook.yml" timestamp="1488793803210">
-        <mark key="[" line="7" column="4" />
+      <file name="$USER_HOME$/vm/ciatr-vm/ansible/playbook.yml" timestamp="1488804795042">
+        <mark key="[" line="6" column="4" />
         <mark key="]" line="6" column="4" />
-        <mark key="^" line="6" column="4" />
+        <mark key="^" line="7" column="0" />
         <mark key="." line="6" column="4" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/tasks/seed.scala" timestamp="1485411406080">
@@ -527,6 +530,9 @@
         <mark key="[" line="1" column="39" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/php70/tasks/main.yml" timestamp="1488805214223">
+        <mark key="[" line="3" column="15" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/MessageController.scala" timestamp="1484711606729">
         <mark key="[" line="11" column="103" />
@@ -593,15 +599,11 @@
       <jump line="39" column="28" filename="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/tasks/install.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#rpm -ivh MySQL-shared-5.6.10-1.el6.x86_64.rpm
-#
-#rpm -ivh MySQL-client-5.6.10-1.el6.x86_64.rpm
-#
-#rpm -ivh MySQL-server-5.6.10-1.el6.x86_64.rpm</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>client</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0bXBcPg==</text>
@@ -609,36 +611,43 @@
       <register name="0" type="2">
         <text encoding="base64">ICBzdWRvOiB5ZXMK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>#- name: MySQL packages are installed
+#  yum: pkg={{ item }}
+#  sudo: yes
+#  with_items:
+#    - mysql-server
+#    - mysql56-community
+#    - MySQL-python
+#</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="8">
+        <text encoding="base64">IAogCiAKIAog</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAtIE15U1FMLXB5dGhvbgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAtIG15c3FsLXNlcnZlcgo=</text>
+      </register>
+      <register name="9" type="4">
         <text>#rpm -ivh MySQL-shared-5.6.10-1.el6.x86_64.rpm
 #
 #rpm -ivh MySQL-client-5.6.10-1.el6.x86_64.rpm
 #
 #rpm -ivh MySQL-server-5.6.10-1.el6.x86_64.rpm</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">LSBuYW1lOiBkb3dubG9hZCBmb28uY29uZgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">LSBpbmNsdWRlOiBjb25maWd1cmUueW1sCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">IyB0aGlzIGlzIHJlYWQgYnkgdGhlIHN0YW5kYWxvbmUgZGFlbW9uIGFuZCBlbWJlZGRlZCBzZXJ2ZXJzCltzZXJ2ZXJdCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IwojICogR2FsZXJhLXJlbGF0ZWQgc2V0dGluZ3MKIwpbZ2FsZXJhXQoKIyB0aGlzIGlzIG9ubHkgZm9yIGVtYmVkZGVkIHNlcnZlcgpbZW1iZWRkZWRdCgo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">IyBUaGlzIGdyb3VwIGlzIG9ubHkgcmVhZCBieSBNYXJpYURCIHNlcnZlcnMsIG5vdCBieSBNeVNRTC4KIyBJZiB5b3UgdXNlIHRoZSBzYW1lIC5jbmYgZmlsZSBmb3IgTXlTUUwgYW5kIE1hcmlhREIsCiMgeW91IGNhbiBwdXQgTWFyaWFEQi1vbmx5IG9wdGlvbnMgaGVyZQpbbXlzcWxdCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Y2hhcmFjdGVyLXNldC1zZXJ2ZXI9e3sgbXlzcWxfc2VydmVyX2RlZmF1bHRfY2hhcmFjdGVyX3NldCB9fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
