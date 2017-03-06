@@ -194,11 +194,11 @@
         <mark key="^" line="122" column="50" />
         <mark key="." line="122" column="50" />
       </file>
-      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/tasks/install.yml" timestamp="1488797936457">
+      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/tasks/install.yml" timestamp="1488799153164">
         <mark key="'" line="40" column="28" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="11" />
-        <mark key="." line="47" column="0" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
         <mark key="^" line="46" column="27" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/MaterialGroup.scala" timestamp="1485502124735">
@@ -225,7 +225,7 @@
         <mark key="^" line="1" column="30" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/tasks/secure.yml" timestamp="1488798484846">
+      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/tasks/secure.yml" timestamp="1488799140860">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
@@ -594,8 +594,12 @@
       <jump line="39" column="28" filename="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/tasks/install.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBzdWRvOiB5ZXMK</text>
+      <register name="&quot;" type="4">
+        <text>#rpm -ivh MySQL-shared-5.6.10-1.el6.x86_64.rpm
+#
+#rpm -ivh MySQL-client-5.6.10-1.el6.x86_64.rpm
+#
+#rpm -ivh MySQL-server-5.6.10-1.el6.x86_64.rpm</text>
       </register>
       <register name="-" type="4">
         <text>client</text>
@@ -606,32 +610,36 @@
       <register name="0" type="2">
         <text encoding="base64">ICBzdWRvOiB5ZXMK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">LSBuYW1lOiBkb3dubG9hZCBmb28uY29uZgo=</text>
+      <register name="1" type="4">
+        <text>#rpm -ivh MySQL-shared-5.6.10-1.el6.x86_64.rpm
+#
+#rpm -ivh MySQL-client-5.6.10-1.el6.x86_64.rpm
+#
+#rpm -ivh MySQL-server-5.6.10-1.el6.x86_64.rpm</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LSBpbmNsdWRlOiBjb25maWd1cmUueW1sCg==</text>
+        <text encoding="base64">LSBuYW1lOiBkb3dubG9hZCBmb28uY29uZgo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">LSBpbmNsdWRlOiBjb25maWd1cmUueW1sCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IyB0aGlzIGlzIHJlYWQgYnkgdGhlIHN0YW5kYWxvbmUgZGFlbW9uIGFuZCBlbWJlZGRlZCBzZXJ2ZXJzCltzZXJ2ZXJdCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IwojICogR2FsZXJhLXJlbGF0ZWQgc2V0dGluZ3MKIwpbZ2FsZXJhXQoKIyB0aGlzIGlzIG9ubHkgZm9yIGVtYmVkZGVkIHNlcnZlcgpbZW1iZWRkZWRdCgo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IyBUaGlzIGdyb3VwIGlzIG9ubHkgcmVhZCBieSBNYXJpYURCIHNlcnZlcnMsIG5vdCBieSBNeVNRTC4KIyBJZiB5b3UgdXNlIHRoZSBzYW1lIC5jbmYgZmlsZSBmb3IgTXlTUUwgYW5kIE1hcmlhREIsCiMgeW91IGNhbiBwdXQgTWFyaWFEQi1vbmx5IG9wdGlvbnMgaGVyZQpbbXlzcWxdCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Y2hhcmFjdGVyLXNldC1zZXJ2ZXI9e3sgbXlzcWxfc2VydmVyX2RlZmF1bHRfY2hhcmFjdGVyX3NldCB9fQo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IwojICogR2FsZXJhLXJlbGF0ZWQgc2V0dGluZ3MKIwpbZ2FsZXJhXQoKIyB0aGlzIGlzIG9ubHkgZm9yIGVtYmVkZGVkIHNlcnZlcgpbZW1iZWRkZWRdCgojIFRoaXMgZ3JvdXAgaXMgb25seSByZWFkIGJ5IE1hcmlhREIgc2VydmVycywgbm90IGJ5IE15U1FMLgojIElmIHlvdSB1c2UgdGhlIHNhbWUgLmNuZiBmaWxlIGZvciBNeVNRTCBhbmQgTWFyaWFEQiwKIyB5b3UgY2FuIHB1dCBNYXJpYURCLW9ubHkgb3B0aW9ucyBoZXJlCltteXNxbF0KY2hhcmFjdGVyLXNldC1zZXJ2ZXI9e3sgbXlzcWxfc2VydmVyX2RlZmF1bHRfY2hhcmFjdGVyX3NldCB9fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
