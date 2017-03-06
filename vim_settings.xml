@@ -97,11 +97,11 @@
         <mark key="." line="12" column="11" />
       </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" timestamp="1488778100498" />
-      <file name="$USER_HOME$/vm/ciatr-vm/README.md" timestamp="1488788159458">
-        <mark key="[" line="4" column="23" />
-        <mark key="]" line="4" column="22" />
-        <mark key="^" line="4" column="22" />
-        <mark key="." line="4" column="22" />
+      <file name="$USER_HOME$/vm/ciatr-vm/README.md" timestamp="1488790084051">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="6" column="15" />
+        <mark key="^" line="6" column="15" />
+        <mark key="." line="6" column="15" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/api/routes/upload.js" timestamp="1486630663267">
         <mark key="[" line="15" column="0" />
