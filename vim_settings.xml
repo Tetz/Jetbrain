@@ -106,11 +106,10 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="21" column="35" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/UserActivation.js" timestamp="1488879193837">
-        <mark key="[" line="3" column="40" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="35" column="0" />
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/UserActivation.js" timestamp="1488884481998">
+        <mark key="[" line="29" column="4" />
+        <mark key="]" line="29" column="4" />
+        <mark key="." line="29" column="4" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/MaterialHtml.scala" timestamp="1486611513006">
         <mark key="[" line="17" column="37" />
@@ -148,7 +147,7 @@
         <mark key="^" line="14" column="62" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/Material.js" timestamp="1488538065545">
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/Material.js" timestamp="1488882449642">
         <mark key="[" line="48" column="50" />
         <mark key="]" line="48" column="44" />
         <mark key="^" line="48" column="44" />
@@ -242,7 +241,7 @@
         <mark key="^" line="21" column="26" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/node_modules/material-ui/index.es.js" timestamp="1488878381022" />
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/node_modules/material-ui/index.es.js" timestamp="1488881892010" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ConsumerController.scala" timestamp="1484728591305">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="83" />
@@ -332,11 +331,11 @@
         <mark key="^" line="13" column="39" />
         <mark key="." line="13" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/app.js" timestamp="1488878312069">
-        <mark key="[" line="30" column="51" />
-        <mark key="]" line="30" column="51" />
-        <mark key="^" line="30" column="37" />
-        <mark key="." line="30" column="51" />
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/app.js" timestamp="1488884298725">
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="15" column="18" />
+        <mark key="^" line="15" column="18" />
+        <mark key="." line="15" column="18" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopClip.scala" timestamp="1484646731405">
         <mark key="[" line="25" column="57" />
@@ -441,11 +440,11 @@
         <mark key="^" line="73" column="38" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/client/node_modules/material-ui/TextField/index.js" timestamp="1488867182282" />
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/App.js" timestamp="1488876394935">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="13" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="33" column="14" />
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/App.js" timestamp="1488882547206">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+        <mark key="^" line="1" column="12" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/LabelController.scala" timestamp="1484710635187">
         <mark key="[" line="28" column="3" />
@@ -495,44 +494,44 @@
       <jump line="5" column="0" filename="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/SignUp.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>export</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">ICAKICAKICA=</text>
       </register>
       <register name="-" type="4">
-        <text>export</text>
+        <text>firstName</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxSb3V0ZSBwYXRoPSJzaWdudXAiIGNvbXBvbmVudD17U2lnblVwfSAvPgo=</text>
+        <text encoding="base64">ICAgICAgPEZpZWxkIG5hbWU9ImZpcnN0TmFtZSIgY29tcG9uZW50PXtyZW5kZXJUZXh0RmllbGR9IGxhYmVsPSJFbWFpbCIvPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IFRleHRGaWVsZCBmcm9tICdtYXRlcmlhbC11aS9UZXh0RmllbGQnCg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAKICAKICA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVGV4dEZpZWxkIH0gZnJvbSAnbWF0ZXJpYWwtdWknOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxSYWlzZWRCdXR0b24gbGFiZWw9IkRlZmF1bHQiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgPEZpZWxkIG5hbWU9ImFjdGl2YXRpb25Db2RlIiBjb21wb25lbnQ9e3JlbmRlclRleHRGaWVsZH0gbGFiZWw9IkFjdGl2YXRpb24gQ29kZSIvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPC9NdWlUaGVtZVByb3ZpZGVyPgo=</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYnJvd3Nlckhpc3RvcnkgfSBmcm9tICdyZWFjdC1yb3V0ZXInenoK</text>
+        <text encoding="base64">ICAgICAgPGQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYnJvd3Nlckhpc3RvcnkgfSBmcm9tICdyZWFjdC1yb3V0ZXInenoK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPFNpbXBsZUZvcm0vPgo=</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">aW1wb3J0IFRleHRGaWVsZCBmcm9tICdtYXRlcmlhbC11aS9UZXh0RmllbGQnOwppbXBvcnQgeyBGaWVsZCwgcmVkdXhGb3JtIH0gZnJvbSAncmVkdXgtZm9ybSc7CmltcG9ydCB7IFJhZGlvQnV0dG9uLCBSYWRpb0J1dHRvbkdyb3VwIH0gZnJvbSAnbWF0ZXJpYWwtdWkvUmFkaW9CdXR0b24nOwppbXBvcnQgQ2hlY2tib3ggZnJvbSAnbWF0ZXJpYWwtdWkvQ2hlY2tib3gnOwppbXBvcnQgU2VsZWN0RmllbGQgZnJvbSAnbWF0ZXJpYWwtdWkvU2VsZWN0RmllbGQnOwppbXBvcnQgTWVudUl0ZW0gZnJvbSAnbWF0ZXJpYWwtdWkvTWVudUl0ZW0nOwo=</text>
+      <register name="9" type="8">
+        <text encoding="base64">PAo8CjwKPA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
