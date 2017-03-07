@@ -193,6 +193,14 @@
         <mark key="." line="106" column="171" />
         <mark key="^" line="106" column="171" />
       </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/SignUp.js" timestamp="1488868654754">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/RaisedButton.js" timestamp="1488865987025">
+        <mark key="[" line="8" column="2" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/build.sbt" timestamp="1486010450920">
         <mark key="[" line="18" column="71" />
         <mark key="]" line="18" column="68" />
@@ -235,14 +243,15 @@
         <mark key="^" line="21" column="26" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/node_modules/material-ui/index.es.js" timestamp="1488866629579" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ConsumerController.scala" timestamp="1484728591305">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="83" />
         <mark key="." line="31" column="0" />
         <mark key="^" line="53" column="71" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/Home.js" timestamp="1488857994442">
-        <mark key="[" line="7" column="17" />
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/Home.js" timestamp="1488868853237">
+        <mark key="[" line="7" column="11" />
         <mark key="]" line="7" column="15" />
         <mark key="^" line="7" column="15" />
         <mark key="." line="7" column="15" />
@@ -286,7 +295,7 @@
         <mark key="^" line="8" column="32" />
         <mark key="." line="8" column="34" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/package.json" timestamp="1488855882541">
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/package.json" timestamp="1488868795904">
         <mark key="[" line="8" column="64" />
         <mark key="]" line="8" column="52" />
         <mark key="^" line="8" column="52" />
@@ -336,11 +345,11 @@
         <mark key="^" line="25" column="56" />
         <mark key="." line="25" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/webpack.config.js" timestamp="1488545069994">
-        <mark key="[" line="13" column="52" />
-        <mark key="]" line="38" column="32" />
-        <mark key="^" line="38" column="32" />
-        <mark key="." line="38" column="32" />
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/webpack.config.js" timestamp="1488868076990">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="36" />
+        <mark key="^" line="16" column="3" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/LabelGroupController.scala" timestamp="1484710649146">
         <mark key="[" line="31" column="3" />
@@ -426,8 +435,11 @@
         <mark key="." line="73" column="38" />
         <mark key="^" line="73" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/App.js" timestamp="1488543298113">
-        <mark key="[" line="11" column="28" />
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/node_modules/material-ui/TextField/index.js" timestamp="1488867182282" />
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/App.js" timestamp="1488868631201">
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/LabelController.scala" timestamp="1484710635187">
         <mark key="[" line="28" column="3" />
@@ -479,11 +491,11 @@
       <jump line="21" column="102" filename="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialGroupSummaryWrites.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>image</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ21hdGVyaWFsLXVpJzsK</text>
       </register>
       <register name="-" type="4">
-        <text>image</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
@@ -492,31 +504,31 @@
         <text encoding="base64">ICAgICAgY29uc3QgcmVnaW9uID0gJycgOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcmVnaW9uID0gJycgOwo=</text>
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ21hdGVyaWFsLXVpJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXdzIHMzIGNwIC4vY2xpZW50L2Rpc3QvIHMzOi8vZGV2LWFkbWluLm1pY3Jvc2VydmljZS5qcC9kaXN0LyAtLXJlY3Vyc2l2ZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXdzIHMzIGNwIC4vY2xpZW50L2luZGV4Lmh0bWwgczM6Ly9kZXYtYWRtaW4ubWljcm9zZXJ2aWNlLmpwL2luZGV4Lmh0bWwK</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVwbG95Ogo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhcnRpZmFjdDogdGFyZ2V0L3VuaXZlcnNhbC9hcGlvZmZsaW5lbWF0ZXJpYWwtdmVyc2lvbi0wLjUuemlwCg==</text>
+        <text encoding="base64">ICAgIC8vIG1hdGNoIHRoZSBvdXRwdXQgYHB1YmxpY1BhdGhgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIG1hdGNoIHRoZSBvdXRwdXQgcGF0aAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGVuYWJsZSBITVIgb24gdGhlIHNlcnZlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGF6eSB2YWwgcm9jb0NvcmVVcmkgPSB1cmkoIi4iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBQcm9qZWN0UmVmKHJvY29Db3JlVXJpLCAic2VlZGluZyIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
