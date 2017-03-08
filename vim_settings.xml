@@ -106,10 +106,11 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="21" column="35" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/UserActivation.js" timestamp="1488952704621">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/UserActivation.js" timestamp="1488965012951">
+        <mark key="[" line="37" column="25" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/MaterialHtml.scala" timestamp="1486611513006">
         <mark key="[" line="17" column="37" />
@@ -189,7 +190,7 @@
         <mark key="." line="106" column="171" />
         <mark key="^" line="106" column="171" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/SignUp.js" timestamp="1488878566719">
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/SignUp.js" timestamp="1488964775160">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="56" column="48" />
         <mark key="]" line="56" column="48" />
@@ -495,11 +496,11 @@
       <jump line="21" column="0" filename="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/UserActivation.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>resolve</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>resolve</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
@@ -508,31 +509,31 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2hvZ2Vob2dlaG9nZWhvZ2VobycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBuZXcgUHJvbWlzZSgocmVzb2x2ZSkgPT4gewo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">ICAgCiAgIAogICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygiRm9ybSB2YWx1ZXMiLCB2YWwxLCB2YWwyKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBuZXcgUHJvbWlzZSgocmVzb2x2ZSkgPT4gewogICAgcmVzb2x2ZSgnc3VjY2VzcyEnKTsKICB9KTs=</text>
+      <register name="5" type="2">
+        <text encoding="base64">aGFuZGxlTXlGb3JtU3VibWl0KHt2YWwxLCB2YWwyfSkgewo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBuZXcgUHJvbWlzZSgocmVzb2x2ZSkgPT4gewo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">IHsKCiAg</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBuZXcgUHJvbWlzZSgocmVzb2x2ZSkgPT4gewo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIHJlc29sdmUoJ3N1Y2Nlc3MhJyk7Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICB9KTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvL0luIHJlYWxpdHksIHlvdSB3aWxsIHByb2JhYmx5IGJlIHVzaW5nIHNvbWV0aGluZyBsaWtlIFhIUiBvciBhbiBIVE1MNSBBUEkuCg==</text>
+        <text encoding="base64">ICBuZXcgUHJvbWlzZSgocmVzb2x2ZSkgPT4gewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
