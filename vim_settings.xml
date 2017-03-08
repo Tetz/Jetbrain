@@ -106,11 +106,11 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="21" column="35" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/UserActivation.js" timestamp="1488948422791">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/UserActivation.js" timestamp="1488949095662">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/MaterialHtml.scala" timestamp="1486611513006">
         <mark key="[" line="17" column="37" />
@@ -497,7 +497,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgU3VibWl0QWN0aXZhdGlvbkNvZGUgCg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -509,31 +509,31 @@
         <text encoding="base64">ICAgICAgPEZpZWxkIG5hbWU9ImZpcnN0TmFtZSIgY29tcG9uZW50PXtyZW5kZXJUZXh0RmllbGR9IGxhYmVsPSJFbWFpbCIvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgU3VibWl0QWN0aXZhdGlvbkNvZGUgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjaGlsZHJlbjogUmVhY3QuUHJvcFR5cGVzLm5vZGUsCg==</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QXBwLnByb3BUeXBlcyA9IHsK</text>
+        <text encoding="base64">ICBjaGlsZHJlbjogUmVhY3QuUHJvcFR5cGVzLm5vZGUsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QXBwLnByb3BUeXBlcyA9IHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgUmVhY3QgPSByZXF1aXJlKCdyZWFjdCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Y29uc3QgUmVhY3QgPSByZXF1aXJlKCdyZWFjdCcpOwo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IHsgcmVkdWNlciBhcyBmb3JtUmVkdWNlciB9IGZyb20gJ3JlZHV4LWZvcm0nOwo=</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text encoding="base64">ICAKICAKICA=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
