@@ -236,11 +236,11 @@
         <mark key="." line="1" column="21" />
         <mark key="^" line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/UserActivation.js" timestamp="1489052767174">
-        <mark key="[" line="50" column="11" />
-        <mark key="]" line="50" column="11" />
-        <mark key="." line="50" column="11" />
-        <mark key="^" line="50" column="7" />
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/UserActivation.js" timestamp="1489056658427">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="29" />
+        <mark key="." line="79" column="0" />
+        <mark key="^" line="91" column="7" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/api/package.json" timestamp="1486635949256">
         <mark key="[" line="17" column="23" />
@@ -380,12 +380,12 @@
         <mark key="^" line="25" column="26" />
         <mark key="." line="25" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/SignUp.js" timestamp="1489052777838">
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/SignUp.js" timestamp="1489056667449">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="95" column="72" />
-        <mark key="]" line="95" column="70" />
-        <mark key="^" line="95" column="70" />
-        <mark key="." line="95" column="70" />
+        <mark key="[" line="102" column="25" />
+        <mark key="]" line="74" column="6" />
+        <mark key="^" line="74" column="6" />
+        <mark key="." line="74" column="6" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/MaterialKey.scala" timestamp="1481783937187">
         <mark key="[" line="7" column="0" />
@@ -502,17 +502,17 @@
       <jump line="33" column="0" filename="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/UserActivation.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>white</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIHN0eWxlPXtzdHlsZUJ1dHRvbn0K</text>
       </register>
       <register name="-" type="4">
-        <text>white</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmFtZT0iZW1haWwiCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHN0eWxlPXtzdHlsZUJ1dHRvbn0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
