@@ -106,11 +106,11 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="21" column="35" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/UserActivation.js" timestamp="1488965012951">
-        <mark key="[" line="37" column="25" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="38" column="0" />
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/UserActivation.js" timestamp="1489031872696">
+        <mark key="[" line="38" column="5" />
+        <mark key="]" line="38" column="6" />
+        <mark key="." line="38" column="6" />
+        <mark key="^" line="38" column="6" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/MaterialHtml.scala" timestamp="1486611513006">
         <mark key="[" line="17" column="37" />
@@ -496,11 +496,11 @@
       <jump line="21" column="0" filename="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/UserActivation.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>resolve</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>resolve</text>
+        <text>var</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
@@ -509,28 +509,28 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2hvZ2Vob2dlaG9nZWhvZ2VobycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBuZXcgUHJvbWlzZSgocmVzb2x2ZSkgPT4gewo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCB1c2VyUG9vbCA9IG5ldyBBV1NDb2duaXRvLkNvZ25pdG9JZGVudGl0eVNlcnZpY2VQcm92aWRlci5Db2duaXRvVXNlclBvb2wocG9vbERhdGEpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICB9Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygiRm9ybSB2YWx1ZXMiLCB2YWwxLCB2YWwyKTsK</text>
+        <text encoding="base64">ICAgIENsaWVudElkIDogJzdsaGxra2ZiZmI0cTVrcHA5MHVyZmZhbycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aGFuZGxlTXlGb3JtU3VibWl0KHt2YWwxLCB2YWwyfSkgewo=</text>
+        <text encoding="base64">ICAgIFVzZXJQb29sSWQgOiAndXMtZWFzdC0xX0FiMTI5ZmFCYicsCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IHsKCiAg</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb25zdCBwb29sRGF0YSA9IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlc29sdmUoJ3N1Y2Nlc3MhJyk7Cg==</text>
+        <text encoding="base64">ICB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9KTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnc3VjY2VzcyEnKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICBuZXcgUHJvbWlzZSgocmVzb2x2ZSkgPT4gewo=</text>
