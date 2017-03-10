@@ -236,7 +236,7 @@
         <mark key="." line="1" column="21" />
         <mark key="^" line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/UserActivation.js" timestamp="1489056658427">
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/UserActivation.js" timestamp="1489123858182">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="29" />
         <mark key="." line="79" column="0" />
@@ -380,12 +380,11 @@
         <mark key="^" line="25" column="26" />
         <mark key="." line="25" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/SignUp.js" timestamp="1489056667449">
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/SignUp.js" timestamp="1489122875037">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="102" column="25" />
-        <mark key="]" line="74" column="6" />
-        <mark key="^" line="74" column="6" />
-        <mark key="." line="74" column="6" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/MaterialKey.scala" timestamp="1481783937187">
         <mark key="[" line="7" column="0" />
@@ -468,10 +467,10 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/Login.js" timestamp="1489058003032">
-        <mark key="[" line="99" column="19" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/Login.js" timestamp="1489125525834">
+        <mark key="[" line="1" column="75" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Code/roco_core/seeding/src/main/scala/ApplicationTestHelper.scala" timestamp="1487239837395">
         <mark key="[" line="18" column="8" />
@@ -507,32 +506,32 @@
       <jump line="33" column="0" filename="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/UserActivation.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>userActivation</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>userActivation</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxSb3V0ZSBwYXRoPSJ1c2VyX2FjdGl2YXRpb24iIGNvbXBvbmVudD17dXNlckFjdGl2YXRpb259IC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICBFbWFpbDogdmFsdWVzLmVtYWlsLCAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB1c2VyQWN0aXZhdGlvbiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">QVdTLmNvbmZpZy5yZWdpb24gPSAndXMtZWFzdC0xJzsgLy8gUmVnaW9uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBJZGVudGl0eVBvb2xJZDogYXBwQ29uZmlnLklkZW50aXR5UG9vbElkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QVdTLmNvbmZpZy5jcmVkZW50aWFscyA9IG5ldyBBV1MuQ29nbml0b0lkZW50aXR5Q3JlZGVudGlhbHMoewo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -541,10 +540,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaGVpZ2h0OiAnNTBweCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbWFyZ2luOiAnMTBweCcsCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgY29nbml0b1VzZXIgPSBuZXcgQ29nbml0b0lkZW50aXR5U2VydmljZVByb3ZpZGVyLkNvZ25pdG9Vc2VyKHVzZXJEYXRhKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
