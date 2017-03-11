@@ -80,10 +80,11 @@
         <mark key="^" line="38" column="152" />
       </file>
       <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/httpd/tasks/install.yml" timestamp="1488803513394" />
-      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/tasks/main.yml" timestamp="1488804343433">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/tasks/main.yml" timestamp="1489215621013">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="18" column="74" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/AllSeed.scala" timestamp="1484034907115">
         <mark key="[" line="9" column="0" />
@@ -151,7 +152,7 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/templates/.my.cnf.j2" timestamp="1488798406273">
+      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/templates/.my.cnf.j2" timestamp="1489215928779">
         <mark key="[" line="2" column="34" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/api/middleware/error-response.js" timestamp="1486635715051">
@@ -599,8 +600,8 @@
       <jump line="39" column="28" filename="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/tasks/install.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">ICAKICA=</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -611,13 +612,16 @@
       <register name="0" type="2">
         <text encoding="base64">ICBzdWRvOiB5ZXMK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAKICA=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>#- name: MySQL packages are installed
 #  yum: pkg={{ item }}
 #  sudo: yes
@@ -627,27 +631,20 @@
 #    - MySQL-python
 #</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="8">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="8">
         <text encoding="base64">IAogCiAKIAog</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAtIE15U1FMLXB5dGhvbgo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAtIG15c3FsLXNlcnZlcgo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>#rpm -ivh MySQL-shared-5.6.10-1.el6.x86_64.rpm
-#
-#rpm -ivh MySQL-client-5.6.10-1.el6.x86_64.rpm
-#
-#rpm -ivh MySQL-server-5.6.10-1.el6.x86_64.rpm</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
