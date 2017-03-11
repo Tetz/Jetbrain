@@ -5,6 +5,7 @@
       <mapping pattern=".my.cnf.j2" type="PLAIN_TEXT" />
       <mapping pattern="AttributeGroup" type="PLAIN_TEXT" />
       <mapping pattern="ShopPresenter.scala" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
