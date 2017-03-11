@@ -9,11 +9,11 @@
         <mark key="." line="15" column="12" />
         <mark key="^" line="15" column="12" />
       </file>
-      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/init/tasks/main.yml" timestamp="1489219096516">
-        <mark key="[" line="7" column="11" />
-        <mark key="]" line="16" column="8" />
-        <mark key="^" line="16" column="8" />
-        <mark key="." line="16" column="8" />
+      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/init/tasks/main.yml" timestamp="1489223596254">
+        <mark key="[" line="28" column="42" />
+        <mark key="]" line="28" column="41" />
+        <mark key="^" line="28" column="41" />
+        <mark key="." line="28" column="41" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/MaterialGroupController.scala" timestamp="1486012541417">
         <mark key="[" line="40" column="43" />
@@ -82,8 +82,8 @@
       <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/httpd/tasks/install.yml" timestamp="1489217617065">
         <mark key="[" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/tasks/main.yml" timestamp="1489219133276">
-        <mark key="[" line="11" column="11" />
+      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/tasks/main.yml" timestamp="1489223670720">
+        <mark key="[" line="17" column="25" />
         <mark key="]" line="3" column="2" />
         <mark key="." line="3" column="2" />
         <mark key="^" line="19" column="0" />
@@ -104,6 +104,12 @@
         <mark key="]" line="25" column="66" />
         <mark key="^" line="25" column="66" />
         <mark key="." line="25" column="66" />
+      </file>
+      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/init/templates/bashrc.sh" timestamp="1489224319987">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="45" column="33" />
+        <mark key="^" line="45" column="33" />
+        <mark key="." line="45" column="33" />
       </file>
       <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/tasks/configure.yml" timestamp="1488794559911">
         <mark key="[" line="3" column="23" />
@@ -474,7 +480,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/vm/ciatr-vm/ansible/playbook.yml" timestamp="1489220499797">
+      <file name="$USER_HOME$/vm/ciatr-vm/ansible/playbook.yml" timestamp="1489224441267">
         <mark key="[" line="6" column="4" />
         <mark key="]" line="6" column="4" />
         <mark key="^" line="7" column="0" />
