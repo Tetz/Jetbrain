@@ -301,12 +301,11 @@
         <mark key="." line="5" column="1" />
         <mark key="^" line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/vm/ciatr-vm/Vagrantfile" timestamp="1489217755022">
-        <mark key="'" line="49" column="2" />
-        <mark key="[" line="44" column="2" />
-        <mark key="]" line="44" column="3" />
-        <mark key="^" line="44" column="3" />
-        <mark key="." line="44" column="3" />
+      <file name="$USER_HOME$/vm/ciatr-vm/Vagrantfile" timestamp="1489222573741">
+        <mark key="'" line="45" column="2" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/Filters.scala" timestamp="1484647826471">
         <mark key="[" line="3" column="0" />
@@ -607,8 +606,8 @@
       <jump line="39" column="28" filename="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/tasks/install.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text encoding="base64">ICAKICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -619,32 +618,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBzdWRvOiB5ZXMK</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAKICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">ICAKICA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAjIGlubGluZTogInN1ZG8gc2VydmljZSBodHRwZCByZXN0YXJ0Igo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjIGNvbmZpZy52bS5wcm92aXNpb24gInNoZWxsIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjIEFwYWNoZSByZXN0YXJ0IGFmdGVyIGluc3RhbGxhdGlvbgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">W2NsaWVudF0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZGVmYXVsdC1jaGFyYWN0ZXItc2V0PXV0ZjgK</text>
-      </register>
-      <register name="7" type="8">
+      <register name="5" type="8">
         <text encoding="base64">ICAKICA=</text>
+      </register>
+      <register name="6" type="8">
+        <text encoding="base64">ICAKICA=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">W2NsaWVudF0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
