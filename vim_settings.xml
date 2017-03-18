@@ -594,7 +594,7 @@
         <mark key="^" line="32" column="3" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/templates/my.cnf.j2" timestamp="1489827633241">
+      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/templates/my.cnf.j2" timestamp="1489829194019">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="^" line="15" column="0" />
