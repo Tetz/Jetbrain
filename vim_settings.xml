@@ -45,10 +45,11 @@
         <mark key="^" line="9" column="57" />
         <mark key="." line="9" column="57" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/development/variables.tf" timestamp="1488784037822">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/development/variables.tf" timestamp="1490000388947">
+        <mark key="[" line="34" column="32" />
+        <mark key="]" line="34" column="36" />
         <mark key="." line="34" column="0" />
+        <mark key="^" line="33" column="34" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/server/routes/image.js" timestamp="1488857128104">
         <mark key="[" line="5" column="12" />
@@ -160,7 +161,7 @@
         <mark key="^" line="12" column="11" />
         <mark key="." line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" timestamp="1489997666338">
+      <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" timestamp="1490000614680">
         <mark key="[" line="107" column="1" />
       </file>
       <file name="$USER_HOME$/vm/ciatr-vm/README.md" timestamp="1488790084051">
@@ -453,7 +454,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_ec2.tf" timestamp="1489996763415">
+      <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_ec2.tf" timestamp="1489999921165">
         <mark key="[" line="1" column="16" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/AttributeToShopRef.scala" timestamp="1486458024808">
@@ -594,11 +595,11 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/development/terraform.tfvars" timestamp="1488784025932">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="32" column="3" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/development/terraform.tfvars" timestamp="1490001088171">
+        <mark key="[" line="32" column="19" />
+        <mark key="]" line="32" column="17" />
+        <mark key="^" line="32" column="17" />
+        <mark key="." line="32" column="17" />
       </file>
       <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/templates/my.cnf.j2" timestamp="1489829194019">
         <mark key="[" line="15" column="0" />
@@ -719,41 +720,43 @@
       <jump line="33" column="0" filename="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/UserActivation.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c3lzbG9nID0gL3Zhci9sb2cvbXlzcWxfZXJyb3IubG9nCg==</text>
+      <register name="&quot;" type="8">
+        <text>variable &quot;
+variable &quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">LSBuYW1lOiBDb25maWd1cmUgTXlTcWwgZm9yIGVhc3kgYWNjZXNzIGFzIHJvb3QgdXNlcgogIHRlbXBsYXRlOiBzcmM9bXkuY25mLmoyIGRlc3Q9L2V0Yy9teS5jbmYgb3duZXI9cm9vdCBncm91cD1yb290IG1vZGU9MDY0NAo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">dmFyaWFibGUgImNpYXRyX2FkbWluX2NpZHJfYmxvY2siIHt9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">c3lzbG9nID0gL3Zhci9sb2cvbXlzcWxfZXJyb3IubG9nCg==</text>
+      <register name="1" type="8">
+        <text>variable &quot;
+variable &quot;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">W215c3FsZF9zYWZlXQo=</text>
+        <text encoding="base64">c3lzbG9nID0gL3Zhci9sb2cvbXlzcWxfZXJyb3IubG9nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">W215c3FsZF9zYWZlXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codmFsdWVzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codmFsdWVzKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICBoYW5kbGVTdWJtaXQoZSkgewogICAgZS5wcmV2ZW50RGVmYXVsdCgpOwogICAgY29uc3QgZW1haWwgPSB0aGlzLnN0YXRlLmVtYWlsLnRyaW0oKTsKICAgIGNvbnN0IHBhc3N3b3JkID0gdGhpcy5zdGF0ZS5wYXNzd29yZC50cmltKCk7CiAgICBjb25zdCBhdHRyaWJ1dGVMaXN0ID0gWwogICAgICBuZXcgQ29nbml0b1VzZXJBdHRyaWJ1dGUoewogICAgICAgIE5hbWU6ICdlbWFpbCcsCiAgICAgICAgVmFsdWU6IGVtYWlsLAogICAgICB9KQogICAgXTsKICAgIHVzZXJQb29sLnNpZ25VcChlbWFpbCwgcGFzc3dvcmQsIGF0dHJpYnV0ZUxpc3QsIG51bGwsIChlcnIsIHJlc3VsdCkgPT4gewogICAgICBpZiAoZXJyKSB7CiAgICAgICAgY29uc29sZS5sb2coZXJyKTsKICAgICAgICByZXR1cm47CiAgICAgIH0KICAgICAgY29uc29sZS5sb2coYHVzZXIgbmFtZSBpcyAke3Jlc3VsdC51c2VyLmdldFVzZXJuYW1lKCl9YCk7CiAgICAgIGNvbnNvbGUubG9nKGBjYWxsIHJlc3VsdDogJHtyZXN1bHR9YCk7CiAgICB9KTsKICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICBoYW5kbGVTdWJtaXQoZSkgewogICAgZS5wcmV2ZW50RGVmYXVsdCgpOwogICAgY29uc3QgZW1haWwgPSB0aGlzLnN0YXRlLmVtYWlsLnRyaW0oKTsKICAgIGNvbnN0IHBhc3N3b3JkID0gdGhpcy5zdGF0ZS5wYXNzd29yZC50cmltKCk7CiAgICBjb25zdCBhdHRyaWJ1dGVMaXN0ID0gWwogICAgICBuZXcgQ29nbml0b1VzZXJBdHRyaWJ1dGUoewogICAgICAgIE5hbWU6ICdlbWFpbCcsCiAgICAgICAgVmFsdWU6IGVtYWlsLAogICAgICB9KQogICAgXTsKICAgIHVzZXJQb29sLnNpZ25VcChlbWFpbCwgcGFzc3dvcmQsIGF0dHJpYnV0ZUxpc3QsIG51bGwsIChlcnIsIHJlc3VsdCkgPT4gewogICAgICBpZiAoZXJyKSB7CiAgICAgICAgY29uc29sZS5sb2coZXJyKTsKICAgICAgICByZXR1cm47CiAgICAgIH0KICAgICAgY29uc29sZS5sb2coYHVzZXIgbmFtZSBpcyAke3Jlc3VsdC51c2VyLmdldFVzZXJuYW1lKCl9YCk7CiAgICAgIGNvbnNvbGUubG9nKGBjYWxsIHJlc3VsdDogJHtyZXN1bHR9YCk7CiAgICB9KTsKICB9Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
