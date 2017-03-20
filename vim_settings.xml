@@ -45,11 +45,11 @@
         <mark key="^" line="9" column="57" />
         <mark key="." line="9" column="57" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/development/variables.tf" timestamp="1490009207192">
+      <file name="$USER_HOME$/Code/terraform-ciatr/development/variables.tf" timestamp="1490013982543">
         <mark key="[" line="36" column="30" />
-        <mark key="]" line="43" column="0" />
+        <mark key="]" line="48" column="0" />
         <mark key="^" line="36" column="25" />
-        <mark key="." line="43" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/server/routes/image.js" timestamp="1488857128104">
         <mark key="[" line="5" column="12" />
@@ -161,7 +161,7 @@
         <mark key="^" line="12" column="11" />
         <mark key="." line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" timestamp="1490008443878">
+      <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" timestamp="1490013816635">
         <mark key="[" line="107" column="1" />
       </file>
       <file name="$USER_HOME$/vm/ciatr-vm/README.md" timestamp="1488790084051">
@@ -454,7 +454,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_ec2.tf" timestamp="1490008502870">
+      <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_ec2.tf" timestamp="1490013755894">
         <mark key="[" line="1" column="16" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/AttributeToShopRef.scala" timestamp="1486458024808">
@@ -595,7 +595,7 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/development/terraform.tfvars" timestamp="1490008097638">
+      <file name="$USER_HOME$/Code/terraform-ciatr/development/terraform.tfvars" timestamp="1490014007447">
         <mark key="[" line="32" column="19" />
         <mark key="]" line="32" column="17" />
         <mark key="^" line="32" column="17" />
