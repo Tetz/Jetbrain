@@ -160,6 +160,9 @@
         <mark key="^" line="12" column="11" />
         <mark key="." line="12" column="11" />
       </file>
+      <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" timestamp="1489997666338">
+        <mark key="[" line="107" column="1" />
+      </file>
       <file name="$USER_HOME$/vm/ciatr-vm/README.md" timestamp="1488790084051">
         <mark key="[" line="5" column="20" />
         <mark key="]" line="6" column="15" />
