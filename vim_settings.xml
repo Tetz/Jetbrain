@@ -146,11 +146,11 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/roco-bff/admin/index.js" timestamp="1490081726461">
-        <mark key="[" line="13" column="19" />
-        <mark key="]" line="13" column="15" />
-        <mark key="^" line="13" column="15" />
-        <mark key="." line="13" column="15" />
+      <file name="$USER_HOME$/Code/roco-bff/admin/index.js" timestamp="1490082584035">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="15" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Material.scala" timestamp="1481864439417">
         <mark key="[" line="20" column="0" />
@@ -225,10 +225,11 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="21" column="35" />
       </file>
-      <file name="$USER_HOME$/Code/roco-bff/admin/handlers/material.js" timestamp="1490080303964">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Code/roco-bff/admin/handlers/material.js" timestamp="1490082819640">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+        <mark key="^" line="2" column="6" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/LabelGroupController.scala" timestamp="1484710649146">
         <mark key="[" line="31" column="3" />
@@ -253,6 +254,12 @@
         <mark key="]" line="2" column="17" />
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="17" />
+      </file>
+      <file name="$USER_HOME$/Code/roco-bff/admin/handler.js" timestamp="1490083463003">
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/UserActivation.js" timestamp="1489134178766">
         <mark key="[" line="17" column="54" />
@@ -296,11 +303,11 @@
         <mark key="^" line="20" column="16" />
         <mark key="." line="20" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/roco-bff/admin/template.yaml" timestamp="1490080837824">
-        <mark key="[" line="73" column="34" />
-        <mark key="]" line="73" column="40" />
-        <mark key="^" line="73" column="40" />
-        <mark key="." line="73" column="40" />
+      <file name="$USER_HOME$/Code/roco-bff/admin/template.yaml" timestamp="1490083503627">
+        <mark key="[" line="73" column="35" />
+        <mark key="]" line="73" column="44" />
+        <mark key="^" line="73" column="44" />
+        <mark key="." line="73" column="44" />
       </file>
       <file name="$USER_HOME$/Code/roco-bff/client/backend_request/article.js" timestamp="1490078862851" />
       <file name="$USER_HOME$/Code/roco-admin-dashboard/api/routes/index.js" timestamp="1486630361227">
@@ -387,7 +394,7 @@
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/Code/roco-bff/admin/nodeploy.sh" timestamp="1490076855742">
+      <file name="$USER_HOME$/Code/roco-bff/admin/nodeploy.sh" timestamp="1490082412503">
         <mark key="[" line="7" column="43" />
         <mark key="]" line="7" column="68" />
         <mark key="." line="7" column="68" />
@@ -423,9 +430,6 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/RaisedButton.js" timestamp="1489038964917">
-        <mark key="[" line="8" column="2" />
-      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/build.sbt" timestamp="1486010450920">
         <mark key="[" line="18" column="71" />
         <mark key="]" line="18" column="68" />
@@ -456,7 +460,7 @@
         <mark key="^" line="26" column="3" />
         <mark key="." line="26" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/roco-bff/client/handler.js" timestamp="1490078460455" />
+      <file name="$USER_HOME$/Code/roco-bff/client/handler.js" timestamp="1490082700273" />
       <file name="$USER_HOME$/Code/terraform-ciatr/aws_vpc.tf" timestamp="1486990432587">
         <mark key="[" line="172" column="41" />
         <mark key="]" line="173" column="29" />
@@ -537,11 +541,11 @@
       <jump line="33" column="0" filename="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/UserActivation.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>article</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
@@ -553,25 +557,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ0xvYWRpbmcgZnVuY3Rpb24nKTsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ZXhwb3J0cy5oYW5kbGVyID0gKGV2ZW50LCBjb250ZXh0LCBjYWxsYmFjaykgPT4gewogIGNvbnN0IGRvbmUgPSAoZXJyLCByZXMpID0+IGNhbGxiYWNrKG51bGwsIHsKICAgIHN0YXR1c0NvZGU6IGVyciA/ICc0MDAnIDogJzIwMCcsCiAgICBib2R5OiBlcnIgPyBlcnIubWVzc2FnZSA6IEpTT04uc3RyaW5naWZ5KHJlcyksCiAgICBoZWFkZXJzOiB7CiAgICAgICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbicsCiAgICB9LAogIH0pOwogIGRvbmUobnVsbCwgIm9rIik7Cn07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnUmVjZWl2ZWQgZXZlbnQ6JywgSlNPTi5zdHJpbmdpZnkoZXZlbnQsIG51bGwsIDIpKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gbW9kdWxlLmV4cG9ydHMubGlzdE1hdGVyaWFsID0gbWF0ZXJpYWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gdmFyIG1hdGVyaWFsID0gcmVxdWlyZSgnLi9oYW5kbGVycy9tYXRlcmlhbCcpCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ0xvYWRpbmcgZnVuY3Rpb24nKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
