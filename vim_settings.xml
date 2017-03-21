@@ -188,6 +188,7 @@
         <mark key="^" line="41" column="45" />
         <mark key="." line="41" column="45" />
       </file>
+      <file name="$USER_HOME$/Code/roco-bff/client/nodeploy.sh" timestamp="1490071786370" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopClip.scala" timestamp="1484646731405">
         <mark key="[" line="25" column="57" />
         <mark key="]" line="25" column="56" />
@@ -235,6 +236,12 @@
         <mark key="]" line="1" column="21" />
         <mark key="." line="1" column="21" />
         <mark key="^" line="1" column="21" />
+      </file>
+      <file name="$USER_HOME$/Code/roco-bff/admin/README.md" timestamp="1490071897243">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="2" column="17" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/UserActivation.js" timestamp="1489134178766">
         <mark key="[" line="17" column="54" />
@@ -367,6 +374,11 @@
         <mark key="]" line="5" column="18" />
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="18" />
+      </file>
+      <file name="$USER_HOME$/Code/roco-bff/admin/nodeploy.sh" timestamp="1490071838969">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/Shop.scala" timestamp="1486463248350">
         <mark key="[" line="106" column="162" />
@@ -511,11 +523,11 @@
       <jump line="33" column="0" filename="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/UserActivation.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>client</text>
       </register>
       <register name="-" type="4">
-        <text>f137cf90c6046535b16a72748e6212dffb244e3b</text>
+        <text>client</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
@@ -527,22 +539,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBNeUFwaURlcGxveW1lbnQ6CiAgICBUeXBlOiBBV1M6OlNlcnZlcmxlc3M6OkRlcGxveW1lbnQKICAgIFByb3BlcnRpZXM6CiAgICAgIFJlc3RBcGlJZDoKICAgICAgICBSZWY6IE15QXBpCiAgICAgIERlc2NyaXB0aW9uOiAicm9jbyBhZG1pbiIKICAgICAgU3RhZ2VOYW1lOiBkZXYK</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICBNeUFwaURlcGxveW1lbnQ6CiAgICBUeXBlOiBBV1M6OlNlcnZlcmxlc3M6OkRlcGxveW1lbnQKICAgIFByb3BlcnRpZXM6CiAgICAgIFJlc3RBcGlJZDoKICAgICAgICBSZWY6IE15QXBpCiAgICAgIERlc2NyaXB0aW9uOiAicm9jbyBhZG1pbiIKICAgICAgU3RhZ2VOYW1lOiBkZXYK</text>
+        <text encoding="base64">YXdzIGNsb3VkZm9ybWF0aW9uIHBhY2thZ2UgXAogICAgLS10ZW1wbGF0ZS1maWxlIHRlbXBsYXRlLnlhbWwgXAogICAgLS1vdXRwdXQtdGVtcGxhdGUtZmlsZSBvdXRwdXQueWFtbCBcCiAgICAtLXMzLWJ1Y2tldCBkZXYtcm9jby1zYW0ubWljcm9zZXJ2aWNlLmpwCgphd3MgY2xvdWRmb3JtYXRpb24gZGVwbG95IFwKICAgIC0tdGVtcGxhdGUtZmlsZSBvdXRwdXQueWFtbCBcCiAgICAtLXN0YWNrLW5hbWUgRGV2Um9jb0FkbWluIFwKICAgIC0tY2FwYWJpbGl0aWVzIENBUEFCSUxJVFlfSUFNIFwKICAgIC0tbm8tZXhlY3V0ZS1jaGFuZ2VzZXQg</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgRGVzY3JpcHRpb246ICdSZXN0QXBpIGRlcGxveW1lbnQgaWQ6IGYxMzdjZjkwYzYwNDY1MzViMTZhNzI3NDhlNjIxMmRmZmIyNDRlM2InCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
