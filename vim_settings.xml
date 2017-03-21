@@ -285,11 +285,11 @@
         <mark key="^" line="20" column="16" />
         <mark key="." line="20" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/roco-bff/admin/template.yaml" timestamp="1489748713355">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="33" column="0" />
+      <file name="$USER_HOME$/Code/roco-bff/admin/template.yaml" timestamp="1490075451434">
+        <mark key="[" line="82" column="32" />
+        <mark key="]" line="82" column="33" />
+        <mark key="^" line="82" column="33" />
+        <mark key="." line="82" column="33" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/api/routes/index.js" timestamp="1486630361227">
         <mark key="[" line="5" column="43" />
@@ -375,10 +375,11 @@
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/Code/roco-bff/admin/nodeploy.sh" timestamp="1490071838969">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Code/roco-bff/admin/nodeploy.sh" timestamp="1490074955765">
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="11" column="30" />
+        <mark key="." line="11" column="30" />
+        <mark key="^" line="11" column="30" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/Shop.scala" timestamp="1486463248350">
         <mark key="[" line="106" column="162" />
