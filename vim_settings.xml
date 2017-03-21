@@ -371,8 +371,11 @@
         <mark key="^" line="16" column="3" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/roco-bff/admin/deploy" timestamp="1490085108507">
-        <mark key="[" line="0" column="11" />
+      <file name="$USER_HOME$/Code/roco-bff/admin/deploy" timestamp="1490088622984">
+        <mark key="[" line="58" column="5" />
+        <mark key="]" line="58" column="5" />
+        <mark key="." line="58" column="5" />
+        <mark key="^" line="58" column="5" />
       </file>
       <file name="$USER_HOME$/Code/roco-bff/admin/handlers/material.js" timestamp="1490082819640">
         <mark key="[" line="2" column="15" />
@@ -546,44 +549,44 @@
       <jump line="33" column="0" filename="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/UserActivation.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>client</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBleGl0IDEK</text>
       </register>
       <register name="-" type="4">
-        <text>client</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJz09PT09PT09PT09PT0+IHBvb2xEYXRhID0gJyArIGxvZ2luUG9vbERhdGEuVXNlclBvb2xJZCk7Cg==</text>
+        <text encoding="base64">ICBleGl0IDEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBleGl0IDEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBleGl0IDEK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZXhwb3J0cy5oYW5kbGVyID0gKGV2ZW50LCBjb250ZXh0LCBjYWxsYmFjaykgPT4gewogIGNvbnN0IGRvbmUgPSAoZXJyLCByZXMpID0+IGNhbGxiYWNrKG51bGwsIHsKICAgIHN0YXR1c0NvZGU6IGVyciA/ICc0MDAnIDogJzIwMCcsCiAgICBib2R5OiBlcnIgPyBlcnIubWVzc2FnZSA6IEpTT04uc3RyaW5naWZ5KHJlcyksCiAgICBoZWFkZXJzOiB7CiAgICAgICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbicsCiAgICB9LAogIH0pOwogIGRvbmUobnVsbCwgIm9rIik7Cn07Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlY2hvICJTb21lIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWxzZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnUmVjZWl2ZWQgZXZlbnQ6JywgSlNPTi5zdHJpbmdpZnkoZXZlbnQsIG51bGwsIDIpKTsK</text>
+        <text encoding="base64">ICBzb3VyY2U9ImNvdW50cnkiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzYW1wbGVzPSJVUyBDYW5hZGEgTWV4aWNvLi4uIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ0xvYWRpbmcgZnVuY3Rpb24nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aXNfY2hhbmdlX3NldF9leGlzdCAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
