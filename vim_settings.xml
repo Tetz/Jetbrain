@@ -111,16 +111,17 @@
         <mark key="^" line="8" column="32" />
         <mark key="." line="8" column="34" />
       </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/.eslintrc" timestamp="1490176418874">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="6" column="1" />
+        <mark key="^" line="6" column="1" />
+        <mark key="." line="6" column="1" />
+      </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/client/package.json" timestamp="1488868795904">
         <mark key="[" line="8" column="64" />
         <mark key="]" line="8" column="52" />
         <mark key="^" line="8" column="52" />
         <mark key="." line="8" column="52" />
-      </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/server/routes/image.js" timestamp="1488857128104">
-        <mark key="[" line="5" column="12" />
-        <mark key="]" line="5" column="12" />
-        <mark key="." line="5" column="12" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ArticleClip.scala" timestamp="1484121762264">
         <mark key="[" line="12" column="0" />
@@ -235,6 +236,12 @@
         <mark key="]" line="1" column="21" />
         <mark key="." line="1" column="21" />
         <mark key="^" line="1" column="21" />
+      </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/.eslintrc.yml" timestamp="1490177106805">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/UserActivation.js" timestamp="1489134178766">
         <mark key="[" line="17" column="54" />
@@ -458,11 +465,11 @@
         <mark key="^" line="15" column="7" />
         <mark key="." line="15" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/.eslintrc" timestamp="1490175342835">
-        <mark key="[" line="3" column="42" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="21" column="26" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/.eslintrc" timestamp="1490176217357">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+        <mark key="^" line="3" column="23" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/bin/deploy_client.sh" timestamp="1488434867609">
         <mark key="[" line="4" column="4" />
@@ -470,10 +477,8 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/Login.js" timestamp="1490174199604">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/Login.js" timestamp="1490177776104">
+        <mark key="[" line="14" column="17" />
       </file>
       <file name="$USER_HOME$/Code/roco_core/seeding/src/main/scala/ApplicationTestHelper.scala" timestamp="1487239837395">
         <mark key="[" line="18" column="8" />
@@ -509,10 +514,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGBhY2Nlc3MgdG9rZW4gJHtyZXN1bHQuZ2V0QWNjZXNzVG9rZW4oKS5nZXRKd3RUb2tlbigpfWApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>CognitoIdentityServiceProvider</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
@@ -521,25 +526,25 @@
         <text encoding="base64">Y29uc29sZS5sb2coJz09PT09PT09PT09PT0+IHBvb2xEYXRhID0gJyArIGxvZ2luUG9vbERhdGEuVXNlclBvb2xJZCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGBhY2Nlc3MgdG9rZW4gJHtyZXN1bHQuZ2V0QWNjZXNzVG9rZW4oKS5nZXRKd3RUb2tlbigpfWApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyogZ2xvYmFsIEFXUyAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgVGV4dEZpZWxkLCBSYWlzZWRCdXR0b24gfSBmcm9tICdtYXRlcmlhbC11aSc7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHRva2VuID0gcmVzdWx0LmdldEFjY2Vzc1Rva2VuKCkuZ2V0Snd0VG9rZW4oKTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICJuby1wYXJhbS1yZWFzc2lnbiI6IDAsCiAgICAiY29tbWEtZGFuZ2xlIjogMCwKICAgICJyZWFjdC9qc3gtbm8tYmluZCI6IDAsCiAgICAianN4LWExMXkvaW1nLXVzZXMtYWx0IjogMCwKICAgICJqc3gtYTExeS9yZWR1bmRhbnQtYWx0IjogMCwKICAgICJqc3gtYTExeS92YWxpZC1hcmlhLXJvbGUiOiAwLAogICAgInNlbWkiOiBbCiAgICAgICAgImVycm9yIiwKICAgICAgICAiYWx3YXlzIgogICAgXSw=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICJuby11c2UtYmVmb3JlLWRlZmluZSI6IFsiZXJyb3IiLCB7ICJmdW5jdGlvbnMiOiBmYWxzZSwgImNsYXNzZXMiOiB0cnVlIH1dLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGBhY2Nlc3MgdG9rZW4gJHtyZXN1bHQuZ2V0QWNjZXNzVG9rZW4oKS5nZXRKd3RUb2tlbigpfWApOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -571,6 +576,7 @@
         <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zL2ltZy9odG1sL2dj</entry>
         <entry>w</entry>
+        <entry>a</entry>
       </history-cmd>
       <history-expr />
       <history-input />
