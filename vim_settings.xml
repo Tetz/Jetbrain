@@ -243,11 +243,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/UserActivation.js" timestamp="1489134178766">
-        <mark key="[" line="17" column="54" />
-        <mark key="]" line="17" column="52" />
-        <mark key="." line="17" column="52" />
-        <mark key="^" line="17" column="52" />
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/UserActivation.js" timestamp="1490180006578">
+        <mark key="[" line="38" column="30" />
+        <mark key="]" line="38" column="33" />
+        <mark key="^" line="38" column="33" />
+        <mark key="." line="38" column="33" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/api/package.json" timestamp="1486635949256">
         <mark key="[" line="17" column="23" />
@@ -390,11 +390,11 @@
         <mark key="^" line="25" column="26" />
         <mark key="." line="25" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/SignUp.js" timestamp="1490163717442">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="24" column="37" />
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/SignUp.js" timestamp="1490179971281">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="20" />
+        <mark key="^" line="13" column="20" />
+        <mark key="." line="13" column="20" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/MaterialKey.scala" timestamp="1481783937187">
         <mark key="[" line="7" column="0" />
@@ -477,7 +477,7 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/Login.js" timestamp="1490177776104">
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/Login.js" timestamp="1490179904839">
         <mark key="[" line="14" column="17" />
       </file>
       <file name="$USER_HOME$/Code/roco_core/seeding/src/main/scala/ApplicationTestHelper.scala" timestamp="1487239837395">
@@ -514,7 +514,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQ29uZmlnLCBDb2duaXRvSWRlbnRpdHlDcmVkZW50aWFscywgQ29nbml0b0lkZW50aXR5U2VydmljZVByb3ZpZGVyIH0gZnJvbSAnYXdzLXNkaycK</text>
       </register>
       <register name="-" type="4">
         <text>CognitoIdentityServiceProvider</text>
@@ -526,31 +526,31 @@
         <text encoding="base64">Y29uc29sZS5sb2coJz09PT09PT09PT09PT0+IHBvb2xEYXRhID0gJyArIGxvZ2luUG9vbERhdGEuVXNlclBvb2xJZCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQ29uZmlnLCBDb2duaXRvSWRlbnRpdHlDcmVkZW50aWFscywgQ29nbml0b0lkZW50aXR5U2VydmljZVByb3ZpZGVyIH0gZnJvbSAnYXdzLXNkaycK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyogZ2xvYmFsIEFXUyAqLwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQ29uZmlnLCBDb2duaXRvSWRlbnRpdHlDcmVkZW50aWFscyB9IGZyb20gJ2F3cy1zZGsnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVGV4dEZpZWxkLCBSYWlzZWRCdXR0b24gfSBmcm9tICdtYXRlcmlhbC11aSc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyogZ2xvYmFsIEFXUyAqLwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICJuby1wYXJhbS1yZWFzc2lnbiI6IDAsCiAgICAiY29tbWEtZGFuZ2xlIjogMCwKICAgICJyZWFjdC9qc3gtbm8tYmluZCI6IDAsCiAgICAianN4LWExMXkvaW1nLXVzZXMtYWx0IjogMCwKICAgICJqc3gtYTExeS9yZWR1bmRhbnQtYWx0IjogMCwKICAgICJqc3gtYTExeS92YWxpZC1hcmlhLXJvbGUiOiAwLAogICAgInNlbWkiOiBbCiAgICAgICAgImVycm9yIiwKICAgICAgICAiYWx3YXlzIgogICAgXSw=</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHsgVGV4dEZpZWxkLCBSYWlzZWRCdXR0b24gfSBmcm9tICdtYXRlcmlhbC11aSc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJuby11c2UtYmVmb3JlLWRlZmluZSI6IFsiZXJyb3IiLCB7ICJmdW5jdGlvbnMiOiBmYWxzZSwgImNsYXNzZXMiOiB0cnVlIH1dLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGBhY2Nlc3MgdG9rZW4gJHtyZXN1bHQuZ2V0QWNjZXNzVG9rZW4oKS5nZXRKd3RUb2tlbigpfWApOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICJuby1wYXJhbS1yZWFzc2lnbiI6IDAsCiAgICAiY29tbWEtZGFuZ2xlIjogMCwKICAgICJyZWFjdC9qc3gtbm8tYmluZCI6IDAsCiAgICAianN4LWExMXkvaW1nLXVzZXMtYWx0IjogMCwKICAgICJqc3gtYTExeS9yZWR1bmRhbnQtYWx0IjogMCwKICAgICJqc3gtYTExeS92YWxpZC1hcmlhLXJvbGUiOiAwLAogICAgInNlbWkiOiBbCiAgICAgICAgImVycm9yIiwKICAgICAgICAiYWx3YXlzIgogICAgXSw=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJuby11c2UtYmVmb3JlLWRlZmluZSI6IFsiZXJyb3IiLCB7ICJmdW5jdGlvbnMiOiBmYWxzZSwgImNsYXNzZXMiOiB0cnVlIH1dLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGBhY2Nlc3MgdG9rZW4gJHtyZXN1bHQuZ2V0QWNjZXNzVG9rZW4oKS5nZXRKd3RUb2tlbigpfWApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
