@@ -350,6 +350,9 @@
         <mark key="^" line="8" column="57" />
         <mark key="." line="8" column="57" />
       </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/config.js" timestamp="1490161451351">
+        <mark key="[" line="2" column="69" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/routes" timestamp="1485513511245">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -437,7 +440,6 @@
         <mark key="." line="38" column="37" />
         <mark key="^" line="38" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/node_modules/aws-sdk/clients/cognitoidentityserviceprovider.d.ts" timestamp="1489135237740" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ArticleController.scala" timestamp="1485248650777">
         <mark key="[" line="35" column="88" />
         <mark key="]" line="35" column="86" />
@@ -468,11 +470,10 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/CognitoPlayground/CognitoPlaygroundServer/serverless.yml" timestamp="1489656442043" />
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/Login.js" timestamp="1489560030438">
-        <mark key="[" line="40" column="44" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/Login.js" timestamp="1490161422717">
+        <mark key="[" line="47" column="19" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/Code/roco_core/seeding/src/main/scala/ApplicationTestHelper.scala" timestamp="1487239837395">
         <mark key="[" line="18" column="8" />
@@ -492,7 +493,6 @@
         <mark key="^" line="11" column="4" />
         <mark key="." line="11" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/node_modules/material-ui/index.es.js" timestamp="1489049419117" />
     </filemarks>
     <jumps>
       <jump line="63" column="0" filename="$USER_HOME$/Code/ApiLottery/conf/evolutions/default/1.sql" />
@@ -524,7 +524,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codmFsdWVzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -532,8 +532,8 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBoYW5kbGVTdWJtaXQoZSkgewogICAgZS5wcmV2ZW50RGVmYXVsdCgpOwogICAgY29uc3QgZW1haWwgPSB0aGlzLnN0YXRlLmVtYWlsLnRyaW0oKTsKICAgIGNvbnN0IHBhc3N3b3JkID0gdGhpcy5zdGF0ZS5wYXNzd29yZC50cmltKCk7CiAgICBjb25zdCBhdHRyaWJ1dGVMaXN0ID0gWwogICAgICBuZXcgQ29nbml0b1VzZXJBdHRyaWJ1dGUoewogICAgICAgIE5hbWU6ICdlbWFpbCcsCiAgICAgICAgVmFsdWU6IGVtYWlsLAogICAgICB9KQogICAgXTsKICAgIHVzZXJQb29sLnNpZ25VcChlbWFpbCwgcGFzc3dvcmQsIGF0dHJpYnV0ZUxpc3QsIG51bGwsIChlcnIsIHJlc3VsdCkgPT4gewogICAgICBpZiAoZXJyKSB7CiAgICAgICAgY29uc29sZS5sb2coZXJyKTsKICAgICAgICByZXR1cm47CiAgICAgIH0KICAgICAgY29uc29sZS5sb2coYHVzZXIgbmFtZSBpcyAke3Jlc3VsdC51c2VyLmdldFVzZXJuYW1lKCl9YCk7CiAgICAgIGNvbnNvbGUubG9nKGBjYWxsIHJlc3VsdDogJHtyZXN1bHR9YCk7CiAgICB9KTsKICB9Cg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
