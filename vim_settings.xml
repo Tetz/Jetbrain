@@ -403,11 +403,11 @@
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/roco-bff/admin/apis/api_proxy.js" timestamp="1490330277918">
-        <mark key="[" line="0" column="36" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="1" column="15" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Code/roco-bff/admin/apis/api_proxy.js" timestamp="1490334301557">
+        <mark key="[" line="16" column="10" />
+        <mark key="]" line="16" column="14" />
+        <mark key="^" line="16" column="14" />
+        <mark key="." line="16" column="14" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/filters/ExampleFilter.scala" timestamp="1484633267941">
         <mark key="[" line="15" column="7" />
@@ -481,6 +481,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/roco-bff/client/backend_request/get_service.js" timestamp="1490333964913" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/MaterialController.scala" timestamp="1485516615010">
         <mark key="[" line="72" column="54" />
         <mark key="]" line="73" column="38" />
@@ -549,11 +550,11 @@
       <jump line="33" column="0" filename="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/UserActivation.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbihhc3NpZ25NYXRlcmlhbHNUb1Jlc3BvbnNlKGV2ZW50LCB0YXJnZXRSZXF1ZXN0KSkK</text>
+      <register name="&quot;" type="4">
+        <text>var</text>
       </register>
       <register name="-" type="4">
-        <text>backendRequest</text>
+        <text>var</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
