@@ -303,6 +303,12 @@
         <mark key="^" line="20" column="16" />
         <mark key="." line="20" column="16" />
       </file>
+      <file name="$USER_HOME$/Code/roco-bff/admin/template.yaml" timestamp="1490328692033">
+        <mark key="[" line="73" column="33" />
+        <mark key="]" line="73" column="22" />
+        <mark key="^" line="73" column="22" />
+        <mark key="." line="73" column="22" />
+      </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/api/routes/index.js" timestamp="1486630361227">
         <mark key="[" line="5" column="43" />
         <mark key="]" line="5" column="13" />
