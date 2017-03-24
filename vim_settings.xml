@@ -403,11 +403,11 @@
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/roco-bff/admin/apis/api_proxy.js" timestamp="1490347947691">
-        <mark key="[" line="17" column="29" />
-        <mark key="]" line="2" column="58" />
-        <mark key="^" line="2" column="58" />
-        <mark key="." line="2" column="58" />
+      <file name="$USER_HOME$/Code/roco-bff/admin/apis/api_proxy.js" timestamp="1490349474230">
+        <mark key="[" line="17" column="13" />
+        <mark key="]" line="17" column="13" />
+        <mark key="^" line="17" column="13" />
+        <mark key="." line="17" column="13" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/filters/ExampleFilter.scala" timestamp="1484633267941">
         <mark key="[" line="15" column="7" />
@@ -552,10 +552,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>var</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
