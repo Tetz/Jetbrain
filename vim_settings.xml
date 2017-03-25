@@ -45,11 +45,11 @@
         <mark key="^" line="9" column="57" />
         <mark key="." line="9" column="57" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/development/variables.tf" timestamp="1490013982543">
-        <mark key="[" line="36" column="30" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="36" column="25" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/development/variables.tf" timestamp="1490432250594">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="53" column="17" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/server/routes/image.js" timestamp="1488857128104">
         <mark key="[" line="5" column="12" />
@@ -595,11 +595,11 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/development/terraform.tfvars" timestamp="1490431077668">
-        <mark key="[" line="32" column="19" />
-        <mark key="]" line="32" column="17" />
-        <mark key="^" line="32" column="17" />
-        <mark key="." line="32" column="17" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/development/terraform.tfvars" timestamp="1490432155270">
+        <mark key="[" line="59" column="9" />
+        <mark key="]" line="59" column="10" />
+        <mark key="^" line="59" column="10" />
+        <mark key="." line="59" column="10" />
       </file>
       <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/templates/my.cnf.j2" timestamp="1489829194019">
         <mark key="[" line="15" column="0" />
@@ -721,7 +721,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y2lhdHJfYWRtaW5fYXpfMiA9ICJhcC1ub3J0aGVhc3QtMWMiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -730,35 +730,37 @@
         <text>img</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">dmFyaWFibGUgImNpYXRyX2FkbWluX2NpZHJfYmxvY2siIHt9CnZhcmlhYmxlICJjaWF0cl9hZG1pbl9heiIge30K</text>
+        <text encoding="base64">dmFyaWFibGUgIm1hdG9tZV9hZG1pbl9hbGJfMSIge30KdmFyaWFibGUgIm1hdG9tZV9hZG1pbl9hbGJfYXpfMSIge30KdmFyaWFibGUgIm1hdG9tZV9hZG1pbl9hbGJfMiIge30KdmFyaWFibGUgIm1hdG9tZV9hZG1pbl9hbGJfYXpfMiIge30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2lhdHJfYWRtaW5fYXpfMiA9ICJhcC1ub3J0aGVhc3QtMWMiCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Y2lhdHJfYWRtaW5fY2lkcl9ibG9ja18yID0gIjg4LjAuOC4wLzI0Igo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Y2lhdHJfYWRtaW5fYXpfMSA9ICJhcC1ub3J0aGVhc3QtMWEiCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Y2lhdHJfYWRtaW5fY2lkcl9ibG9ja18xID0gIjg4LjAuNy4wLzI0Igo=</text>
-      </register>
-      <register name="5" type="8">
-        <text>variable &quot;
-variable &quot;</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">c3lzbG9nID0gL3Zhci9sb2cvbXlzcWxfZXJyb3IubG9nCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">W215c3FsZF9zYWZlXQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">bWF0b21lX3ZpZXdfYWxiX2F6XzIgPSAiYXAtbm9ydGhlYXN0LTFjIgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">bWF0b21lX3ZpZXdfYWxiXzIgPSAiODguMC4xMDMuMC8yNCIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">bWF0b21lX3ZpZXdfYWxiX2F6XzEgPSAiYXAtbm9ydGhlYXN0LTFhIgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">bWF0b21lX3ZpZXdfYWxiXzEgPSAiODguMC4xMDIuMC8yNCIK</text>
+      </register>
+      <register name="8" type="8">
+        <text>admin
+admin
+admin
+admin</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codmFsdWVzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
