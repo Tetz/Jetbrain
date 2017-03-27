@@ -45,11 +45,11 @@
         <mark key="^" line="9" column="57" />
         <mark key="." line="9" column="57" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/development/variables.tf" timestamp="1490439507667">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="^" line="58" column="10" />
-        <mark key="." line="75" column="0" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/development/variables.tf" timestamp="1490593078525">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="56" column="10" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/server/routes/image.js" timestamp="1488857128104">
         <mark key="[" line="5" column="12" />
@@ -391,7 +391,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="13" column="6" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/production/terraform.tfvars" timestamp="1490591164761">
+      <file name="$USER_HOME$/Code/terraform-ciatr/production/terraform.tfvars" timestamp="1490592814145">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -604,11 +604,11 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/development/terraform.tfvars" timestamp="1490588491274">
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="4" column="13" />
-        <mark key="." line="4" column="13" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/development/terraform.tfvars" timestamp="1490593068525">
+        <mark key="[" line="12" column="29" />
+        <mark key="]" line="74" column="0" />
         <mark key="^" line="4" column="13" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/templates/my.cnf.j2" timestamp="1489829194019">
         <mark key="[" line="15" column="0" />
@@ -754,7 +754,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Settings</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>matome_view</text>
@@ -766,25 +766,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBTZXR0aW5ncyA6IFByb2R1Y3Rpb24K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">cmVnaW9uID0gImFwLW5vcnRoZWFzdC0xIgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">YWNjZXNzX2tleSA9ICJBS0lBSkhMN1hSWElVWEFTN0hIQSIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">c2VjcmV0X2tleSA9ICJqOXVnc2tYZGF3NVhZMXVCQk1GRVZ6clNYRjFZWGRuMFNnTkdxNFY5Igo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Li4vcHJvZHVjdGlvbi90ZXJyYWZvcm0tcHJvZC50ZnZhcnMK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IyBBV1MgRWxhc3RpQ2FjaGUKdmFyaWFibGUgImVudmlyb25tZW50IiB7CiAgZGVmYXVsdCA9ICJkZXZlbG9wbWVudCIKfQoKdmFyaWFibGUgImNhY2hlX2lkZW50aWZpZXIiIHsKICBkZWZhdWx0ID0gIm1hdG9tZS1yZWRpcyIKfQoKdmFyaWFibGUgInBhcmFtZXRlcl9ncm91cCIgewogIGRlZmF1bHQgPSAicmVkaXMzLjIiCn0KCnZhcmlhYmxlICJkZXNpcmVkX2NsdXN0ZXJzIiB7CiAgZGVmYXVsdCA9ICIxIgp9Cgp2YXJpYWJsZSAiaW5zdGFuY2VfdHlwZSIgewogIGRlZmF1bHQgPSAiY2FjaGUudDIubWljcm8iCn0KCnZhcmlhYmxlICJlbmdpbmVfdmVyc2lvbiIgewogIGRlZmF1bHQgPSAiMy4yLjQiCn0KCnZhcmlhYmxlICJhdXRvbWF0aWNfZmFpbG92ZXJfZW5hYmxlZCIgewogIGRlZmF1bHQgPSBmYWxzZQp9Cgp2YXJpYWJsZSAiYWxhcm1fY3B1X3RocmVzaG9sZCIgewogIGRlZmF1bHQgPSAiNzUiCn0KCnZhcmlhYmxlICJhbGFybV9tZW1vcnlfdGhyZXNob2xkIiB7CiAgIyAxME1CCiAgZGVmYXVsdCA9ICIxMDAwMDAwMCIKfQo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyBTZXR0aW5ncyA6IFByb2R1Y3Rpb24K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">cmVnaW9uID0gImFwLW5vcnRoZWFzdC0xIgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">YWNjZXNzX2tleSA9ICJBS0lBSkhMN1hSWElVWEFTN0hIQSIK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">c2VjcmV0X2tleSA9ICJqOXVnc2tYZGF3NVhZMXVCQk1GRVZ6clNYRjFZWGRuMFNnTkdxNFY5Igo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Li4vcHJvZHVjdGlvbi90ZXJyYWZvcm0tcHJvZC50ZnZhcnMK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
