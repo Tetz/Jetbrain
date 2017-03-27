@@ -391,8 +391,10 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/production/variables.tf" timestamp="1490590310498">
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/production/variables.tf" timestamp="1490598892167">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/Filters.scala" timestamp="1484647826471">
         <mark key="[" line="3" column="0" />
@@ -787,7 +789,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyaWFibGUgInJlZ2lvbiIge30K</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -799,13 +801,13 @@
         <text encoding="base64">cmVzb3VyY2UgImF3c19hbGIiICJtYXRvbWVfdmlld19hbGIiIHsKICBuYW1lICAgICAgICAgICAgPSAibWF0b21lLXZpZXctYWxiIgogIGludGVybmFsICAgICAgICA9IGZhbHNlCiAgc2VjdXJpdHlfZ3JvdXBzID0gWyIke2F3c19zZWN1cml0eV9ncm91cC5sYl9zZy5pZH0iXQogIHN1Ym5ldHMgICAgICAgICA9IFsiJHthd3Nfc3VibmV0Lm1hdG9tZV92aWV3X2FsYl8xLmlkfSIsIiR7YXdzX3N1Ym5ldC5tYXRvbWVfdmlld19hbGJfMi5pZH0iXQogIGVuYWJsZV9kZWxldGlvbl9wcm90ZWN0aW9uID0gZmFsc2UKCiAgdGFncyB7IE5hbWUgPSAibWF0b21lX3ZpZXdfYWxiIiB9CiAgdGFncyB7IEFwcE5hbWUgPSAiJHt2YXIuYXBwX25hbWV9IiB9CiAgdGFncyB7IE1haW50YWluZXIgPSAiJHt2YXIubWFpbnRhaW5lcn0iIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyaWFibGUgInJlZ2lvbiIge30K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyaWFibGUgInNlY3JldF9rZXkiIHt9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyaWFibGUgImFjY2Vzc19rZXkiIHt9Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
