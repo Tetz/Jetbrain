@@ -489,6 +489,12 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
+      <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_s3.tf" timestamp="1490597689410">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="7" column="41" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialPresenter.scala" timestamp="1481786103650">
         <mark key="[" line="87" column="25" />
         <mark key="]" line="87" column="25" />
@@ -735,6 +741,12 @@
         <mark key="^" line="33" column="15" />
         <mark key="." line="33" column="15" />
       </file>
+      <file name="$USER_HOME$/Code/terraform-ciatr/production/aws_rds.tf" timestamp="1490597594653">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="38" column="41" />
+        <mark key="." line="16" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="63" column="0" filename="$USER_HOME$/Code/ApiLottery/conf/evolutions/default/1.sql" />
@@ -796,19 +808,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBTZXR0aW5ncyA6IFByb2R1Y3Rpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmVnaW9uID0gImFwLW5vcnRoZWFzdC0xIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YWNjZXNzX2tleSA9ICJBS0lBSkhMN1hSWElVWEFTN0hIQSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2VjcmV0X2tleSA9ICJqOXVnc2tYZGF3NVhZMXVCQk1GRVZ6clNYRjFZWGRuMFNnTkdxNFY5Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Li4vcHJvZHVjdGlvbi90ZXJyYWZvcm0tcHJvZC50ZnZhcnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
