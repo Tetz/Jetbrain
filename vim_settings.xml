@@ -162,12 +162,11 @@
         <mark key="^" line="12" column="11" />
         <mark key="." line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" timestamp="1490609909836">
-        <mark key="'" line="123" column="22" />
-        <mark key="[" line="9" column="43" />
-        <mark key="]" line="140" column="0" />
-        <mark key="^" line="97" column="41" />
-        <mark key="." line="140" column="0" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" timestamp="1490612171259">
+        <mark key="[" line="211" column="19" />
+        <mark key="]" line="211" column="20" />
+        <mark key="^" line="211" column="20" />
+        <mark key="." line="211" column="20" />
       </file>
       <file name="$USER_HOME$/vm/ciatr-vm/README.md" timestamp="1488790084051">
         <mark key="[" line="5" column="20" />
@@ -480,7 +479,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_ec2.tf" timestamp="1490609573035">
+      <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_ec2.tf" timestamp="1490612334006">
         <mark key="[" line="73" column="4" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/AttributeToShopRef.scala" timestamp="1486458024808">
