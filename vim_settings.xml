@@ -304,6 +304,12 @@
         <mark key="^" line="13" column="65" />
         <mark key="." line="13" column="65" />
       </file>
+      <file name="$USER_HOME$/Code/CognitoPlayground/WebPlayground/js/preset.js" timestamp="1490683434364">
+        <mark key="[" line="8" column="42" />
+        <mark key="]" line="8" column="41" />
+        <mark key="^" line="8" column="41" />
+        <mark key="." line="8" column="41" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/Filters.scala" timestamp="1484647826471">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -554,7 +560,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>img</text>
+        <text>isClent</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc29sZS5sb2coJz09PT09PT09PT09PT0+IHBvb2xEYXRhID0gJyArIGxvZ2luUG9vbERhdGEuVXNlclBvb2xJZCk7Cg==</text>
@@ -591,12 +597,12 @@
       </register>
     </registers>
     <search>
-      <last-search>img</last-search>
+      <last-search>isClent</last-search>
       <last-offset />
-      <last-pattern>img</last-pattern>
+      <last-pattern>isClent</last-pattern>
       <last-replace>html</last-replace>
       <last-substitute>img</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -604,6 +610,7 @@
         <entry encoding="base64">XDxOb25lXD4=</entry>
         <entry encoding="base64">XDxwbGF5XD4=</entry>
         <entry>img</entry>
+        <entry>isClent</entry>
       </history-search>
       <history-cmd>
         <entry>set paste</entry>
