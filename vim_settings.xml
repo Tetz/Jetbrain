@@ -286,6 +286,12 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="3" column="23" />
       </file>
+      <file name="$USER_HOME$/Code/ApiRocoManager/app/clientjson/ServiceWrites.scala" timestamp="1490784338794">
+        <mark key="[" line="13" column="66" />
+        <mark key="]" line="12" column="66" />
+        <mark key="." line="12" column="66" />
+        <mark key="^" line="12" column="66" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ConsumerController.scala" timestamp="1484728591305">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="83" />
@@ -596,7 +602,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgU0VSVklDRT0ke1NFUlZJQ0VfSUR9IC4vYmluL3Jlc2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAiY29uc3VtZXJJZGVudGl0eVBvb2xJZCIgLT4gc2VydmljZS5jb25zdW1lcklkZW50aXR5UG9vbElkCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -605,7 +611,7 @@
         <text>img</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgU0VSVklDRT0ke1NFUlZJQ0VfSUR9IC4vYmluL3Jlc2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAiY29uc3VtZXJJZGVudGl0eVBvb2xJZCIgLT4gc2VydmljZS5jb25zdW1lcklkZW50aXR5UG9vbElkCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgU0VSVklDRT0ke1NFUlZJQ0VfSUR9IC4vYmluL3Jlc2V0Cg==</text>
