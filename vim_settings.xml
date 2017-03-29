@@ -44,6 +44,7 @@
         <mark key="." line="112" column="9" />
         <mark key="^" line="112" column="9" />
       </file>
+      <file name="$USER_HOME$/Code/roco_core/migration/bin/reset" timestamp="1490767155770" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/AttributeGroupKey.scala" timestamp="1481795654519">
         <mark key="[" line="9" column="29" />
         <mark key="]" line="20" column="50" />
@@ -151,6 +152,12 @@
         <mark key="]" line="27" column="37" />
         <mark key="^" line="27" column="37" />
         <mark key="." line="27" column="37" />
+      </file>
+      <file name="$USER_HOME$/Code/roco_core/bin/reset-db-seed.bash" timestamp="1490768164932">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="3" column="8" />
+        <mark key="^" line="3" column="8" />
+        <mark key="." line="3" column="8" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/api/routes/index.js" timestamp="1486630361227">
         <mark key="[" line="5" column="43" />
@@ -585,46 +592,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>consumerIdentityPool</text>
+        <text>SERVICE_ID</text>
       </register>
       <register name="-" type="4">
-        <text>consumerIdentityPool</text>
+        <text>SERVICE_ID</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdW1lcklkZW50aXR5UG9vbElkOiBTdHJpbmcsCg==</text>
+        <text encoding="base64">ZWNobyAiU2VydmljZSBJZCA9ICIke1NFUlZJQ0VfSUR9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ZWNobyAiPT09PT09PT09PT09PT09PT09PT0iCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29uZmlnLCBDb2duaXRvSWRlbnRpdHlDcmVkZW50aWFscywgQ29nbml0b0lkZW50aXR5U2VydmljZVByb3ZpZGVyIH0gZnJvbSAnYXdzLXNkaycK</text>
+        <text encoding="base64">ZWNobyAke1NFUlZJQ0VfSUR9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29uZmlnLCBDb2duaXRvSWRlbnRpdHlDcmVkZW50aWFscyB9IGZyb20gJ2F3cy1zZGsnCg==</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">LyogZ2xvYmFsIEFXUyAqLwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">I3doaWxlIHRydWUKI2RvCiMgIGN1cnJlbnQ9JChteXNxbCAtcyAtTiAtdSRVU0VSIC1wJFBBU1NXT1JEIC1lICJzaG93IHN0YXR1cyBsaWtlICdUaHJlYWRzX2Nvbm5lY3RlZCc7IiAyPiAvZGV2L251bGwgfCB0YWlsIC1uMSB8IGN1dCAtZjIpCiMgIGlmIFsgIiRwcmV2IiAhPSAiJGN1cnJlbnQiIF07IHRoZW4KIyAgICBlY2hvICJbIiQoZGF0ZSArIiVUIikiXSIgJGN1cnJlbnQKIyAgZmkKIyAgcHJldj0kY3VycmVudAojICBzbGVlcCAwLjMKI2RvbmU=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVGV4dEZpZWxkLCBSYWlzZWRCdXR0b24gfSBmcm9tICdtYXRlcmlhbC11aSc7Cg==</text>
+        <text encoding="base64">UEFTU1dPUkQ9cm9vdHBhc3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICJuby1wYXJhbS1yZWFzc2lnbiI6IDAsCiAgICAiY29tbWEtZGFuZ2xlIjogMCwKICAgICJyZWFjdC9qc3gtbm8tYmluZCI6IDAsCiAgICAianN4LWExMXkvaW1nLXVzZXMtYWx0IjogMCwKICAgICJqc3gtYTExeS9yZWR1bmRhbnQtYWx0IjogMCwKICAgICJqc3gtYTExeS92YWxpZC1hcmlhLXJvbGUiOiAwLAogICAgInNlbWkiOiBbCiAgICAgICAgImVycm9yIiwKICAgICAgICAiYWx3YXlzIgogICAgXSw=</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHsgQ29uZmlnLCBDb2duaXRvSWRlbnRpdHlDcmVkZW50aWFscywgQ29nbml0b0lkZW50aXR5U2VydmljZVByb3ZpZGVyIH0gZnJvbSAnYXdzLXNkaycK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJuby11c2UtYmVmb3JlLWRlZmluZSI6IFsiZXJyb3IiLCB7ICJmdW5jdGlvbnMiOiBmYWxzZSwgImNsYXNzZXMiOiB0cnVlIH1dLAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQ29uZmlnLCBDb2duaXRvSWRlbnRpdHlDcmVkZW50aWFscyB9IGZyb20gJ2F3cy1zZGsnCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -647,6 +654,7 @@
         <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zL2ltZy9odG1sL2dj</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
