@@ -153,11 +153,11 @@
         <mark key="^" line="27" column="37" />
         <mark key="." line="27" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/roco_core/bin/reset-db-seed.bash" timestamp="1490768164932">
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="3" column="8" />
-        <mark key="^" line="3" column="8" />
-        <mark key="." line="3" column="8" />
+      <file name="$USER_HOME$/Code/roco_core/bin/reset-db-seed.bash" timestamp="1490771361140">
+        <mark key="[" line="14" column="34" />
+        <mark key="]" line="14" column="39" />
+        <mark key="^" line="14" column="39" />
+        <mark key="." line="14" column="39" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/api/routes/index.js" timestamp="1486630361227">
         <mark key="[" line="5" column="43" />
@@ -591,44 +591,44 @@
       <jump line="33" column="0" filename="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/UserActivation.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>SERVICE_ID</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZWNobyAke0lTX0NPTkZJR30K</text>
       </register>
       <register name="-" type="4">
-        <text>SERVICE_ID</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZWNobyAiU2VydmljZSBJZCA9ICIke1NFUlZJQ0VfSUR9Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIyBNaWdyYXRpb24KICAgY2QgLi9taWdyYXRpb24KICAgU0VSVklDRT0ke1NFUlZJQ0VfSUR9IC4vYmluL3Jlc2V0CiAgIGNkIC4uLwoKICAgIyBTZWVkaW5nCiAgIHNidCAtRHNlcnZpY2U9JHtTRVJWSUNFX0lEfSBzZWVk</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZWNobyAiPT09PT09PT09PT09PT09PT09PT0iCg==</text>
+        <text encoding="base64">ZWNobyAke0lTX0NPTkZJR30K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWNobyAke1NFUlZJQ0VfSUR9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">I3doaWxlIHRydWUKI2RvCiMgIGN1cnJlbnQ9JChteXNxbCAtcyAtTiAtdSRVU0VSIC1wJFBBU1NXT1JEIC1lICJzaG93IHN0YXR1cyBsaWtlICdUaHJlYWRzX2Nvbm5lY3RlZCc7IiAyPiAvZGV2L251bGwgfCB0YWlsIC1uMSB8IGN1dCAtZjIpCiMgIGlmIFsgIiRwcmV2IiAhPSAiJGN1cnJlbnQiIF07IHRoZW4KIyAgICBlY2hvICJbIiQoZGF0ZSArIiVUIikiXSIgJGN1cnJlbnQKIyAgZmkKIyAgcHJldj0kY3VycmVudAojICBzbGVlcCAwLjMKI2RvbmU=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgZWNobyBUcnVlCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UEFTU1dPUkQ9cm9vdHBhc3MK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29uZmlnLCBDb2duaXRvSWRlbnRpdHlDcmVkZW50aWFscywgQ29nbml0b0lkZW50aXR5U2VydmljZVByb3ZpZGVyIH0gZnJvbSAnYXdzLXNkaycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29uZmlnLCBDb2duaXRvSWRlbnRpdHlDcmVkZW50aWFscyB9IGZyb20gJ2F3cy1zZGsnCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IyBNaWdyYXRpb24KY2QgLi9taWdyYXRpb24KU0VSVklDRT0ke1NFUlZJQ0VfSUR9IC4vYmluL3Jlc2V0CmNkIC4uLwoKIyBTZWVkaW5nCnNidCAtRHNlcnZpY2U9JHtTRVJWSUNFX0lEfSBzZWVkCgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -655,6 +655,8 @@
         <entry encoding="base64">JzwsJz5zL2ltZy9odG1sL2dj</entry>
         <entry>w</entry>
         <entry>wq</entry>
+        <entry>a</entry>
+        <entry>!a</entry>
       </history-cmd>
       <history-expr />
       <history-input />
