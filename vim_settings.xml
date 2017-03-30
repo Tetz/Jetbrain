@@ -348,11 +348,11 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/CognitoPlayground/WebPlayground/js/app.js" timestamp="1490861462159">
-        <mark key="[" line="13" column="30" />
-        <mark key="]" line="13" column="30" />
-        <mark key="^" line="13" column="35" />
-        <mark key="." line="13" column="30" />
+      <file name="$USER_HOME$/Code/CognitoPlayground/WebPlayground/js/app.js" timestamp="1490863052463">
+        <mark key="[" line="17" column="2" />
+        <mark key="]" line="14" column="2" />
+        <mark key="^" line="14" column="2" />
+        <mark key="." line="14" column="2" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Material.scala" timestamp="1481864439417">
         <mark key="[" line="20" column="0" />
@@ -456,7 +456,7 @@
         <mark key="." line="49" column="15" />
       </file>
       <file name="$USER_HOME$/Code/roco-bff/client/backend_request/article.js" timestamp="1490338307333" />
-      <file name="$USER_HOME$/Code/CognitoPlayground/WebPlayground/public/index.html" timestamp="1490854529217">
+      <file name="$USER_HOME$/Code/CognitoPlayground/WebPlayground/public/index.html" timestamp="1490863151431">
         <mark key="[" line="39" column="22" />
         <mark key="]" line="42" column="18" />
         <mark key="." line="42" column="18" />
@@ -576,10 +576,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>const</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text>isClent</text>
