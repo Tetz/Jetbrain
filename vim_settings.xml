@@ -337,6 +337,11 @@
         <mark key="^" line="8" column="52" />
         <mark key="." line="8" column="52" />
       </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/server/routes/image.js" timestamp="1488857128104">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="12" />
+        <mark key="." line="5" column="12" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ArticlePresenter.scala" timestamp="1485245977165">
         <mark key="[" line="50" column="20" />
         <mark key="]" line="5" column="19" />
@@ -526,10 +531,6 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/Login.js" timestamp="1490181314374">
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/roco_core/seeding/src/main/scala/ApplicationTestHelper.scala" timestamp="1487239837395">
         <mark key="[" line="18" column="8" />
         <mark key="]" line="11" column="0" />
@@ -548,6 +549,11 @@
         <mark key="^" line="11" column="4" />
         <mark key="." line="11" column="4" />
       </file>
+      <file name="$USER_HOME$/Code/CognitoPlayground/WebPlayground/js/api_client_factory.js" timestamp="1490856333777">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="63" column="0" filename="$USER_HOME$/Code/ApiLottery/conf/evolutions/default/1.sql" />
@@ -563,8 +569,8 @@
       <jump line="33" column="0" filename="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/UserActivation.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text encoding="base64">ICAKICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>service_2</text>
@@ -575,29 +581,29 @@
       <register name="0" type="2">
         <text encoding="base64">Y29uc29sZS5sb2coJz09PT09PT09PT09PT0+IHBvb2xEYXRhID0gJyArIGxvZ2luUG9vbERhdGEuVXNlclBvb2xJZCk7Cg==</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAKICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAKICA=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICA8L3RkPiAgCg==</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">ICAKICAKICAKICA=</text>
-      </register>
       <register name="6" type="8">
-        <text encoding="base64">ICAKICA=</text>
+        <text encoding="base64">ICAKICAKICAKICA=</text>
       </register>
       <register name="7" type="8">
-        <text encoding="base64">ICAKICAKICAKICA=</text>
+        <text encoding="base64">ICAKICA=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="8">
+        <text encoding="base64">ICAKICAKICAKICA=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
