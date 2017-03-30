@@ -445,6 +445,12 @@
         <mark key="." line="49" column="15" />
       </file>
       <file name="$USER_HOME$/Code/roco-bff/client/backend_request/article.js" timestamp="1490338307333" />
+      <file name="$USER_HOME$/Code/CognitoPlayground/WebPlayground/public/index.html" timestamp="1490849465786">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="10" column="53" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/terraform-roco/.gitignore" timestamp="1485494751134">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="17" />
@@ -557,8 +563,8 @@
       <jump line="33" column="0" filename="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/UserActivation.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -570,31 +576,31 @@
         <text encoding="base64">Y29uc29sZS5sb2coJz09PT09PT09PT09PT0+IHBvb2xEYXRhID0gJyArIGxvZ2luUG9vbERhdGEuVXNlclBvb2xJZCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gbW9kdWxlLmV4cG9ydHMubWF0ZXJpYWxMaXN0ID0gbWF0ZXJpYWwubWF0ZXJpYWxMaXN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gY29uc3QgbWF0ZXJpYWwgPSByZXF1aXJlKCcuL2hhbmRsZXJzL21hdGVyaWFsJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwvc3R5bGU+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxzdHlsZT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbihhc3NpZ25NYXRlcmlhbHNUb1Jlc3BvbnNlKGV2ZW50LCB0YXJnZXRSZXF1ZXN0KSkK</text>
+        <text encoding="base64">ICAgICAgPGxpbmsgcmVsPSJzdHlsZXNoZWV0IiB0eXBlPSJ0ZXh0L2NzcyIgaHJlZj0iZmlsZS5jc3MiPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbihhc3NpZ25NYXRlcmlhbHNUb1Jlc3BvbnNlKGV2ZW50LCB0YXJnZXRSZXF1ZXN0KSkK</text>
+        <text encoding="base64">Ly8gbW9kdWxlLmV4cG9ydHMubWF0ZXJpYWxMaXN0ID0gbWF0ZXJpYWwubWF0ZXJpYWxMaXN0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gY29uc3QgbWF0ZXJpYWwgPSByZXF1aXJlKCcuL2hhbmRsZXJzL21hdGVyaWFsJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAudGhlbihmdW5jdGlvbiAoY29uc3VtZXIpIHsKICAgICAgICAgIHZhciBjb25zdW1lcklkID0gSlNPTi5wYXJzZShjb25zdW1lci5ib2R5KS5kYXRhLmlkCiAgICAgICAgICBldmVudC5oZWFkZXJQYXJhbXMgPSBPYmplY3QuYXNzaWduKHt9LCBldmVudC5oZWFkZXJQYXJhbXMsIHsKICAgICAgICAgICAgJ1gtUm9jby1Db25zdW1lci1JZCc6IGNvbnN1bWVySWQKICAgICAgICAgIH0pCgo=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
