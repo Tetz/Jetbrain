@@ -348,12 +348,12 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/CognitoPlayground/WebPlayground/js/app.js" timestamp="1490941912659">
+      <file name="$USER_HOME$/Code/CognitoPlayground/WebPlayground/js/app.js" timestamp="1490947907171">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="27" column="37" />
-        <mark key="]" line="27" column="37" />
-        <mark key="^" line="31" column="16" />
-        <mark key="." line="27" column="37" />
+        <mark key="[" line="45" column="4" />
+        <mark key="]" line="45" column="6" />
+        <mark key="^" line="45" column="6" />
+        <mark key="." line="45" column="6" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Material.scala" timestamp="1481864439417">
         <mark key="[" line="20" column="0" />
@@ -584,11 +584,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/CognitoPlayground/WebPlayground/js/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygndXNlcicgKyApOwo=</text>
+      <register name="&quot;" type="4">
+        <text>Client</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>Client</text>
       </register>
       <register name="/" type="4">
         <text>isClent</text>
