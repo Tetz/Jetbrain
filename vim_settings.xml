@@ -307,8 +307,8 @@
         <mark key="^" line="13" column="65" />
         <mark key="." line="13" column="65" />
       </file>
-      <file name="$USER_HOME$/Code/CognitoPlayground/WebPlayground/js/preset.js" timestamp="1490940573049">
-        <mark key="[" line="8" column="42" />
+      <file name="$USER_HOME$/Code/CognitoPlayground/WebPlayground/js/preset.js" timestamp="1490949313235">
+        <mark key="[" line="5" column="57" />
         <mark key="]" line="8" column="41" />
         <mark key="^" line="8" column="41" />
         <mark key="." line="8" column="41" />
@@ -318,6 +318,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="13" column="6" />
+      </file>
+      <file name="$USER_HOME$/Code/CognitoPlayground/WebPlayground/js/preset_admin.js" timestamp="1490949342944">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopAttributeGroupDescription.scala" timestamp="1481873177492">
         <mark key="[" line="8" column="34" />
@@ -348,7 +353,7 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/CognitoPlayground/WebPlayground/js/app.js" timestamp="1490947907171">
+      <file name="$USER_HOME$/Code/CognitoPlayground/WebPlayground/js/app.js" timestamp="1490949955655">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="45" column="4" />
         <mark key="]" line="45" column="6" />
@@ -481,11 +486,10 @@
         <mark key="^" line="29" column="20" />
         <mark key="." line="29" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/CognitoPlayground/WebPlayground/js/preset_selector.js" timestamp="1490941967514">
-        <mark key="[" line="8" column="29" />
-        <mark key="]" line="8" column="38" />
-        <mark key="." line="8" column="38" />
-        <mark key="^" line="8" column="38" />
+      <file name="$USER_HOME$/Code/CognitoPlayground/WebPlayground/js/preset_selector.js" timestamp="1490951092457">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Code/roco-bff/client/template.yaml" timestamp="1490785572106" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/Authentication.scala" timestamp="1484713081274">
@@ -584,46 +588,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/CognitoPlayground/WebPlayground/js/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Client</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBsZXQgcHJlc2V0ID0ge307Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Client</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>isClent</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnSW4gcHJlc2V0X3NlbGVjdG9yLmpzJyk7Cg==</text>
+        <text encoding="base64">ICAgICBwcmVzZXQgPSBwcmVzZXRDbGllbnQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygndXNlcicgKyApOwo=</text>
+        <text encoding="base64">ICBsZXQgcHJlc2V0ID0ge307Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnSW4gcHJlc2V0X3NlbGVjdG9yLmpzJyk7Cg==</text>
+        <text encoding="base64">bGV0IHByZXNldCA9IHt9Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcIERFQlVHIFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcIERFQlVHIFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcJyk7Cg==</text>
+        <text encoding="base64">bGV0IHByZXNldCA9IHt9Owo=</text>
       </register>
-      <register name="5" type="8">
-        <text>&quot;
-&quot;
-&quot;</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBsZXQgcHJlc2V0ID0ge307Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJ1c2VyVHlwZSBpcyB0aGUgY2xpZW50Iik7Cg==</text>
+        <text encoding="base64">bGV0IHByZXNldCA9IHJlcXVpcmUoJy4vcHJlc2V0Jyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJ5ZWFoLCBpJ20gY2xpZW50Iik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVzZXJUeXBlID0gImNsaWVudCI7Cg==</text>
+        <text encoding="base64">ICAgICk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHVzZXJUeXBlID0gImFkbWluIjsK</text>
+        <text encoding="base64">ICAgICAgZG9jdW1lbnQucXVlcnlTZWxlY3RvcignZm9ybScpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
