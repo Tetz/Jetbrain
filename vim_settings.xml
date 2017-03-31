@@ -307,7 +307,7 @@
         <mark key="^" line="13" column="65" />
         <mark key="." line="13" column="65" />
       </file>
-      <file name="$USER_HOME$/Code/CognitoPlayground/WebPlayground/js/preset.js" timestamp="1490683434364">
+      <file name="$USER_HOME$/Code/CognitoPlayground/WebPlayground/js/preset.js" timestamp="1490940573049">
         <mark key="[" line="8" column="42" />
         <mark key="]" line="8" column="41" />
         <mark key="^" line="8" column="41" />
@@ -348,7 +348,7 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/CognitoPlayground/WebPlayground/js/app.js" timestamp="1490937162752">
+      <file name="$USER_HOME$/Code/CognitoPlayground/WebPlayground/js/app.js" timestamp="1490941912659">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="27" column="37" />
         <mark key="]" line="27" column="37" />
@@ -481,6 +481,12 @@
         <mark key="^" line="29" column="20" />
         <mark key="." line="29" column="20" />
       </file>
+      <file name="$USER_HOME$/Code/CognitoPlayground/WebPlayground/js/preset_selector.js" timestamp="1490941967514">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="8" column="38" />
+        <mark key="." line="8" column="38" />
+        <mark key="^" line="8" column="38" />
+      </file>
       <file name="$USER_HOME$/Code/roco-bff/client/template.yaml" timestamp="1490785572106" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/Authentication.scala" timestamp="1484713081274">
         <mark key="[" line="8" column="57" />
@@ -578,44 +584,46 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/CognitoPlayground/WebPlayground/js/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygndXNlcicgKyApOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>isClent</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJ1c2VyVHlwZSA9PSBcImFkbWluXCIiKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnSW4gcHJlc2V0X3NlbGVjdG9yLmpzJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJ1c2VyVHlwZSBpcyB0aGUgY2xpZW50Iik7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygndXNlcicgKyApOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJ5ZWFoLCBpJ20gY2xpZW50Iik7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnSW4gcHJlc2V0X3NlbGVjdG9yLmpzJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVzZXJUeXBlID0gImNsaWVudCI7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcIERFQlVHIFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHVzZXJUeXBlID0gImFkbWluIjsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcIERFQlVHIFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcJyk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="8">
+        <text>&quot;
+&quot;
+&quot;</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0YXRlbWVudDEK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJ1c2VyVHlwZSBpcyB0aGUgY2xpZW50Iik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0YXRlbWVudDIK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJ5ZWFoLCBpJ20gY2xpZW50Iik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0YXRlbWVudDMK</text>
+        <text encoding="base64">ICAgIHVzZXJUeXBlID0gImNsaWVudCI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBlbHNlIGlmIChjb25kaXRpb24zKQo=</text>
+        <text encoding="base64">ICAgIHVzZXJUeXBlID0gImFkbWluIjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
