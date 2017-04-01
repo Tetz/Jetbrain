@@ -73,10 +73,10 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/development/.gitignore" timestamp="1491030918376">
-        <mark key="[" line="7" column="7" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/development/.gitignore" timestamp="1491033767045">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/HomeController.scala" timestamp="1484647292880">
         <mark key="[" line="6" column="0" />
@@ -491,8 +491,8 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/production/.gitignore" timestamp="1491030963661">
-        <mark key="[" line="6" column="7" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/production/.gitignore" timestamp="1491033749099">
+        <mark key="[" line="6" column="24" />
         <mark key="]" line="1" column="5" />
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
