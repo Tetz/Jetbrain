@@ -639,8 +639,8 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_autoscaling_group.tf" timestamp="1491051299524">
-        <mark key="[" line="20" column="0" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_autoscaling_group.tf" timestamp="1491053065008">
+        <mark key="[" line="5" column="45" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
