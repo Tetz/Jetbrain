@@ -45,7 +45,7 @@
         <mark key="^" line="9" column="57" />
         <mark key="." line="9" column="57" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/development/variables.tf" timestamp="1490609110158">
+      <file name="$USER_HOME$/Code/terraform-ciatr/development/variables.tf" timestamp="1491031226675">
         <mark key="[" line="9" column="17" />
         <mark key="]" line="74" column="0" />
         <mark key="^" line="57" column="10" />
@@ -73,7 +73,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/development/.gitignore" timestamp="1490587470502" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/development/.gitignore" timestamp="1491030918376">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/HomeController.scala" timestamp="1484647292880">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -278,7 +282,6 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="62" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/production/aws_alb.tf" timestamp="1490599971586" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/MaterialGroup.scala" timestamp="1485502124735">
         <mark key="[" line="31" column="78" />
         <mark key="]" line="31" column="56" />
@@ -394,8 +397,8 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/production/variables.tf" timestamp="1490598892167">
-        <mark key="[" line="4" column="0" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/production/variables.tf" timestamp="1491031241726">
+        <mark key="[" line="6" column="17" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
@@ -405,11 +408,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="13" column="6" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/production/terraform.tfvars" timestamp="1490607505138">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="0" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/production/terraform.tfvars" timestamp="1491031569033">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/aws_elasticache.tf" timestamp="1486994719397">
         <mark key="[" line="14" column="1" />
@@ -488,8 +491,8 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/production/.gitignore" timestamp="1490588988023">
-        <mark key="[" line="1" column="16" />
+      <file name="$USER_HOME$/Code/terraform-ciatr/production/.gitignore" timestamp="1491030963661">
+        <mark key="[" line="6" column="7" />
         <mark key="]" line="1" column="5" />
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
@@ -636,7 +639,7 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/development/terraform.tfvars" timestamp="1490609303117">
+      <file name="$USER_HOME$/Code/terraform-ciatr/development/terraform.tfvars" timestamp="1491031555614">
         <mark key="[" line="10" column="11" />
         <mark key="]" line="76" column="0" />
         <mark key="^" line="4" column="13" />
@@ -710,7 +713,6 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/production/aws_vpc.tf" timestamp="1490602649613" />
       <file name="$USER_HOME$/Code/roco-admin-dashboard/api/routes/index.js" timestamp="1486630361227">
         <mark key="[" line="5" column="43" />
         <mark key="]" line="5" column="13" />
@@ -792,7 +794,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB0YWdzIHsgTmFtZSA9ICJjaWF0cl93ZWJhcHBfYWxiIiB9Cg==</text>
+        <text encoding="base64">I3RlcnJhZm9ybS50ZnN0YXRlLmJhY2t1cAo=</text>
       </register>
       <register name="-" type="4">
         <text>Maintainer</text>
@@ -804,31 +806,31 @@
         <text encoding="base64">ICB0YWdzIHsgRW52ID0gIiR7dmFyLmVudn0iIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0YWdzIHsgTmFtZSA9ICJjaWF0cl93ZWJhcHBfYWxiIiB9Cg==</text>
+        <text encoding="base64">I3RlcnJhZm9ybS50ZnN0YXRlLmJhY2t1cAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0YWdzIHsgTmFtZSA9ICJjaWF0cl9hZG1pbl9hbGIiIH0K</text>
+        <text encoding="base64">I3RlcnJhZm9ybS50ZnN0YXRlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0YWdzIHsgTmFtZSA9ICJtYXRvbWVfYXBpX2FsYiIgfQo=</text>
+        <text encoding="base64">IyBTdGF0ZSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0YWdzIHsgTmFtZSA9ICJtYXRvbWVfdmlld19hbGIiIH0K</text>
+        <text encoding="base64">ICB0YWdzIHsgTmFtZSA9ICJjaWF0cl93ZWJhcHBfYWxiIiB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0YWdzIHsgTmFtZSA9ICJtYXRvbWVfYWRtaW5fYWxiIiB9Cg==</text>
+        <text encoding="base64">ICB0YWdzIHsgTmFtZSA9ICJjaWF0cl9hZG1pbl9hbGIiIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZXNjcmlwdGlvbiA9ICJpdCBpcyBzaWxseSB0aGF0IHRoaXMgaXMgcmVxdWlyZWQgaW4gdGhlIEFQSSIK</text>
+        <text encoding="base64">ICB0YWdzIHsgTmFtZSA9ICJtYXRvbWVfYXBpX2FsYiIgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyaWFibGUgInJlZ2lvbiIge30K</text>
+        <text encoding="base64">ICB0YWdzIHsgTmFtZSA9ICJtYXRvbWVfdmlld19hbGIiIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFyaWFibGUgInNlY3JldF9rZXkiIHt9Cg==</text>
+        <text encoding="base64">ICB0YWdzIHsgTmFtZSA9ICJtYXRvbWVfYWRtaW5fYWxiIiB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFyaWFibGUgImFjY2Vzc19rZXkiIHt9Cg==</text>
+        <text encoding="base64">ICBkZXNjcmlwdGlvbiA9ICJpdCBpcyBzaWxseSB0aGF0IHRoaXMgaXMgcmVxdWlyZWQgaW4gdGhlIEFQSSIK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL21hdG9tZV92aWV3L2NpYXRyX3dlYmFwcC9n</text>
