@@ -921,7 +921,7 @@
         <text encoding="base64">ICB0YWdzIHsgRW52ID0gIiR7dmFyLmVudn0iIH0K</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL21hdG9tZV92aWV3L2NpYXRyX3dlYmFwcC9n</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -944,8 +944,8 @@
         <entry>set paste</entry>
         <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zL2ltZy9odG1sL2dj</entry>
-        <entry>w</entry>
         <entry>a</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
