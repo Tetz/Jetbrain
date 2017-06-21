@@ -374,7 +374,8 @@
         <mark key="^" line="173" column="48" />
         <mark key="." line="173" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ArticleController.scala" timestamp="1485248650777">
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ArticleController.scala" timestamp="1497604183245">
+        <mark key="'" line="53" column="6" />
         <mark key="[" line="35" column="88" />
         <mark key="]" line="35" column="86" />
         <mark key="." line="35" column="86" />
@@ -780,7 +781,6 @@
         <mark key="." line="38" column="37" />
         <mark key="^" line="38" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/project/plugins.sbt" timestamp="1492574473485" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/LabelController.scala" timestamp="1484710635187">
         <mark key="[" line="28" column="3" />
         <mark key="]" line="29" column="1" />
@@ -879,6 +879,7 @@
       <jump line="142" column="17" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" />
       <jump line="111" column="23" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" />
       <jump line="113" column="22" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" />
+      <jump line="53" column="6" filename="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ArticleController.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
