@@ -72,6 +72,12 @@
         <mark key="." line="87" column="25" />
         <mark key="^" line="87" column="25" />
       </file>
+      <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/main/scala/roco/api/i18nmanager/domain/I18nTextGroup.scala" timestamp="1501235809559">
+        <mark key="[" line="4" column="57" />
+        <mark key="]" line="4" column="55" />
+        <mark key="^" line="4" column="55" />
+        <mark key="." line="4" column="55" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/seeds/AllSeed.scala" timestamp="1484034907115">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -263,7 +269,7 @@
         <mark key="." line="4" column="36" />
         <mark key="^" line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/Code/roco/play-testutil/src/main/scala/roco/playtestutil/ApplicationTestHelper.scala" timestamp="1501233260578" />
+      <file name="$USER_HOME$/Code/roco/play-testutil/src/main/scala/roco/playtestutil/ApplicationTestHelper.scala" timestamp="1501234370010" />
       <file name="$USER_HOME$/Code/terraform-roco/terraform.tfvars.sample" timestamp="1485496301856">
         <mark key="[" line="13" column="43" />
         <mark key="]" line="9" column="25" />
@@ -454,10 +460,11 @@
         <mark key="^" line="57" column="10" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/main/scala/roco/api/i18nmanager/sql/I18nTextGroupDAO.scala" timestamp="1501229581726">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="50" />
-        <mark key="." line="2" column="50" />
+      <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/main/scala/roco/api/i18nmanager/sql/I18nTextGroupDAO.scala" timestamp="1501236292739">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="26" column="45" />
       </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/development/terraform.tfvars" timestamp="1491031555614">
         <mark key="[" line="10" column="11" />
@@ -646,6 +653,9 @@
         <mark key="." line="15" column="12" />
         <mark key="^" line="15" column="12" />
       </file>
+      <file name="$USER_HOME$/Code/roco/build.sbt" timestamp="1501238075271">
+        <mark key="[" line="70" column="4" />
+      </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/client/.gitignore" timestamp="1487658364475">
         <mark key="[" line="9" column="5" />
         <mark key="]" line="10" column="3" />
@@ -775,6 +785,13 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/test/scala/roco/api/i18nmanager/controllers/I18nTextGroupControllerTest.scala" timestamp="1501239426261">
+        <mark key="'" line="34" column="33" />
+        <mark key="[" line="40" column="39" />
+        <mark key="]" line="41" column="5" />
+        <mark key="." line="41" column="5" />
+        <mark key="^" line="41" column="5" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/MaterialKey.scala" timestamp="1481783937187">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="5" column="0" />
@@ -901,46 +918,48 @@
       <jump line="33" column="0" filename="$USER_HOME$/.ivy2/cache/com.twitter/finatra-http_2.12/jars/finatra-http_2.12-2.11.0-tests.jar!/com/twitter/finatra/http/EmbeddedHttpServer.class" />
       <jump line="1" column="78" filename="$USER_HOME$/.ivy2/cache/com.twitter/finatra-http_2.12/jars/finatra-http_2.12-2.11.0-tests.jar!/com/twitter/finatra/http/EmbeddedHttpServer.class" />
       <jump line="2" column="55" filename="$USER_HOME$/.ivy2/cache/com.twitter/finatra-http_2.12/jars/finatra-http_2.12-2.11.0-tests.jar!/com/twitter/finatra/http/EmbeddedHttpServer.class" />
+      <jump line="50" column="33" filename="$USER_HOME$/Code/roco/api-i18nmanager/src/test/scala/roco/api/i18nmanager/controllers/I18nTextGroupControllerTest.scala" />
+      <jump line="34" column="33" filename="$USER_HOME$/Code/roco/api-i18nmanager/src/test/scala/roco/api/i18nmanager/controllers/I18nTextGroupControllerTest.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHJvY28uYXBpLmkxOG5tYW5hZ2VyLmRvbWFpbi5lbmNvZGluZy5Kb2RhRGF0ZVRpbWVFbmNvZGluZy5fCg==</text>
+        <text encoding="base64">ICAgICAgLy8gICBjdHgucnVuKGZvcmVpZ25LZXlDaGVja3NRdWVyeSgwKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>aws_launch_configuration</text>
+        <text>c: ExecutionContext</text>
       </register>
       <register name="/" type="4">
         <text>flags</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICBvdmVycmlkZSBkZWYgYmVmb3JlQWxsKCk6IFVuaXQgPSB7fQogIG92ZXJyaWRlIGRlZiBhZnRlckFsbCgpOiBVbml0ID0geyBkYXRhYmFzZURvd24gfQo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgLy8gICBjdHgucnVuKGZvcmVpZ25LZXlDaGVja3NRdWVyeSgwKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHJvY28uYXBpLmkxOG5tYW5hZ2VyLmRvbWFpbi5lbmNvZGluZy5Kb2RhRGF0ZVRpbWVFbmNvZGluZy5fCg==</text>
+        <text encoding="base64">ICAgICAgY3R4LnJ1bih0cnVuY2F0ZVF1ZXJ5KHRhYmxlcykpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzc2xfcG9saWN5ICAgICAgICA9ICJFTEJTZWN1cml0eVBvbGljeS0yMDE1LTA1Igo=</text>
+        <text encoding="base64">ICAgICAgICBpbmZvKHRhYmxlcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjZXJ0aWZpY2F0ZV9hcm4gICA9ICJhcm46YXdzOmlhbTo6MTg3NDE2MzA3MjgzOnNlcnZlci1jZXJ0aWZpY2F0ZS90ZXN0X2NlcnRfcmFiM3d1cXdnamEyNWN0M240amRqMnR6dTQiCg==</text>
+        <text encoding="base64">ICAgICAgaW5mbygiPT09PT09PT09PT09PSBhZnRlckFsbCA9PT09PT09PT09IikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAjYXZhaWxhYmlsaXR5X3pvbmVzID0gWyJhcC1ub3J0aGVhc3QtMWEiLCJhcC1ub3J0aGVhc3QtMWMiXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAjbG9hZF9iYWxhbmNlcnMgPSBbIiR7YXdzX2FsYi5tYXRvbWVfYXBpX2FsYi5pZH0iXQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbGlmdHRhYmxlcyA9IGxpZnRRdWVyeSh0YWJsZXMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2cGNfem9uZV9pZGVudGlmaWVyID0gWyIke2F3c19zdWJuZXQubWF0b21lX2FwaV9hbGJfMX0iXQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBoZWFsdGhfY2hlY2tfZ3JhY2VfcGVyaW9kID0gMzAwCg==</text>
+        <text encoding="base64">ICAgICAgICBsaWZ0dGFibGVzLmZvcmVhY2ggeyB0YWJsZSA9Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBoZWFsdGhfY2hlY2tfdHlwZSA9ICJFTEIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbmZpeCIiIlRSVU5DQVRFIFRBQkxFICR0fSIiIi5hc1tJbnRdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -968,6 +987,10 @@
         <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zL2ltZy9odG1sL2dj</entry>
         <entry>a</entry>
+        <entry>11</entry>
+        <entry>40</entry>
+        <entry>39</entry>
+        <entry>33</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
