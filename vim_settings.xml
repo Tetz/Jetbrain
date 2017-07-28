@@ -184,6 +184,12 @@
         <mark key="^" line="17" column="52" />
         <mark key="." line="17" column="52" />
       </file>
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/ShopControllerSpec.scala" timestamp="1501227103947">
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/MaterialHtml.scala" timestamp="1486611513006">
         <mark key="[" line="17" column="37" />
         <mark key="]" line="27" column="37" />
@@ -892,7 +898,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>externalHttpHostAndPort</text>
+        <text encoding="base64">ICBvdmVycmlkZSBkZWYgYmVmb3JlQWxsKCk6IFVuaXQgPSB7fQogIG92ZXJyaWRlIGRlZiBhZnRlckFsbCgpOiBVbml0ID0geyBkYXRhYmFzZURvd24gfQo=</text>
       </register>
       <register name="-" type="4">
         <text>aws_launch_configuration</text>
@@ -901,7 +907,7 @@
         <text>flags</text>
       </register>
       <register name="0" type="4">
-        <text>externalHttpHostAndPort</text>
+        <text encoding="base64">ICBvdmVycmlkZSBkZWYgYmVmb3JlQWxsKCk6IFVuaXQgPSB7fQogIG92ZXJyaWRlIGRlZiBhZnRlckFsbCgpOiBVbml0ID0geyBkYXRhYmFzZURvd24gfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBzc2xfcG9saWN5ICAgICAgICA9ICJFTEJTZWN1cml0eVBvbGljeS0yMDE1LTA1Igo=</text>
