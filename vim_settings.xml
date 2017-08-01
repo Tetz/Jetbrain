@@ -131,6 +131,12 @@
         <mark key="^" line="24" column="62" />
         <mark key="." line="24" column="62" />
       </file>
+      <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/test/scala/roco/api/i18nmanager/ApplicationTestHelper.scala" timestamp="1501565635778">
+        <mark key="[" line="20" column="44" />
+        <mark key="]" line="20" column="42" />
+        <mark key="^" line="20" column="42" />
+        <mark key="." line="20" column="42" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/build.sbt" timestamp="1486010502511">
         <mark key="[" line="3" column="38" />
         <mark key="]" line="3" column="38" />
@@ -406,6 +412,10 @@
         <mark key="]" line="87" column="26" />
         <mark key="." line="87" column="26" />
         <mark key="^" line="87" column="26" />
+      </file>
+      <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/main/scala/roco/api/i18nmanager/Main.scala" timestamp="1501565409891">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="44" />
       </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_autoscaling_group.tf" timestamp="1491198176352">
         <mark key="[" line="13" column="0" />
@@ -913,10 +923,11 @@
       <jump line="2" column="55" filename="$USER_HOME$/.ivy2/cache/com.twitter/finatra-http_2.12/jars/finatra-http_2.12-2.11.0-tests.jar!/com/twitter/finatra/http/EmbeddedHttpServer.class" />
       <jump line="50" column="33" filename="$USER_HOME$/Code/roco/api-i18nmanager/src/test/scala/roco/api/i18nmanager/controllers/I18nTextGroupControllerTest.scala" />
       <jump line="34" column="33" filename="$USER_HOME$/Code/roco/api-i18nmanager/src/test/scala/roco/api/i18nmanager/controllers/I18nTextGroupControllerTest.scala" />
+      <jump line="17" column="37" filename="$USER_HOME$/Code/roco/api-i18nmanager/src/test/scala/roco/api/i18nmanager/ApplicationTestHelper.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8gICBjdHgucnVuKGZvcmVpZ25LZXlDaGVja3NRdWVyeSgwKSkK</text>
+        <text encoding="base64">ICAgIGRpc2FibGVUZXN0TG9nZ2luZyA9IHRydWUK</text>
       </register>
       <register name="-" type="4">
         <text>c: ExecutionContext</text>
@@ -925,34 +936,34 @@
         <text>flags</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLy8gICBjdHgucnVuKGZvcmVpZ25LZXlDaGVja3NRdWVyeSgwKSkK</text>
+        <text encoding="base64">ICAgICAgImh0dHAucG9ydCIgLT4gSG9zdEFuZFBvcnQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY3R4LnJ1bih0cnVuY2F0ZVF1ZXJ5KHRhYmxlcykpCg==</text>
+        <text encoding="base64">ICAgIGRpc2FibGVUZXN0TG9nZ2luZyA9IHRydWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbmZvKHRhYmxlcykK</text>
+        <text encoding="base64">ICAgICAgImFkbWluLnBvcnQiIC0+ICIxMjcuMC4wLjE6MCIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaW5mbygiPT09PT09PT09PT09PSBhZnRlckFsbCA9PT09PT09PT09IikK</text>
+        <text encoding="base64">ICAgICAgY3R4LnJ1bih0cnVuY2F0ZVF1ZXJ5KHRhYmxlcykpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbmZvKHRhYmxlcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbGlmdHRhYmxlcyA9IGxpZnRRdWVyeSh0YWJsZXMpCg==</text>
+        <text encoding="base64">ICAgICAgaW5mbygiPT09PT09PT09PT09PSBhZnRlckFsbCA9PT09PT09PT09IikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsaWZ0dGFibGVzLmZvcmVhY2ggeyB0YWJsZSA9Pgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgbGlmdHRhYmxlcyA9IGxpZnRRdWVyeSh0YWJsZXMpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbmZpeCIiIlRSVU5DQVRFIFRBQkxFICR0fSIiIi5hc1tJbnRdCg==</text>
+        <text encoding="base64">ICAgICAgICBsaWZ0dGFibGVzLmZvcmVhY2ggeyB0YWJsZSA9Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1025,6 +1036,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
