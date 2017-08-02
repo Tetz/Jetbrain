@@ -131,11 +131,12 @@
         <mark key="^" line="24" column="62" />
         <mark key="." line="24" column="62" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/test/scala/roco/api/i18nmanager/ApplicationTestHelper.scala" timestamp="1501579362410">
-        <mark key="'" line="24" column="4" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="41" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/test/scala/roco/api/i18nmanager/ApplicationTestHelper.scala" timestamp="1501583709932">
+        <mark key="'" line="23" column="4" />
+        <mark key="[" line="18" column="20" />
+        <mark key="]" line="18" column="4" />
+        <mark key="." line="18" column="4" />
+        <mark key="^" line="18" column="4" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/build.sbt" timestamp="1486010502511">
         <mark key="[" line="3" column="38" />
@@ -512,6 +513,11 @@
         <mark key="^" line="8" column="41" />
         <mark key="." line="8" column="41" />
       </file>
+      <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/test/scala/roco/api/i18nmanager/controllers/I18nTextControllerTest.scala" timestamp="1501585344825">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/Filters.scala" timestamp="1484647826471">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -801,12 +807,12 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/test/scala/roco/api/i18nmanager/controllers/I18nTextGroupControllerTest.scala" timestamp="1501582179637">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="57" column="38" />
+      <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/test/scala/roco/api/i18nmanager/controllers/I18nTextGroupControllerTest.scala" timestamp="1501584670701">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="41" column="4" />
+        <mark key="^" line="26" column="53" />
+        <mark key="." line="26" column="53" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/MaterialKey.scala" timestamp="1481783937187">
         <mark key="[" line="7" column="0" />
@@ -945,40 +951,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiaXNIaWRkZW4iIC0+IGZhbHNlLAo=</text>
+        <text encoding="base64">ICAgICAgaW5mbygidGFrZW1vdG86IiArIHRleHRzKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>flags</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGluZm8oInRha2Vtb3RvOiIgKyByZXN1bHRNYXAuZ2V0KCJkYXRhIikpCg==</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0KHRleHRzLm1hcChfLmkxOG5UZXh0R3JvdXBJZCkgPT0gU2VxKFNvbWUoMSksIFNvbWUoMiksIFNvbWUoMykpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiaXNIaWRkZW4iIC0+IGZhbHNlLAo=</text>
+        <text encoding="base64">ICAgICAgaW5mbygidGFrZW1vdG86IiArIHRleHRzKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiaXNIaWRkZW4iIC0+IGZhbHNlLAo=</text>
+        <text encoding="base64">ICAgICAgICBpbmZvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiaXNIaWRkZW4iIC0+IGZhbHNlLAo=</text>
+        <text encoding="base64">ICAgIC8vIE1haW4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbmZvKCJ0YWtlbW90bzoiICsgdGV4dEdyb3VwcykK</text>
+        <text encoding="base64">ICAgIC8vIEZJWE1FL1RPRE8gVXNlIHRlc3REYXRhU291cmNlIGZyb20gQXBwbGljYXRpb25UZXN0SGVscGVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8vIEZJWE1FL1RPRE8gVXNlIHRlc3REYXRhU291cmNlIGZyb20gQXBwbGljYXRpb25UZXN0SGVscGVyCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
