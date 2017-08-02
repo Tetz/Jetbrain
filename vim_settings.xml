@@ -15,10 +15,11 @@
         <mark key="." line="78" column="45" />
         <mark key="^" line="78" column="36" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/main/scala/roco/api/i18nmanager/sql/I18nTextDAO.scala" timestamp="1501660903790">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/main/scala/roco/api/i18nmanager/sql/I18nTextDAO.scala" timestamp="1501662790463">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="21" column="39" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/server/public/index.html" timestamp="1488542685361">
         <mark key="[" line="8" column="18" />
@@ -833,7 +834,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbigia2V5d29yZHMgPT09PiAiICsga2V5d29yZExpc3QpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -845,31 +846,31 @@
         <text encoding="base64">ICAgICAgLy8gcXVlcnlbSTE4blRleHRdLmZpbHRlcihfLmxhbmcgPT0gbGlmdChsYW5nKSkuZmlsdGVyKHIgPT4gci50ZXh0IGxpa2UgbGlmdChzIiUke2tleXdvcmRzfSUiKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbigia2V5d29yZHMgPT09PiAiICsga2V5d29yZExpc3QpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gcXVlcnlbSTE4blRleHRdLmZpbHRlcihfLmxhbmcgPT0gbGlmdChsYW5nKSkuZmlsdGVyKHIgPT4gci50ZXh0IGxpa2UgbGlmdChzIiUke2tleXdvcmRzfSUiKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcXVlcnlbSTE4blRleHRdLmZpbHRlcihfLmxhbmcgPT0gbGlmdChsYW5nKSkuKGtleXdvcmRMaXN0KS5mCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcXVlcnlbSTE4blRleHRdLmZpbHRlcihfLmxhbmcgPT0gbGlmdChsYW5nKSkubGlmdFF1ZXJ5KGtleXdvcmRTZXEpLmZvcmVhY2gociA9PiAK</text>
+        <text encoding="base64">ICAgICAgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oImtleXdvcmRzID09PT4gIiArIGtleXdvcmRzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTb21lKFNRTFN5bnRheC5pbihTaG9wLnMuc3ViZGl2aXNpb25JU08sIHN1YmRpdmlzaW9ucykpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgcXVlcnlbSTE4blRleHRdLmZpbHRlcihfLmxhbmcgPT0gbGlmdChsYW5nKSkubGlmdFF1ZXJ5KGtleXdvcmRTZXEpLmZvcmVhY2gociA9PiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBfID0+IE5vbmUK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oImtleXdvcmRzID09PT4gIiArIGtleXdvcmRzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTb21lKFNRTFN5bnRheC5pbihTaG9wLnMuc3ViZGl2aXNpb25JU08sIHN1YmRpdmlzaW9ucykpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
