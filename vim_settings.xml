@@ -517,11 +517,6 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.twitter/finatra-http_2.12/jars/finatra-http_2.12-2.11.0-tests.jar!/com/twitter/finatra/http/EmbeddedHttpServer.class" timestamp="1500631877911">
-        <mark key="'" line="2" column="55" />
-        <mark key="[" line="14" column="11" />
-        <mark key="]" line="14" column="33" />
-      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/AttributeGroup.scala" timestamp="1486463082837">
         <mark key="[" line="30" column="3" />
         <mark key="]" line="38" column="152" />
