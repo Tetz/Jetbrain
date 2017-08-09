@@ -172,11 +172,11 @@
         <mark key="^" line="17" column="52" />
         <mark key="." line="17" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/ShopControllerSpec.scala" timestamp="1502260761689">
-        <mark key="[" line="177" column="6" />
-        <mark key="]" line="177" column="7" />
-        <mark key="^" line="166" column="41" />
-        <mark key="." line="177" column="7" />
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/ShopControllerSpec.scala" timestamp="1502263111913">
+        <mark key="[" line="168" column="79" />
+        <mark key="]" line="168" column="79" />
+        <mark key="^" line="168" column="105" />
+        <mark key="." line="168" column="79" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/MaterialHtml.scala" timestamp="1486611513006">
         <mark key="[" line="17" column="37" />
@@ -805,17 +805,17 @@
       <jump line="52" column="0" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">R0VUICAgICAvc2hvcC1hdHRyaWJ1dGVncm91cHMgICAgICAgIHJvY28uYXBpLm9mZmxpbmVtYXRlcmlhbC5jb250cm9sbGVycy5TaG9wQ29udHJvbGxlci5zaG9wQXR0cmlidXRlR3JvdXBMaXN0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>ids</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>Success</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">R0VUICAgICAvc2hvcC1hdHRyaWJ1dGVncm91cHMgICAgICAgIHJvY28uYXBpLm9mZmxpbmVtYXRlcmlhbC5jb250cm9sbGVycy5TaG9wQ29udHJvbGxlci5zaG9wQXR0cmlidXRlR3JvdXBMaXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgc2hvcDEgPSBTaG9wLmZpbmRCeUlkKHNob3BJZF8xKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
