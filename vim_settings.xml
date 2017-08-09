@@ -172,11 +172,11 @@
         <mark key="^" line="17" column="52" />
         <mark key="." line="17" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/ShopControllerSpec.scala" timestamp="1502260561045">
-        <mark key="[" line="117" column="49" />
-        <mark key="]" line="117" column="48" />
-        <mark key="^" line="117" column="48" />
-        <mark key="." line="117" column="48" />
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/ShopControllerSpec.scala" timestamp="1502260761689">
+        <mark key="[" line="177" column="6" />
+        <mark key="]" line="177" column="7" />
+        <mark key="^" line="166" column="41" />
+        <mark key="." line="177" column="7" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/MaterialHtml.scala" timestamp="1486611513006">
         <mark key="[" line="17" column="37" />
@@ -346,6 +346,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="26" />
+      </file>
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/resources/routes" timestamp="1502261752834">
+        <mark key="[" line="23" column="128" />
+        <mark key="]" line="23" column="135" />
+        <mark key="." line="23" column="135" />
+        <mark key="^" line="23" column="135" />
       </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_alb.tf" timestamp="1491205058827">
         <mark key="'" line="96" column="0" />
@@ -799,8 +805,8 @@
       <jump line="52" column="0" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ids</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">R0VUICAgICAvc2hvcC1hdHRyaWJ1dGVncm91cHMgICAgICAgIHJvY28uYXBpLm9mZmxpbmVtYXRlcmlhbC5jb250cm9sbGVycy5TaG9wQ29udHJvbGxlci5zaG9wQXR0cmlidXRlR3JvdXBMaXN0Cg==</text>
       </register>
       <register name="-" type="4">
         <text>ids</text>
@@ -808,8 +814,8 @@
       <register name="/" type="4">
         <text>Success</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICJHRVQgL3Nob3BzIHJldHVybnMgc2hvcHMgYnkgaWRzIiBpbiB7CiAgICAgIENvbm5lY3Rpb24oIjEiKSBhdXRvQ29tbWl0IHsgaW1wbGljaXQgc2Vzc2lvbiA9PgogICAgICAgIC8vIFByZXBhcmF0aW9uCiAgICAgICAgdmFsIHBhcmFtcyA9IHMiaWRzPSRzaG9wSWRfMSwkc2hvcElkXzIiCiAgICAgICAgLy8gTWFpbgogICAgICAgIHZhbCByZXN1bHQgPSByb3V0ZShhcHAsIGZha2VSZXF1ZXN0RnJvbUNvbnN1bWVyKGNvbnN1bWVyLCBHRVQsIHMiL3Nob3BzPyRwYXJhbXMiKSkuZ2V0CiAgICAgICAgc3RhdHVzKHJlc3VsdCkgbXVzdEJlIE9LCgogICAgICAgIHZhbCBqc29uID0gY29udGVudEFzSnNvbihyZXN1bHQpCiAgICAgICAgdmFsIGRhdGEgPSAoanNvbiBcICJkYXRhIikuYXNbTGlzdFtKc09iamVjdF1dCiAgICAgICAgZGF0YS5tYXAoXyBcICJpZCIpLm1hcChfLmFzW0xvbmddKSBtdXN0QmUgU2VxKDIsIDEpCiAgICAgICAgZGF0YS5mb3JlYWNoIHsgc2hvcCA9PgogICAgICAgICAgY2hlY2tTaG9wSnNvbihzaG9wKSBtdXN0QmUgdHJ1ZQogICAgICAgIH0KICAgICAgfQogICAgfQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">R0VUICAgICAvc2hvcC1hdHRyaWJ1dGVncm91cHMgICAgICAgIHJvY28uYXBpLm9mZmxpbmVtYXRlcmlhbC5jb250cm9sbGVycy5TaG9wQ29udHJvbGxlci5zaG9wQXR0cmlidXRlR3JvdXBMaXN0Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
