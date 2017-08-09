@@ -347,7 +347,6 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/resources/routes" timestamp="1501841546688" />
       <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_alb.tf" timestamp="1491205058827">
         <mark key="'" line="96" column="0" />
         <mark key="[" line="86" column="26" />
@@ -570,10 +569,6 @@
         <mark key="]" line="17" column="23" />
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="23" />
-      </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" timestamp="1501660035227">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="29" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/filters/ExampleFilter.scala" timestamp="1484633267941">
         <mark key="[" line="15" column="7" />
