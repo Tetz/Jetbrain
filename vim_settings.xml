@@ -570,6 +570,12 @@
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="23" />
       </file>
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" timestamp="1502256941127">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/filters/ExampleFilter.scala" timestamp="1484633267941">
         <mark key="[" line="15" column="7" />
         <mark key="]" line="15" column="12" />
@@ -784,55 +790,62 @@
       <jump line="53" column="0" filename="$USER_HOME$/Code/roco/api-i18nmanager/src/test/scala/roco/api/i18nmanager/controllers/I18nTextGroupControllerTest.scala" />
       <jump line="15" column="46" filename="$USER_HOME$/Code/roco/api-i18nmanager/src/test/scala/roco/api/i18nmanager/controllers/I18nTextControllerTest.scala" />
       <jump line="69" column="0" filename="$USER_HOME$/Code/roco/api-i18nmanager/src/test/scala/roco/api/i18nmanager/controllers/I18nTextControllerTest.scala" />
+      <jump line="73" column="9" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" />
+      <jump line="64" column="13" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" />
+      <jump line="75" column="13" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" />
+      <jump line="238" column="17" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" />
+      <jump line="254" column="17" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" />
+      <jump line="57" column="0" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" />
+      <jump line="52" column="0" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbigia2V5d29yZHMgPT09PiAiICsga2V5d29yZExpc3QpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Long</text>
       </register>
       <register name="/" type="4">
-        <text>flags</text>
+        <text>Success</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLy8gcXVlcnlbSTE4blRleHRdLmZpbHRlcihfLmxhbmcgPT0gbGlmdChsYW5nKSkuZmlsdGVyKHIgPT4gci50ZXh0IGxpa2UgbGlmdChzIiUke2tleXdvcmRzfSUiKSkK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICBkZWYgY2hlY2tpbihpZDogTG9uZyk6IEFjdGlvbltBbnlDb250ZW50XSA9IEFjdGlvbiB7IGltcGxpY2l0IHJlcXVlc3Q6IFJlcXVlc3RbQW55Q29udGVudF0gPT4KICAgIHZhbCBleHRyYWN0b3JzLlJvY29TZXJ2aWNlSWQoc2VydmljZUlkKSA9IHJlcXVlc3QKICAgIENvbm5lY3Rpb24oc2VydmljZUlkKSBsb2NhbFR4IHsgaW1wbGljaXQgc2Vzc2lvbiA9PgogICAgICBleHRyYWN0QXV0aGVudGljYXRlZEN1c3RvbWVyKHJlcXVlc3QpIG1hdGNoIHsKICAgICAgICBjYXNlIFNvbWUoY29uc3VtZXIpID0+CiAgICAgICAgICBDaGVja2luSGlzdG9yeS5jcmVhdGVXaXRoQXR0cmlidXRlcygnY29uc3VtZXJJZCAtPiBjb25zdW1lci5jb25zdW1lcklkLCAnc2hvcElkIC0+IGlkKQogICAgICAgICAgT2soU3VjY2Vzcy5qc29uKQogICAgICAgIGNhc2UgXyA9PiB0aHJvdyBuZXcgQWNjb3VudElzRGlzYWJsZWQoKQogICAgICB9CiAgICB9CiAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbigia2V5d29yZHMgPT09PiAiICsga2V5d29yZExpc3QpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gcXVlcnlbSTE4blRleHRdLmZpbHRlcihfLmxhbmcgPT0gbGlmdChsYW5nKSkuZmlsdGVyKHIgPT4gci50ZXh0IGxpa2UgbGlmdChzIiUke2tleXdvcmRzfSUiKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcXVlcnlbSTE4blRleHRdLmZpbHRlcihfLmxhbmcgPT0gbGlmdChsYW5nKSkuKGtleXdvcmRMaXN0KS5mCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIENoZWNraW5IaXN0b3J5LmNyZWF0ZVdpdGhBdHRyaWJ1dGVzKCdjb25zdW1lcklkIC0+IGNvbnN1bWVyLmNvbnN1bWVySWQsICdzaG9wSWQgLT4gaWQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIENoZWNraW5IaXN0b3J5LmNyZWF0ZVdpdGhBdHRyaWJ1dGVzKCdjb25zdW1lcklkIC0+IGNvbnN1bWVyLmNvbnN1bWVySWQsICdzaG9wSWQgLT4gaWQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbigia2V5d29yZHMgPT09PiAiICsga2V5d29yZExpc3QpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcXVlcnlbSTE4blRleHRdLmZpbHRlcihfLmxhbmcgPT0gbGlmdChsYW5nKSkubGlmdFF1ZXJ5KGtleXdvcmRTZXEpLmZvcmVhY2gociA9PiAK</text>
+        <text encoding="base64">ICAgICAgLy8gcXVlcnlbSTE4blRleHRdLmZpbHRlcihfLmxhbmcgPT0gbGlmdChsYW5nKSkuZmlsdGVyKHIgPT4gci50ZXh0IGxpa2UgbGlmdChzIiUke2tleXdvcmRzfSUiKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oImtleXdvcmRzID09PT4gIiArIGtleXdvcmRzKQo=</text>
+        <text encoding="base64">ICAgICAgcXVlcnlbSTE4blRleHRdLmZpbHRlcihfLmxhbmcgPT0gbGlmdChsYW5nKSkuKGtleXdvcmRMaXN0KS5mCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTb21lKFNRTFN5bnRheC5pbihTaG9wLnMuc3ViZGl2aXNpb25JU08sIHN1YmRpdmlzaW9ucykpCg==</text>
+        <text encoding="base64">ICAgICAgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>flags</last-search>
+      <last-search>Success</last-search>
       <last-offset />
-      <last-pattern>flags</last-pattern>
+      <last-pattern>Success</last-pattern>
       <last-replace>ciatr_webapp</last-replace>
       <last-substitute>matome_view</last-substitute>
       <last-dir>1</last-dir>
@@ -845,6 +858,9 @@
         <entry>img</entry>
         <entry>isClent</entry>
         <entry>flags</entry>
+        <entry>Success.json</entry>
+        <entry>Sucess</entry>
+        <entry>Success</entry>
       </history-search>
       <history-cmd>
         <entry>set paste</entry>
