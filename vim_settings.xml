@@ -195,6 +195,12 @@
         <mark key="^" line="17" column="52" />
         <mark key="." line="17" column="52" />
       </file>
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/ShopControllerSpec.scala" timestamp="1502792988003">
+        <mark key="[" line="162" column="15" />
+        <mark key="]" line="162" column="26" />
+        <mark key="^" line="162" column="26" />
+        <mark key="." line="162" column="26" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/MaterialHtml.scala" timestamp="1486611513006">
         <mark key="[" line="17" column="37" />
         <mark key="]" line="27" column="37" />
@@ -365,11 +371,11 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/resources/routes" timestamp="1502261752834">
-        <mark key="[" line="23" column="128" />
-        <mark key="]" line="23" column="135" />
-        <mark key="." line="23" column="135" />
-        <mark key="^" line="23" column="135" />
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/resources/routes" timestamp="1502792634878">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="45" column="12" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Code/roco/play-util/src/main/scala/roco/play/util/extractors/RocoAction.scala" timestamp="1502783137518" />
       <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_alb.tf" timestamp="1491205058827">
@@ -856,43 +862,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHJvY28ubGliLmVycm9yLkFjY291bnRJc0Rpc2FibGVkCg==</text>
+        <text encoding="base64">IyBJMThOIFNlYXJjaAo=</text>
       </register>
       <register name="-" type="4">
-        <text>AccountIsDisabled</text>
+        <text>clipped</text>
       </register>
       <register name="/" type="4">
         <text>attributeIds</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdmFsIENvbnN1bWVyRXh0cmFjdG9yKGNvbnN1bWVyKSA9IHJlcXVlc3QK</text>
+        <text encoding="base64">R0VUICAgICAvYXJ0aWNsZXMvY2xpcHBlZCAgICAgICAgICAgIHJvY28uYXBpLm9mZmxpbmVtYXRlcmlhbC5jb250cm9sbGVycy5BcnRpY2xlQ29udHJvbGxlci5jbGlwTGlzdChsaW1pdDogT3B0aW9uW0ludF0sIG9mZnNldDogSW50ID89IDApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHJvY28ubGliLmVycm9yLkFjY291bnRJc0Rpc2FibGVkCg==</text>
+        <text encoding="base64">IyBJMThOIFNlYXJjaAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IHJvY28ubGliLmVycm9yLkFjY291bnRJc0Rpc2FibGVkCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHJvY28ubGliLmVycm9yLkFjY291bnRJc0Rpc2FibGVkCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICBkZWYgY3JlYXRlID0gQWN0aW9uIHsKICAgIE9rKEpzb24udG9Kc29uKGR1bW15SnNvbikpCiAgfQoKICBkZWYgcmVhZCA9IEFjdGlvbiB7CiAgICBPayhKc29uLnRvSnNvbihkdW1teUpzb24pKQogIH0KCiAgZGVmIHVwZGF0ZSA9IEFjdGlvbiB7CiAgICBPayhKc29uLnRvSnNvbihkdW1teUpzb24pKQogIH0KCiAgZGVmIGRlbGV0ZSA9IEFjdGlvbiB7CiAgICBPayhKc29uLnRvSnNvbihkdW1teUpzb24pKQogIH0KCiAgZGVmIHJlYWRBbGwgPSBBY3Rpb24gewogICAgT2soSnNvbi50b0pzb24oZHVtbXlKc29uKSkKICB9Cg==</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICA=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBjYXNlIF8gPT4gdGhyb3cgbmV3IEFjY291bnRJc0Rpc2FibGVkKCkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIFNvbWUoY29uc3VtZXIpID0+IHsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZXh0cmFjdEF1dGhlbnRpY2F0ZWRDdXN0b21lcihyZXF1ZXN0KSBtYXRjaCB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIFNvbWUoY29uc3VtZXIpID0+IHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
