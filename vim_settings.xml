@@ -371,11 +371,11 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/resources/routes" timestamp="1502859609913">
-        <mark key="[" line="15" column="103" />
-        <mark key="]" line="15" column="97" />
-        <mark key="^" line="15" column="97" />
-        <mark key="." line="15" column="97" />
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/resources/routes" timestamp="1502860611778">
+        <mark key="[" line="14" column="113" />
+        <mark key="]" line="14" column="93" />
+        <mark key="^" line="14" column="93" />
+        <mark key="." line="14" column="93" />
       </file>
       <file name="$USER_HOME$/Code/roco/play-util/src/main/scala/roco/play/util/extractors/RocoAction.scala" timestamp="1502783137518" />
       <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_alb.tf" timestamp="1491205058827">
@@ -620,11 +620,12 @@
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" timestamp="1502859651387">
-        <mark key="[" line="79" column="92" />
-        <mark key="]" line="79" column="45" />
-        <mark key="." line="79" column="45" />
-        <mark key="^" line="79" column="45" />
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" timestamp="1502860776478">
+        <mark key="'" line="56" column="46" />
+        <mark key="[" line="277" column="34" />
+        <mark key="]" line="38" column="42" />
+        <mark key="." line="38" column="42" />
+        <mark key="^" line="38" column="42" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/filters/ExampleFilter.scala" timestamp="1484633267941">
         <mark key="[" line="15" column="7" />
@@ -860,6 +861,7 @@
       <jump line="57" column="0" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" />
       <jump line="52" column="0" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" />
       <jump line="109" column="3" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" />
+      <jump line="53" column="46" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -871,35 +873,35 @@
       <register name="/" type="4">
         <text>attributeIds</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">R0VUICAgICAvc2hvcHMgICAgICAgICAgICAgICAgICAgICAgIHJvY28uYXBpLm9mZmxpbmVtYXRlcmlhbC5jb250cm9sbGVycy5TaG9wQ29udHJvbGxlci5saXN0QnlDb25zdW1lcihpZHM6IFN0cmluZyA/PSAiIiwgbGltaXQ6IE9wdGlvbltJbnRdLCBvZmZzZXQ6IEludCA/PSAwLCBzdWJkaXZpc2lvbklTT3M6IFN0cmluZyA/PSAiIiwgYXR0cmlidXRlSWRzOiBTdHJpbmcgPz0gIiIpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZGVmIGxpc3RNYXliZVF1ZXJ5KGlkczogU3RyaW5nLCBzdWJkaXZpc2lvbklTT3M6IFN0cmluZywgYXR0cmlidXRlSWRzOiBTdHJpbmcpOiBPcHRpb25bU1FMU3ludGF4XSA9IHsKICAgIC8vIGlzSGlkZGVuID0gZmFsc2UgcXVlcnkKICAgIHZhbCBpc0hpZGRlblF1ZXJ5ID0gU1FMU3ludGF4LmVxKFNob3Aucy5pc0hpZGRlbiwgZmFsc2UpCiAgICAvLyBmaWx0ZXIgYnkgaWRzCiAgICB2YWwgZmlsdGVyQnlJZHNRdWVyeSA9IGlkcyBtYXRjaCB7CiAgICAgIGNhc2UgaWRzOiBBbnkgaWYgaWRzLm5vbkVtcHR5ID0+CiAgICAgICAgdmFsIHNob3BJZHMgPSBpZHMuc3BsaXQoc2VwYXJhdG9yKS50b1NlcQogICAgICAgIFNvbWUoU1FMU3ludGF4LmluKFNob3Aucy5zaG9wSWQsIHNob3BJZHMpKQogICAgICBjYXNlIF8gPT4gTm9uZQogICAgfQogICAgLy8gRmlsdGVyIHRoZSBsaXN0IGJ5IGF0dHJpYnV0ZUlkcwogICAgdmFsIGF0dHJpYnV0ZUlkc1F1ZXJ5ID0gYXR0cmlidXRlSWRzIG1hdGNoIHsKICAgICAgY2FzZSBhdHRyaWJ1dGVJZHM6IEFueSBpZiBhdHRyaWJ1dGVJZHMubm9uRW1wdHkgPT4KICAgICAgICB2YWwgaWRzID0gYXR0cmlidXRlSWRzLnNwbGl0KHNlcGFyYXRvcikudG9TZXEKICAgICAgICBTb21lKFNRTFN5bnRheC5pbihBdHRyaWJ1dGVUb1Nob3BSZWYuYXRzci5hdHRyaWJ1dGVJZCwgaWRzKSkKICAgICAgY2FzZSBfID0+IE5vbmUKICAgIH0KICAgIC8vIEZpbHRlciB0aGUgbGlzdCBieSBzdWJkaXZpc2lvbklTT3MKICAgIHZhbCBzdWJkaXZpc2lvbklTT3NRdWVyeSA9IHN1YmRpdmlzaW9uSVNPcyBtYXRjaCB7CiAgICAgIGNhc2Ugc3ViZGl2aXNpb25JU09zOiBBbnkgaWYgc3ViZGl2aXNpb25JU09zLm5vbkVtcHR5ID0+CiAgICAgICAgdmFsIHN1YmRpdmlzaW9ucyA9IHN1YmRpdmlzaW9uSVNPcy5zcGxpdChzZXBhcmF0b3IpLnRvU2VxCiAgICAgICAgU29tZShTUUxTeW50YXguaW4oU2hvcC5zLnN1YmRpdmlzaW9uSVNPLCBzdWJkaXZpc2lvbnMpKQogICAgICBjYXNlIF8gPT4gTm9uZQogICAgfQogICAgU1FMU3ludGF4LnRvQW5kQ29uZGl0aW9uT3B0KFNvbWUoaXNIaWRkZW5RdWVyeSksIGZpbHRlckJ5SWRzUXVlcnksIGF0dHJpYnV0ZUlkc1F1ZXJ5LCBzdWJkaXZpc2lvbklTT3NRdWVyeSkKICB9</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGNsaXBwZWRBcnRpY2xlSWRzID0gQXJ0aWNsZUNsaXAuYXJ0aWNsZUlkc0NsaXBwZWRCeShjb25zdW1lcikK</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAgICAgICAgIAogICAgICAgICAgCiAgICAgICAgICAKICAgICAgICAgIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gRElTUExBWV9QTEFDRT14eHgg5oyH5a6a44GL44GkIERJU1BMQVlfUExBQ0U9eHh4IOOBjOeEoeOBhOWgtOWQiOOBr+epuuOBrumFjeWIl+OBp+i/lOOBmQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBXcmFwIEpzb24K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGNsaXBwZWRBcnRpY2xlSWRzID0gQXJ0aWNsZUNsaXAuYXJ0aWNsZUlkc0NsaXBwZWRCeShjb25zdW1lcikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICJkYXRhIiAtPiBBcnRpY2xlTGlzdFByZXNlbnRlcihhcnRpY2xlcywgY2xpcHBlZEFydGljbGVJZHMpLnRvSnNvbgo=</text>
+        <text encoding="base64">ICAgICAgLy8gRElTUExBWV9QTEFDRT14eHgg5oyH5a6a44GL44GkIERJU1BMQVlfUExBQ0U9eHh4IOOBjOeEoeOBhOWgtOWQiOOBr+epuuOBrumFjeWIl+OBp+i/lOOBmQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcmVzdWx0ID0gSnNvbi5vYmooCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBXcmFwIEpzb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbWF5YmVRdWVyeSA9IHRoaXMubGlzdE1heWJlUXVlcnkobWF5YmVEaXNwbGF5UGxhY2VMYWJlbCwgbGFiZWxJZHMsIGRpc3BsYXlQbGFjZUxhYmVsR3JvdXBOYW1lLCBkaXNwbGF5UGxhY2VMYWJlbE5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICJkYXRhIiAtPiBBcnRpY2xlTGlzdFByZXNlbnRlcihhcnRpY2xlcywgY2xpcHBlZEFydGljbGVJZHMpLnRvSnNvbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcmVzdWx0ID0gSnNvbi5vYmooCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
