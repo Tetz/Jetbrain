@@ -371,11 +371,11 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/resources/routes" timestamp="1502792634878">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="45" column="12" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/resources/routes" timestamp="1502857947851">
+        <mark key="[" line="15" column="107" />
+        <mark key="]" line="15" column="105" />
+        <mark key="^" line="15" column="105" />
+        <mark key="." line="15" column="105" />
       </file>
       <file name="$USER_HOME$/Code/roco/play-util/src/main/scala/roco/play/util/extractors/RocoAction.scala" timestamp="1502783137518" />
       <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_alb.tf" timestamp="1491205058827">
@@ -620,7 +620,7 @@
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" timestamp="1502787315307">
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" timestamp="1502858304783">
         <mark key="[" line="259" column="10" />
         <mark key="]" line="259" column="10" />
         <mark key="." line="259" column="10" />
@@ -861,17 +861,17 @@
       <jump line="109" column="3" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGNsaXBwZWRBcnRpY2xlSWRzID0gQXJ0aWNsZUNsaXAuYXJ0aWNsZUlkc0NsaXBwZWRCeShjb25zdW1lcikK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>labelIds</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>attributeIds</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">R0VUICAgICAvYXJ0aWNsZXMvY2xpcHBlZCAgICAgICAgICAgIHJvY28uYXBpLm9mZmxpbmVtYXRlcmlhbC5jb250cm9sbGVycy5BcnRpY2xlQ29udHJvbGxlci5jbGlwTGlzdChsaW1pdDogT3B0aW9uW0ludF0sIG9mZnNldDogSW50ID89IDApCg==</text>
+        <text encoding="base64">R0VUICAgICAvc2hvcHMgICAgICAgICAgICAgICAgICAgICAgIHJvY28uYXBpLm9mZmxpbmVtYXRlcmlhbC5jb250cm9sbGVycy5TaG9wQ29udHJvbGxlci5saXN0QnlDb25zdW1lcihpZHM6IFN0cmluZyA/PSAiIiwgbGltaXQ6IE9wdGlvbltJbnRdLCBvZmZzZXQ6IEludCA/PSAwLCBzdWJkaXZpc2lvbklTT3M6IFN0cmluZyA/PSAiIiwgYXR0cmlidXRlSWRzOiBTdHJpbmcgPz0gIiIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgdmFsIGNsaXBwZWRBcnRpY2xlSWRzID0gQXJ0aWNsZUNsaXAuYXJ0aWNsZUlkc0NsaXBwZWRCeShjb25zdW1lcikK</text>
