@@ -130,6 +130,13 @@
         <mark key="^" line="24" column="62" />
         <mark key="." line="24" column="62" />
       </file>
+      <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/test/scala/roco/api/i18nmanager/ApplicationTestHelper.scala" timestamp="1502946078318">
+        <mark key="'" line="22" column="4" />
+        <mark key="[" line="25" column="71" />
+        <mark key="]" line="26" column="1" />
+        <mark key="." line="26" column="1" />
+        <mark key="^" line="26" column="1" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/build.sbt" timestamp="1486010502511">
         <mark key="[" line="3" column="38" />
         <mark key="]" line="3" column="38" />
@@ -251,6 +258,7 @@
         <mark key="^" line="14" column="62" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/main/scala/roco/api/i18nmanager/services/I18nTextGroupService.scala" timestamp="1502945969119" />
       <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/Material.js" timestamp="1489558353005">
         <mark key="[" line="64" column="18" />
         <mark key="]" line="64" column="12" />
@@ -466,6 +474,12 @@
         <mark key="]" line="8" column="41" />
         <mark key="^" line="8" column="41" />
         <mark key="." line="8" column="41" />
+      </file>
+      <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/test/scala/roco/api/i18nmanager/controllers/I18nTextControllerTest.scala" timestamp="1502946028095">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/Filters.scala" timestamp="1484647826471">
         <mark key="[" line="3" column="0" />
@@ -712,6 +726,13 @@
         <mark key="^" line="13" column="18" />
         <mark key="." line="13" column="18" />
       </file>
+      <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/test/scala/roco/api/i18nmanager/controllers/I18nTextGroupControllerTest.scala" timestamp="1502946040808">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="41" column="4" />
+        <mark key="^" line="26" column="53" />
+        <mark key="." line="26" column="53" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/MaterialKey.scala" timestamp="1481783937187">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="5" column="0" />
@@ -846,8 +867,8 @@
       <jump line="67" column="16" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/ArticleControllerSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuaW5qZWN0LlN0YWdlCg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -859,10 +880,10 @@
         <text encoding="base64">ICAgICAgICBBcnRpY2xlLmNvbHVtbi53ZWlnaHQgLT4gMTAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuaW5qZWN0LlN0YWdlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHJvY28uYXBpLmkxOG5tYW5hZ2VyLkkxOG5NYW5hZ2VyU2VydmVyCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -870,20 +891,20 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAvLyAgZGVmIGxpc3RCeUkxOG5UZXh0R3JvdXBJZHMoCiAgLy8gICAgaTE4blRleHRHcm91cElkczogT3B0aW9uW1N0cmluZ10sCiAgLy8gICAgZGlzcGxheVBsYWNlTGFiZWxHcm91cE5hbWU6IE9wdGlvbltTdHJpbmddLAogIC8vICAgIGRpc3BsYXlQbGFjZUxhYmVsTmFtZTogT3B0aW9uW1N0cmluZ10KICAvLyAgKTogQWN0aW9uW0FueUNvbnRlbnRdID0gQWN0aW9uIHsgaW1wbGljaXQgcmVxdWVzdDogUmVxdWVzdFtBbnlDb250ZW50XSA9PgogIC8vICAgIHZhbCBleHRyYWN0b3JzLlJvY29TZXJ2aWNlSWQoc2VydmljZUlkKSA9IHJlcXVlc3QKICAvLyAgICBDb25uZWN0aW9uKHNlcnZpY2VJZCkgbG9jYWxUeCB7IGltcGxpY2l0IHNlc3Npb24gPT4KICAvLyAgICAgIHZhbCBDb25zdW1lckV4dHJhY3Rvcihjb25zdW1lcikgPSByZXF1ZXN0CiAgLy8KICAvLyAgICAgIHZhbCBtYXliZURpc3BsYXlQbGFjZUxhYmVsOiBPcHRpb25bTGFiZWxdID0gKGRpc3BsYXlQbGFjZUxhYmVsR3JvdXBOYW1lLCBkaXNwbGF5UGxhY2VMYWJlbE5hbWUpIG1hdGNoIHsKICAvLyAgICAgICAgY2FzZSAoU29tZShncm91cE5hbWUpLCBTb21lKGxhYmVsTmFtZSkpID0+IExhYmVsLmZpbmRCeUxhYmVsR3JvdXBOYW1lQW5kTGFiZWxOYW1lKGdyb3VwTmFtZSwgbGFiZWxOYW1lKQogIC8vICAgICAgICBjYXNlIF8gPT4gTm9uZQogIC8vICAgICAgfQogIC8vCiAgLy8gICAgICBpZiAoIWRpc3BsYXlQbGFjZUxhYmVsR3JvdXBOYW1lLmlzRW1wdHkgJiYgIWRpc3BsYXlQbGFjZUxhYmVsTmFtZS5pc0VtcHR5ICYmIG1heWJlRGlzcGxheVBsYWNlTGFiZWwuaXNFbXB0eSkgewogIC8vICAgICAgICBPayhKc29uLm9iaigiZGF0YSIgLT4gSnNBcnJheSgpKSkKICAvLyAgICAgIH0gZWxzZSB7CiAgLy8KICAvLyAgICAgICAgT2soJ2R1bW15JykKICAvLyAgICAgIH0KICAvLyAgICB9CiAgLy8gIH0=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAvLyAgZGVmIGxpc3RCeUkxOG5UZXh0R3JvdXBJZHMoCiAgLy8gICAgaTE4blRleHRHcm91cElkczogT3B0aW9uW1N0cmluZ10sCiAgLy8gICAgZGlzcGxheVBsYWNlTGFiZWxHcm91cE5hbWU6IE9wdGlvbltTdHJpbmddLAogIC8vICAgIGRpc3BsYXlQbGFjZUxhYmVsTmFtZTogT3B0aW9uW1N0cmluZ10KICAvLyAgKTogQWN0aW9uW0FueUNvbnRlbnRdID0gQWN0aW9uIHsgaW1wbGljaXQgcmVxdWVzdDogUmVxdWVzdFtBbnlDb250ZW50XSA9PgogIC8vICAgIHZhbCBleHRyYWN0b3JzLlJvY29TZXJ2aWNlSWQoc2VydmljZUlkKSA9IHJlcXVlc3QKICAvLyAgICBDb25uZWN0aW9uKHNlcnZpY2VJZCkgbG9jYWxUeCB7IGltcGxpY2l0IHNlc3Npb24gPT4KICAvLyAgICAgIHZhbCBDb25zdW1lckV4dHJhY3Rvcihjb25zdW1lcikgPSByZXF1ZXN0CiAgLy8KICAvLyAgICAgIHZhbCBtYXliZURpc3BsYXlQbGFjZUxhYmVsOiBPcHRpb25bTGFiZWxdID0gKGRpc3BsYXlQbGFjZUxhYmVsR3JvdXBOYW1lLCBkaXNwbGF5UGxhY2VMYWJlbE5hbWUpIG1hdGNoIHsKICAvLyAgICAgICAgY2FzZSAoU29tZShncm91cE5hbWUpLCBTb21lKGxhYmVsTmFtZSkpID0+IExhYmVsLmZpbmRCeUxhYmVsR3JvdXBOYW1lQW5kTGFiZWxOYW1lKGdyb3VwTmFtZSwgbGFiZWxOYW1lKQogIC8vICAgICAgICBjYXNlIF8gPT4gTm9uZQogIC8vICAgICAgfQogIC8vCiAgLy8gICAgICBpZiAoIWRpc3BsYXlQbGFjZUxhYmVsR3JvdXBOYW1lLmlzRW1wdHkgJiYgIWRpc3BsYXlQbGFjZUxhYmVsTmFtZS5pc0VtcHR5ICYmIG1heWJlRGlzcGxheVBsYWNlTGFiZWwuaXNFbXB0eSkgewogIC8vICAgICAgICBPayhKc29uLm9iaigiZGF0YSIgLT4gSnNBcnJheSgpKSkKICAvLyAgICAgIH0gZWxzZSB7CiAgLy8KICAvLyAgICAgICAgT2soJ2R1bW15JykKICAvLyAgICAgIH0KICAvLyAgICB9CiAgLy8gIH0=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBURVNUCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBQUkVQQVJFCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
