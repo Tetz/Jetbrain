@@ -15,11 +15,11 @@
         <mark key="." line="78" column="45" />
         <mark key="^" line="78" column="36" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/main/scala/roco/api/i18nmanager/sql/I18nTextDAO.scala" timestamp="1501662790463">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="21" column="39" />
+      <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/main/scala/roco/api/i18nmanager/sql/I18nTextDAO.scala" timestamp="1502947946619">
+        <mark key="[" line="23" column="24" />
+        <mark key="]" line="23" column="30" />
+        <mark key="^" line="23" column="30" />
+        <mark key="." line="23" column="30" />
       </file>
       <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/models/Shop.scala" timestamp="1502872992659" />
       <file name="$USER_HOME$/Code/roco-admin-dashboard/server/public/index.html" timestamp="1488542685361">
@@ -313,8 +313,8 @@
         <mark key="^" line="24" column="37" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/main/scala/roco/api/i18nmanager/controllers/I18nTextController.scala" timestamp="1501658220822">
-        <mark key="[" line="42" column="39" />
+      <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/main/scala/roco/api/i18nmanager/controllers/I18nTextController.scala" timestamp="1502947060675">
+        <mark key="[" line="19" column="24" />
         <mark key="]" line="42" column="32" />
         <mark key="." line="42" column="32" />
         <mark key="^" line="42" column="32" />
@@ -355,11 +355,11 @@
         <mark key="^" line="173" column="48" />
         <mark key="." line="173" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/main/scala/roco/api/i18nmanager/services/I18nTextService.scala" timestamp="1501658157086">
-        <mark key="[" line="17" column="28" />
-        <mark key="]" line="17" column="26" />
-        <mark key="^" line="17" column="26" />
-        <mark key="." line="17" column="26" />
+      <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/main/scala/roco/api/i18nmanager/services/I18nTextService.scala" timestamp="1502947001726">
+        <mark key="[" line="23" column="33" />
+        <mark key="]" line="23" column="86" />
+        <mark key="^" line="23" column="86" />
+        <mark key="." line="23" column="86" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/.eslintrc" timestamp="1487742465388">
         <mark key="[" line="21" column="0" />
@@ -475,11 +475,12 @@
         <mark key="^" line="8" column="41" />
         <mark key="." line="8" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/test/scala/roco/api/i18nmanager/controllers/I18nTextControllerTest.scala" timestamp="1502946028095">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/test/scala/roco/api/i18nmanager/controllers/I18nTextControllerTest.scala" timestamp="1502947675687">
+        <mark key="'" line="72" column="0" />
+        <mark key="[" line="66" column="30" />
+        <mark key="]" line="66" column="29" />
+        <mark key="." line="66" column="29" />
+        <mark key="^" line="66" column="29" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/Filters.scala" timestamp="1484647826471">
         <mark key="[" line="3" column="0" />
@@ -705,9 +706,6 @@
         <mark key="." line="82" column="123" />
         <mark key="^" line="82" column="123" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502783020605">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/variables.tf" timestamp="1486990287996">
         <mark key="[" line="25" column="26" />
         <mark key="]" line="25" column="26" />
@@ -793,9 +791,6 @@
         <mark key="^" line="11" column="4" />
         <mark key="." line="11" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1502784381487">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_elasticache.tf" timestamp="1488779650078">
         <mark key="[" line="33" column="25" />
         <mark key="]" line="33" column="32" />
@@ -868,10 +863,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuaW5qZWN0LlN0YWdlCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb2x1bW5cPg==</text>
@@ -880,28 +875,28 @@
         <text encoding="base64">ICAgICAgICBBcnRpY2xlLmNvbHVtbi53ZWlnaHQgLT4gMTAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuaW5qZWN0LlN0YWdlCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHJvY28uYXBpLmkxOG5tYW5hZ2VyLkkxOG5NYW5hZ2VyU2VydmVyCg==</text>
+        <text encoding="base64">ICAgICAga2V5d29yZExpc3QgPSBrZXl3b3JkLnNwbGl0KHNlcGFyYXRvcikudG9TZXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChrZXl3b3JkLm5vbkVtcHR5KSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBzZXBhcmF0b3I6IFN0cmluZyA9ICIsIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuaW5qZWN0LlN0YWdlCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHJvY28uYXBpLmkxOG5tYW5hZ2VyLkkxOG5NYW5hZ2VyU2VydmVyCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAvLyAgZGVmIGxpc3RCeUkxOG5UZXh0R3JvdXBJZHMoCiAgLy8gICAgaTE4blRleHRHcm91cElkczogT3B0aW9uW1N0cmluZ10sCiAgLy8gICAgZGlzcGxheVBsYWNlTGFiZWxHcm91cE5hbWU6IE9wdGlvbltTdHJpbmddLAogIC8vICAgIGRpc3BsYXlQbGFjZUxhYmVsTmFtZTogT3B0aW9uW1N0cmluZ10KICAvLyAgKTogQWN0aW9uW0FueUNvbnRlbnRdID0gQWN0aW9uIHsgaW1wbGljaXQgcmVxdWVzdDogUmVxdWVzdFtBbnlDb250ZW50XSA9PgogIC8vICAgIHZhbCBleHRyYWN0b3JzLlJvY29TZXJ2aWNlSWQoc2VydmljZUlkKSA9IHJlcXVlc3QKICAvLyAgICBDb25uZWN0aW9uKHNlcnZpY2VJZCkgbG9jYWxUeCB7IGltcGxpY2l0IHNlc3Npb24gPT4KICAvLyAgICAgIHZhbCBDb25zdW1lckV4dHJhY3Rvcihjb25zdW1lcikgPSByZXF1ZXN0CiAgLy8KICAvLyAgICAgIHZhbCBtYXliZURpc3BsYXlQbGFjZUxhYmVsOiBPcHRpb25bTGFiZWxdID0gKGRpc3BsYXlQbGFjZUxhYmVsR3JvdXBOYW1lLCBkaXNwbGF5UGxhY2VMYWJlbE5hbWUpIG1hdGNoIHsKICAvLyAgICAgICAgY2FzZSAoU29tZShncm91cE5hbWUpLCBTb21lKGxhYmVsTmFtZSkpID0+IExhYmVsLmZpbmRCeUxhYmVsR3JvdXBOYW1lQW5kTGFiZWxOYW1lKGdyb3VwTmFtZSwgbGFiZWxOYW1lKQogIC8vICAgICAgICBjYXNlIF8gPT4gTm9uZQogIC8vICAgICAgfQogIC8vCiAgLy8gICAgICBpZiAoIWRpc3BsYXlQbGFjZUxhYmVsR3JvdXBOYW1lLmlzRW1wdHkgJiYgIWRpc3BsYXlQbGFjZUxhYmVsTmFtZS5pc0VtcHR5ICYmIG1heWJlRGlzcGxheVBsYWNlTGFiZWwuaXNFbXB0eSkgewogIC8vICAgICAgICBPayhKc29uLm9iaigiZGF0YSIgLT4gSnNBcnJheSgpKSkKICAvLyAgICAgIH0gZWxzZSB7CiAgLy8KICAvLyAgICAgICAgT2soJ2R1bW15JykKICAvLyAgICAgIH0KICAvLyAgICB9CiAgLy8gIH0=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
