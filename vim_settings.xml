@@ -308,11 +308,11 @@
         <mark key="^" line="24" column="37" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/main/scala/roco/api/i18nmanager/controllers/I18nTextController.scala" timestamp="1502947060675">
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="42" column="32" />
-        <mark key="." line="42" column="32" />
-        <mark key="^" line="42" column="32" />
+      <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/main/scala/roco/api/i18nmanager/controllers/I18nTextController.scala" timestamp="1503381501356">
+        <mark key="[" line="38" column="19" />
+        <mark key="]" line="38" column="18" />
+        <mark key="." line="38" column="18" />
+        <mark key="^" line="38" column="18" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/build.sbt" timestamp="1486010450920">
         <mark key="[" line="18" column="71" />
