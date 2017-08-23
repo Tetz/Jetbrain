@@ -362,11 +362,11 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/resources/routes" timestamp="1502870153914">
-        <mark key="[" line="27" column="97" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/resources/routes" timestamp="1503467047340">
+        <mark key="[" line="19" column="95" />
+        <mark key="]" line="19" column="101" />
+        <mark key="^" line="19" column="101" />
+        <mark key="." line="19" column="101" />
       </file>
       <file name="$USER_HOME$/Code/roco/play-util/src/main/scala/roco/play/util/extractors/RocoAction.scala" timestamp="1502783137518" />
       <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_autoscaling_group.tf" timestamp="1491198176352">
@@ -592,12 +592,12 @@
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" timestamp="1503465272341">
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" timestamp="1503466652405">
         <mark key="'" line="283" column="0" />
-        <mark key="[" line="133" column="33" />
-        <mark key="]" line="133" column="33" />
-        <mark key="." line="133" column="33" />
-        <mark key="^" line="47" column="22" />
+        <mark key="[" line="312" column="9" />
+        <mark key="]" line="312" column="8" />
+        <mark key="." line="312" column="8" />
+        <mark key="^" line="312" column="8" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/filters/ExampleFilter.scala" timestamp="1484633267941">
         <mark key="[" line="15" column="7" />
@@ -863,16 +863,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.offset(offset)</text>
+        <text>in: String ?= &quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>.offset(offset)</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>nearby</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBzeW50YXggPSBTUUxTeW50YXgKICAgICAgICAgICAgLmJldHdlZW4oU2hvcC5zLmxhdGl0dWRlLCBsYXQgLSBsYXRfMTAwbSwgbGF0ICsgbGF0XzEwMG0pCiAgICAgICAgICAgIC5hbmQKICAgICAgICAgICAgLmJldHdlZW4oU2hvcC5zLmxvbmdpdHVkZSwgbG5nIC0gbG5nXzEwMG0sIGxuZyArIGxuZ18xMDBtKQ==</text>
+        <text>in: String ?= &quot;&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
