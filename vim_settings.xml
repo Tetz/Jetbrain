@@ -592,12 +592,12 @@
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" timestamp="1503461368779">
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" timestamp="1503463982829">
         <mark key="'" line="283" column="0" />
-        <mark key="[" line="338" column="69" />
-        <mark key="]" line="338" column="69" />
-        <mark key="." line="338" column="69" />
-        <mark key="^" line="338" column="69" />
+        <mark key="[" line="133" column="33" />
+        <mark key="]" line="133" column="33" />
+        <mark key="." line="133" column="33" />
+        <mark key="^" line="47" column="22" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/filters/ExampleFilter.scala" timestamp="1484633267941">
         <mark key="[" line="15" column="7" />
@@ -863,10 +863,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sntax</text>
+        <text>.offset(offset)</text>
       </register>
       <register name="-" type="4">
-        <text>sntax</text>
+        <text>.offset(offset)</text>
       </register>
       <register name="/" type="4">
         <text>nearby</text>
