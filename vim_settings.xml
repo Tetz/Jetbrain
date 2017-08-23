@@ -190,12 +190,12 @@
         <mark key="^" line="17" column="52" />
         <mark key="." line="17" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/ShopControllerSpec.scala" timestamp="1503477605575">
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/ShopControllerSpec.scala" timestamp="1503479085033">
         <mark key="'" line="148" column="14" />
-        <mark key="[" line="234" column="27" />
-        <mark key="]" line="234" column="45" />
-        <mark key="." line="234" column="45" />
-        <mark key="^" line="234" column="45" />
+        <mark key="[" line="239" column="0" />
+        <mark key="]" line="239" column="0" />
+        <mark key="." line="239" column="0" />
+        <mark key="^" line="249" column="103" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/MaterialHtml.scala" timestamp="1486611513006">
         <mark key="[" line="17" column="37" />
@@ -359,11 +359,11 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/resources/routes" timestamp="1503467047340">
-        <mark key="[" line="19" column="95" />
-        <mark key="]" line="19" column="101" />
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/resources/routes" timestamp="1503479491601">
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="15" />
         <mark key="^" line="19" column="101" />
-        <mark key="." line="19" column="101" />
+        <mark key="." line="18" column="15" />
       </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_autoscaling_group.tf" timestamp="1491198176352">
         <mark key="[" line="13" column="0" />
@@ -859,8 +859,8 @@
       <jump line="337" column="24" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAK</text>
+      <register name="&quot;" type="4">
+        <text>nearby</text>
       </register>
       <register name="-" type="4">
         <text>nearby</text>
@@ -869,34 +869,34 @@
         <text>nearby</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBtaW5BcnJheSA9IGJvdW5kc0FycmF5LmhlYWQuc3BsaXQoIiwiKQo=</text>
+        <text encoding="base64">R0VUICAgICAvc2hvcHMvYm91bmRzICAgICAgICAgICAgICAgIHJvY28uYXBpLm9mZmxpbmVtYXRlcmlhbC5jb250cm9sbGVycy5TaG9wQ29udHJvbGxlci5saXN0QnlCb3VuZHMoYm91bmRzOiBTdHJpbmcgPz0gIiIsIGxpbWl0OiBPcHRpb25bSW50XSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAK</text>
+        <text encoding="base64">R0VUICAgICAvc2hvcHMvYm91bmRzICAgICAgICAgICAgICAgIHJvY28uYXBpLm9mZmxpbmVtYXRlcmlhbC5jb250cm9sbGVycy5TaG9wQ29udHJvbGxlci5saXN0QnlCb3VuZHMoYm91bmRzOiBTdHJpbmcgPz0gIiIsIGxpbWl0OiBPcHRpb25bSW50XSkK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICBTaG9wLnVwZGF0ZUJ5SWQoc2hvcElkXzEpLndpdGhBdHRyaWJ1dGVzKCdsYXRpdHVkZSAtPiBsYXRpdHVkZSwgJ2xvbmdpdHVkZSAtPiBsb25naXR1ZGUpCiAgICAgICAgU2hvcC51cGRhdGVCeUlkKHNob3BJZF8yKS53aXRoQXR0cmlidXRlcygnbGF0aXR1ZGUgLT4gbGF0aXR1ZGUsICdsb25naXR1ZGUgLT4gbG9uZ2l0dWRlKQogICAgICAgIFNob3AudXBkYXRlQnlJZChzaG9wSWRfMykud2l0aEF0dHJpYnV0ZXMoJ2xhdGl0dWRlIC0+IGxhdGl0dWRlLCAnbG9uZ2l0dWRlIC0+IGxvbmdpdHVkZSkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgCg==</text>
-      </register>
-      <register name="4" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAiR0VUIC9zaG9wcy9pZHMgcmV0dXJucyBzaG9wcyBieSBpZHMiIGluIHsKICAgICAgQ29ubmVjdGlvbigiMSIpIGF1dG9Db21taXQgeyBpbXBsaWNpdCBzZXNzaW9uID0+CiAgICAgICAgLy8gUHJlcGFyYXRpb24KICAgICAgICB2YWwgcGFyYW1zID0gcyJpbj0kc2hvcElkXzEsJHNob3BJZF8yIgogICAgICAgIC8vIE1haW4KICAgICAgICB2YWwgcmVzdWx0ID0gcm91dGUoYXBwLCBmYWtlUmVxdWVzdEZyb21Db25zdW1lcihjb25zdW1lciwgR0VULCBzIi9zaG9wcy9pZHM/JHBhcmFtcyIpKS5nZXQKICAgICAgICBzdGF0dXMocmVzdWx0KSBtdXN0QmUgT0sKCiAgICAgICAgdmFsIGpzb24gPSBjb250ZW50QXNKc29uKHJlc3VsdCkKICAgICAgICB2YWwgZGF0YSA9IChqc29uIFwgImRhdGEiKS5hc1tMaXN0W0pzT2JqZWN0XV0KICAgICAgICBkYXRhLm1hcChfIFwgImlkIikubWFwKF8uYXNbTG9uZ10pIG11c3RCZSBTZXEoMiwgMSkKICAgICAgICBkYXRhLmZvcmVhY2ggeyBzaG9wID0+CiAgICAgICAgICBjaGVja1Nob3BKc29uKHNob3ApIG11c3RCZSB0cnVlCiAgICAgICAgfQogICAgICB9CiAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAK</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICBTaG9wLnVwZGF0ZUJ5SWQoc2hvcElkXzEpLndpdGhBdHRyaWJ1dGVzKCdsYXRpdHVkZSAtPiBsYXRpdHVkZSwgJ2xvbmdpdHVkZSAtPiBsb25naXR1ZGUpCiAgICAgICAgU2hvcC51cGRhdGVCeUlkKHNob3BJZF8yKS53aXRoQXR0cmlidXRlcygnbGF0aXR1ZGUgLT4gbGF0aXR1ZGUsICdsb25naXR1ZGUgLT4gbG9uZ2l0dWRlKQogICAgICAgIFNob3AudXBkYXRlQnlJZChzaG9wSWRfMykud2l0aEF0dHJpYnV0ZXMoJ2xhdGl0dWRlIC0+IGxhdGl0dWRlLCAnbG9uZ2l0dWRlIC0+IGxvbmdpdHVkZSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgICJHRVQgL3Nob3BzL2JvdW5kcyByZXR1cm5zIHNob3BzIGJ5IGJvdW5kcyBhbmQgbGltaXQiIGluIHsKICAgICAgQ29ubmVjdGlvbigiMSIpIGF1dG9Db21taXQgeyBpbXBsaWNpdCBzZXNzaW9uID0+CiAgICAgICAgLy8gUHJlcGFyYXRpb24KICAgICAgICB2YWwgbGltaXQgPSA1MAogICAgICAgIHZhbCBib3VuZHMgPSAiMzYuMjc0Mzk5LDEzNy43NjMzOTd8MzYuOTgyNjIsMTM3Ljc2ODUwOSIKICAgICAgICB2YWwgcGFyYW1zID0gcyJib3VuZHM9JHtib3VuZHN9JmxpbWl0PSR7bGltaXR9IgoKICAgICAgICAvLyBNYWluCiAgICAgICAgdmFsIHJlc3VsdCA9IHJvdXRlKGFwcCwgZmFrZVJlcXVlc3RGcm9tQ29uc3VtZXIoY29uc3VtZXIsIEdFVCwgcyIvc2hvcHMvYm91bmRzPyRwYXJhbXMiKSkuZ2V0CiAgICAgICAgc3RhdHVzKHJlc3VsdCkgbXVzdEJlIE9LCgogICAgICAgIHZhbCBqc29uID0gY29udGVudEFzSnNvbihyZXN1bHQpCiAgICAgICAgdmFsIGRhdGEgPSAoanNvbiBcICJkYXRhIikuYXNbTGlzdFtKc09iamVjdF1dCiAgICAgICAgZGF0YS5tYXAoXyBcICJpZCIpLm1hcChfLmFzW0xvbmddKSBtdXN0QmUgU2VxKDEpCiAgICAgICAgZGF0YS5mb3JlYWNoIHsgc2hvcCA9PgogICAgICAgICAgY2hlY2tTaG9wSnNvbihzaG9wKSBtdXN0QmUgdHJ1ZQogICAgICAgIH0KICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">CiAgICAiR0VUIC9zaG9wcy9pZHMgcmV0dXJucyBzaG9wcyBieSBpZHMiIGluIHsKICAgICAgQ29ubmVjdGlvbigiMSIpIGF1dG9Db21taXQgeyBpbXBsaWNpdCBzZXNzaW9uID0+CiAgICAgICAgLy8gUHJlcGFyYXRpb24KICAgICAgICB2YWwgcGFyYW1zID0gcyJpbj0kc2hvcElkXzEsJHNob3BJZF8yIgogICAgICAgIC8vIE1haW4KICAgICAgICB2YWwgcmVzdWx0ID0gcm91dGUoYXBwLCBmYWtlUmVxdWVzdEZyb21Db25zdW1lcihjb25zdW1lciwgR0VULCBzIi9zaG9wcy9pZHM/JHBhcmFtcyIpKS5nZXQKICAgICAgICBzdGF0dXMocmVzdWx0KSBtdXN0QmUgT0sKCiAgICAgICAgdmFsIGpzb24gPSBjb250ZW50QXNKc29uKHJlc3VsdCkKICAgICAgICB2YWwgZGF0YSA9IChqc29uIFwgImRhdGEiKS5hc1tMaXN0W0pzT2JqZWN0XV0KICAgICAgICBkYXRhLm1hcChfIFwgImlkIikubWFwKF8uYXNbTG9uZ10pIG11c3RCZSBTZXEoMiwgMSkKICAgICAgICBkYXRhLmZvcmVhY2ggeyBzaG9wID0+CiAgICAgICAgICBjaGVja1Nob3BKc29uKHNob3ApIG11c3RCZSB0cnVlCiAgICAgICAgfQogICAgICB9CiAgICB9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgQ29uc29sZS5wcmludGxuKG1heWJlUXVlcnkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgQ29uc29sZS5wcmludGxuKGJvdW5kcykK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICJHRVQgL3Nob3BzL2JvdW5kcyByZXR1cm5zIHNob3BzIGJ5IGJvdW5kcyBhbmQgbGltaXQiIGluIHsKICAgICAgQ29ubmVjdGlvbigiMSIpIGF1dG9Db21taXQgeyBpbXBsaWNpdCBzZXNzaW9uID0+CiAgICAgICAgLy8gUHJlcGFyYXRpb24KICAgICAgICB2YWwgbGltaXQgPSA1MAogICAgICAgIHZhbCBib3VuZHMgPSAiMzYuMjc0Mzk5LDEzNy43NjMzOTd8MzYuOTgyNjIsMTM3Ljc2ODUwOSIKICAgICAgICB2YWwgcGFyYW1zID0gcyJib3VuZHM9JHtib3VuZHN9JmxpbWl0PSR7bGltaXR9IgoKICAgICAgICAvLyBNYWluCiAgICAgICAgdmFsIHJlc3VsdCA9IHJvdXRlKGFwcCwgZmFrZVJlcXVlc3RGcm9tQ29uc3VtZXIoY29uc3VtZXIsIEdFVCwgcyIvc2hvcHMvYm91bmRzPyRwYXJhbXMiKSkuZ2V0CiAgICAgICAgc3RhdHVzKHJlc3VsdCkgbXVzdEJlIE9LCgogICAgICAgIHZhbCBqc29uID0gY29udGVudEFzSnNvbihyZXN1bHQpCiAgICAgICAgdmFsIGRhdGEgPSAoanNvbiBcICJkYXRhIikuYXNbTGlzdFtKc09iamVjdF1dCiAgICAgICAgZGF0YS5tYXAoXyBcICJpZCIpLm1hcChfLmFzW0xvbmddKSBtdXN0QmUgU2VxKDEpCiAgICAgICAgZGF0YS5mb3JlYWNoIHsgc2hvcCA9PgogICAgICAgICAgY2hlY2tTaG9wSnNvbihzaG9wKSBtdXN0QmUgdHJ1ZQogICAgICAgIH0KICAgICAgfQogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
