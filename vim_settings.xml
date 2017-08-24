@@ -190,12 +190,12 @@
         <mark key="^" line="17" column="52" />
         <mark key="." line="17" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/ShopControllerSpec.scala" timestamp="1503563335337">
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/ShopControllerSpec.scala" timestamp="1503565226271">
         <mark key="'" line="107" column="15" />
-        <mark key="[" line="243" column="114" />
+        <mark key="[" line="245" column="116" />
         <mark key="]" line="245" column="115" />
-        <mark key="." line="245" column="114" />
-        <mark key="^" line="243" column="115" />
+        <mark key="." line="245" column="115" />
+        <mark key="^" line="245" column="115" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/MaterialHtml.scala" timestamp="1486611513006">
         <mark key="[" line="17" column="37" />
