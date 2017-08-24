@@ -588,12 +588,12 @@
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" timestamp="1503485890329">
-        <mark key="'" line="343" column="24" />
-        <mark key="[" line="245" column="78" />
-        <mark key="]" line="245" column="76" />
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" timestamp="1503545865229">
+        <mark key="'" line="342" column="24" />
+        <mark key="[" line="246" column="0" />
+        <mark key="]" line="246" column="0" />
         <mark key="^" line="245" column="76" />
-        <mark key="." line="245" column="76" />
+        <mark key="." line="246" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/filters/ExampleFilter.scala" timestamp="1484633267941">
         <mark key="[" line="15" column="7" />
@@ -860,8 +860,8 @@
       <jump line="337" column="24" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>toDouble</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>toDouble</text>
@@ -873,31 +873,31 @@
         <text encoding="base64">ICAgICAgdmFsIG1pbkFycmF5ID0gY29vcmRpbmF0ZXMuc3BsaXQoIiwiKS5oZWFkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGVmIHBhcnNlRG91YmxlKHM6IFN0cmluZykgPSB0cnkgeyBTb21lKHMudG9Eb3VibGUpIH0gY2F0Y2ggeyBjYXNlIF8gPT4gTm9uZSB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGxvbmdpdHVkZSA9IFNvbWUoMSkK</text>
+        <text encoding="base64">ICAgICAgZGVmIHBhcnNlRG91YmxlKHM6IFN0cmluZykgPSB0cnkgeyBTb21lKHMudG9Eb3VibGUpIH0gY2F0Y2ggeyBjYXNlIF8gPT4gTm9uZSB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGxhdGl0dWRlID0gU29tZSgxKQo=</text>
+        <text encoding="base64">ICAgICAgdmFsIGxvbmdpdHVkZSA9IFNvbWUoMSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdmFsIG1heEFycmF5ID0gYm91bmRzQXJyYXkubGFzdC5zcGxpdCgiLCIpCg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGxhdGl0dWRlID0gU29tZSgxKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGNvb3JkaW5hdGVzQXJyYXkgPSBjb29yZGluYXRlcy5zcGxpdCgiLCIpCg==</text>
+        <text encoding="base64">ICAgICAgdmFsIG1heEFycmF5ID0gYm91bmRzQXJyYXkubGFzdC5zcGxpdCgiLCIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdmFsIG1heExhdCA9IG1heEFycmF5LmhlYWQK</text>
+        <text encoding="base64">ICAgICAgdmFsIGNvb3JkaW5hdGVzQXJyYXkgPSBjb29yZGluYXRlcy5zcGxpdCgiLCIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdmFsIG1pbkxhdCA9IG1pbkFycmF5LmhlYWQK</text>
+        <text encoding="base64">ICAgICAgdmFsIG1heExhdCA9IG1heEFycmF5LmhlYWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgdmFsIG1pbkxhdCA9IG1pbkFycmF5LmhlYWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxhdGl0dWRlOiBPcHRpb25bRG91YmxlXSwK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
