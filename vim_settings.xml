@@ -69,7 +69,7 @@
         <mark key="^" line="14" column="29" />
         <mark key="." line="14" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/main/scala/roco/api/i18nmanager/domain/I18nTextGroup.scala" timestamp="1501578181677">
+      <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/main/scala/roco/api/i18nmanager/domain/I18nTextGroup.scala" timestamp="1504001443932">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="29" />
         <mark key="^" line="4" column="55" />
@@ -190,7 +190,7 @@
         <mark key="^" line="17" column="52" />
         <mark key="." line="17" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/ShopControllerSpec.scala" timestamp="1503644898301">
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/ShopControllerSpec.scala" timestamp="1504001080651">
         <mark key="'" line="107" column="15" />
         <mark key="[" line="238" column="67" />
         <mark key="]" line="238" column="54" />
