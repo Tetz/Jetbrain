@@ -21,6 +21,12 @@
         <mark key="^" line="23" column="30" />
         <mark key="." line="23" column="30" />
       </file>
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/models/Shop.scala" timestamp="1504857326599">
+        <mark key="[" line="14" column="36" />
+        <mark key="]" line="13" column="34" />
+        <mark key="^" line="13" column="34" />
+        <mark key="." line="13" column="34" />
+      </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/server/public/index.html" timestamp="1488542685361">
         <mark key="[" line="8" column="18" />
         <mark key="]" line="8" column="12" />
@@ -403,6 +409,12 @@
         <mark key="." line="6" column="11" />
         <mark key="^" line="6" column="11" />
       </file>
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/clientjson/AttributeGroupFormatter.scala" timestamp="1504858229472">
+        <mark key="[" line="49" column="35" />
+        <mark key="]" line="49" column="60" />
+        <mark key="^" line="49" column="60" />
+        <mark key="." line="49" column="60" />
+      </file>
       <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/CheckinHistoryController.scala" timestamp="1502788573757">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -427,6 +439,12 @@
         <mark key="^" line="14" column="24" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/clientjson/ShopPresenter.scala" timestamp="1504858415554">
+        <mark key="[" line="50" column="76" />
+        <mark key="]" line="29" column="12" />
+        <mark key="^" line="29" column="12" />
+        <mark key="." line="29" column="12" />
+      </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/development/variables.tf" timestamp="1491031226675">
         <mark key="[" line="9" column="17" />
         <mark key="]" line="74" column="0" />
@@ -439,7 +457,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="26" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/models/AttributeGroup.scala" timestamp="1504855787180">
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/models/AttributeGroup.scala" timestamp="1504857417041">
         <mark key="[" line="39" column="2" />
         <mark key="]" line="39" column="2" />
         <mark key="^" line="40" column="21" />
@@ -565,6 +583,12 @@
         <mark key="]" line="25" column="56" />
         <mark key="^" line="25" column="56" />
         <mark key="." line="25" column="56" />
+      </file>
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/models/Attribute.scala" timestamp="1504857775627">
+        <mark key="[" line="23" column="71" />
+        <mark key="]" line="23" column="81" />
+        <mark key="^" line="23" column="81" />
+        <mark key="." line="23" column="81" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/client/webpack.config.js" timestamp="1488868076990">
         <mark key="[" line="38" column="0" />
@@ -699,6 +723,9 @@
         <mark key="]" line="8" column="57" />
         <mark key="^" line="8" column="57" />
         <mark key="." line="8" column="57" />
+      </file>
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/clientjson/MessageWrites.scala" timestamp="1504858499872">
+        <mark key="[" line="31" column="62" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Shop.scala" timestamp="1485427090528">
         <mark key="[" line="82" column="126" />
