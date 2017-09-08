@@ -39,6 +39,12 @@
         <mark key="^" line="17" column="109" />
         <mark key="." line="17" column="109" />
       </file>
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/models/Message.scala" timestamp="1504852091929">
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="10" column="14" />
+        <mark key="^" line="10" column="14" />
+        <mark key="." line="10" column="14" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ShopPresenter.scala" timestamp="1487145371386">
         <mark key="[" line="112" column="8" />
         <mark key="]" line="112" column="9" />
@@ -494,6 +500,12 @@
         <mark key="^" line="8" column="52" />
         <mark key="." line="8" column="52" />
       </file>
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/MessageControllerSpec.scala" timestamp="1504852532797">
+        <mark key="[" line="58" column="33" />
+        <mark key="]" line="58" column="37" />
+        <mark key="^" line="58" column="37" />
+        <mark key="." line="58" column="37" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ArticlePresenter.scala" timestamp="1485245977165">
         <mark key="[" line="50" column="20" />
         <mark key="]" line="5" column="19" />
@@ -856,16 +868,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNZXNzYWdlLmNvbHVtbi50aXRsZUkxOG5UZXh0R3JvdXBJZCAtPiAxLAo=</text>
       </register>
       <register name="-" type="4">
         <text>k</text>
       </register>
       <register name="/" type="4">
-        <text>nearby</text>
+        <text>I18n</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIENvbnNvbGUucHJpbnRsbihzaG9wTGlzdCkK</text>
+        <text encoding="base64">ICAgICAgICBNZXNzYWdlLmNvbHVtbi50aXRsZUkxOG5UZXh0R3JvdXBJZCAtPiAxLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -899,9 +911,9 @@
       </register>
     </registers>
     <search>
-      <last-search>nearby</last-search>
+      <last-search>I18n</last-search>
       <last-offset />
-      <last-pattern>nearby</last-pattern>
+      <last-pattern>I18n</last-pattern>
       <last-replace>i18nTextGroupIds</last-replace>
       <last-substitute>attributeIds</last-substitute>
       <last-dir>1</last-dir>
@@ -920,6 +932,7 @@
         <entry>attributeIds</entry>
         <entry encoding="base64">XDxjb2x1bW5cPg==</entry>
         <entry>nearby</entry>
+        <entry>I18n</entry>
       </history-search>
       <history-cmd>
         <entry>set paste</entry>
