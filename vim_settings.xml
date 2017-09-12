@@ -286,6 +286,13 @@
         <mark key="^" line="33" column="15" />
         <mark key="." line="33" column="15" />
       </file>
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/CheckinHistoryControllerSpec.scala" timestamp="1505194043632">
+        <mark key="'" line="59" column="25" />
+        <mark key="[" line="15" column="26" />
+        <mark key="]" line="15" column="31" />
+        <mark key="^" line="15" column="31" />
+        <mark key="." line="15" column="31" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/ShopAttributeGroupDescription.scala" timestamp="1486462946958">
         <mark key="[" line="24" column="133" />
         <mark key="]" line="24" column="130" />
@@ -527,7 +534,8 @@
         <mark key="^" line="8" column="52" />
         <mark key="." line="8" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/MessageControllerSpec.scala" timestamp="1504852532797">
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/MessageControllerSpec.scala" timestamp="1505194051814">
+        <mark key="'" line="74" column="26" />
         <mark key="[" line="58" column="33" />
         <mark key="]" line="58" column="37" />
         <mark key="^" line="58" column="37" />
@@ -908,6 +916,8 @@
       <jump line="271" column="32" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" />
       <jump line="54" column="0" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" />
       <jump line="34" column="0" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" />
+      <jump line="59" column="25" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/CheckinHistoryControllerSpec.scala" />
+      <jump line="74" column="26" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/MessageControllerSpec.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -950,7 +960,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>21</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -992,8 +1002,8 @@
         <entry>84</entry>
         <entry>89</entry>
         <entry>8910</entry>
-        <entry>w</entry>
         <entry>21</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
