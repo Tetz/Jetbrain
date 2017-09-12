@@ -208,11 +208,12 @@
         <mark key="^" line="17" column="52" />
         <mark key="." line="17" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/ShopControllerSpec.scala" timestamp="1505205898653">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="44" />
-        <mark key="^" line="379" column="103" />
-        <mark key="." line="379" column="103" />
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/ShopControllerSpec.scala" timestamp="1505209363570">
+        <mark key="'" line="371" column="0" />
+        <mark key="[" line="378" column="0" />
+        <mark key="]" line="378" column="0" />
+        <mark key="^" line="379" column="63" />
+        <mark key="." line="378" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/MaterialHtml.scala" timestamp="1486611513006">
         <mark key="[" line="17" column="37" />
@@ -912,13 +913,15 @@
       <jump line="34" column="0" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" />
       <jump line="59" column="25" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/CheckinHistoryControllerSpec.scala" />
       <jump line="74" column="26" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/MessageControllerSpec.scala" />
+      <jump line="158" column="23" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/ShopControllerSpec.scala" />
+      <jump line="371" column="0" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/ShopControllerSpec.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTaG9wLmNvbHVtbi5zaG9wTmFtZSAtPiAiU2hvcE5hbWUxIiwK</text>
+        <text encoding="base64">ICAgICAgICBDb25zb2xlLnByaW50bG4oanNvbikK</text>
       </register>
       <register name="-" type="4">
-        <text>i18nTextGroupIds</text>
+        <text>Long</text>
       </register>
       <register name="/" type="4">
         <text>21</text>
@@ -927,28 +930,28 @@
         <text encoding="base64">ICAgICAgICBTaG9wLmNvbHVtbi5zaG9wTmFtZSAtPiAiU2hvcE5hbWUxIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBpMThuVGV4dEdyb3VwSWRzOiBBbnkgaWYgaTE4blRleHRHcm91cElkcy5ub25FbXB0eSA9Pgo=</text>
+        <text encoding="base64">ICAgICAgICBDb25zb2xlLnByaW50bG4oanNvbikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTb21lKFNRTFN5bnRheC5pbihTaG9wLnMuc2hvcE5hbWVJMThuVGV4dEdyb3VwSWQsIGlkcykpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaWRzID0gaTE4blRleHRHcm91cElkcy5zcGxpdChzZXBhcmF0b3IpLnRvU2VxCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTb21lKFNRTFN5bnRheC5pbihTaG9wLnMuc2hvcE5hbWVJMThuVGV4dEdyb3VwSWQsIGlkcykpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaWRzID0gaTE4blRleHRHcm91cElkcy5zcGxpdChzZXBhcmF0b3IpLnRvU2VxCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgY2FzZSBpMThuVGV4dEdyb3VwSWRzOiBBbnkgaWYgaTE4blRleHRHcm91cElkcy5ub25FbXB0eSA9Pgo=</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTb21lKFNRTFN5bnRheC5pbihTaG9wLnMuc2hvcE5hbWVJMThuVGV4dEdyb3VwSWQsIGlkcykpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgaWRzID0gaTE4blRleHRHcm91cElkcy5zcGxpdChzZXBhcmF0b3IpLnRvU2VxCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBTb21lKFNRTFN5bnRheC5pbihTaG9wLnMuc2hvcE5hbWVJMThuVGV4dEdyb3VwSWQsIGlkcykpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgaWRzID0gaTE4blRleHRHcm91cElkcy5zcGxpdChzZXBhcmF0b3IpLnRvU2VxCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgY2FzZSBpMThuVGV4dEdyb3VwSWRzOiBBbnkgaWYgaTE4blRleHRHcm91cElkcy5ub25FbXB0eSA9Pgo=</text>
+      </register>
+      <register name="8" type="8">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
