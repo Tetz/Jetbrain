@@ -701,10 +701,10 @@
         <mark key="." line="6" column="15" />
       </file>
       <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/clientjson/ArticlePresenter.scala" timestamp="1502873045135">
-        <mark key="[" line="24" column="16" />
-        <mark key="]" line="24" column="34" />
-        <mark key="^" line="24" column="34" />
-        <mark key="." line="24" column="34" />
+        <mark key="[" line="23" column="16" />
+        <mark key="]" line="23" column="34" />
+        <mark key="^" line="23" column="34" />
+        <mark key="." line="23" column="34" />
       </file>
       <file name="$USER_HOME$/Code/roco/play-util/src/main/scala/roco/play/util/extractors/RocoConsumer.scala" timestamp="1502783994814">
         <mark key="[" line="7" column="20" />
