@@ -148,12 +148,12 @@
         <mark key="^" line="24" column="62" />
         <mark key="." line="24" column="62" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/test/scala/roco/api/i18nmanager/ApplicationTestHelper.scala" timestamp="1502946078318">
+      <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/test/scala/roco/api/i18nmanager/ApplicationTestHelper.scala" timestamp="1505453016484">
         <mark key="'" line="22" column="4" />
-        <mark key="[" line="25" column="71" />
-        <mark key="]" line="26" column="1" />
-        <mark key="." line="26" column="1" />
-        <mark key="^" line="26" column="1" />
+        <mark key="[" line="25" column="70" />
+        <mark key="]" line="25" column="76" />
+        <mark key="." line="25" column="76" />
+        <mark key="^" line="25" column="76" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/build.sbt" timestamp="1486010502511">
         <mark key="[" line="3" column="38" />
