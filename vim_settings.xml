@@ -270,6 +270,12 @@
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
       </file>
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/clientjson/LabelWrites.scala" timestamp="1505464910465">
+        <mark key="[" line="11" column="34" />
+        <mark key="]" line="11" column="33" />
+        <mark key="." line="11" column="33" />
+        <mark key="^" line="11" column="33" />
+      </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/.elasticbeanstalk/config.yml" timestamp="1488448370561">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -458,11 +464,11 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Code/roco/db-migration/bin/reset" timestamp="1505275881148" />
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/clientjson/ShopPresenter.scala" timestamp="1505292469416">
-        <mark key="[" line="59" column="62" />
-        <mark key="]" line="94" column="48" />
-        <mark key="." line="94" column="48" />
-        <mark key="^" line="94" column="48" />
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/clientjson/ShopPresenter.scala" timestamp="1505464849725">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="55" />
+        <mark key="." line="28" column="53" />
+        <mark key="^" line="28" column="53" />
       </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/development/variables.tf" timestamp="1491031226675">
         <mark key="[" line="9" column="17" />
@@ -505,6 +511,12 @@
         <mark key="]" line="13" column="65" />
         <mark key="^" line="13" column="65" />
         <mark key="." line="13" column="65" />
+      </file>
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/clientjson/LabelGroupWrites.scala" timestamp="1505464900300">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="56" />
+        <mark key="." line="12" column="38" />
+        <mark key="^" line="12" column="38" />
       </file>
       <file name="$USER_HOME$/Code/CognitoPlayground/WebPlayground/js/preset.js" timestamp="1490949313235">
         <mark key="[" line="5" column="57" />
@@ -700,11 +712,11 @@
         <mark key="^" line="6" column="15" />
         <mark key="." line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/clientjson/ArticlePresenter.scala" timestamp="1502873045135">
-        <mark key="[" line="23" column="16" />
-        <mark key="]" line="23" column="34" />
-        <mark key="^" line="23" column="34" />
-        <mark key="." line="23" column="34" />
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/clientjson/ArticlePresenter.scala" timestamp="1505464881180">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="53" />
+        <mark key="^" line="20" column="35" />
+        <mark key="." line="20" column="35" />
       </file>
       <file name="$USER_HOME$/Code/roco/play-util/src/main/scala/roco/play/util/extractors/RocoConsumer.scala" timestamp="1502783994814">
         <mark key="[" line="7" column="20" />
@@ -779,12 +791,6 @@
         <mark key="^" line="13" column="18" />
         <mark key="." line="13" column="18" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/test/scala/roco/api/i18nmanager/controllers/I18nTextGroupControllerTest.scala" timestamp="1504767054242">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/MaterialKey.scala" timestamp="1481783937187">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="5" column="0" />
@@ -814,6 +820,13 @@
         <mark key="]" line="15" column="7" />
         <mark key="^" line="15" column="7" />
         <mark key="." line="15" column="7" />
+      </file>
+      <file name="$USER_HOME$/Code/roco/api-onlinecontent/src/main/scala/roco/api/onlinecontent/clientjson/ConsumerCouponWrites.scala" timestamp="1505464970448">
+        <mark key="'" line="46" column="55" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="56" />
+        <mark key="." line="31" column="55" />
+        <mark key="^" line="31" column="55" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/bin/deploy_client.sh" timestamp="1488434867609">
         <mark key="[" line="4" column="4" />
@@ -934,19 +947,20 @@
       <jump line="371" column="0" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/ShopControllerSpec.scala" />
       <jump line="206" column="0" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/ShopControllerSpec.scala" />
       <jump line="62" column="8" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/models/Message.scala" />
+      <jump line="46" column="55" filename="$USER_HOME$/Code/roco/api-onlinecontent/src/main/scala/roco/api/onlinecontent/clientjson/ConsumerCouponWrites.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgImkxOG5UZXh0R3JvdXBJZCIgLT4gY291cG9uLmkxOG5UZXh0R3JvdXBJZCwK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>labelGroup</text>
       </register>
       <register name="/" type="4">
         <text>21</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiaTE4blRleHRHcm91cElkIiAtPiBncm91cERlc2MuaTE4blRleHRHcm91cElkLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgImkxOG5UZXh0R3JvdXBJZCIgLT4gY291cG9uLmkxOG5UZXh0R3JvdXBJZCwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
