@@ -478,9 +478,9 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="26" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/models/AttributeGroup.scala" timestamp="1505206008020">
-        <mark key="[" line="10" column="30" />
-        <mark key="]" line="10" column="30" />
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/models/AttributeGroup.scala" timestamp="1506487161882">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="18" column="76" />
         <mark key="^" line="10" column="30" />
         <mark key="." line="10" column="30" />
       </file>
@@ -947,7 +947,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text encoding="base64">ICBhdHRyaWJ1dGVHcm91cElkOiBMb25nLAogIGF0dHJpYnV0ZUdyb3VwS2V5SWQ6IExvbmcsCiAgaTE4blRleHRHcm91cElkOiBPcHRpb25bTG9uZ10sCiAgbmFtZTogU3RyaW5nLAogIHdlaWdodDogSW50LAogIG1heFNlbGVjdGlvbkNvdW50OiBJbnQsCiAgY3JlYXRlZEF0OiBEYXRlVGltZSwKICB1cGRhdGVkQXQ6IERhdGVUaW1lLAogIGF0dHJpYnV0ZUdyb3VwS2V5OiBPcHRpb25bQXR0cmlidXRlR3JvdXBLZXldID0gTm9uZSwKICBhdHRyaWJ1dGVzOiBTZXFbQXR0cmlidXRlXSA9IE5pbCwKICBzaG9wQXR0cmlidXRlR3JvdXBEZXNjcmlwdGlvbjogT3B0aW9uW1Nob3BBdHRyaWJ1dGVHcm91cERlc2NyaXB0aW9uXSA9IE5vbmU=</text>
       </register>
       <register name="-" type="4">
         <text>(</text>
@@ -955,8 +955,8 @@
       <register name="/" type="4">
         <text>21</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiaWQiIC0+IG1lc3NhZ2VDYXRlZ29yeS5tZXNzYWdlQ2F0ZWdvcnlJZCwK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICBhdHRyaWJ1dGVHcm91cElkOiBMb25nLAogIGF0dHJpYnV0ZUdyb3VwS2V5SWQ6IExvbmcsCiAgaTE4blRleHRHcm91cElkOiBPcHRpb25bTG9uZ10sCiAgbmFtZTogU3RyaW5nLAogIHdlaWdodDogSW50LAogIG1heFNlbGVjdGlvbkNvdW50OiBJbnQsCiAgY3JlYXRlZEF0OiBEYXRlVGltZSwKICB1cGRhdGVkQXQ6IERhdGVUaW1lLAogIGF0dHJpYnV0ZUdyb3VwS2V5OiBPcHRpb25bQXR0cmlidXRlR3JvdXBLZXldID0gTm9uZSwKICBhdHRyaWJ1dGVzOiBTZXFbQXR0cmlidXRlXSA9IE5pbCwKICBzaG9wQXR0cmlidXRlR3JvdXBEZXNjcmlwdGlvbjogT3B0aW9uW1Nob3BBdHRyaWJ1dGVHcm91cERlc2NyaXB0aW9uXSA9IE5vbmU=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
