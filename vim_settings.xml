@@ -411,6 +411,7 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="19" column="90" />
       </file>
+      <file name="$USER_HOME$/Code/roco/api-onlinecontent/src/main/scala/roco/api/onlinecontent/models/Coupon.scala" timestamp="1506573469066" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ConsumerController.scala" timestamp="1484728591305">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="83" />
@@ -720,6 +721,12 @@
         <mark key="^" line="20" column="35" />
         <mark key="." line="20" column="35" />
       </file>
+      <file name="$USER_HOME$/Code/roco/api-onlinecontent/src/main/scala/roco/api/onlinecontent/models/CouponType.scala" timestamp="1506573473071">
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="19" />
+        <mark key="." line="9" column="19" />
+        <mark key="^" line="9" column="16" />
+      </file>
       <file name="$USER_HOME$/Code/roco/play-util/src/main/scala/roco/play/util/extractors/RocoConsumer.scala" timestamp="1502783994814">
         <mark key="[" line="7" column="20" />
         <mark key="]" line="19" column="39" />
@@ -953,16 +960,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>name</text>
+        <text>String</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>21</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAibmFtZSIgLT4gY0NhdGVnb3J5Lm5hbWUK</text>
+        <text encoding="base64">ICBuYW1lOiBTdHJpbmcsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
