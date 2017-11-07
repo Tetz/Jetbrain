@@ -119,11 +119,11 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="34" column="34" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/LabelControllerSpec.scala" timestamp="1510032608084">
-        <mark key="[" line="122" column="22" />
-        <mark key="]" line="122" column="27" />
-        <mark key="^" line="122" column="27" />
-        <mark key="." line="122" column="27" />
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/LabelControllerSpec.scala" timestamp="1510034700233">
+        <mark key="[" line="90" column="25" />
+        <mark key="]" line="90" column="25" />
+        <mark key="^" line="90" column="25" />
+        <mark key="." line="90" column="25" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/HomeController.scala" timestamp="1484647292880">
         <mark key="[" line="6" column="0" />
