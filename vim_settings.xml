@@ -119,12 +119,12 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="34" column="34" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/LabelControllerSpec.scala" timestamp="1510036623554">
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/LabelControllerSpec.scala" timestamp="1510038589240">
         <mark key="'" line="93" column="31" />
-        <mark key="[" line="98" column="13" />
-        <mark key="]" line="99" column="7" />
-        <mark key="^" line="99" column="7" />
-        <mark key="." line="99" column="7" />
+        <mark key="[" line="93" column="33" />
+        <mark key="]" line="93" column="36" />
+        <mark key="^" line="93" column="36" />
+        <mark key="." line="93" column="36" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/HomeController.scala" timestamp="1484647292880">
         <mark key="[" line="6" column="0" />
@@ -974,17 +974,17 @@
       <jump line="93" column="31" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/LabelControllerSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>labelGroupId</text>
       </register>
       <register name="-" type="4">
-        <text>i18nTextGroupId</text>
+        <text>labelGroupId</text>
       </register>
       <register name="/" type="4">
         <text>21</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiaTE4blRleHRHcm91cElkIiAtPiAxLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAibGFiZWxHcm91cElkIiAtPiAxLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
