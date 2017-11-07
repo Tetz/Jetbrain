@@ -39,12 +39,12 @@
         <mark key="^" line="31" column="56" />
         <mark key="." line="31" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/LabelController.scala" timestamp="1510031180326">
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/LabelController.scala" timestamp="1510033947059">
         <mark key="'" line="50" column="2" />
-        <mark key="[" line="52" column="6" />
-        <mark key="]" line="52" column="11" />
-        <mark key="^" line="52" column="11" />
-        <mark key="." line="52" column="11" />
+        <mark key="[" line="55" column="16" />
+        <mark key="]" line="55" column="20" />
+        <mark key="^" line="55" column="20" />
+        <mark key="." line="55" column="20" />
       </file>
       <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/models/Message.scala" timestamp="1507612382801">
         <mark key="'" line="62" column="8" />
