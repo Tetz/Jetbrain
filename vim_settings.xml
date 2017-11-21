@@ -46,6 +46,11 @@
         <mark key="." line="229" column="32" />
         <mark key="^" line="229" column="32" />
       </file>
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/AttributeController.scala" timestamp="1511239194455">
+        <mark key="]" line="21" column="2" />
+        <mark key="^" line="21" column="2" />
+        <mark key="." line="21" column="2" />
+      </file>
       <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/CheckinHistoryControllerSpec.scala" timestamp="1505194043632">
         <mark key="'" line="59" column="25" />
         <mark key="[" line="15" column="26" />
