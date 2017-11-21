@@ -224,7 +224,7 @@
         <mark key="." line="17" column="52" />
       </file>
       <file name="$USER_HOME$/Code/roco/play-util/src/main/scala/roco/play/util/response/Success.scala" timestamp="1510031107028" />
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/ShopControllerSpec.scala" timestamp="1510045060611">
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/ShopControllerSpec.scala" timestamp="1511254673325">
         <mark key="'" line="206" column="0" />
         <mark key="[" line="229" column="22" />
         <mark key="]" line="229" column="32" />
@@ -499,11 +499,11 @@
         <mark key="^" line="4" column="13" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/AttributeControllerSpec.scala" timestamp="1511250099621">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="29" column="34" />
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/AttributeControllerSpec.scala" timestamp="1511255051737">
+        <mark key="[" line="60" column="45" />
+        <mark key="]" line="60" column="45" />
+        <mark key="." line="60" column="45" />
+        <mark key="^" line="60" column="45" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/AttributeToShopRef.scala" timestamp="1486458024808">
         <mark key="[" line="13" column="28" />
