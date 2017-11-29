@@ -406,11 +406,10 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/resources/routes" timestamp="1511259516201">
-        <mark key="[" line="39" column="106" />
-        <mark key="]" line="41" column="103" />
-        <mark key="." line="41" column="103" />
-        <mark key="^" line="41" column="103" />
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/resources/routes" timestamp="1511939856303">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_autoscaling_group.tf" timestamp="1491198176352">
         <mark key="[" line="13" column="0" />
@@ -667,11 +666,11 @@
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" timestamp="1511250882094">
-        <mark key="[" line="193" column="3" />
-        <mark key="]" line="311" column="46" />
-        <mark key="^" line="311" column="46" />
-        <mark key="." line="311" column="46" />
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" timestamp="1511940017809">
+        <mark key="[" line="4" column="32" />
+        <mark key="]" line="226" column="11" />
+        <mark key="." line="226" column="11" />
+        <mark key="^" line="226" column="11" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/filters/ExampleFilter.scala" timestamp="1484633267941">
         <mark key="[" line="15" column="7" />
@@ -976,44 +975,44 @@
       <jump line="74" column="29" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/AttributeController.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8K</text>
+      <register name="&quot;" type="4">
+        <text>update</text>
       </register>
       <register name="-" type="4">
-        <text>labelGroupId</text>
+        <text>update</text>
       </register>
       <register name="/" type="4">
         <text>21</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICB2YWwgYXR0cmlidXRlSWRfMSA9IEF0dHJpYnV0ZS5jcmVhdGVXaXRoTmFtZWRWYWx1ZXMoCiAgICAgICAgICBBdHRyaWJ1dGUuY29sdW1uLmF0dHJpYnV0ZUdyb3VwSWQgLT4gYXR0cmlidXRlR3JvdXBJZF8xLAogICAgICAgICAgQXR0cmlidXRlLmNvbHVtbi5uYW1lIC0+IGF0dHJpYnV0ZU5hbWVfMSwKICAgICAgICAgIEF0dHJpYnV0ZS5jb2x1bW4ud2VpZ2h0IC0+IGF0dHJpYnV0ZVdlaWdodF8xCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAvLyBUT0RPCiAgZGVmIHVwZGF0ZTogQWN0aW9uW0FueUNvbnRlbnRdID0gQWN0aW9uIHsgaW1wbGljaXQgcmVxdWVzdDogUmVxdWVzdFtBbnlDb250ZW50XSA9PgogICAgdmFsIGV4dHJhY3RvcnMuUm9jb1NlcnZpY2VJZChzZXJ2aWNlSWQpID0gcmVxdWVzdAogICAgQ29ubmVjdGlvbihzZXJ2aWNlSWQpIGxvY2FsVHggeyBpbXBsaWNpdCBzZXNzaW9uID0+CiAgICAgIE9rKFN1Y2Nlc3MuanNvbikKICAgIH0KICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8K</text>
+        <text encoding="base64">ICAgICAgdmFsIHJlc3VsdCA9IEpzb24ub2JqKGRhdGFLZXkgLT4gU2hvcExpc3RXcml0ZShzaG9wTGlzdCwgTmlsKS50b0pzb24pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBUT0RPCg==</text>
+        <text encoding="base64">ICAgICAgICAuYXBwbHkoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgT2soU3VjY2Vzcy5qc29uKQo=</text>
+        <text encoding="base64">ICAgICAgICAub3JkZXJCeShTaG9wLnN1YmRpdmlzaW9uT3JkZXJpbmdzOiBfKikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxpa2VqZGJjLnNxbHMK</text>
+        <text encoding="base64">ICAgICAgICAud2hlcmUoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHJvY28ubGliLmVycm9yLlJlc291cmNlTm90Rm91bmQK</text>
+        <text encoding="base64">ICAgICAgdmFsIHNob3BMaXN0ID0gU2hvcAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihhdHRyaWJ1dGUpCg==</text>
+        <text encoding="base64">IyAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBUT0RPCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyBUT0RPCg==</text>
+        <text encoding="base64">UE9TVCAgICAvc2hvcHMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
