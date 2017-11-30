@@ -218,8 +218,8 @@
         <mark key="^" line="12" column="11" />
         <mark key="." line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/resources/routes" timestamp="1511941693216">
-        <mark key="[" line="20" column="18" />
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/resources/routes" timestamp="1512033121342">
+        <mark key="[" line="19" column="120" />
         <mark key="]" line="19" column="17" />
         <mark key="." line="19" column="17" />
         <mark key="^" line="19" column="17" />
@@ -278,7 +278,7 @@
         <mark key="^" line="8" column="52" />
         <mark key="." line="8" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" timestamp="1512029007187">
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" timestamp="1512033011598">
         <mark key="[" line="196" column="5" />
         <mark key="]" line="226" column="11" />
         <mark key="." line="226" column="11" />
