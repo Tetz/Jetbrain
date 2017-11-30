@@ -51,6 +51,9 @@
         <mark key="^" line="9" column="57" />
         <mark key="." line="9" column="57" />
       </file>
+      <file name="/HTML4 File.txt.ft" timestamp="1512028421572">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/development/variables.tf" timestamp="1491031226675">
         <mark key="[" line="9" column="17" />
         <mark key="]" line="74" column="0" />
@@ -185,6 +188,9 @@
         <mark key="^" line="25" column="66" />
         <mark key="." line="25" column="66" />
       </file>
+      <file name="/Kotlin Interface.txt.ft" timestamp="1512028429109">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/LabelControllerSpec.scala" timestamp="1511260690919">
         <mark key="[" line="94" column="25" />
         <mark key="]" line="94" column="29" />
@@ -202,6 +208,9 @@
         <mark key="]" line="4" column="3" />
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
+      </file>
+      <file name="/Sass File.txt.ft" timestamp="1512028428771">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/vm/ciatr-vm/.gitignore" timestamp="1488788087893">
         <mark key="[" line="12" column="0" />
@@ -269,7 +278,7 @@
         <mark key="^" line="8" column="52" />
         <mark key="." line="8" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" timestamp="1511940017809">
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" timestamp="1512028143017">
         <mark key="]" line="226" column="11" />
         <mark key="." line="226" column="11" />
         <mark key="^" line="226" column="11" />
@@ -364,11 +373,17 @@
         <mark key="^" line="1" column="30" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="/HTML File.txt.ft" timestamp="1512028423270">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/roco/play-util/src/main/scala/roco/play/util/extractors/AttributeParameter.scala" timestamp="1511260597252">
         <mark key="[" line="17" column="50" />
         <mark key="]" line="17" column="50" />
         <mark key="." line="17" column="50" />
         <mark key="^" line="17" column="50" />
+      </file>
+      <file name="/Gradle Build Script with wrapper.txt.ft" timestamp="1512028430572">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/routes" timestamp="1485513511245">
         <mark key="[" line="14" column="0" />
@@ -448,6 +463,9 @@
         <mark key="." line="106" column="171" />
         <mark key="^" line="106" column="171" />
       </file>
+      <file name="/AnnotationType.txt.ft" timestamp="1512028422051">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/models/Message.scala" timestamp="1511251721363">
         <mark key="'" line="62" column="8" />
         <mark key="[" line="9" column="25" />
@@ -505,6 +523,9 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="13" column="6" />
       </file>
+      <file name="/Scala Trait.txt.ft" timestamp="1512028431115">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/aws_elasticache.tf" timestamp="1486994719397">
         <mark key="[" line="14" column="1" />
         <mark key="]" line="4" column="36" />
@@ -528,6 +549,9 @@
         <mark key="]" line="24" column="130" />
         <mark key="^" line="24" column="130" />
         <mark key="." line="24" column="130" />
+      </file>
+      <file name="/Kotlin Class.txt.ft" timestamp="1512028429650">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ArticleController.scala" timestamp="1502873266809">
         <mark key="[" line="41" column="10" />
@@ -576,6 +600,9 @@
         <mark key="]" line="29" column="1" />
         <mark key="." line="29" column="1" />
         <mark key="^" line="29" column="1" />
+      </file>
+      <file name="/SCSS File.txt.ft" timestamp="1512028428075">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/main/scala/roco/api/i18nmanager/controllers/I18nTextController.scala" timestamp="1503381501356">
         <mark key="[" line="38" column="19" />
@@ -667,6 +694,9 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="14" />
       </file>
+      <file name="/Scala Worksheet.txt.ft" timestamp="1512028430053">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/seeder/src/seeder/json/skinny/seeder.scala" timestamp="1485408991466">
         <mark key="[" line="9" column="10" />
         <mark key="]" line="9" column="20" />
@@ -726,6 +756,9 @@
         <mark key="]" line="2" column="5" />
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="5" />
+      </file>
+      <file name="/Scala Class.txt.ft" timestamp="1512028431844">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_autoscaling_group.tf" timestamp="1491198176352">
         <mark key="[" line="13" column="0" />
@@ -790,6 +823,9 @@
         <mark key="^" line="4" column="17" />
         <mark key="." line="4" column="17" />
       </file>
+      <file name="/TypeScript File.txt.ft" timestamp="1512028422631">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/Activation.js" timestamp="1488876197642">
         <mark key="[" line="10" column="15" />
         <mark key="]" line="10" column="15" />
@@ -819,6 +855,9 @@
         <mark key="]" line="5" column="13" />
         <mark key="." line="5" column="13" />
         <mark key="^" line="5" column="13" />
+      </file>
+      <file name="/Enum.txt.ft" timestamp="1512028424701">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/bin/deploy.sh" timestamp="1488861858133">
         <mark key="[" line="1" column="13" />
