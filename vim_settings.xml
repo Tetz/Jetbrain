@@ -191,7 +191,7 @@
       <file name="/Kotlin Interface.txt.ft" timestamp="1512028429109">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/LabelControllerSpec.scala" timestamp="1511260690919">
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/LabelControllerSpec.scala" timestamp="1512034686016">
         <mark key="[" line="94" column="25" />
         <mark key="]" line="94" column="29" />
         <mark key="." line="94" column="29" />
@@ -499,12 +499,12 @@
         <mark key="." line="53" column="54" />
         <mark key="^" line="53" column="54" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/ShopControllerSpec.scala" timestamp="1511254673325">
-        <mark key="'" line="206" column="0" />
-        <mark key="[" line="229" column="22" />
-        <mark key="]" line="229" column="32" />
-        <mark key="." line="229" column="32" />
-        <mark key="^" line="229" column="32" />
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/ShopControllerSpec.scala" timestamp="1512034822334">
+        <mark key="'" line="213" column="17" />
+        <mark key="[" line="211" column="22" />
+        <mark key="]" line="211" column="21" />
+        <mark key="." line="211" column="21" />
+        <mark key="^" line="211" column="21" />
       </file>
       <file name="$USER_HOME$/Code/CognitoPlayground/WebPlayground/public/index.html" timestamp="1490866910698">
         <mark key="[" line="39" column="22" />
@@ -998,46 +998,47 @@
       <jump line="55" column="10" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/LabelController.scala" />
       <jump line="127" column="0" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/AttributeControllerSpec.scala" />
       <jump line="74" column="29" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/AttributeController.scala" />
+      <jump line="213" column="17" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/ShopControllerSpec.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>DELETE</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>DELETE</text>
       </register>
       <register name="/" type="4">
         <text>21</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">R0VUICAgICAvc2hvcHMvaWRzICAgICAgICAgICAgICAgICAgICAgICByb2NvLmFwaS5vZmZsaW5lbWF0ZXJpYWwuY29udHJvbGxlcnMuU2hvcENvbnRyb2xsZXIubGlzdEJ5SWRzKGluOiBTdHJpbmcgPz0gIiIpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIC8vIFRPRE8KICAgICJERUxFVEUgL3Nob3BzIGRlbGV0ZSBhIHNob3AiIGluIHsKICAgICAgQ29ubmVjdGlvbigiMSIpIGF1dG9Db21taXQgeyBpbXBsaWNpdCBzZXNzaW9uID0+CiAgICAgICAgLy8gUFJFUEFSRQogICAgICAgIHZhbCBjID0gbmV3Q29uc3VtZXIKCiAgICAgICAgLy8gVEVTVAogICAgICAgIHZhbCByZXN1bHQxID0gcm91dGUoCiAgICAgICAgICBhcHAsCiAgICAgICAgICBGYWtlUmVxdWVzdChERUxFVEUsIHMiL3Nob3BzLzEiKQogICAgICAgICAgICAud2l0aEhlYWRlcnMoIlgtQVdTLUNvZ25pdG8tSWRlbnRpdHktSWQiIC0+IGMuY29nbml0b1VVSUQuZ2V0LnV1aWQsICJYLVJvY28tU2VydmljZS1JZCIgLT4gIjEiKQogICAgICAgICkuZ2V0CiAgICAgICAgc3RhdHVzKHJlc3VsdDEpIG11c3RCZSBPSwogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHJlc3VsdCA9IEpzb24ub2JqKGRhdGFLZXkgLT4gU2hvcExpc3RXcml0ZShzaG9wTGlzdCwgTmlsKS50b0pzb24pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAuYXBwbHkoKQo=</text>
+        <text encoding="base64">ICAgICAgdmFsIHJlc3VsdCA9IEpzb24ub2JqKGRhdGFLZXkgLT4gU2hvcExpc3RXcml0ZShzaG9wTGlzdCwgTmlsKS50b0pzb24pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAub3JkZXJCeShTaG9wLnN1YmRpdmlzaW9uT3JkZXJpbmdzOiBfKikK</text>
+        <text encoding="base64">ICAgICAgICAuYXBwbHkoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAud2hlcmUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAub3JkZXJCeShTaG9wLnN1YmRpdmlzaW9uT3JkZXJpbmdzOiBfKikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHNob3BMaXN0ID0gU2hvcAo=</text>
+        <text encoding="base64">ICAgICAgICAud2hlcmUoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIHNob3BMaXN0ID0gU2hvcAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
