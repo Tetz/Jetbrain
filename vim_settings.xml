@@ -121,11 +121,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/roco/play-util/src/main/scala/roco/play/util/extractors/ShopParameter.scala" timestamp="1513072532702">
-        <mark key="[" line="41" column="41" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="18" column="10" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Code/roco/play-util/src/main/scala/roco/play/util/extractors/ShopParameter.scala" timestamp="1513076083630">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="24" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ArticleClip.scala" timestamp="1484121762264">
         <mark key="[" line="12" column="0" />
@@ -992,11 +992,11 @@
       <jump line="213" column="17" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/ShopControllerSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgT2soU3VjY2Vzcy5qc29uKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>latitude</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>21</text>
