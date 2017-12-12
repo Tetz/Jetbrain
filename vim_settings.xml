@@ -43,13 +43,6 @@
         <mark key="^" line="31" column="56" />
         <mark key="." line="31" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/models/Message.scala" timestamp="1511251721363">
-        <mark key="'" line="62" column="8" />
-        <mark key="[" line="9" column="25" />
-        <mark key="]" line="9" column="26" />
-        <mark key="." line="9" column="26" />
-        <mark key="^" line="11" column="31" />
-      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ShopPresenter.scala" timestamp="1487145371386">
         <mark key="[" line="112" column="8" />
         <mark key="]" line="112" column="9" />
@@ -116,7 +109,7 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="34" column="34" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/LabelControllerSpec.scala" timestamp="1512034686016">
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/LabelControllerSpec.scala" timestamp="1513060946833">
         <mark key="[" line="94" column="25" />
         <mark key="]" line="94" column="29" />
         <mark key="." line="94" column="29" />
@@ -128,11 +121,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/roco/play-util/src/main/scala/roco/play/util/extractors/ShopParameter.scala" timestamp="1512468239822">
-        <mark key="[" line="48" column="7" />
-        <mark key="]" line="48" column="7" />
-        <mark key="^" line="48" column="7" />
-        <mark key="." line="48" column="7" />
+      <file name="$USER_HOME$/Code/roco/play-util/src/main/scala/roco/play/util/extractors/ShopParameter.scala" timestamp="1513061427799">
+        <mark key="[" line="53" column="129" />
+        <mark key="]" line="17" column="10" />
+        <mark key="^" line="17" column="10" />
+        <mark key="." line="17" column="10" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ArticleClip.scala" timestamp="1484121762264">
         <mark key="[" line="12" column="0" />
@@ -230,12 +223,12 @@
         <mark key="^" line="17" column="52" />
         <mark key="." line="17" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/ShopControllerSpec.scala" timestamp="1512034822334">
-        <mark key="'" line="213" column="17" />
-        <mark key="[" line="211" column="22" />
-        <mark key="]" line="211" column="21" />
-        <mark key="." line="211" column="21" />
-        <mark key="^" line="211" column="21" />
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/ShopControllerSpec.scala" timestamp="1513061270839">
+        <mark key="'" line="245" column="17" />
+        <mark key="[" line="229" column="19" />
+        <mark key="]" line="228" column="28" />
+        <mark key="." line="228" column="28" />
+        <mark key="^" line="228" column="28" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/MaterialHtml.scala" timestamp="1486611513006">
         <mark key="[" line="17" column="37" />
@@ -248,13 +241,6 @@
         <mark key="]" line="6" column="4" />
         <mark key="^" line="7" column="0" />
         <mark key="." line="6" column="4" />
-      </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/AttributeController.scala" timestamp="1511934683395">
-        <mark key="'" line="69" column="29" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="34" column="51" />
       </file>
       <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/templates/my.cnf.j2" timestamp="1489829194019">
         <mark key="[" line="15" column="0" />
@@ -853,13 +839,6 @@
         <mark key="." line="38" column="37" />
         <mark key="^" line="38" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-onlinecontent/src/main/scala/roco/api/onlinecontent/clientjson/ConsumerCouponWrites.scala" timestamp="1506572124906">
-        <mark key="'" line="46" column="55" />
-        <mark key="[" line="53" column="48" />
-        <mark key="]" line="53" column="54" />
-        <mark key="." line="53" column="54" />
-        <mark key="^" line="53" column="54" />
-      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/LabelController.scala" timestamp="1484710635187">
         <mark key="[" line="28" column="3" />
         <mark key="]" line="29" column="1" />
@@ -1011,18 +990,27 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>latitude</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>latitude</text>
       </register>
       <register name="/" type="4">
         <text>21</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgKGpzb24gXCAic3ViZGl2aXNpb25JU08iKS5hc09wdFtTdHJpbmddLAo=</text>
+        <text encoding="base64">ICBsYXRpdHVkZTogU3RyaW5nLAo=</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAibmFtZSIgLT4gIuODqeODmeODqzIiLAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAiaTE4blRleHRHcm91cElkIiAtPiAxLAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAibGFiZWxHcm91cElkIiAtPiAxLAo=</text>
+      </register>
+      <register name="4" type="8">
         <text>Some(
 Some(
 Some(
@@ -1039,10 +1027,10 @@ Some(
 Some(
 Some(</text>
       </register>
-      <register name="2" type="8">
+      <register name="5" type="8">
         <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
       </register>
-      <register name="3" type="8">
+      <register name="6" type="8">
         <text>json \ &quot;
 json \ &quot;
 json \ &quot;
@@ -1059,23 +1047,14 @@ json \ &quot;
 json \ &quot;
 json \ &quot;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjdXN0b21lclNob3BJZDogU3RyaW5nLAoK</text>
-      </register>
-      <register name="6" type="8">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
-      </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjdXN0b21lclNob3BJZDogU3RyaW5nLAoK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHJlc3VsdCA9IEpzb24ub2JqKGRhdGFLZXkgLT4gU2hvcExpc3RXcml0ZShzaG9wTGlzdCwgTmlsKS50b0pzb24pCg==</text>
+      <register name="9" type="8">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
