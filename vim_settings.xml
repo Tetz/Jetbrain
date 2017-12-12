@@ -15,7 +15,7 @@
         <mark key="." line="78" column="45" />
         <mark key="^" line="78" column="36" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/models/Shop.scala" timestamp="1513071905288">
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/models/Shop.scala" timestamp="1513075123297">
         <mark key="[" line="13" column="32" />
         <mark key="]" line="13" column="32" />
         <mark key="^" line="13" column="32" />
@@ -238,6 +238,13 @@
         <mark key="]" line="6" column="4" />
         <mark key="^" line="7" column="0" />
         <mark key="." line="6" column="4" />
+      </file>
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/AttributeController.scala" timestamp="1513074997022">
+        <mark key="'" line="69" column="29" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="34" column="51" />
       </file>
       <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/templates/my.cnf.j2" timestamp="1489829194019">
         <mark key="[" line="15" column="0" />
@@ -665,11 +672,10 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" timestamp="1513054438115">
-        <mark key="[" line="212" column="20" />
-        <mark key="]" line="212" column="19" />
-        <mark key="." line="212" column="19" />
-        <mark key="^" line="212" column="19" />
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" timestamp="1513075107627">
+        <mark key="[" line="215" column="33" />
+        <mark key="]" line="222" column="0" />
+        <mark key="." line="222" column="0" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/api/package.json" timestamp="1486635949256">
         <mark key="[" line="17" column="23" />
@@ -987,7 +993,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgKGpzb24gXCAiZGlzcGxheVN0YXJ0RGF0ZSIpLmFzT3B0W0RhdGVUaW1lXSwK</text>
+        <text encoding="base64">ICAgICAgT2soU3VjY2Vzcy5qc29uKQo=</text>
       </register>
       <register name="-" type="4">
         <text>latitude</text>
@@ -999,59 +1005,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAibmFtZSIgLT4gIiIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgKGpzb24gXCAiZGlzcGxheVN0YXJ0RGF0ZSIpLmFzT3B0W0RhdGVUaW1lXSwK</text>
+        <text encoding="base64">ICAgICAgT2soU3VjY2Vzcy5qc29uKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAibmFtZSIgLT4gIiIsCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAibmFtZSIgLT4gIuODqeODmeODqzIiLAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiaTE4blRleHRHcm91cElkIiAtPiAxLAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAibGFiZWxHcm91cElkIiAtPiAxLAo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
-      <register name="6" type="8">
-        <text>Some(
-Some(
-Some(
-Some(
-Some(
-Some(
-Some(
-Some(
-Some(
-Some(
-Some(
-Some(
-Some(
-Some(
-Some(</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgQ29ubmVjdGlvbihzZXJ2aWNlSWQpIGxvY2FsVHggeyBpbXBsaWNpdCBzZXNzaW9uID0+Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgKGpzb24gXCAiZGlzcGxheVN0YXJ0RGF0ZSIpLmFzT3B0W0RhdGVUaW1lXSwK</text>
       </register>
-      <register name="8" type="8">
-        <text>json \ &quot;
-json \ &quot;
-json \ &quot;
-json \ &quot;
-json \ &quot;
-json \ &quot;
-json \ &quot;
-json \ &quot;
-json \ &quot;
-json \ &quot;
-json \ &quot;
-json \ &quot;
-json \ &quot;
-json \ &quot;
-json \ &quot;</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAibmFtZSIgLT4gIiIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAibmFtZSIgLT4gIuODqeODmeODqzIiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
