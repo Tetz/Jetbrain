@@ -672,7 +672,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" timestamp="1513666692753" />
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" timestamp="1513668277466">
+        <mark key="[" line="231" column="38" />
+        <mark key="]" line="233" column="45" />
+        <mark key="^" line="233" column="45" />
+        <mark key="." line="233" column="45" />
+      </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/api/package.json" timestamp="1486635949256">
         <mark key="[" line="17" column="23" />
         <mark key="]" line="17" column="23" />
