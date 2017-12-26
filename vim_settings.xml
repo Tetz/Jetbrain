@@ -121,8 +121,8 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/roco/play-util/src/main/scala/roco/play/util/extractors/ShopParameter.scala" timestamp="1514274042681">
-        <mark key="[" line="47" column="50" />
+      <file name="$USER_HOME$/Code/roco/play-util/src/main/scala/roco/play/util/extractors/ShopParameter.scala" timestamp="1514281688503">
+        <mark key="[" line="24" column="37" />
         <mark key="]" line="47" column="56" />
         <mark key="^" line="47" column="56" />
         <mark key="." line="47" column="56" />
@@ -677,8 +677,8 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" timestamp="1514280299974">
-        <mark key="[" line="245" column="56" />
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" timestamp="1514281335856">
+        <mark key="[" line="245" column="55" />
         <mark key="]" line="245" column="54" />
         <mark key="." line="245" column="54" />
         <mark key="^" line="245" column="54" />
