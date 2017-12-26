@@ -55,7 +55,7 @@
         <mark key="." line="20" column="50" />
         <mark key="^" line="20" column="50" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/models/ShopAttributeGroupDescription.scala" timestamp="1505205964210">
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/models/ShopAttributeGroupDescription.scala" timestamp="1514278445629">
         <mark key="[" line="9" column="30" />
         <mark key="]" line="9" column="30" />
         <mark key="^" line="9" column="30" />
@@ -472,6 +472,7 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="12" />
       </file>
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/models/AttributeToShopRef.scala" timestamp="1514278536989" />
       <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/Authentication.scala" timestamp="1502784570762">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -676,11 +677,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" timestamp="1514276930860">
-        <mark key="[" line="236" column="25" />
-        <mark key="]" line="239" column="58" />
-        <mark key="." line="239" column="58" />
-        <mark key="^" line="239" column="58" />
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ShopController.scala" timestamp="1514278696101">
+        <mark key="[" line="245" column="25" />
+        <mark key="]" line="245" column="22" />
+        <mark key="." line="245" column="22" />
+        <mark key="^" line="245" column="22" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/api/package.json" timestamp="1486635949256">
         <mark key="[" line="17" column="23" />
@@ -997,17 +998,17 @@
       <jump line="213" column="17" filename="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/ShopControllerSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>attributeId</text>
       </register>
       <register name="-" type="4">
-        <text>String]</text>
+        <text>attributeId</text>
       </register>
       <register name="/" type="4">
         <text>21</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICB2YWwgYXR0cmlidXRlR3JvdXBEZXNjcmlwdGlvbnMgPSAiIiIKICAgICAgICAgIHsKICAgICAgICAgICAgImF0dHJpYnV0ZUdyb3VwRGVzY3JpcHRpb25zIiA6IFsgewogICAgICAgICAgICAgICJhdHRyaWJ1dGVHcm91cElkIiA6IDEsCiAgICAgICAgICAgICAgImRlc2NyaXB0aW9uIiA6ICIzMOWPsCIsCiAgICAgICAgICAgICAgImlzQXZhaWxhYmxlIiA6IHRydWUKICAgICAgICAgICAgfSwgewogICAgICAgICAgICAgICJhdHRyaWJ1dGVHcm91cElkIiA6IDIsCiAgICAgICAgICAgICAgImRlc2NyaXB0aW9uIiA6ICIxMDDlj7AiLAogICAgICAgICAgICAgICJpc0F2YWlsYWJsZSIgOiBmYWxzZQogICAgICAgICAgICB9IF0KICAgICAgICAgIH0KICAgICAgICAiIiIK</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBBdHRyaWJ1dGVUb1Nob3BSZWYuY29sdW1uLmF0dHJpYnV0ZUlkIC0+IGF0dHJJZCwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
