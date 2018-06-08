@@ -4,10 +4,10 @@
     <property name="created">2018-06-09T00:12:18</property>
     <property name="ide">AppCode</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-06-09T00:18:39</property>
+    <property name="modified">2018-06-09T00:36:24</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
+  <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro for Powerline" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
