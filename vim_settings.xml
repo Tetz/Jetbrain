@@ -155,7 +155,7 @@
         <mark key="." line="38" column="152" />
         <mark key="^" line="38" column="152" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/API/JsonRpc/EtherKeystore.swift" timestamp="1528475381093" />
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/API/JsonRpc/EtherKeystore.swift" timestamp="1528524573473" />
       <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/models/Shop.scala" timestamp="1513663942652">
         <mark key="[" line="13" column="32" />
         <mark key="]" line="13" column="32" />
@@ -336,6 +336,12 @@
         <mark key="]" line="9" column="30" />
         <mark key="^" line="9" column="30" />
         <mark key="." line="9" column="30" />
+      </file>
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/API/JsonRpc/GethHelper.swift" timestamp="1528524738588">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="4" column="28" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ArticlePresenter.scala" timestamp="1485245977165">
         <mark key="[" line="50" column="20" />
@@ -724,6 +730,12 @@
         <mark key="^" line="10" column="37" />
         <mark key="." line="10" column="37" />
       </file>
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/API/JsonRpc/EthereumHelper.swift" timestamp="1528524937056">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="19" />
+        <mark key="^" line="5" column="19" />
+        <mark key="." line="5" column="19" />
+      </file>
       <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/Views/TokenListCell.swift" timestamp="1528522233543">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -1044,11 +1056,11 @@
       <jump line="20" column="9" filename="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/InfoViewController.swift" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>createWalletIfNotExists</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>createWalletIfNotExists</text>
       </register>
       <register name="/" type="4">
         <text>21</text>
@@ -1057,19 +1069,19 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjZWxsLmRlc3BMYWI/LnRleHQgPSBTdHJpbmcoRG91YmxlKHN0cnRvdWwocmVzdWx0LCBuaWwsIDE2KSkgKiBwb3coMC4xLCAxOCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IEtleWNoYWluU3dpZnQK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGxldCBteUtleXN0b3JlOiBTdHJpbmcgPSAibXlLZXlzdG9yZSIK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAvLyBKU09OIFJQQyA6IEdldEJhbGFuY2UKLy8gICAgICAgIGxldCByZXF1ZXN0ID0gRXJjMjBUb2tlbkdldEJhbGFuY2UoCi8vICAgICAgICAgICAgdG86ICIweDE2OWRiYjc0MzUyYTgzMWMzMWZmMDk5ZjA2NjM3MmM4ZjIwZGExNTQiLAovLyAgICAgICAgICAgIGRhdGE6ICIweDcwYTA4MjMxMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwOWFlMWY1YWRmY2MzODNiMWM1YTg1ZTdmMGJiYWQ0Yjc2OGU3ZDY2MSIsCi8vICAgICAgICAgICAgcXVhbnRpdHk6ICJsYXRlc3QiCi8vICAgICAgICApCiAgICAgICAgCiAgICAgICAgbGV0IHJlcXVlc3QgPSBFcmMyMFRva2VuR2V0QmFsYW5jZSgKICAgICAgICAgICAgdG86ICIweDE2OWRiYjc0MzUyYTgzMWMzMWZmMDk5ZjA2NjM3MmM4ZjIwZGExNTQiLAogICAgICAgICAgICBkYXRhOiAiMHg3MGEwODIzMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDlhZTFmNWFkZmNjMzgzYjFjNWE4NWU3ZjBiYmFkNGI3NjhlN2Q2NjEiLAogICAgICAgICAgICBxdWFudGl0eTogImxhdGVzdCIKICAgICAgICApCgogICAgICAgIGxldCBiYXRjaCA9IGJhdGNoRmFjdG9yeS5jcmVhdGUocmVxdWVzdCkKICAgICAgICBsZXQgaHR0cFJlcXVlc3QgPSBFdGhTZXJ2aWNlUmVxdWVzdChiYXRjaDogYmF0Y2gpCiAgICAgICAgCiAgICAgICAgcHJpbnQoaHR0cFJlcXVlc3QpCgogICAgICAgIFNlc3Npb24uc2VuZChodHRwUmVxdWVzdCkgeyByZXN1bHQgaW4KICAgICAgICAgICAgc3dpdGNoIHJlc3VsdCB7CiAgICAgICAgICAgIGNhc2UgLnN1Y2Nlc3MobGV0IHJlc3VsdCk6CiAgICAgICAgICAgICAgICBwcmludCgiPT09PT0gU3VjY2VzczogSlNPTlJQQyA9PT09PSIpCiAgICAgICAgICAgICAgICBsZXQgZGVjaW1hbFJlc3VsdCA9ICByZXN1bHQKICAgICAgICAgICAgICAgIHByaW50KGRlY2ltYWxSZXN1bHQpCiAgICAgICAgICAgIGNhc2UgLmZhaWx1cmUobGV0IGVycm9yKToKICAgICAgICAgICAgICAgIHByaW50KCI9PT09PSBFcnJvcjogSlNPTlJQQyA9PT09PSIpCiAgICAgICAgICAgICAgICBwcmludChlcnJvcikKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGxldCBteUV0aGVyQWRkcmVzczogU3RyaW5nID0gIm15RXRoZXJBZGRyZXNzIgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAvLyBMb2FkIGZyb20gS2V5Y2hhaW4KICAgICAgICBsZXQga2V5Y2hhaW4gPSBLZXljaGFpblN3aWZ0KCkKICAgICAgICBsZXQgYWRkcmVzczogU3RyaW5nPyA9IGtleWNoYWluLmdldChteUV0aGVyQWRkcmVzcykKICAgICAgICBsZXQga2V5c3RvcmU6IFN0cmluZz8gPSBrZXljaGFpbi5nZXQobXlLZXlzdG9yZSkKCiAgICAgICAgLy8gQ2hlY2sgaWYgZ2l2ZW4ga2V5cyBleGlzdCBpbiBLZXljaGFpbgogICAgICAgIGlmIGFkZHJlc3MgPT0gbmlsIHx8IGtleXN0b3JlID09IG5pbCB7CiAgICAgICAgICAgIC8vIEtleXNvdHJlCiAgICAgICAgICAgIGxldCBkYXRhRGlyID0gTlNTZWFyY2hQYXRoRm9yRGlyZWN0b3JpZXNJbkRvbWFpbnMoLmRvY3VtZW50RGlyZWN0b3J5LCAudXNlckRvbWFpbk1hc2ssIHRydWUpWzBdCiAgICAgICAgICAgIGxldCBrZXlTdG9yZVBhdGggPSBkYXRhRGlyICsgIi9rZXlzdG9yZSIKICAgICAgICAgICAgbGV0IGtleVN0b3JlTWFuYWdlciA9IEdldGhOZXdLZXlTdG9yZShrZXlTdG9yZVBhdGgsIEdldGhMaWdodFNjcnlwdE4sIEdldGhMaWdodFNjcnlwdFApCiAgICAgICAgICAgIGxldCBhY2NvdW50ID0gdHJ5ISBrZXlTdG9yZU1hbmFnZXI/Lm5ld0FjY291bnQoInBhc3N3b3JkIikKICAgICAgICAgICAgbGV0IG5ld0FkZHJlc3MgPSBhY2NvdW50Py5nZXRBZGRyZXNzKCkuZ2V0SGV4KCkKICAgICAgICAgICAgcHJpbnQoIm5ld0FkZHJlc3M6IFwobmV3QWRkcmVzcyEpIikKCiAgICAgICAgICAgIGxldCB1cmwgPSBhY2NvdW50Py5nZXRVUkwoKQogICAgICAgICAgICBsZXQgdXJsQXJyID0gdXJsIS5jb21wb25lbnRzKHNlcGFyYXRlZEJ5OiAiL2tleXN0b3JlLyIpCiAgICAgICAgICAgIGxldCBmaWxlID0gImtleXN0b3JlLyIgKyB1cmxBcnJbMV0KCiAgICAgICAgICAgIGlmIGxldCBkaXIgPSBGaWxlTWFuYWdlci5kZWZhdWx0LnVybHMoZm9yOiAuZG9jdW1lbnREaXJlY3RvcnksIGluOiAudXNlckRvbWFpbk1hc2spLmZpcnN0IHsKICAgICAgICAgICAgICAgIGxldCBmaWxlVVJMID0gZGlyLmFwcGVuZGluZ1BhdGhDb21wb25lbnQoZmlsZSkKICAgICAgICAgICAgICAgIGRvIHsKICAgICAgICAgICAgICAgICAgICBsZXQga2V5c3RvcmUgPSB0cnkgU3RyaW5nKGNvbnRlbnRzT2Y6IGZpbGVVUkwsIGVuY29kaW5nOiAudXRmOCkKICAgICAgICAgICAgICAgICAgICBrZXljaGFpbi5zZXQobmV3QWRkcmVzcyEsIGZvcktleTogbXlFdGhlckFkZHJlc3MpCiAgICAgICAgICAgICAgICAgICAga2V5Y2hhaW4uc2V0KGtleXN0b3JlLCBmb3JLZXk6IG15S2V5c3RvcmUpCiAgICAgICAgICAgICAgICAgICAgcHJpbnQoa2V5c3RvcmUpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBjYXRjaCB7CiAgICAgICAgICAgICAgICAgICAgcHJpbnQoIktleXN0b3JlIEZpbGUgRXJyb3IiKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHByaW50KCJXYWxsZXQgQWRkcmVzczogXChrZXljaGFpbi5nZXQobXlFdGhlckFkZHJlc3MpISkiKQogICAgICAgIHByaW50KCJXYWxsZXQgS2V5c3RvcmU6IFwoa2V5Y2hhaW4uZ2V0KG15S2V5c3RvcmUpISkiKQ==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -1078,10 +1090,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaHR0cFJlcXVlc3QpCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAvLyBKU09OIFJQQyA6IEdldEJhbGFuY2UKLy8gICAgICAgIGxldCByZXF1ZXN0ID0gRXJjMjBUb2tlbkdldEJhbGFuY2UoCi8vICAgICAgICAgICAgdG86ICIweDE2OWRiYjc0MzUyYTgzMWMzMWZmMDk5ZjA2NjM3MmM4ZjIwZGExNTQiLAovLyAgICAgICAgICAgIGRhdGE6ICIweDcwYTA4MjMxMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwOWFlMWY1YWRmY2MzODNiMWM1YTg1ZTdmMGJiYWQ0Yjc2OGU3ZDY2MSIsCi8vICAgICAgICAgICAgcXVhbnRpdHk6ICJsYXRlc3QiCi8vICAgICAgICApCiAgICAgICAgCiAgICAgICAgbGV0IHJlcXVlc3QgPSBFcmMyMFRva2VuR2V0QmFsYW5jZSgKICAgICAgICAgICAgdG86ICIweDE2OWRiYjc0MzUyYTgzMWMzMWZmMDk5ZjA2NjM3MmM4ZjIwZGExNTQiLAogICAgICAgICAgICBkYXRhOiAiMHg3MGEwODIzMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDlhZTFmNWFkZmNjMzgzYjFjNWE4NWU3ZjBiYmFkNGI3NjhlN2Q2NjEiLAogICAgICAgICAgICBxdWFudGl0eTogImxhdGVzdCIKICAgICAgICApCgogICAgICAgIGxldCBiYXRjaCA9IGJhdGNoRmFjdG9yeS5jcmVhdGUocmVxdWVzdCkKICAgICAgICBsZXQgaHR0cFJlcXVlc3QgPSBFdGhTZXJ2aWNlUmVxdWVzdChiYXRjaDogYmF0Y2gpCiAgICAgICAgCiAgICAgICAgcHJpbnQoaHR0cFJlcXVlc3QpCgogICAgICAgIFNlc3Npb24uc2VuZChodHRwUmVxdWVzdCkgeyByZXN1bHQgaW4KICAgICAgICAgICAgc3dpdGNoIHJlc3VsdCB7CiAgICAgICAgICAgIGNhc2UgLnN1Y2Nlc3MobGV0IHJlc3VsdCk6CiAgICAgICAgICAgICAgICBwcmludCgiPT09PT0gU3VjY2VzczogSlNPTlJQQyA9PT09PSIpCiAgICAgICAgICAgICAgICBsZXQgZGVjaW1hbFJlc3VsdCA9ICByZXN1bHQKICAgICAgICAgICAgICAgIHByaW50KGRlY2ltYWxSZXN1bHQpCiAgICAgICAgICAgIGNhc2UgLmZhaWx1cmUobGV0IGVycm9yKToKICAgICAgICAgICAgICAgIHByaW50KCI9PT09PSBFcnJvcjogSlNPTlJQQyA9PT09PSIpCiAgICAgICAgICAgICAgICBwcmludChlcnJvcikKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
