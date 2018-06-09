@@ -318,9 +318,9 @@
         <mark key="^" line="29" column="20" />
         <mark key="." line="29" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/WalletViewController.swift" timestamp="1528530092272">
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/WalletViewController.swift" timestamp="1528531074819">
         <mark key="'" line="63" column="4" />
-        <mark key="[" line="121" column="0" />
+        <mark key="[" line="33" column="41" />
         <mark key="]" line="121" column="0" />
         <mark key="." line="121" column="0" />
       </file>
@@ -839,9 +839,10 @@
         <mark key="." line="32" column="1" />
         <mark key="^" line="32" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/TokenViewController.swift" timestamp="1528530061097">
-        <mark key="'" line="53" column="0" />
-        <mark key="^" line="67" column="15" />
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/TokenViewController.swift" timestamp="1528531614102">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="84" column="49" />
+        <mark key="^" line="66" column="15" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/README.md" timestamp="1484043794680">
         <mark key="[" line="15" column="7" />
