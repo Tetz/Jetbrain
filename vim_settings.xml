@@ -840,10 +840,9 @@
         <mark key="." line="32" column="1" />
         <mark key="^" line="32" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/TokenViewController.swift" timestamp="1528531614102">
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/TokenViewController.swift" timestamp="1528533593291">
         <mark key="'" line="52" column="0" />
-        <mark key="[" line="84" column="49" />
-        <mark key="^" line="66" column="15" />
+        <mark key="[" line="82" column="25" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/README.md" timestamp="1484043794680">
         <mark key="[" line="15" column="7" />
@@ -1065,11 +1064,11 @@
       <jump line="53" column="0" filename="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/TokenViewController.swift" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>walletCard</text>
       </register>
       <register name="-" type="4">
-        <text>elf.ethHelper.weiToEth(hex: result) * tokenPrice</text>
+        <text>walletCard</text>
       </register>
       <register name="/" type="4">
         <text>21</text>
@@ -1081,25 +1080,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIH0K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL1N0cmluZyhmb3JtYXQ6ICIlLjJmIiwgY3VycmVudFJhdGlvKQo=</text>
+      <register name="3" type="4">
+        <text>//        let walletCard:UIImage = UIImage(named:&quot;WalletCard&quot;)!
+//        let walletImageView = UIImageView(image:walletCard)
+//        walletContent.addSubview(walletImageView)
+//        walletImageView.snp.makeConstraints { make in
+//            make.size.equalTo(CGSize(width: 365, height: 206))
+//            make.centerX.equalTo(walletContent)
+//            make.centerY.equalTo(walletContent)</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIEBvYmpjIGZ1bmMgb25UYXBwZWRSaWdodEJhckJ1dHRvbihfIHNlbmRlcjogVUlCdXR0b24pIHsKICAgICAgICBsZXQgdmMgPSBJbmZvVmlld0NvbnRyb2xsZXIodGl0bGVOYW1lOiAiSW5mb3JtYXRpb24iKQogICAgICAgIG5hdmlnYXRpb25Db250cm9sbGVyPy5wdXNoVmlld0NvbnRyb2xsZXIodmMsIGFuaW1hdGVkOiB0cnVlKQogICAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL1N0cmluZyhmb3JtYXQ6ICIlLjJmIiwgY3VycmVudFJhdGlvKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAvLyBSZWxlYXNlIHZlcnNpb24gMS4wCiAgICAgICAgLy8gbGV0IGluZm9JbWcgPSBVSUltYWdlKGZyb206IC5mb250QXdlc29tZSwgY29kZTogImVudmVsb3BlbyIsIGJhY2tncm91bmRDb2xvcjogLmNsZWFyLCBzaXplOiBDR1NpemUod2lkdGg6IDMwLCBoZWlnaHQ6IDMwKSkKICAgICAgICAvLyBuYXZpZ2F0aW9uSXRlbS5yaWdodEJhckJ1dHRvbkl0ZW0gPSBVSUJhckJ1dHRvbkl0ZW0oaW1hZ2U6IGluZm9JbWcsIHN0eWxlOiAucGxhaW4sIHRhcmdldDogc2VsZiwgYWN0aW9uOiAjc2VsZWN0b3Iob25UYXBwZWRSaWdodEJhckJ1dHRvbikp</text>
+        <text encoding="base64">ICAgIEBvYmpjIGZ1bmMgb25UYXBwZWRSaWdodEJhckJ1dHRvbihfIHNlbmRlcjogVUlCdXR0b24pIHsKICAgICAgICBsZXQgdmMgPSBJbmZvVmlld0NvbnRyb2xsZXIodGl0bGVOYW1lOiAiSW5mb3JtYXRpb24iKQogICAgICAgIG5hdmlnYXRpb25Db250cm9sbGVyPy5wdXNoVmlld0NvbnRyb2xsZXIodmMsIGFuaW1hdGVkOiB0cnVlKQogICAgfQ==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
