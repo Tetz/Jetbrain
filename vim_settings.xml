@@ -155,7 +155,6 @@
         <mark key="." line="38" column="152" />
         <mark key="^" line="38" column="152" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/API/JsonRpc/EtherKeystore.swift" timestamp="1528524573473" />
       <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/models/Shop.scala" timestamp="1513663942652">
         <mark key="[" line="13" column="32" />
         <mark key="]" line="13" column="32" />
@@ -840,9 +839,12 @@
         <mark key="." line="32" column="1" />
         <mark key="^" line="32" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/TokenViewController.swift" timestamp="1528533593291">
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/TokenViewController.swift" timestamp="1528704797390">
         <mark key="'" line="52" column="0" />
-        <mark key="[" line="82" column="25" />
+        <mark key="[" line="91" column="39" />
+        <mark key="]" line="91" column="48" />
+        <mark key="." line="91" column="48" />
+        <mark key="^" line="91" column="48" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/README.md" timestamp="1484043794680">
         <mark key="[" line="15" column="7" />
@@ -1064,8 +1066,8 @@
       <jump line="53" column="0" filename="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/TokenViewController.swift" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>walletCard</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWFrZS5jZW50ZXJZLmVxdWFsVG8oY29udGFpbmVyKQo=</text>
       </register>
       <register name="-" type="4">
         <text>walletCard</text>
@@ -1077,12 +1079,15 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjZWxsLmRlc3BMYWI/LnRleHQgPSBTdHJpbmcoRG91YmxlKHN0cnRvdWwocmVzdWx0LCBuaWwsIDE2KSkgKiBwb3coMC4xLCAxOCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFrZS5jZW50ZXJZLmVxdWFsVG8oY29udGFpbmVyKQo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Ly8gICAgICAgIH0K</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>//        let walletCard:UIImage = UIImage(named:&quot;WalletCard&quot;)!
 //        let walletImageView = UIImageView(image:walletCard)
 //        walletContent.addSubview(walletImageView)
@@ -1091,23 +1096,20 @@
 //            make.centerX.equalTo(walletContent)
 //            make.centerY.equalTo(walletContent)</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL1N0cmluZyhmb3JtYXQ6ICIlLjJmIiwgY3VycmVudFJhdGlvKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvL1N0cmluZyhmb3JtYXQ6ICIlLjJmIiwgY3VycmVudFJhdGlvKQo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgIEBvYmpjIGZ1bmMgb25UYXBwZWRSaWdodEJhckJ1dHRvbihfIHNlbmRlcjogVUlCdXR0b24pIHsKICAgICAgICBsZXQgdmMgPSBJbmZvVmlld0NvbnRyb2xsZXIodGl0bGVOYW1lOiAiSW5mb3JtYXRpb24iKQogICAgICAgIG5hdmlnYXRpb25Db250cm9sbGVyPy5wdXNoVmlld0NvbnRyb2xsZXIodmMsIGFuaW1hdGVkOiB0cnVlKQogICAgfQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
