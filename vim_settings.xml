@@ -320,7 +320,7 @@
         <mark key="^" line="29" column="20" />
         <mark key="." line="29" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/WalletViewController.swift" timestamp="1528709828624">
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/WalletViewController.swift" timestamp="1528712470039">
         <mark key="'" line="63" column="4" />
         <mark key="[" line="201" column="0" />
         <mark key="]" line="201" column="0" />
@@ -842,12 +842,12 @@
         <mark key="." line="32" column="1" />
         <mark key="^" line="32" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/TokenViewController.swift" timestamp="1528710026288">
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/TokenViewController.swift" timestamp="1528712581082">
         <mark key="'" line="35" column="43" />
-        <mark key="[" line="121" column="50" />
-        <mark key="]" line="121" column="40" />
-        <mark key="." line="121" column="40" />
-        <mark key="^" line="121" column="40" />
+        <mark key="[" line="110" column="50" />
+        <mark key="]" line="110" column="43" />
+        <mark key="." line="110" column="43" />
+        <mark key="^" line="110" column="43" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/README.md" timestamp="1484043794680">
         <mark key="[" line="15" column="7" />
@@ -1070,50 +1070,44 @@
       <jump line="35" column="43" filename="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/TokenViewController.swift" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>text</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB3YWxsZXRDb250ZW50LmJhY2tncm91bmRDb2xvciA9IGdyYXlDb2xvcgo=</text>
       </register>
       <register name="-" type="4">
-        <text>text</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>21</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjZWxsLmRlc3BMYWI/LnRleHQgPSBTdHJpbmcoRG91YmxlKHN0cnRvdWwocmVzdWx0LCBuaWwsIDE2KSkgKiBwb3coMC4xLCAxOCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFrZS5oZWlnaHQuZ3JlYXRlclRoYW5PckVxdWFsVG8oNTApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFrZS5ib3R0b20udG9wLmVxdWFsVG8oKQo=</text>
+        <text encoding="base64">ICAgICAgICB3YWxsZXRDb250ZW50LmJhY2tncm91bmRDb2xvciA9IGdyYXlDb2xvcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFrZS5jZW50ZXJZLmVxdWFsVG8od2FsbGV0SW1hZ2VWaWV3KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFrZS5sZWZ0LmVxdWFsVG8od2FsbGV0SW1hZ2VWaWV3KS5vZmZzZXQoMjApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFrZS5sZWZ0LnJpZ2h0LmVxdWFsVG8oY29udGFpbmVyKS5pbnNldCgyMCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFrZS5jZW50ZXJZLmVxdWFsVG8oY29udGFpbmVyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFrZS5ib3R0b20uZXF1YWxUbyhjb250YWluZXIpLmluc2V0KDIwKS5wcmlvcml0eShVSUxheW91dFByaW9yaXR5RGVmYXVsdExvdykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFrZS5ib3R0b20uZXF1YWxUbyhjb250YWluZXIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBidXR0b24uZnJhbWUgPSBDR1JlY3QoeDogc2VsZi52aWV3LmZyYW1lLnNpemUud2lkdGggLSA2MCwgeTogNjAsIHdpZHRoOiA1MCwgaGVpZ2h0OiA1MCkK</text>
       </register>
-      <register name="7" type="4">
-        <text>//        let walletCard:UIImage = UIImage(named:&quot;WalletCard&quot;)!
-//        let walletImageView = UIImageView(image:walletCard)
-//        walletContent.addSubview(walletImageView)
-//        walletImageView.snp.makeConstraints { make in
-//            make.size.equalTo(CGSize(width: 365, height: 206))
-//            make.centerX.equalTo(walletContent)
-//            make.centerY.equalTo(walletContent)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWFrZS5ib3R0b20udG9wLmVxdWFsVG8oKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFrZS5jZW50ZXJZLmVxdWFsVG8od2FsbGV0SW1hZ2VWaWV3KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFrZS5sZWZ0LmVxdWFsVG8od2FsbGV0SW1hZ2VWaWV3KS5vZmZzZXQoMjApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
