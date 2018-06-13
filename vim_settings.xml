@@ -554,11 +554,10 @@
         <mark key="." line="7" column="51" />
         <mark key="^" line="7" column="51" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/SendViewController.swift" timestamp="1528866270628">
-        <mark key="[" line="34" column="74" />
-        <mark key="]" line="34" column="53" />
-        <mark key="." line="34" column="53" />
-        <mark key="^" line="34" column="53" />
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/SendViewController.swift" timestamp="1528867450988">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/clientjson/LabelWrites.scala" timestamp="1505464910465">
         <mark key="[" line="11" column="34" />
@@ -847,12 +846,11 @@
         <mark key="." line="32" column="1" />
         <mark key="^" line="32" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/TokenViewController.swift" timestamp="1528860107760">
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/TokenViewController.swift" timestamp="1528867628005">
         <mark key="'" line="137" column="35" />
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="0" />
-        <mark key="." line="148" column="0" />
-        <mark key="^" line="148" column="532" />
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/README.md" timestamp="1484043794680">
         <mark key="[" line="15" column="7" />
@@ -1076,8 +1074,8 @@
       <jump line="137" column="35" filename="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/TokenViewController.swift" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>mainView</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>mainView</text>
@@ -1089,31 +1087,31 @@
         <text encoding="base64">ICAgICAgICBsZXQgdmMgPSBJbmZvVmlld0NvbnRyb2xsZXIodGl0bGVOYW1lOiAiSW5mb3JtYXRpb24iKQogICAgICAgIG5hdmlnYXRpb25Db250cm9sbGVyPy5wdXNoVmlld0NvbnRyb2xsZXIodmMsIGFuaW1hdGVkOiB0cnVlKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbWFpblZpZXcgPSBNYWluVGFiQmFyVmlld0NvbnRyb2xsZXIoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGxldCBzdGF0dXNCYXJIZWlnaHQgPSBVSUFwcGxpY2F0aW9uLnNoYXJlZC5zdGF0dXNCYXJGcmFtZS5oZWlnaHQK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIEBvYmpjIGZ1bmMgb3Blbk1vZGFsKHNlbmRlcjogVUlCdXR0b24pewoKICAgIH0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCBzdGF0dXNCYXJIZWlnaHQgPSBVSUFwcGxpY2F0aW9uLnNoYXJlZC5zdGF0dXNCYXJGcmFtZS5oZWlnaHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBuYXZpZ2F0aW9uQ29udHJvbGxlcj8ucG9wVmlld0NvbnRyb2xsZXIoYW5pbWF0ZWQ6dHJ1ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnByZXNlbnQodmMsIGFuaW1hdGVkOiB0cnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm5hdmlnYXRpb25JdGVtLnRpdGxlID0gIuODouODvOODgOODqyIK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Y2xhc3MgU2ltcGxlQW5pbWF0aW9uQ29udHJvbGxlcjogTlNPYmplY3QsIFVJVmlld0NvbnRyb2xsZXJBbmltYXRlZFRyYW5zaXRpb25pbmcgewogICAgZnVuYyB0cmFuc2l0aW9uRHVyYXRpb24odHJhbnNpdGlvbkNvbnRleHQ6IFVJVmlld0NvbnRyb2xsZXJDb250ZXh0VHJhbnNpdGlvbmluZykgLT4gVGltZUludGVydmFsIHsKICAgICAgICByZXR1cm4gMC4zNQogICAgfQoKICAgIGZ1bmMgYW5pbWF0ZVRyYW5zaXRpb24odHJhbnNpdGlvbkNvbnRleHQ6IFVJVmlld0NvbnRyb2xsZXJDb250ZXh0VHJhbnNpdGlvbmluZykgewogICAgICAgIGxldCBmcm9tVmlld0NvbnRyb2xsZXIgPSB0cmFuc2l0aW9uQ29udGV4dC52aWV3Q29udHJvbGxlcihVSVRyYW5zaXRpb25Db250ZXh0RnJvbVZpZXdDb250cm9sbGVyS2V5KQogICAgICAgIGxldCB0b1ZpZXdDb250cm9sbGVyID0gdHJhbnNpdGlvbkNvbnRleHQudmlld0NvbnRyb2xsZXIoVUlUcmFuc2l0aW9uQ29udGV4dFRvVmlld0NvbnRyb2xsZXJLZXkpIQogICAgICAgIHRyYW5zaXRpb25Db250ZXh0LmNvbnRhaW5lclZpZXcoKS5hZGRTdWJ2aWV3KHRvVmlld0NvbnRyb2xsZXIudmlldykKICAgICAgICB0b1ZpZXdDb250cm9sbGVyLnZpZXcuYWxwaGEgPSAwLjAKICAgICAgICBVSVZpZXcuYW5pbWF0ZVdpdGhEdXJhdGlvbigwLjM1LCBhbmltYXRpb25zOiB7CiAgICAgICAgICAgIHRvVmlld0NvbnRyb2xsZXIudmlldy5hbHBoYSA9IDEuMAogICAgICAgIH0sIGNvbXBsZXRpb246IHsgKGZpbmlzaGVkKSBpbgogICAgICAgICAgICB0cmFuc2l0aW9uQ29udGV4dC5jb21wbGV0ZVRyYW5zaXRpb24oIXRyYW5zaXRpb25Db250ZXh0LnRyYW5zaXRpb25XYXNDYW5jZWxsZWQoKSkKICAgICAgICB9KQogICAgfQp9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG5hdmdhdGlvbuOCv+OCpOODiOODq+OCkuioreWumgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAvLyBuYXZnYXRpb27jgr/jgqTjg4jjg6vjgpLoqK3lrpoKICAgICAgICBzZWxmLm5hdmlnYXRpb25JdGVtLnRpdGxlID0gIuODouODvOODgOODqyIKICAgICAgICBzZWxmLnZpZXcuYmFja2dyb3VuZENvbG9yID0gVUlDb2xvci5ncmVlbgoKICAgICAgICAvLyDlt6bkuIrjga7plonjgZjjgovjg5zjgr/jg7MKICAgICAgICBsZXQgY2xvc2VCdG4gPSBVSUJhckJ1dHRvbkl0ZW0oCiAgICAgICAgICAgICAgICB0aXRsZTogIumWieOBmOOCiyIsCiAgICAgICAgICAgICAgICBzdHlsZTogLnBsYWluLAogICAgICAgICAgICAgICAgdGFyZ2V0OiBzZWxmLAogICAgICAgICAgICAgICAgYWN0aW9uOiAjc2VsZWN0b3Ioc2VsZi5jYW5jZWxQcm9qZWN0KHNlbmRlcjopKQogICAgICAgICkKCiAgICAgICAgc2VsZi5uYXZpZ2F0aW9uSXRlbS5zZXRMZWZ0QmFyQnV0dG9uKGNsb3NlQnRuLCBhbmltYXRlZDogdHJ1ZSk=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
