@@ -709,11 +709,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="14" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/ReceiveViewController.swift" timestamp="1528875560969">
-        <mark key="[" line="59" column="58" />
-        <mark key="]" line="58" column="46" />
-        <mark key="." line="58" column="46" />
-        <mark key="^" line="58" column="46" />
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/ReceiveViewController.swift" timestamp="1528877036219">
+        <mark key="[" line="66" column="77" />
+        <mark key="]" line="66" column="59" />
+        <mark key="." line="66" column="59" />
+        <mark key="^" line="66" column="59" />
       </file>
       <file name="/Scala Worksheet.txt.ft" timestamp="1512028430053">
         <mark key="[" line="0" column="0" />
@@ -846,9 +846,9 @@
         <mark key="." line="32" column="1" />
         <mark key="^" line="32" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/TokenViewController.swift" timestamp="1528874643629">
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/TokenViewController.swift" timestamp="1528876689902">
         <mark key="'" line="155" column="35" />
-        <mark key="[" line="171" column="55" />
+        <mark key="[" line="106" column="16" />
         <mark key="]" line="171" column="57" />
         <mark key="." line="171" column="57" />
         <mark key="^" line="171" column="57" />
@@ -1076,10 +1076,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgYm9hcmQgPSBVSVBhc3RlYm9hcmQuZ2VuZXJhbAo=</text>
       </register>
       <register name="-" type="4">
-        <text>Cancel</text>
+        <text encoding="base64">SUJBY3Rpb24gZnVuYyA=</text>
       </register>
       <register name="/" type="4">
         <text>21</text>
@@ -1088,13 +1088,13 @@
         <text encoding="base64">ICAgICAgICAgICAgbWFrZS5jZW50ZXJYLmVxdWFsVG8oY29udGFpbmVyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgYm9hcmQgPSBVSVBhc3RlYm9hcmQuZ2VuZXJhbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBib2FyZC5zZXRWYWx1ZShhZGRyZXNzIGFzIEFueSwgZm9yUGFzdGVib2FyZFR5cGU6ICJwdWJsaWMudGV4dCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFrZS50b3AuZXF1YWxUbyh0b2tlbkltZ1ZpZXcuc25wLmJvdHRvbSkub2Zmc2V0KDEwKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZW5kQnV0dG9uLnNldFRpdGxlKCJTZW5kIiwgZm9yOiAubm9ybWFsKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -1102,17 +1102,17 @@
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIEBvYmpjIGZ1bmMgb25UYXBwZWRSaWdodEJhckJ1dHRvbihzZW5kZXI6IFVJQmFyQnV0dG9uSXRlbSkgewogICAgICAgIGxldCB2YyA9IENvbmZpcm1WaWV3Q29udHJvbGxlcih0aXRsZU5hbWU6ICJDb25maXJtIikKICAgICAgICBuYXZpZ2F0aW9uQ29udHJvbGxlcj8ucHVzaFZpZXdDb250cm9sbGVyKHZjLCBhbmltYXRlZDogdHJ1ZSkKICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWFrZS50b3AuZXF1YWxUbyh0b2tlbkltZ1ZpZXcuc25wLmJvdHRvbSkub2Zmc2V0KDEwKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5hdmlnYXRpb25JdGVtLnNldFJpZ2h0QmFyQnV0dG9uKG5leHRCdG4sIGFuaW1hdGVkOiB0cnVlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICBsZXQgbmV4dEJ0biA9IFVJQmFyQnV0dG9uSXRlbSgKICAgICAgICAgICAgICAgIHRpdGxlOiAiTmV4dCIsCiAgICAgICAgICAgICAgICBzdHlsZTogLnBsYWluLAogICAgICAgICAgICAgICAgdGFyZ2V0OiBzZWxmLAogICAgICAgICAgICAgICAgYWN0aW9uOiAjc2VsZWN0b3Ioc2VsZi5vblRhcHBlZFJpZ2h0QmFyQnV0dG9uKHNlbmRlcjopKQogICAgICAgICk=</text>
+        <text encoding="base64">ICAgIEBvYmpjIGZ1bmMgb25UYXBwZWRSaWdodEJhckJ1dHRvbihzZW5kZXI6IFVJQmFyQnV0dG9uSXRlbSkgewogICAgICAgIGxldCB2YyA9IENvbmZpcm1WaWV3Q29udHJvbGxlcih0aXRsZU5hbWU6ICJDb25maXJtIikKICAgICAgICBuYXZpZ2F0aW9uQ29udHJvbGxlcj8ucHVzaFZpZXdDb250cm9sbGVyKHZjLCBhbmltYXRlZDogdHJ1ZSkKICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
