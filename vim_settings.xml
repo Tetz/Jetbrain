@@ -135,7 +135,7 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1528471085219">
+      <file name="/LLDB" timestamp="1528880339780">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/AttributeGroup.scala" timestamp="1486463082837">
@@ -709,11 +709,10 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="14" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/ReceiveViewController.swift" timestamp="1528877036219">
-        <mark key="[" line="66" column="77" />
-        <mark key="]" line="66" column="59" />
-        <mark key="." line="66" column="59" />
-        <mark key="^" line="66" column="59" />
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/ReceiveViewController.swift" timestamp="1528880647194">
+        <mark key="[" line="91" column="37" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="/Scala Worksheet.txt.ft" timestamp="1512028430053">
         <mark key="[" line="0" column="0" />
@@ -1076,55 +1075,55 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgYm9hcmQgPSBVSVBhc3RlYm9hcmQuZ2VuZXJhbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">SUJBY3Rpb24gZnVuYyA=</text>
       </register>
       <register name="/" type="4">
-        <text>21</text>
+        <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbWFrZS5jZW50ZXJYLmVxdWFsVG8oY29udGFpbmVyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgYm9hcmQgPSBVSVBhc3RlYm9hcmQuZ2VuZXJhbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBib2FyZC5zZXRWYWx1ZShhZGRyZXNzIGFzIEFueSwgZm9yUGFzdGVib2FyZFR5cGU6ICJwdWJsaWMudGV4dCIpCg==</text>
+        <text encoding="base64">ICAgICAgICBVSVBhc3RlYm9hcmQuZ2VuZXJhbC5zdHJpbmcgPSBhZGRyZXNzIQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5kQnV0dG9uLnNldFRpdGxlKCJTZW5kIiwgZm9yOiAubm9ybWFsKQo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQga2V5Y2hhaW4gPSBLZXljaGFpblN3aWZ0KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgYWRkcmVzczogU3RyaW5nPyA9IGtleWNoYWluLmdldChFdGhlcktleXN0b3JlKCkubXlFdGhlckFkZHJlc3MpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgYm9hcmQgPSBVSVBhc3RlYm9hcmQuZ2VuZXJhbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFrZS50b3AuZXF1YWxUbyh0b2tlbkltZ1ZpZXcuc25wLmJvdHRvbSkub2Zmc2V0KDEwKQo=</text>
+        <text encoding="base64">ICAgICAgICBib2FyZC5zZXRWYWx1ZShhZGRyZXNzIGFzIEFueSwgZm9yUGFzdGVib2FyZFR5cGU6ICJwdWJsaWMudGV4dCIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZW5kQnV0dG9uLnNldFRpdGxlKCJTZW5kIiwgZm9yOiAubm9ybWFsKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIEBvYmpjIGZ1bmMgb25UYXBwZWRSaWdodEJhckJ1dHRvbihzZW5kZXI6IFVJQmFyQnV0dG9uSXRlbSkgewogICAgICAgIGxldCB2YyA9IENvbmZpcm1WaWV3Q29udHJvbGxlcih0aXRsZU5hbWU6ICJDb25maXJtIikKICAgICAgICBuYXZpZ2F0aW9uQ29udHJvbGxlcj8ucHVzaFZpZXdDb250cm9sbGVyKHZjLCBhbmltYXRlZDogdHJ1ZSkKICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>21</last-search>
+      <last-search encoding="base64">XDwiXD4=</last-search>
       <last-offset />
-      <last-pattern>21</last-pattern>
+      <last-pattern encoding="base64">XDwiXD4=</last-pattern>
       <last-replace>i18nTextGroupIds</last-replace>
       <last-substitute>attributeIds</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -1142,6 +1141,7 @@
         <entry>nearby</entry>
         <entry>I18n</entry>
         <entry>21</entry>
+        <entry encoding="base64">XDwiXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>set paste</entry>
