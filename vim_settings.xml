@@ -320,7 +320,7 @@
         <mark key="^" line="29" column="20" />
         <mark key="." line="29" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/WalletViewController.swift" timestamp="1528860160959">
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/WalletViewController.swift" timestamp="1528865109231">
         <mark key="'" line="63" column="4" />
         <mark key="[" line="217" column="34" />
         <mark key="]" line="221" column="0" />
@@ -554,11 +554,11 @@
         <mark key="." line="7" column="51" />
         <mark key="^" line="7" column="51" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/SendViewController.swift" timestamp="1528863615705">
-        <mark key="[" line="6" column="16" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/SendViewController.swift" timestamp="1528866270628">
+        <mark key="[" line="34" column="74" />
+        <mark key="]" line="34" column="53" />
+        <mark key="." line="34" column="53" />
+        <mark key="^" line="34" column="53" />
       </file>
       <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/clientjson/LabelWrites.scala" timestamp="1505464910465">
         <mark key="[" line="11" column="34" />
@@ -926,6 +926,7 @@
       <file name="/Enum.txt.ft" timestamp="1512028424701">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/MainTabBarViewController.swift" timestamp="1528866222548" />
       <file name="$USER_HOME$/Code/roco-admin-dashboard/bin/deploy.sh" timestamp="1488861858133">
         <mark key="[" line="1" column="13" />
         <mark key="]" line="1" column="21" />
@@ -1075,11 +1076,11 @@
       <jump line="137" column="35" filename="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/TokenViewController.swift" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuYXZpZ2F0aW9uQ29udHJvbGxlcj8ucG9wVmlld0NvbnRyb2xsZXIoYW5pbWF0ZWQ6dHJ1ZSkK</text>
+      <register name="&quot;" type="4">
+        <text>mainView</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PCNUIyN2aWV3Q29udHJvbGxlcjogVUlWaWV3Q29udHJvbGxlciMjVUlLaXQuVUlWaWV3Q29udHJvbGxlciM+LA==</text>
+        <text>mainView</text>
       </register>
       <register name="/" type="4">
         <text>21</text>
@@ -1088,28 +1089,28 @@
         <text encoding="base64">ICAgICAgICBsZXQgdmMgPSBJbmZvVmlld0NvbnRyb2xsZXIodGl0bGVOYW1lOiAiSW5mb3JtYXRpb24iKQogICAgICAgIG5hdmlnYXRpb25Db250cm9sbGVyPy5wdXNoVmlld0NvbnRyb2xsZXIodmMsIGFuaW1hdGVkOiB0cnVlKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuYXZpZ2F0aW9uQ29udHJvbGxlcj8ucG9wVmlld0NvbnRyb2xsZXIoYW5pbWF0ZWQ6dHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbWFpblZpZXcgPSBNYWluVGFiQmFyVmlld0NvbnRyb2xsZXIoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnByZXNlbnQodmMsIGFuaW1hdGVkOiB0cnVlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Y2xhc3MgU2ltcGxlQW5pbWF0aW9uQ29udHJvbGxlcjogTlNPYmplY3QsIFVJVmlld0NvbnRyb2xsZXJBbmltYXRlZFRyYW5zaXRpb25pbmcgewogICAgZnVuYyB0cmFuc2l0aW9uRHVyYXRpb24odHJhbnNpdGlvbkNvbnRleHQ6IFVJVmlld0NvbnRyb2xsZXJDb250ZXh0VHJhbnNpdGlvbmluZykgLT4gVGltZUludGVydmFsIHsKICAgICAgICByZXR1cm4gMC4zNQogICAgfQoKICAgIGZ1bmMgYW5pbWF0ZVRyYW5zaXRpb24odHJhbnNpdGlvbkNvbnRleHQ6IFVJVmlld0NvbnRyb2xsZXJDb250ZXh0VHJhbnNpdGlvbmluZykgewogICAgICAgIGxldCBmcm9tVmlld0NvbnRyb2xsZXIgPSB0cmFuc2l0aW9uQ29udGV4dC52aWV3Q29udHJvbGxlcihVSVRyYW5zaXRpb25Db250ZXh0RnJvbVZpZXdDb250cm9sbGVyS2V5KQogICAgICAgIGxldCB0b1ZpZXdDb250cm9sbGVyID0gdHJhbnNpdGlvbkNvbnRleHQudmlld0NvbnRyb2xsZXIoVUlUcmFuc2l0aW9uQ29udGV4dFRvVmlld0NvbnRyb2xsZXJLZXkpIQogICAgICAgIHRyYW5zaXRpb25Db250ZXh0LmNvbnRhaW5lclZpZXcoKS5hZGRTdWJ2aWV3KHRvVmlld0NvbnRyb2xsZXIudmlldykKICAgICAgICB0b1ZpZXdDb250cm9sbGVyLnZpZXcuYWxwaGEgPSAwLjAKICAgICAgICBVSVZpZXcuYW5pbWF0ZVdpdGhEdXJhdGlvbigwLjM1LCBhbmltYXRpb25zOiB7CiAgICAgICAgICAgIHRvVmlld0NvbnRyb2xsZXIudmlldy5hbHBoYSA9IDEuMAogICAgICAgIH0sIGNvbXBsZXRpb246IHsgKGZpbmlzaGVkKSBpbgogICAgICAgICAgICB0cmFuc2l0aW9uQ29udGV4dC5jb21wbGV0ZVRyYW5zaXRpb24oIXRyYW5zaXRpb25Db250ZXh0LnRyYW5zaXRpb25XYXNDYW5jZWxsZWQoKSkKICAgICAgICB9KQogICAgfQp9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGxldCBzdGF0dXNCYXJIZWlnaHQgPSBVSUFwcGxpY2F0aW9uLnNoYXJlZC5zdGF0dXNCYXJGcmFtZS5oZWlnaHQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCBzdGF0dXNCYXJIZWlnaHQgPSBVSUFwcGxpY2F0aW9uLnNoYXJlZC5zdGF0dXNCYXJGcmFtZS5oZWlnaHQK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuYXZpZ2F0aW9uQ29udHJvbGxlcj8ucG9wVmlld0NvbnRyb2xsZXIoYW5pbWF0ZWQ6dHJ1ZSkK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIGZ1bmMgYW5pbWF0aW9uQ29udHJvbGxlcihmb3JQcmVzZW50ZWQgcHJlc2VudGVkOiBVSVZpZXdDb250cm9sbGVyLCBwcmVzZW50aW5nOgogICAgICAgICAgICBVSVZpZXdDb250cm9sbGVyLCBzb3VyY2U6IFVJVmlld0NvbnRyb2xsZXIpIC0+IFVJVmlld0NvbnRyb2xsZXJBbmltYXRlZFRyYW5zaXRpb25pbmc/IHsKICAgICAgICBsZXQgYW5pbWF0b3IgPSBQcmVzZW50UmV2ZXJzZUFuaW1hdG9yKCkKICAgICAgICBhbmltYXRvci5wcmVzZW50aW5nID0gdHJ1ZQogICAgICAgIHJldHVybiBhbmltYXRvcgogICAgfQoKICAgIGZ1bmMgYW5pbWF0aW9uQ29udHJvbGxlcihmb3JEaXNtaXNzZWQgZGlzbWlzc2VkOiBVSVZpZXdDb250cm9sbGVyKSAtPiBVSVZpZXdDb250cm9sbGVyQW5pbWF0ZWRUcmFuc2l0aW9uaW5nPyB7CiAgICAgICAgbGV0IGFuaW1hdG9yID0gUHJlc2VudFJldmVyc2VBbmltYXRvcigpCiAgICAgICAgYW5pbWF0b3IucHJlc2VudGluZyA9IGZhbHNlCiAgICAgICAgcmV0dXJuIGFuaW1hdG9yCiAgICB9</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnByZXNlbnQodmMsIGFuaW1hdGVkOiB0cnVlKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">Y2xhc3MgU2ltcGxlQW5pbWF0aW9uQ29udHJvbGxlcjogTlNPYmplY3QsIFVJVmlld0NvbnRyb2xsZXJBbmltYXRlZFRyYW5zaXRpb25pbmcgewogICAgZnVuYyB0cmFuc2l0aW9uRHVyYXRpb24odHJhbnNpdGlvbkNvbnRleHQ6IFVJVmlld0NvbnRyb2xsZXJDb250ZXh0VHJhbnNpdGlvbmluZykgLT4gVGltZUludGVydmFsIHsKICAgICAgICByZXR1cm4gMC4zNQogICAgfQoKICAgIGZ1bmMgYW5pbWF0ZVRyYW5zaXRpb24odHJhbnNpdGlvbkNvbnRleHQ6IFVJVmlld0NvbnRyb2xsZXJDb250ZXh0VHJhbnNpdGlvbmluZykgewogICAgICAgIGxldCBmcm9tVmlld0NvbnRyb2xsZXIgPSB0cmFuc2l0aW9uQ29udGV4dC52aWV3Q29udHJvbGxlcihVSVRyYW5zaXRpb25Db250ZXh0RnJvbVZpZXdDb250cm9sbGVyS2V5KQogICAgICAgIGxldCB0b1ZpZXdDb250cm9sbGVyID0gdHJhbnNpdGlvbkNvbnRleHQudmlld0NvbnRyb2xsZXIoVUlUcmFuc2l0aW9uQ29udGV4dFRvVmlld0NvbnRyb2xsZXJLZXkpIQogICAgICAgIHRyYW5zaXRpb25Db250ZXh0LmNvbnRhaW5lclZpZXcoKS5hZGRTdWJ2aWV3KHRvVmlld0NvbnRyb2xsZXIudmlldykKICAgICAgICB0b1ZpZXdDb250cm9sbGVyLnZpZXcuYWxwaGEgPSAwLjAKICAgICAgICBVSVZpZXcuYW5pbWF0ZVdpdGhEdXJhdGlvbigwLjM1LCBhbmltYXRpb25zOiB7CiAgICAgICAgICAgIHRvVmlld0NvbnRyb2xsZXIudmlldy5hbHBoYSA9IDEuMAogICAgICAgIH0sIGNvbXBsZXRpb246IHsgKGZpbmlzaGVkKSBpbgogICAgICAgICAgICB0cmFuc2l0aW9uQ29udGV4dC5jb21wbGV0ZVRyYW5zaXRpb24oIXRyYW5zaXRpb25Db250ZXh0LnRyYW5zaXRpb25XYXNDYW5jZWxsZWQoKSkKICAgICAgICB9KQogICAgfQp9</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
