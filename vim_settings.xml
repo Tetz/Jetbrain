@@ -129,13 +129,6 @@
         <mark key="^" line="19" column="50" />
         <mark key="." line="19" column="50" />
       </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/AttributeController.scala" timestamp="1513679470488">
-        <mark key="'" line="69" column="29" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="34" column="51" />
-      </file>
       <file name="$USER_HOME$/Code/roco_core/build.sbt" timestamp="1487754829119">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -144,13 +137,6 @@
       </file>
       <file name="/LLDB" timestamp="1528975531506">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/LabelController.scala" timestamp="1512471426657">
-        <mark key="'" line="55" column="10" />
-        <mark key="[" line="82" column="20" />
-        <mark key="]" line="82" column="21" />
-        <mark key="." line="82" column="21" />
-        <mark key="^" line="82" column="21" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/AttributeGroup.scala" timestamp="1486463082837">
         <mark key="[" line="30" column="3" />
@@ -260,8 +246,11 @@
         <mark key="^" line="49" column="15" />
         <mark key="." line="49" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/ConfirmViewController.swift" timestamp="1529048968219">
-        <mark key="[" line="109" column="0" />
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/ConfirmViewController.swift" timestamp="1529050386039">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="7" column="31" />
+        <mark key="^" line="7" column="31" />
+        <mark key="." line="7" column="31" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ShopPresenter.scala" timestamp="1487145371386">
         <mark key="[" line="112" column="8" />
@@ -559,12 +548,12 @@
         <mark key="." line="7" column="51" />
         <mark key="^" line="7" column="51" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/SendViewController.swift" timestamp="1529049010909">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="^" line="97" column="3" />
-        <mark key="." line="97" column="0" />
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/SendViewController.swift" timestamp="1529051033457">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="107" column="59" />
+        <mark key="]" line="8" column="3" />
+        <mark key="." line="8" column="3" />
+        <mark key="^" line="8" column="3" />
       </file>
       <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/clientjson/LabelWrites.scala" timestamp="1505464910465">
         <mark key="[" line="11" column="34" />
@@ -1091,7 +1080,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgbWFrZS5jZW50ZXJZLmVxdWFsVG8oY29udGFpbmVyKQ==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -1105,26 +1094,26 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuYyBnZXRUZXh0RmllbGRWYWx1ZXMoKSB7CgogICAgfQ==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJlcXVpcmVkIGluaXQ/KGNvZGVyIGFEZWNvZGVyOiBOU0NvZGVyKSB7IGZhdGFsRXJyb3IoImluaXQoY29kZXI6KSBoYXMgbm90IGJlZW4gaW1wbGVtZW50ZWQiKSB9Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIGluaXQodGl0bGVOYW1lOiBTdHJpbmcpIHsKICAgICAgICBzZWxmLnRpdGxlTmFtZSA9IHRpdGxlTmFtZQogICAgICAgIHN1cGVyLmluaXQobmliTmFtZTogbmlsLCBidW5kbGU6IG5pbCkKICAgIH0=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICBsZXQgYWRkcmVzc0ZpZWxkID0gVUlUZXh0RmllbGQoKQogICAgICAgIGxldCBhbW91bnRGaWVsZCA9IFVJVGV4dEZpZWxkKCk=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFrZS5jZW50ZXJZLmVxdWFsVG8oY29udGFpbmVyKQo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgYW1vdW50RmllbGQgPSBVSVRleHRGaWVsZCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFrZS5jZW50ZXJZLmVxdWFsVG8oY29udGFpbmVyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
