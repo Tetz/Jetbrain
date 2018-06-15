@@ -135,7 +135,7 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1528880339780">
+      <file name="/LLDB" timestamp="1528975531506">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/AttributeGroup.scala" timestamp="1486463082837">
@@ -548,7 +548,7 @@
         <mark key="." line="7" column="51" />
         <mark key="^" line="7" column="51" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/SendViewController.swift" timestamp="1528971475689">
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/SendViewController.swift" timestamp="1528975518200">
         <mark key="'" line="16" column="0" />
         <mark key="[" line="46" column="41" />
         <mark key="]" line="46" column="21" />
@@ -847,9 +847,9 @@
         <mark key="." line="32" column="1" />
         <mark key="^" line="32" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/TokenViewController.swift" timestamp="1528968811881">
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/TokenViewController.swift" timestamp="1528975495984">
         <mark key="'" line="155" column="35" />
-        <mark key="[" line="106" column="16" />
+        <mark key="[" line="137" column="37" />
         <mark key="]" line="171" column="57" />
         <mark key="." line="171" column="57" />
         <mark key="^" line="171" column="57" />
