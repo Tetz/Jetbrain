@@ -144,8 +144,11 @@
         <mark key="." line="38" column="152" />
         <mark key="^" line="38" column="152" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/API/JsonRpc/EtherKeystore.swift" timestamp="1529126597877">
-        <mark key="[" line="17" column="23" />
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/API/JsonRpc/EtherKeystore.swift" timestamp="1529134645560">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="71" column="38" />
+        <mark key="." line="71" column="38" />
+        <mark key="^" line="71" column="38" />
       </file>
       <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/models/Shop.scala" timestamp="1513663942652">
         <mark key="[" line="13" column="32" />
@@ -855,7 +858,7 @@
         <mark key="." line="32" column="1" />
         <mark key="^" line="32" column="1" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/AppCode2018.1/ModuleCache/9F1027a/4.1.2/arm64/iphoneos11.4/Geth/Geth.swift" timestamp="1529127155988" />
+      <file name="$USER_HOME$/Library/Caches/AppCode2018.1/ModuleCache/9F1027a/4.1.2/arm64/iphoneos11.4/Geth/Geth.swift" timestamp="1529135035717" />
       <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/TokenViewController.swift" timestamp="1529043198467">
         <mark key="'" line="155" column="35" />
         <mark key="[" line="137" column="37" />
@@ -1086,7 +1089,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1094,35 +1097,35 @@
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIGZ1bmMgd2VpVG9FdGggKGhleDogU3RyaW5nKSAtPiBEb3VibGUgewogICAgICAgIHJldHVybiBEb3VibGUoc3RydG91bChoZXgsIG5pbCwgMTYpKSAqIHBvdygwLjEsIDE4KQogICAgfQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQga2V5Y2hhaW4gPSBLZXljaGFpblN3aWZ0KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdhbGxldEFzc2V0c0Ftb3VudC50ZXh0ID0gIsKlIFwoYXNzZXRzKSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdhbGxldEFzc2V0c0Ftb3VudC50ZXh0ID0gIsKlIFwoYXNzZXRzKSIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHF1YW50aXR5OiAibGF0ZXN0Igo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFkZHJlc3M6IGFkZHJlc3MhLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86LSBBZGQgdGltZWQgVW5sb2NrCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCBxdWFudGl0eTogU3RyaW5nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdhbGxldEFzc2V0c0Ftb3VudC50ZXh0ID0gIsKlIFwoYXNzZXRzKSIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCBhZGRyZXNzOiBTdHJpbmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdhbGxldEFzc2V0c0Ftb3VudC50ZXh0ID0gIsKlIFwoYXNzZXRzKSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHF1YW50aXR5OiAibGF0ZXN0Igo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
