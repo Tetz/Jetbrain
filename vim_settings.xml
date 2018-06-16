@@ -144,11 +144,11 @@
         <mark key="." line="38" column="152" />
         <mark key="^" line="38" column="152" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/API/JsonRpc/EtherKeystore.swift" timestamp="1529159946049">
-        <mark key="[" line="122" column="14" />
-        <mark key="]" line="122" column="14" />
-        <mark key="." line="122" column="14" />
-        <mark key="^" line="122" column="14" />
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/API/JsonRpc/EtherKeystore.swift" timestamp="1529162334752">
+        <mark key="[" line="121" column="61" />
+        <mark key="]" line="121" column="60" />
+        <mark key="." line="121" column="60" />
+        <mark key="^" line="121" column="60" />
       </file>
       <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/models/Shop.scala" timestamp="1513663942652">
         <mark key="[" line="13" column="32" />
@@ -445,6 +445,7 @@
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
       </file>
+      <file name="$USER_HOME$/Library/Caches/AppCode2018.1/ModuleCache/9F1027a/4.1.2/arm64/iphoneos11.4/Swift/String.swift" timestamp="1529162038353" />
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopAttributeGroupDescription.scala" timestamp="1481873177492">
         <mark key="[" line="8" column="34" />
         <mark key="]" line="8" column="34" />
@@ -857,7 +858,7 @@
         <mark key="." line="32" column="1" />
         <mark key="^" line="32" column="1" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/AppCode2018.1/ModuleCache/9F1027a/4.1.2/arm64/iphoneos11.4/Geth/Geth.swift" timestamp="1529158594686" />
+      <file name="$USER_HOME$/Library/Caches/AppCode2018.1/ModuleCache/9F1027a/4.1.2/arm64/iphoneos11.4/Geth/Geth.swift" timestamp="1529162346232" />
       <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/TokenViewController.swift" timestamp="1529043198467">
         <mark key="'" line="155" column="35" />
         <mark key="[" line="137" column="37" />
