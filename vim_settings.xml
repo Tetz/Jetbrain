@@ -243,10 +243,11 @@
         <mark key="^" line="12" column="11" />
         <mark key="." line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/Crypto/Ether.swift" timestamp="1529333218417">
-        <mark key="[" line="28" column="62" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/Crypto/Ether.swift" timestamp="1529334794516">
+        <mark key="[" line="31" column="25" />
+        <mark key="]" line="31" column="25" />
+        <mark key="." line="31" column="25" />
+        <mark key="^" line="31" column="25" />
       </file>
       <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/resources/routes" timestamp="1512033121342">
         <mark key="[" line="19" column="120" />
@@ -1116,7 +1117,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiPT09PT0gc2lnbigpID09PT09IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCI9PT09PSBub25jZSAhISEgPT09PT0iKQo=</text>
       </register>
       <register name="-" type="4">
         <text>myEtherAddress</text>
@@ -1128,31 +1129,31 @@
         <text encoding="base64">ICAgICAgICBsZXQgYWNjb3VudDogR2V0aEFjY291bnQ/ID0gRXRoQWNjb3VudENvb3JkaW5hdG9yKCkuZ2V0QWNjb3VudChFdGhBY2NvdW50Q29uZmlndXJhdGlvbi5kZWZhdWx0LnBhc3N3b3JkISkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiPT09PT0gc2lnbigpID09PT09IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCI9PT09PSBub25jZSAhISEgPT09PT0iKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHN0cnRvdWwocmVzdWx0LCBuaWwsIDE2KSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHNlbGYuYWNjb3VudCEuZ2V0QWRkcmVzcygpLmdldEhleCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiPT09PT0gc2lnbigpID09PT09IikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCI9PT09PSBzaWduZWRUeCA9PT09PSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoIiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHNlbGYuYWNjb3VudCEuZ2V0QWRkcmVzcygpLmdldEhleCgpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCI9PT09PSBlcnJvciBub25jZSAhISEgPT09PT0iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCI9PT09PSBzaWduZWRUeCA9PT09PSIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHR4U3RyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoIiIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGh0dHBSZXF1ZXN0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCI9PT09PSBlcnJvciBub25jZSAhISEgPT09PT0iKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHR4U3RyKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
