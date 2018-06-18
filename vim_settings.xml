@@ -144,11 +144,11 @@
         <mark key="." line="38" column="152" />
         <mark key="^" line="38" column="152" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/API/JsonRpc/EtherKeystore.swift" timestamp="1529303500973">
-        <mark key="[" line="153" column="38" />
-        <mark key="]" line="153" column="36" />
-        <mark key="." line="153" column="36" />
-        <mark key="^" line="153" column="36" />
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/API/JsonRpc/EtherKeystore.swift" timestamp="1529305285939">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="^" line="151" column="36" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/models/Shop.scala" timestamp="1513663942652">
         <mark key="[" line="13" column="32" />
@@ -405,7 +405,12 @@
       <file name="/HTML File.txt.ft" timestamp="1512028423270">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/Extentions/Data+Extention.swift" timestamp="1529303850414" />
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/Extentions/Data+Extention.swift" timestamp="1529305023717">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/Gradle Build Script with wrapper.txt.ft" timestamp="1512028430572">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1104,52 +1109,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIEVuY29kZWQgVHJhbnNmZXIgRnVuY3Rpb24K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgLy8gVE9ETyBGSVhNRQovLyAgICBmdW5jIGdldEJhbGFuY2UgKCkgewovLyAgICAgICAgbGV0IGtleVN0cmluZyA9IF9rZXljaGFpbi5nZXQobXlLZXlzdG9yZSkKLy8gICAgICAgIGxldCBhY2NvdW50ID0gaW1wb3J0V2FsbGV0QnlLZXlzdG9yZShrZXlzdG9yZToga2V5U3RyaW5nISwgcGFzc3BocmFzZTogInBhc3N3b3JkIiwgbmV3UGFzc3BocmFzZTogInBhc3N3b3JkIikuZ2V0QWRkcmVzcygpCi8vCi8vICAgICAgICBsZXQgZ2V0aCA9IEdldGhFdGhlcmV1bUNsaWVudCgiaHR0cHM6Ly9yb3BzdGVuLmluZnVyYS5pby94eWppMjNuZ0FDcEF0YnZvTzBNWiIpCi8vICAgICAgICBsZXQgY3R4OiBHZXRoQ29udGV4dCA9IEdldGhDb250ZXh0KCkKLy8gICAgICAgIGxldCBudW1iZXI6IEludDY0ID0gMTgKLy8KLy8gICAgICAgIC8vIG9wZW4gZnVuYyBnZXRCYWxhbmNlQXQoXyBjdHg6IEdldGhDb250ZXh0ISwgYWNjb3VudDogR2V0aEFkZHJlc3MhLCBudW1iZXI6IEludDY0KSB0aHJvd3MgLT4gR2V0aEJpZ0ludAovLyAgICAgICAgbGV0IHJlc3VsdCA9IHRyeSEgZ2V0aCEuZ2V0QmFsYW5jZUF0KGN0eCwgYWNjb3VudDogYWNjb3VudCwgbnVtYmVyOiBudW1iZXIpCi8vCi8vICAgICAgICBwcmludCgiPT09PT09PSBnZXRCYWxhbmNlID09PT09PT0iKQovLyAgICAgICAgcHJpbnQoYWNjb3VudCEuZ2V0SGV4KCkpCi8vICAgICAgICBwcmludChyZXN1bHQuc3RyaW5nKCkpCi8vICAgIH0KICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgdHJhbnNmZXJGdW5jdGlvbiA9IEV0aEZ1bmN0aW9uKG5hbWU6IENvbnN0YW50cy50cmFuc2ZlckZ1bmN0aW9uTmFtZSwgaW5wdXRQYXJhbWV0ZXJzOiBbdG9BY2NvdW50QWRkcmVzcywgYW1vdW50XSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChodHRwUmVxdWVzdCkK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ZXh0ZW5zaW9uIERhdGEgewogICAgc3RydWN0IEhleEVuY29kaW5nT3B0aW9uczogT3B0aW9uU2V0IHsKICAgICAgICBsZXQgcmF3VmFsdWU6IEludAogICAgICAgIHN0YXRpYyBsZXQgdXBwZXJDYXNlID0gSGV4RW5jb2RpbmdPcHRpb25zKHJhd1ZhbHVlOiAxIDw8IDApCiAgICB9CgogICAgZnVuYyBoZXhFbmNvZGVkU3RyaW5nKG9wdGlvbnM6IEhleEVuY29kaW5nT3B0aW9ucyA9IFtdKSAtPiBTdHJpbmcgewogICAgICAgIGxldCBmb3JtYXQgPSBvcHRpb25zLmNvbnRhaW5zKC51cHBlckNhc2UpID8gIiUwMlgiIDogIiUwMngiCiAgICAgICAgcmV0dXJuIG1hcCB7IFN0cmluZyhmb3JtYXQ6IGZvcm1hdCwgJDApIH0uam9pbmVkKCkKICAgIH0KCn0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="7" type="4">
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBUZXRzdXJvIFRha2Vtb3RvIG9uIDIwMTgvMDYvMTguCi8vIENvcHlyaWdodCAoYykgMjAxOCBUZXRzdXJvIFRha2Vtb3RvLiBBbGwgcmlnaHRzIHJlc2VydmVkLgovLwo=</text>
       </register>
-      <register name="8" type="8">
-        <text>/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text>/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
