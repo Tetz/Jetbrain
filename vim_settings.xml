@@ -144,10 +144,11 @@
         <mark key="." line="38" column="152" />
         <mark key="^" line="38" column="152" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/API/JsonRpc/EtherKeystore.swift" timestamp="1529222527674">
-        <mark key="[" line="97" column="61" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/API/JsonRpc/EtherKeystore.swift" timestamp="1529302527013">
+        <mark key="[" line="153" column="38" />
+        <mark key="]" line="153" column="36" />
+        <mark key="." line="153" column="36" />
+        <mark key="^" line="153" column="36" />
       </file>
       <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/models/Shop.scala" timestamp="1513663942652">
         <mark key="[" line="13" column="32" />
@@ -1087,7 +1088,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgdHJhbnNmZXJGdW5jdGlvbiA9IEV0aEZ1bmN0aW9uKG5hbWU6IENvbnN0YW50cy50cmFuc2ZlckZ1bmN0aW9uTmFtZSwgaW5wdXRQYXJhbWV0ZXJzOiBbdG9BY2NvdW50QWRkcmVzcywgYW1vdW50XSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>nonce</text>
@@ -1099,56 +1100,55 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCI9PT09PSBub25jZSAhISEgPT09PT0iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgdHJhbnNmZXJGdW5jdGlvbiA9IEV0aEZ1bmN0aW9uKG5hbWU6IENvbnN0YW50cy50cmFuc2ZlckZ1bmN0aW9uTmFtZSwgaW5wdXRQYXJhbWV0ZXJzOiBbdG9BY2NvdW50QWRkcmVzcywgYW1vdW50XSkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChodHRwUmVxdWVzdCkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="8">
-        <text>/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/</text>
-      </register>
-      <register name="6" type="8">
-        <text>/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/</text>
-      </register>
-      <register name="7" type="8">
-        <text>//
-//</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXN1bHQpCg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgLy8gVE9ETyBGSVhNRQovLyAgICBmdW5jIGdldEJhbGFuY2UgKCkgewovLyAgICAgICAgbGV0IGtleVN0cmluZyA9IF9rZXljaGFpbi5nZXQobXlLZXlzdG9yZSkKLy8gICAgICAgIGxldCBhY2NvdW50ID0gaW1wb3J0V2FsbGV0QnlLZXlzdG9yZShrZXlzdG9yZToga2V5U3RyaW5nISwgcGFzc3BocmFzZTogInBhc3N3b3JkIiwgbmV3UGFzc3BocmFzZTogInBhc3N3b3JkIikuZ2V0QWRkcmVzcygpCi8vCi8vICAgICAgICBsZXQgZ2V0aCA9IEdldGhFdGhlcmV1bUNsaWVudCgiaHR0cHM6Ly9yb3BzdGVuLmluZnVyYS5pby94eWppMjNuZ0FDcEF0YnZvTzBNWiIpCi8vICAgICAgICBsZXQgY3R4OiBHZXRoQ29udGV4dCA9IEdldGhDb250ZXh0KCkKLy8gICAgICAgIGxldCBudW1iZXI6IEludDY0ID0gMTgKLy8KLy8gICAgICAgIC8vIG9wZW4gZnVuYyBnZXRCYWxhbmNlQXQoXyBjdHg6IEdldGhDb250ZXh0ISwgYWNjb3VudDogR2V0aEFkZHJlc3MhLCBudW1iZXI6IEludDY0KSB0aHJvd3MgLT4gR2V0aEJpZ0ludAovLyAgICAgICAgbGV0IHJlc3VsdCA9IHRyeSEgZ2V0aCEuZ2V0QmFsYW5jZUF0KGN0eCwgYWNjb3VudDogYWNjb3VudCwgbnVtYmVyOiBudW1iZXIpCi8vCi8vICAgICAgICBwcmludCgiPT09PT09PSBnZXRCYWxhbmNlID09PT09PT0iKQovLyAgICAgICAgcHJpbnQoYWNjb3VudCEuZ2V0SGV4KCkpCi8vICAgICAgICBwcmludChyZXN1bHQuc3RyaW5nKCkpCi8vICAgIH0KICA=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgdHJhbnNmZXJGdW5jdGlvbiA9IEV0aEZ1bmN0aW9uKG5hbWU6IENvbnN0YW50cy50cmFuc2ZlckZ1bmN0aW9uTmFtZSwgaW5wdXRQYXJhbWV0ZXJzOiBbdG9BY2NvdW50QWRkcmVzcywgYW1vdW50XSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChodHRwUmVxdWVzdCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="8">
+        <text>/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/</text>
+      </register>
+      <register name="9" type="8">
+        <text>/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
