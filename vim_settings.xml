@@ -48,6 +48,11 @@
         <mark key="^" line="23" column="86" />
         <mark key="." line="23" column="86" />
       </file>
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/Extentions/String+Extention.swift" timestamp="1529306120927">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/HTML4 File.txt.ft" timestamp="1512028421572">
         <mark key="[" line="0" column="0" />
       </file>
@@ -144,11 +149,11 @@
         <mark key="." line="38" column="152" />
         <mark key="^" line="38" column="152" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/API/JsonRpc/EtherKeystore.swift" timestamp="1529305285939">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="^" line="151" column="36" />
-        <mark key="." line="89" column="0" />
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/API/JsonRpc/EtherKeystore.swift" timestamp="1529306204703">
+        <mark key="[" line="136" column="67" />
+        <mark key="]" line="96" column="49" />
+        <mark key="^" line="96" column="49" />
+        <mark key="." line="96" column="49" />
       </file>
       <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/models/Shop.scala" timestamp="1513663942652">
         <mark key="[" line="13" column="32" />
@@ -405,7 +410,7 @@
       <file name="/HTML File.txt.ft" timestamp="1512028423270">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/Extentions/Data+Extention.swift" timestamp="1529305023717">
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/Extentions/Data+Extention.swift" timestamp="1529305792766">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="8" column="3" />
@@ -1109,28 +1114,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIEVuY29kZWQgVHJhbnNmZXIgRnVuY3Rpb24K</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gQ29weXJpZ2h0IChjKSAyMDE4IFRldHN1cm8gVGFrZW1vdG8uIEFsbCByaWdodHMgcmVzZXJ2ZWQuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gQ3JlYXRlZCBieSBUZXRzdXJvIFRha2Vtb3RvIG9uIDIwMTgvMDYvMTguCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ZXh0ZW5zaW9uIERhdGEgewogICAgc3RydWN0IEhleEVuY29kaW5nT3B0aW9uczogT3B0aW9uU2V0IHsKICAgICAgICBsZXQgcmF3VmFsdWU6IEludAogICAgICAgIHN0YXRpYyBsZXQgdXBwZXJDYXNlID0gSGV4RW5jb2RpbmdPcHRpb25zKHJhd1ZhbHVlOiAxIDw8IDApCiAgICB9CgogICAgZnVuYyBoZXhFbmNvZGVkU3RyaW5nKG9wdGlvbnM6IEhleEVuY29kaW5nT3B0aW9ucyA9IFtdKSAtPiBTdHJpbmcgewogICAgICAgIGxldCBmb3JtYXQgPSBvcHRpb25zLmNvbnRhaW5zKC51cHBlckNhc2UpID8gIiUwMlgiIDogIiUwMngiCiAgICAgICAgcmV0dXJuIG1hcCB7IFN0cmluZyhmb3JtYXQ6IGZvcm1hdCwgJDApIH0uam9pbmVkKCkKICAgIH0KCn0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBUZXRzdXJvIFRha2Vtb3RvIG9uIDIwMTgvMDYvMTguCi8vIENvcHlyaWdodCAoYykgMjAxOCBUZXRzdXJvIFRha2Vtb3RvLiBBbGwgcmlnaHRzIHJlc2VydmVkLgovLwo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IEZvdW5kYXRpb24K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIEVuY29kZWQgVHJhbnNmZXIgRnVuY3Rpb24K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
