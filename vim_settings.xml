@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/Account/EthAccountCoordinator.swift" timestamp="1529312261176" />
       <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/init/tasks/main.yml" timestamp="1489223596254">
         <mark key="[" line="28" column="42" />
         <mark key="]" line="28" column="41" />
@@ -149,11 +150,10 @@
         <mark key="." line="38" column="152" />
         <mark key="^" line="38" column="152" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/API/JsonRpc/EtherKeystore.swift" timestamp="1529307892679">
-        <mark key="[" line="70" column="81" />
-        <mark key="]" line="96" column="49" />
-        <mark key="^" line="96" column="49" />
-        <mark key="." line="96" column="49" />
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/API/JsonRpc/EtherKeystore.swift" timestamp="1529311619550">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/models/Shop.scala" timestamp="1513663942652">
         <mark key="[" line="13" column="32" />
@@ -742,12 +742,6 @@
       <file name="/Scala Worksheet.txt.ft" timestamp="1512028430053">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/InfoViewController.swift" timestamp="1528524111486">
-        <mark key="'" line="19" column="9" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/seeder/src/seeder/json/skinny/seeder.scala" timestamp="1485408991466">
         <mark key="[" line="9" column="10" />
         <mark key="]" line="9" column="20" />
@@ -1114,28 +1108,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8gSlNPTiBSUEMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gQ29weXJpZ2h0IChjKSAyMDE4IFRldHN1cm8gVGFrZW1vdG8uIEFsbCByaWdodHMgcmVzZXJ2ZWQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG9wZW4gZnVuYyBzaWduVHhQYXNzcGhyYXNlKF8gYWNjb3VudDogR2V0aEFjY291bnQhLCBwYXNzcGhyYXNlOiBTdHJpbmchLCB0eDogR2V0aFRyYW5zYWN0aW9uISwgY2hhaW5JRDogR2V0aEJpZ0ludCEpIHRocm93cyAtPiBHZXRoVHJhbnNhY3Rpb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gQ3JlYXRlZCBieSBUZXRzdXJvIFRha2Vtb3RvIG9uIDIwMTgvMDYvMTguCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHB1YmxpYyBmdW5jIEdldGhOZXdUcmFuc2FjdGlvbihfIG5vbmNlOiBJbnQ2NCwgXyB0bzogR2V0aEFkZHJlc3MhLCBfIGFtb3VudDogR2V0aEJpZ0ludCEsIF8gZ2FzTGltaXQ6IEludDY0LCBfIGdhc1ByaWNlOiBHZXRoQmlnSW50ISwgXyBkYXRhOiBEYXRhISkgLT4gR2V0aFRyYW5zYWN0aW9uIQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IEZvdW5kYXRpb24K</text>
+        <text encoding="base64">Ly8gQ29weXJpZ2h0IChjKSAyMDE4IFRldHN1cm8gVGFrZW1vdG8uIEFsbCByaWdodHMgcmVzZXJ2ZWQuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gQ3JlYXRlZCBieSBUZXRzdXJvIFRha2Vtb3RvIG9uIDIwMTgvMDYvMTguCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIEVuY29kZWQgVHJhbnNmZXIgRnVuY3Rpb24K</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
