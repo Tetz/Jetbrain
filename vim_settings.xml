@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/Account/EthAccountCoordinator.swift" timestamp="1529317944818">
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/Account/EthAccountCoordinator.swift" timestamp="1529320930091">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -189,11 +189,10 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/Account/LaunchManager.swift" timestamp="1529319190597">
-        <mark key="[" line="8" column="22" />
-        <mark key="]" line="12" column="52" />
-        <mark key="^" line="12" column="52" />
-        <mark key="." line="12" column="52" />
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/Account/LaunchManager.swift" timestamp="1529320956592">
+        <mark key="[" line="15" column="11" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/Authentication.scala" timestamp="1502784570762">
         <mark key="[" line="2" column="0" />
@@ -1107,8 +1106,8 @@
       <jump line="2121" column="12" filename="/Geth.swift" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>myEtherAddress</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBDaGVjayBpZiBnaXZlbiBrZXlzIGV4aXN0IGluIEtleWNoYWluCg==</text>
       </register>
       <register name="-" type="4">
         <text>myEtherAddress</text>
@@ -1120,36 +1119,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCI9PT09PSBub25jZSAhISEgPT09PT0iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQga2V5c3RvcmU6IFN0cmluZz8gPSBrZXljaGFpbi5nZXQobXlLZXlzdG9yZSkK</text>
+        <text encoding="base64">ICAgICAgICAvLyBDaGVjayBpZiBnaXZlbiBrZXlzIGV4aXN0IGluIEtleWNoYWluCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBMb2FkIGZyb20gS2V5Y2hhaW4K</text>
+        <text encoding="base64">ICAgICAgICBsZXQga2V5c3RvcmU6IFN0cmluZz8gPSBrZXljaGFpbi5nZXQobXlLZXlzdG9yZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQga2V5Y2hhaW4gPSBLZXljaGFpblN3aWZ0KCkK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAvLyBMb2FkIGZyb20gS2V5Y2hhaW4K</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQga2V5Y2hhaW4gPSBLZXljaGFpblN3aWZ0KCkK</text>
+      </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBMb2FkIGZyb20gS2V5Y2hhaW4K</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgiV2FsbGV0IEtleXN0b3JlOiBcKGtleWNoYWluLmdldChteUtleXN0b3JlKSEpIikK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICBsZXQgYWRkcmVzczogU3RyaW5nPyA9IGtleWNoYWluLmdldChteUV0aGVyQWRkcmVzcykKICAgICAgICBsZXQga2V5c3RvcmU6IFN0cmluZz8gPSBrZXljaGFpbi5nZXQobXlLZXlzdG9yZSkKCiAgICAgICAgLy8gQ2hlY2sgaWYgZ2l2ZW4ga2V5cyBleGlzdCBpbiBLZXljaGFpbgogICAgICAgIGlmIGFkZHJlc3MgPT0gbmlsIHx8IGtleXN0b3JlID09IG5pbCB7CiAgICAgICAgICAgIGxldCBhY2NvdW50ID0gRXRoQWNjb3VudENvb3JkaW5hdG9yKCkuY3JlYXRlQWNjb3VudChFdGhBY2NvdW50Q29uZmlndXJhdGlvbi5kZWZhdWx0LnBhc3N3b3JkISkKICAgICAgICAgICAgbGV0IG5ld0FkZHJlc3MgPSBhY2NvdW50Py5nZXRBZGRyZXNzKCkuZ2V0SGV4KCkKICAgICAgICAgICAgcHJpbnQoIm5ld0FkZHJlc3M6IFwobmV3QWRkcmVzcyEpIikKCiAgICAgICAgICAgIGxldCB1cmwgPSBhY2NvdW50Py5nZXRVUkwoKQogICAgICAgICAgICBsZXQgdXJsQXJyID0gdXJsIS5jb21wb25lbnRzKHNlcGFyYXRlZEJ5OiAiL2tleXN0b3JlLyIpCiAgICAgICAgICAgIGxldCBmaWxlID0gImtleXN0b3JlLyIgKyB1cmxBcnJbMV0KCiAgICAgICAgICAgIGlmIGxldCBkaXIgPSBGaWxlTWFuYWdlci5kZWZhdWx0LnVybHMoZm9yOiAuZG9jdW1lbnREaXJlY3RvcnksIGluOiAudXNlckRvbWFpbk1hc2spLmZpcnN0IHsKICAgICAgICAgICAgICAgIGxldCBmaWxlVVJMID0gZGlyLmFwcGVuZGluZ1BhdGhDb21wb25lbnQoZmlsZSkKICAgICAgICAgICAgICAgIGRvIHsKICAgICAgICAgICAgICAgICAgICBsZXQga2V5c3RvcmUgPSB0cnkgU3RyaW5nKGNvbnRlbnRzT2Y6IGZpbGVVUkwsIGVuY29kaW5nOiAudXRmOCkKICAgICAgICAgICAgICAgICAgICBrZXljaGFpbi5zZXQobmV3QWRkcmVzcyEsIGZvcktleTogbXlFdGhlckFkZHJlc3MpCiAgICAgICAgICAgICAgICAgICAga2V5Y2hhaW4uc2V0KGtleXN0b3JlLCBmb3JLZXk6IG15S2V5c3RvcmUpCiAgICAgICAgICAgICAgICAgICAgcHJpbnQoa2V5c3RvcmUpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBjYXRjaCB7CiAgICAgICAgICAgICAgICAgICAgcHJpbnQoIktleXN0b3JlIEZpbGUgRXJyb3IiKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHByaW50KCJXYWxsZXQgQWRkcmVzczogXChrZXljaGFpbi5nZXQobXlFdGhlckFkZHJlc3MpISkiKQ==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIGxldCBteUtleXN0b3JlOiBTdHJpbmcgPSAibXlLZXlzdG9yZSIKICAgIGxldCBfZ2V0aENvbnRleHQ6IEdldGhDb250ZXh0PyA9IG5pbAogICAgbGV0IF9rZXljaGFpbiA9IEtleWNoYWluU3dpZnQoKQogICAgbGV0IGJhdGNoRmFjdG9yeSA9IEJhdGNoRmFjdG9yeSh2ZXJzaW9uOiAiMi4wIiwgaWRHZW5lcmF0b3I6IE51bWJlcklkR2VuZXJhdG9yKCkp</text>
-      </register>
       <register name="9" type="4">
-        <text>//
-// Created by Tetsuro Takemoto on 2018/06/18.
-// Copyright (c) 2018 Tetsuro Takemoto. All rights reserved.
-//
-
-import Foundation</text>
+        <text encoding="base64">ICAgIGxldCBteUtleXN0b3JlOiBTdHJpbmcgPSAibXlLZXlzdG9yZSIKICAgIGxldCBfZ2V0aENvbnRleHQ6IEdldGhDb250ZXh0PyA9IG5pbAogICAgbGV0IF9rZXljaGFpbiA9IEtleWNoYWluU3dpZnQoKQogICAgbGV0IGJhdGNoRmFjdG9yeSA9IEJhdGNoRmFjdG9yeSh2ZXJzaW9uOiAiMi4wIiwgaWRHZW5lcmF0b3I6IE51bWJlcklkR2VuZXJhdG9yKCkp</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
