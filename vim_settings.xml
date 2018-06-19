@@ -128,8 +128,8 @@
         <mark key="^" line="94" column="23" />
         <mark key="." line="94" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/Helpers/EthereumHelper.swift" timestamp="1529369265451">
-        <mark key="[" line="5" column="35" />
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/Helpers/EthereumHelper.swift" timestamp="1529371038175">
+        <mark key="[" line="5" column="19" />
         <mark key="]" line="6" column="39" />
         <mark key="^" line="6" column="39" />
         <mark key="." line="6" column="39" />
@@ -350,11 +350,11 @@
         <mark key="^" line="29" column="20" />
         <mark key="." line="29" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/WalletViewController.swift" timestamp="1529369872675">
-        <mark key="'" line="114" column="33" />
-        <mark key="[" line="208" column="0" />
-        <mark key="]" line="208" column="0" />
-        <mark key="." line="208" column="0" />
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/WalletViewController.swift" timestamp="1529371406566">
+        <mark key="'" line="115" column="33" />
+        <mark key="[" line="208" column="61" />
+        <mark key="]" line="210" column="0" />
+        <mark key="." line="210" column="0" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/server/public/index.html" timestamp="1488542685361">
         <mark key="[" line="8" column="18" />
