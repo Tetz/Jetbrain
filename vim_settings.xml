@@ -128,9 +128,9 @@
         <mark key="^" line="94" column="23" />
         <mark key="." line="94" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/Helpers/EthereumHelper.swift" timestamp="1529383290596">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/Helpers/EthereumHelper.swift" timestamp="1529384242661">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="18" />
         <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/ShopClip.scala" timestamp="1488277043715">
@@ -151,7 +151,7 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1529383516408">
+      <file name="/LLDB" timestamp="1529384248414">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/AttributeGroup.scala" timestamp="1486463082837">
@@ -351,10 +351,11 @@
         <mark key="^" line="29" column="20" />
         <mark key="." line="29" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/WalletViewController.swift" timestamp="1529383401879">
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/WalletViewController.swift" timestamp="1529384022818">
         <mark key="'" line="115" column="33" />
-        <mark key="]" line="215" column="0" />
-        <mark key="." line="215" column="0" />
+        <mark key="[" line="212" column="0" />
+        <mark key="]" line="212" column="0" />
+        <mark key="." line="212" column="0" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/server/public/index.html" timestamp="1488542685361">
         <mark key="[" line="8" column="18" />
@@ -1118,7 +1119,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChudW0pCg==</text>
       </register>
       <register name="-" type="4">
         <text>test</text>
@@ -1127,34 +1128,34 @@
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0ZXN0KQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChudW0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhbW91bnRBc0RvdWJsZS5zdHJpbmcoKSkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh0ZXN0KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhbW91bnRBc0RvdWJsZSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICBwcmludCgiPT09PT0gYW1vdW50QXNEb3VibGUgPT09PT09PSIpCiAgICAgICAgcHJpbnQoYW1vdW50QXNEb3VibGUp</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCh0ZXN0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCI9PT09PT0gR2FzIFByaWNlID09PT09PSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhbW91bnRBc0RvdWJsZSkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgdG8gPSByZWNpcGllbnRBZGRyZXNzCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICBwcmludCgiPT09PT0gYW1vdW50QXNEb3VibGUgPT09PT09PSIpCiAgICAgICAgcHJpbnQoYW1vdW50QXNEb3VibGUp</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIEdldGgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCI9PT09PT0gR2FzIFByaWNlID09PT09PSIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgaGVscGVyID0gRXRoZXJldW1IZWxwZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgdG8gPSByZWNpcGllbnRBZGRyZXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCI9PT09PSBub25jZSAhISEgPT09PT0iKQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIEdldGgK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
