@@ -351,9 +351,9 @@
         <mark key="^" line="29" column="20" />
         <mark key="." line="29" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/WalletViewController.swift" timestamp="1529469919097">
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/WalletViewController.swift" timestamp="1529573401116">
         <mark key="'" line="115" column="33" />
-        <mark key="[" line="223" column="8" />
+        <mark key="[" line="224" column="5" />
         <mark key="]" line="192" column="57" />
         <mark key="." line="192" column="57" />
         <mark key="^" line="192" column="57" />
@@ -600,12 +600,6 @@
         <mark key="." line="7" column="51" />
         <mark key="^" line="7" column="51" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/SendViewController.swift" timestamp="1529054646502">
-        <mark key="'" line="14" column="0" />
-        <mark key="]" line="8" column="3" />
-        <mark key="." line="8" column="3" />
-        <mark key="^" line="8" column="3" />
-      </file>
       <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/clientjson/LabelWrites.scala" timestamp="1505464910465">
         <mark key="[" line="11" column="34" />
         <mark key="]" line="11" column="33" />
@@ -750,6 +744,7 @@
         <mark key="." line="73" column="38" />
         <mark key="^" line="73" column="38" />
       </file>
+      <file name="$USER_HOME$/Library/Caches/AppCode2018.1/ModuleCache/9F2000/4.1.2/arm64/iphoneos11.4/UIKit.UIViewController/UIKit.UIViewController.swift" timestamp="1529573366398" />
       <file name="$USER_HOME$/Code/roco-admin-dashboard/api/package.json" timestamp="1486635949256">
         <mark key="[" line="17" column="23" />
         <mark key="]" line="17" column="23" />
