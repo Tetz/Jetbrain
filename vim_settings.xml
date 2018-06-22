@@ -152,7 +152,7 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1529656764704">
+      <file name="/LLDB" timestamp="1529658285885">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/AttributeGroup.scala" timestamp="1486463082837">
@@ -351,12 +351,12 @@
         <mark key="^" line="29" column="20" />
         <mark key="." line="29" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/WalletViewController.swift" timestamp="1529656759991">
-        <mark key="'" line="113" column="33" />
-        <mark key="[" line="124" column="17" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-        <mark key="^" line="65" column="37" />
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/WalletViewController.swift" timestamp="1529658289983">
+        <mark key="'" line="83" column="37" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="71" column="3" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/server/public/index.html" timestamp="1488542685361">
         <mark key="[" line="8" column="18" />
@@ -1012,8 +1012,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="102" filename="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialGroupSummaryWrites.scala" />
-      <jump line="5" column="0" filename="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/SignUp.js" />
       <jump line="21" column="0" filename="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/UserActivation.js" />
       <jump line="58" column="0" filename="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/UserActivation.js" />
       <jump line="33" column="0" filename="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/UserActivation.js" />
@@ -1112,6 +1110,8 @@
       <jump line="2121" column="12" filename="/Geth.swift" />
       <jump line="115" column="33" filename="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/WalletViewController.swift" />
       <jump line="135" column="55" filename="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/ConfirmViewController.swift" />
+      <jump line="66" column="0" filename="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/WalletViewController.swift" />
+      <jump line="83" column="37" filename="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/WalletViewController.swift" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1130,28 +1130,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZWZyZXNoQ29udHJvbC5hZGRUYXJnZXQoc2VsZiwgYWN0aW9uOiAjc2VsZWN0b3IoV2FsbGV0Vmlld0NvbnRyb2xsZXIucmVmcmVzaChzZW5kZXI6KSksIGZvcjogLnZhbHVlQ2hhbmdlZCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBDb25maWd1cmUgUmVmcmVzaCBDb250cm9sCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW5jIHZpZXdXaWxsQXBwZWFyKF8gYW5pbWF0ZWQ6IEJvb2wpIHsKICAgICAgICBzdXBlci52aWV3V2lsbEFwcGVhcihhbmltYXRlZCkKICAgICAgICBzZWxmLnRhYmxlVmlldy5yZWxvYWREYXRhKCkKICAgIH0K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0YWJsZVZpZXcucmVmcmVzaENvbnRyb2wgPSByZWZyZXNoQ29udHJvbAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1bmMgdmlld1dpbGxBcHBlYXIoXyBhbmltYXRlZDogQm9vbCkgewogICAgICAgIHN1cGVyLnZpZXdXaWxsQXBwZWFyKGFuaW1hdGVkKQogICAgICAgIHNlbGYudGFibGVWaWV3LnJlbG9hZERhdGEoKQogICAgfQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0YWJsZVZpZXcuZGF0YVNvdXJjZSA9IHNlbGYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0YWJsZVZpZXcuZGVsZWdhdGUgPSBzZWxmCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIEBvYmpjIGZ1bmMgcmVmcmVzaChzZW5kZXI6IFVJUmVmcmVzaENvbnRyb2wpIHsKICAgICAgICBzZWxmLnRhYmxlVmlldy5yZWxvYWREYXRhKCkKICAgIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciByZWZyZXNoQ29udHJvbDogVUlSZWZyZXNoQ29udHJvbCEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
