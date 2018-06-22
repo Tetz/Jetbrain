@@ -152,7 +152,7 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1529658285885">
+      <file name="/LLDB" timestamp="1529667469620">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/AttributeGroup.scala" timestamp="1486463082837">
@@ -351,12 +351,12 @@
         <mark key="^" line="29" column="20" />
         <mark key="." line="29" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/WalletViewController.swift" timestamp="1529658289983">
-        <mark key="'" line="83" column="37" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="^" line="71" column="3" />
-        <mark key="." line="71" column="0" />
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/WalletViewController.swift" timestamp="1529667126099">
+        <mark key="'" line="133" column="37" />
+        <mark key="[" line="133" column="44" />
+        <mark key="]" line="133" column="56" />
+        <mark key="^" line="133" column="56" />
+        <mark key="." line="133" column="56" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/server/public/index.html" timestamp="1488542685361">
         <mark key="[" line="8" column="18" />
@@ -882,10 +882,11 @@
         <mark key="." line="32" column="1" />
         <mark key="^" line="32" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/TokenViewController.swift" timestamp="1529375810425">
-        <mark key="[" line="155" column="81" />
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/TokenViewController.swift" timestamp="1529667451862">
+        <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
+        <mark key="^" line="14" column="25" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/README.md" timestamp="1484043794680">
         <mark key="[" line="15" column="7" />
@@ -1012,7 +1013,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/UserActivation.js" />
       <jump line="58" column="0" filename="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/UserActivation.js" />
       <jump line="33" column="0" filename="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/UserActivation.js" />
       <jump line="244" column="0" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" />
@@ -1112,46 +1112,47 @@
       <jump line="135" column="55" filename="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/ConfirmViewController.swift" />
       <jump line="66" column="0" filename="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/WalletViewController.swift" />
       <jump line="83" column="37" filename="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/WalletViewController.swift" />
+      <jump line="133" column="37" filename="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/WalletViewController.swift" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>refreshControl</text>
+        <text>Ether</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChudW0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi50aXRsZU5hbWUgPSAiRXRoZXIiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGluaXQoaW5kZXg6IEludCkgewogICAgICAgIHNlbGYudGl0bGVOYW1lID0gIkV0aGVyZXVtIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW5jIHZpZXdXaWxsQXBwZWFyKF8gYW5pbWF0ZWQ6IEJvb2wpIHsKICAgICAgICBzdXBlci52aWV3V2lsbEFwcGVhcihhbmltYXRlZCkKICAgICAgICBzZWxmLnRhYmxlVmlldy5yZWxvYWREYXRhKCkKICAgIH0K</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1bmMgdmlld1dpbGxBcHBlYXIoXyBhbmltYXRlZDogQm9vbCkgewogICAgICAgIHN1cGVyLnZpZXdXaWxsQXBwZWFyKGFuaW1hdGVkKQogICAgICAgIHNlbGYudGFibGVWaWV3LnJlbG9hZERhdGEoKQogICAgfQo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRpdGxlTmFtZSA9IHRpdGxlTmFtZQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIEBvYmpjIGZ1bmMgcmVmcmVzaChzZW5kZXI6IFVJUmVmcmVzaENvbnRyb2wpIHsKICAgICAgICBzZWxmLnRhYmxlVmlldy5yZWxvYWREYXRhKCkKICAgIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciByZWZyZXNoQ29udHJvbDogVUlSZWZyZXNoQ29udHJvbCEK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
