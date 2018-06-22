@@ -152,7 +152,7 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1529645254193">
+      <file name="/LLDB" timestamp="1529647600926">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/AttributeGroup.scala" timestamp="1486463082837">
@@ -351,12 +351,11 @@
         <mark key="^" line="29" column="20" />
         <mark key="." line="29" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/WalletViewController.swift" timestamp="1529645242184">
-        <mark key="'" line="118" column="33" />
-        <mark key="[" line="68" column="17" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-        <mark key="^" line="69" column="7" />
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/WalletViewController.swift" timestamp="1529647403734">
+        <mark key="'" line="119" column="33" />
+        <mark key="[" line="22" column="15" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/server/public/index.html" timestamp="1488542685361">
         <mark key="[" line="8" column="18" />
@@ -1115,7 +1114,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgbGV0IHJlZnJlc2hDb250cm9sID0gVUlSZWZyZXNoQ29udHJvbCgpCg==</text>
       </register>
       <register name="-" type="4">
         <text>view</text>
@@ -1127,25 +1126,25 @@
         <text encoding="base64">ICAgICAgICBwcmludChudW0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgbGV0IHJlZnJlc2hDb250cm9sID0gVUlSZWZyZXNoQ29udHJvbCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnZpZXcuYWRkU3Vidmlldyh0YWJsZVZpZXcpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnZpZXcuYWRkU3Vidmlldyh0YWJsZVZpZXcpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICAvLyBDb25maWd1cmUgUmVmcmVzaCBDb250cm9sCiAgICAgICAgcmVmcmVzaENvbnRyb2wuYWRkVGFyZ2V0KHZpZXcsIGFjdGlvbjogI3NlbGVjdG9yKHJlZnJlc2hXZWF0aGVyRGF0YShfOikpLCBmb3I6IC52YWx1ZUNoYW5nZWQpCiAgICAgICAgcmVmcmVzaENvbnRyb2wudGludENvbG9yID0gVUlDb2xvcihyZWQ6MC4yNSwgZ3JlZW46MC43MiwgYmx1ZTowLjg1LCBhbHBoYToxLjAp</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
