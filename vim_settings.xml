@@ -351,7 +351,7 @@
         <mark key="^" line="29" column="20" />
         <mark key="." line="29" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/WalletViewController.swift" timestamp="1529667126099">
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/WalletViewController.swift" timestamp="1529716884228">
         <mark key="'" line="133" column="37" />
         <mark key="[" line="133" column="44" />
         <mark key="]" line="133" column="56" />
@@ -882,11 +882,11 @@
         <mark key="." line="32" column="1" />
         <mark key="^" line="32" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/TokenViewController.swift" timestamp="1529667451862">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="14" column="25" />
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/TokenViewController.swift" timestamp="1529717052899">
+        <mark key="[" line="193" column="32" />
+        <mark key="]" line="193" column="23" />
+        <mark key="^" line="193" column="23" />
+        <mark key="." line="193" column="23" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/README.md" timestamp="1484043794680">
         <mark key="[" line="15" column="7" />
@@ -1115,41 +1115,41 @@
       <jump line="133" column="37" filename="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/WalletViewController.swift" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0x98cd8de75f15ceb40a8e8a5f19f19a6f943373f4</text>
       </register>
       <register name="-" type="4">
-        <text>Ether</text>
+        <text>0x98cd8de75f15ceb40a8e8a5f19f19a6f943373f4</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi50aXRsZU5hbWUgPSAiRXRoZXIiCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbnRyYWN0QWRkcmVzcyA9ICIweDk4Y2Q4ZGU3NWYxNWNlYjQwYThlOGE1ZjE5ZjE5YTZmOTQzMzczZjQiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jb250cmFjdEFkZHJlc3MgPSAiMHg5OGNkOGRlNzVmMTVjZWI0MGE4ZThhNWYxOWYxOWE2Zjk0MzM3M2Y0Igo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGluaXQoaW5kZXg6IEludCkgewogICAgICAgIHNlbGYudGl0bGVOYW1lID0gIkV0aGVyZXVtIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGluaXQoaW5kZXg6IEludCkgewogICAgICAgIHNlbGYudGl0bGVOYW1lID0gIkV0aGVyZXVtIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRpdGxlTmFtZSA9IHRpdGxlTmFtZQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnRpdGxlTmFtZSA9IHRpdGxlTmFtZQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
