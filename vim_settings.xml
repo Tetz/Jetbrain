@@ -508,9 +508,6 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="/Geth.swift" timestamp="1529215155244">
-        <mark key="'" line="2121" column="12" />
-      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/build.sbt" timestamp="1486010450920">
         <mark key="[" line="18" column="71" />
         <mark key="]" line="18" column="68" />
@@ -820,6 +817,9 @@
         <mark key="]" line="6" column="4" />
         <mark key="^" line="7" column="0" />
         <mark key="." line="6" column="4" />
+      </file>
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/Crypto/Erc20Token.swift" timestamp="1529736164189">
+        <mark key="[" line="6" column="24" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/MaterialGroupControllerSpec.scala" timestamp="1485514285062">
         <mark key="[" line="26" column="43" />
