@@ -285,11 +285,12 @@
         <mark key="^" line="49" column="15" />
         <mark key="." line="49" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/ConfirmViewController.swift" timestamp="1529385551573">
-        <mark key="[" line="136" column="15" />
-        <mark key="]" line="136" column="14" />
-        <mark key="." line="136" column="14" />
-        <mark key="^" line="136" column="14" />
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/ConfirmViewController.swift" timestamp="1529732778562">
+        <mark key="'" line="21" column="4" />
+        <mark key="[" line="19" column="21" />
+        <mark key="]" line="19" column="21" />
+        <mark key="." line="19" column="21" />
+        <mark key="^" line="19" column="21" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ShopPresenter.scala" timestamp="1487145371386">
         <mark key="[" line="112" column="8" />
@@ -599,6 +600,13 @@
         <mark key="]" line="7" column="51" />
         <mark key="." line="7" column="51" />
         <mark key="^" line="7" column="51" />
+      </file>
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/SendViewController.swift" timestamp="1529732707955">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="111" column="46" />
+        <mark key="]" line="112" column="36" />
+        <mark key="." line="112" column="36" />
+        <mark key="^" line="112" column="36" />
       </file>
       <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/clientjson/LabelWrites.scala" timestamp="1505464910465">
         <mark key="[" line="11" column="34" />
@@ -1016,7 +1024,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="0" filename="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/UserActivation.js" />
       <jump line="33" column="0" filename="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/UserActivation.js" />
       <jump line="244" column="0" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" />
       <jump line="241" column="0" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" />
@@ -1116,19 +1123,20 @@
       <jump line="66" column="0" filename="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/WalletViewController.swift" />
       <jump line="83" column="37" filename="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/WalletViewController.swift" />
       <jump line="133" column="37" filename="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/WalletViewController.swift" />
+      <jump line="21" column="4" filename="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/ConfirmViewController.swift" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPCg==</text>
+      <register name="&quot;" type="4">
+        <text>amount</text>
       </register>
       <register name="-" type="4">
-        <text>ell.despLab?.text</text>
+        <text>amount</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbnRyYWN0QWRkcmVzcyA9ICIweDk4Y2Q4ZGU3NWYxNWNlYjQwYThlOGE1ZjE5ZjE5YTZmOTQzMzczZjQiCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFtb3VudCA9IGFtb3VudAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvLyBUT0RPCg==</text>
