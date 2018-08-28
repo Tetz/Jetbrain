@@ -883,11 +883,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="19" column="90" />
       </file>
-      <file name="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/GifViewController.swift" timestamp="1535435337925">
-        <mark key="[" line="33" column="27" />
-        <mark key="]" line="33" column="28" />
-        <mark key="." line="33" column="28" />
-        <mark key="^" line="33" column="28" />
+      <file name="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/GifViewController.swift" timestamp="1535437313317">
+        <mark key="[" line="37" column="61" />
+        <mark key="]" line="40" column="7" />
+        <mark key="." line="40" column="7" />
+        <mark key="^" line="40" column="7" />
       </file>
       <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/templates/my.cnf.j2" timestamp="1489829194019">
         <mark key="[" line="15" column="0" />
@@ -1161,11 +1161,11 @@
       <jump line="12" column="50" filename="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/Crypto/Erc20Token.swift" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>tableView</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIG1ha2UucmlnaHQuZXF1YWxUbyhjb250YWluZXIuc25wLnJpZ2h0KS5vZmZzZXQoLTIwKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>tableView</text>
+        <text>superview</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -1174,19 +1174,19 @@
         <text encoding="base64">ICAgICAgICAvLyB3aW5kb3c/LnJvb3RWaWV3Q29udHJvbGxlciA9IE1haW5UYWJCYXJWaWV3Q29udHJvbGxlcigpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZW5kZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIG1ha2UucmlnaHQuZXF1YWxUbyhjb250YWluZXIuc25wLnJpZ2h0KS5vZmZzZXQoLTIwKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnByZXNlbnQobmF2LCBhbmltYXRlZDogdHJ1ZSwgY29tcGxldGlvbjogbmlsKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbmF2ID0gVUlOYXZpZ2F0aW9uQ29udHJvbGxlcihyb290Vmlld0NvbnRyb2xsZXI6IHZjKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZW5kZXIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBsb2dvLnNldEljb24oZnJvbTogLmZvbnRBd2Vzb21lLCBjb2RlOiAiY3JlZGl0Y2FyZCIsIHRleHRDb2xvcjogLmJsdWUsIGJhY2tncm91bmRDb2xvcjogLmNsZWFyLCBzaXplOiBuaWwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -1194,11 +1194,11 @@
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICBsZXQgYnV0dG9uID0gVUlCdXR0b24oKQogICAgICAgIGJ1dHRvbi5zZXRUaXRsZSgi5b+c5o+044GZ44KLIiwgZm9yOiAubm9ybWFsKQogICAgICAgIGJ1dHRvbi5zZXRUaXRsZUNvbG9yKFVJQ29sb3IucmVkLCBmb3I6IC5ub3JtYWwpCgogICAgICAgIGJ1dHRvbi5zZXRUaXRsZSgi5b+c5o+044GZ44KLIiwgZm9yOiAuaGlnaGxpZ2h0ZWQpCiAgICAgICAgYnV0dG9uLnNldFRpdGxlQ29sb3IoVUlDb2xvci5ibHVlLCBmb3I6IC5oaWdobGlnaHRlZCkKCiAgICAgICAgLy8gYnV0dG9uLmFkZFRhcmdldChzZWxmLCBhY3Rpb246ICNzZWxlY3RvcihzZWxmLm9uVGFwcGVkU2VuZENoZWVyaW5nQnV0dG9uKF8gOikpLCBmb3I6IC50b3VjaFVwSW5zaWRlKQogICAgICAgIGJ1dHRvbi5zaXplVG9GaXQoKQogICAgICAgIGJ1dHRvbi5jZW50ZXIgPSBzZWxmLnZpZXcuY2VudGVyCiAgICAgICAgY29udGFpbmVyLmFkZFN1YnZpZXcoYnV0dG9uKQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnZpZXcuYWRkU3VidmlldyhidXR0b24pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
