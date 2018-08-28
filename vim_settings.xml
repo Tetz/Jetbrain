@@ -631,6 +631,9 @@
         <mark key="^" line="41" column="89" />
         <mark key="." line="41" column="89" />
       </file>
+      <file name="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/Extension/UIImage+Extention.swift" timestamp="1535431262923">
+        <mark key="[" line="0" column="12" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/Authentication.scala" timestamp="1484713081274">
         <mark key="[" line="8" column="57" />
         <mark key="]" line="8" column="57" />
@@ -868,10 +871,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="19" column="90" />
       </file>
-      <file name="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/GifViewController.swift" timestamp="1535423200128">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/GifViewController.swift" timestamp="1535431005235">
+        <mark key="[" line="19" column="11" />
+        <mark key="]" line="19" column="7" />
+        <mark key="." line="19" column="7" />
+        <mark key="^" line="19" column="7" />
       </file>
       <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/templates/my.cnf.j2" timestamp="1489829194019">
         <mark key="[" line="15" column="0" />
@@ -1145,8 +1149,8 @@
       <jump line="12" column="50" filename="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/Crypto/Erc20Token.swift" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1161,28 +1165,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCBqZXJlbXlHaWYgPSBVSUltYWdlLmdpZihuYW1lOiAiamVyZW15IikK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgamVyZW15R2lmID0gVUlJbWFnZS5naWYobmFtZTogImplcmVteSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb250YWluZXIuYmFja2dyb3VuZENvbG9yID0gVUlDb2xvci55ZWxsb3cK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGxldCBqZXJlbXlHaWYgPSBVSUltYWdlLmdpZihuYW1lOiAiamVyZW15IikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb250YWluZXIuYmFja2dyb3VuZENvbG9yID0gVUlDb2xvci55ZWxsb3cK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBFcmMyMFRva2VuKCkuc2VuZFRyYW5zYWN0aW9uKHRvOiAiMHg5YUUxZjVBREZjYzM4M0IxQzVhODVlN2YwQkJhRDRiNzY4ZTdENjYxIiwgYW1vdW50OiBHZXRoTmV3QmlnSW50KDEwMCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL0V0aGVyKCkuc2VuZFRyYW5zYWN0aW9uKHRvOiByZWNpcGllbnRBZGRyZXNzLCBhbW91bnQ6IGFtb3VudEFzQmlnSW50KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBFcmMyMFRva2VuKCkuc2VuZFRyYW5zYWN0aW9uKHRvOiAiMHg5YUUxZjVBREZjYzM4M0IxQzVhODVlN2YwQkJhRDRiNzY4ZTdENjYxIiwgYW1vdW50OiBHZXRoTmV3QmlnSW50KDEwMCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
