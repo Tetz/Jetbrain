@@ -207,11 +207,11 @@
         <mark key="^" line="14" column="24" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/WalletViewController.swift" timestamp="1535433789713">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-        <mark key="^" line="52" column="7" />
+      <file name="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/WalletViewController.swift" timestamp="1535989379114">
+        <mark key="[" line="96" column="27" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
+        <mark key="^" line="96" column="56" />
       </file>
       <file name="/Kotlin Interface.txt.ft" timestamp="1512028429109">
         <mark key="[" line="0" column="0" />
@@ -883,10 +883,10 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="19" column="90" />
       </file>
-      <file name="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/GifViewController.swift" timestamp="1535437313317">
-        <mark key="[" line="37" column="61" />
-        <mark key="]" line="40" column="7" />
-        <mark key="." line="40" column="7" />
+      <file name="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/GifViewController.swift" timestamp="1535988866025">
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="29" column="8" />
+        <mark key="." line="29" column="8" />
         <mark key="^" line="40" column="7" />
       </file>
       <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/templates/my.cnf.j2" timestamp="1489829194019">
@@ -1162,7 +1162,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIG1ha2UucmlnaHQuZXF1YWxUbyhjb250YWluZXIuc25wLnJpZ2h0KS5vZmZzZXQoLTIwKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCJUaGUgbG9hZGVkIGltYWdlOiBcKGltYWdlKSIpCg==</text>
       </register>
       <register name="-" type="4">
         <text>superview</text>
@@ -1174,13 +1174,13 @@
         <text encoding="base64">ICAgICAgICAvLyB3aW5kb3c/LnJvb3RWaWV3Q29udHJvbGxlciA9IE1haW5UYWJCYXJWaWV3Q29udHJvbGxlcigpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIG1ha2UucmlnaHQuZXF1YWxUbyhjb250YWluZXIuc25wLnJpZ2h0KS5vZmZzZXQoLTIwKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCJUaGUgbG9hZGVkIGltYWdlOiBcKGltYWdlKSIpCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAog</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIG1ha2UucmlnaHQuZXF1YWxUbyhjb250YWluZXIuc25wLnJpZ2h0KS5vZmZzZXQoLTIwKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
