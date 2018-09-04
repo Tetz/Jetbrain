@@ -685,12 +685,12 @@
       <file name="/SCSS File.txt.ft" timestamp="1512028428075">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/Views/ProductCell.swift" timestamp="1536039910449">
-        <mark key="'" line="128" column="0" />
-        <mark key="[" line="58" column="40" />
-        <mark key="]" line="58" column="106" />
-        <mark key="." line="58" column="106" />
-        <mark key="^" line="58" column="106" />
+      <file name="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/Views/ProductCell.swift" timestamp="1536042201620">
+        <mark key="'" line="130" column="0" />
+        <mark key="[" line="59" column="40" />
+        <mark key="]" line="59" column="106" />
+        <mark key="." line="59" column="106" />
+        <mark key="^" line="59" column="106" />
       </file>
       <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/main/scala/roco/api/i18nmanager/controllers/I18nTextController.scala" timestamp="1503381501356">
         <mark key="[" line="38" column="19" />
@@ -973,10 +973,10 @@
         <mark key="^" line="4" column="17" />
         <mark key="." line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/Controllers/WalletViewController.swift" timestamp="1536039124023">
-        <mark key="[" line="113" column="18" />
-        <mark key="]" line="164" column="174" />
-        <mark key="." line="164" column="0" />
+      <file name="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/Controllers/WalletViewController.swift" timestamp="1536041494628">
+        <mark key="[" line="98" column="53" />
+        <mark key="]" line="98" column="53" />
+        <mark key="." line="98" column="53" />
         <mark key="^" line="162" column="50" />
       </file>
       <file name="/TypeScript File.txt.ft" timestamp="1512028422631">
@@ -1180,10 +1180,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>T</text>
+        <text>+ 1</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>+ 1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
