@@ -685,6 +685,13 @@
       <file name="/SCSS File.txt.ft" timestamp="1512028428075">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/Views/ProductCell.swift" timestamp="1536033751480">
+        <mark key="'" line="124" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/main/scala/roco/api/i18nmanager/controllers/I18nTextController.scala" timestamp="1503381501356">
         <mark key="[" line="38" column="19" />
         <mark key="]" line="38" column="18" />
@@ -1059,7 +1066,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="244" column="0" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" />
       <jump line="241" column="0" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" />
       <jump line="259" column="0" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" />
       <jump line="277" column="0" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" />
@@ -1159,10 +1165,11 @@
       <jump line="133" column="37" filename="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/WalletViewController.swift" />
       <jump line="21" column="4" filename="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/ConfirmViewController.swift" />
       <jump line="12" column="50" filename="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/Crypto/Erc20Token.swift" />
+      <jump line="118" column="0" filename="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/Views/ProductCell.swift" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCJUaGUgbG9hZGVkIGltYWdlOiBcKGltYWdlKSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>superview</text>
@@ -1174,31 +1181,31 @@
         <text encoding="base64">ICAgICAgICAvLyB3aW5kb3c/LnJvb3RWaWV3Q29udHJvbGxlciA9IE1haW5UYWJCYXJWaWV3Q29udHJvbGxlcigpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCJUaGUgbG9hZGVkIGltYWdlOiBcKGltYWdlKSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAog</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIG1ha2UucmlnaHQuZXF1YWxUbyhjb250YWluZXIuc25wLnJpZ2h0KS5vZmZzZXQoLTIwKQo=</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gQ29weXJpZ2h0IChjKSAyMDE4IFRldHN1cm8gVGFrZW1vdG8uIEFsbCByaWdodHMgcmVzZXJ2ZWQuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gQ3JlYXRlZCBieSBUZXRzdXJvIFRha2Vtb3RvIG9uIDIwMTgvMDkvMDQuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCJUaGUgbG9hZGVkIGltYWdlOiBcKGltYWdlKSIpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAog</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIG1ha2UucmlnaHQuZXF1YWxUbyhjb250YWluZXIuc25wLnJpZ2h0KS5vZmZzZXQoLTIwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1232,7 +1239,6 @@
       </history-search>
       <history-cmd>
         <entry>set paste</entry>
-        <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zL2ltZy9odG1sL2dj</entry>
         <entry>a</entry>
         <entry>11</entry>
@@ -1246,6 +1252,7 @@
         <entry>8910</entry>
         <entry>21</entry>
         <entry>Lw</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
