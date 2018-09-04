@@ -685,12 +685,11 @@
       <file name="/SCSS File.txt.ft" timestamp="1512028428075">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/Views/ProductCell.swift" timestamp="1536042201620">
+      <file name="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/Views/ProductCell.swift" timestamp="1536044471060">
         <mark key="'" line="130" column="0" />
-        <mark key="[" line="59" column="40" />
-        <mark key="]" line="59" column="106" />
-        <mark key="." line="59" column="106" />
-        <mark key="^" line="59" column="106" />
+        <mark key="[" line="123" column="219" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/main/scala/roco/api/i18nmanager/controllers/I18nTextController.scala" timestamp="1503381501356">
         <mark key="[" line="38" column="19" />
@@ -973,7 +972,7 @@
         <mark key="^" line="4" column="17" />
         <mark key="." line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/Controllers/WalletViewController.swift" timestamp="1536041494628">
+      <file name="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/Controllers/WalletViewController.swift" timestamp="1536043962690">
         <mark key="[" line="98" column="53" />
         <mark key="]" line="98" column="53" />
         <mark key="." line="98" column="53" />
@@ -1179,8 +1178,8 @@
       <jump line="118" column="0" filename="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/Views/ProductCell.swift" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>+ 1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBidXR0b24uZnJhbWUgPSBDR1JlY3QoeDogMCwgeTogMCwgd2lkdGg6IDEwMCwgaGVpZ2h0OiA1MCkK</text>
       </register>
       <register name="-" type="4">
         <text>+ 1</text>
@@ -1192,31 +1191,31 @@
         <text encoding="base64">ICAgICAgICBwcm9kdWN0cy5hcHBlbmQoUHJvZHVjdChwcm9kdWN0TmFtZTogIkJPTkVTLCBJbmMuIiwgcHJvZHVjdEltYWdlOiBVSUltYWdlKG5hbWVkOiAicGxhY2Vob2xkZXIiKSEgLCBwcm9kdWN0RGVzYzogIumLvOOBrumMrOmHkeihk+W4qyDkuqTpn7/oqannr4fjgqjjgqbjg6zjgqvjgrvjg5bjg7Mg6KGA55WM5oim57eaIFNIT1cgQlkgUk9DSyEhIOWDleOBruODkuODvOODreODvOOCouOCq+ODh+ODn+OCoiIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9kdWN0cy5hcHBlbmQoUHJvZHVjdChwcm9kdWN0TmFtZTogIkNhbWVyYSBMZW5zIiwgcHJvZHVjdEltYWdlOiAgVUlJbWFnZShuYW1lZDogInBsYWNlaG9sZGVyIikhLCBwcm9kdWN0RGVzYzogIkkgd2lzaCBJIGhhZCB0aGlzIGNhbWVyYSBsZW5zIikpCg==</text>
+        <text encoding="base64">ICAgICAgICBidXR0b24uZnJhbWUgPSBDR1JlY3QoeDogMCwgeTogMCwgd2lkdGg6IDEwMCwgaGVpZ2h0OiA1MCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9kdWN0cy5hcHBlbmQoUHJvZHVjdChwcm9kdWN0TmFtZTogIkRlc2VydCIsIHByb2R1Y3RJbWFnZTogVUlJbWFnZShuYW1lZDogInBsYWNlaG9sZGVyIikhICwgcHJvZHVjdERlc2M6ICJUaGlzIGlzIHNvIHl1bW15IikpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9kdWN0cy5hcHBlbmQoUHJvZHVjdChwcm9kdWN0TmFtZTogIkNhbWVyYSBMZW5zIiwgcHJvZHVjdEltYWdlOiAgVUlJbWFnZShuYW1lZDogInBsYWNlaG9sZGVyIikhLCBwcm9kdWN0RGVzYzogIkkgd2lzaCBJIGhhZCB0aGlzIGNhbWVyYSBsZW5zIikpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGJ0bi5pbWFnZVZpZXc/LmNvbnRlbnRNb2RlID0gLnNjYWxlQXNwZWN0RmlsbAo=</text>
+        <text encoding="base64">ICAgICAgICBwcm9kdWN0cy5hcHBlbmQoUHJvZHVjdChwcm9kdWN0TmFtZTogIkRlc2VydCIsIHByb2R1Y3RJbWFnZTogVUlJbWFnZShuYW1lZDogInBsYWNlaG9sZGVyIikhICwgcHJvZHVjdERlc2M6ICJUaGlzIGlzIHNvIHl1bW15IikpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGJ0bi5zZXRJbWFnZShVSUltYWdlKG5hbWVkOiAicGxhY2Vob2xkZXIiKSEgLCBmb3I6IC5ub3JtYWwpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGJ0bi5pbWFnZVZpZXc/LmNvbnRlbnRNb2RlID0gLnNjYWxlQXNwZWN0RmlsbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGxldCBidG4gPSBVSUJ1dHRvbih0eXBlOiAuY3VzdG9tKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGJ0bi5zZXRJbWFnZShVSUltYWdlKG5hbWVkOiAicGxhY2Vob2xkZXIiKSEgLCBmb3I6IC5ub3JtYWwpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGxldCBidG4gPSBVSUJ1dHRvbih0eXBlOiAuY3VzdG9tKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGJ0bi5pbWFnZVZpZXc/LmNvbnRlbnRNb2RlID0gLnNjYWxlQXNwZWN0RmlsbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGJ0bi5zZXRJbWFnZShVSUltYWdlKG5hbWVkOiAicGxhY2Vob2xkZXIiKSEgLCBmb3I6IC5ub3JtYWwpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGJ0bi5pbWFnZVZpZXc/LmNvbnRlbnRNb2RlID0gLnNjYWxlQXNwZWN0RmlsbAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
