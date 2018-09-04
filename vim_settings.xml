@@ -685,12 +685,12 @@
       <file name="/SCSS File.txt.ft" timestamp="1512028428075">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/Views/ProductCell.swift" timestamp="1536035569075">
-        <mark key="'" line="125" column="0" />
-        <mark key="[" line="69" column="79" />
-        <mark key="]" line="128" column="3" />
-        <mark key="." line="128" column="3" />
-        <mark key="^" line="128" column="3" />
+      <file name="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/Views/ProductCell.swift" timestamp="1536039910449">
+        <mark key="'" line="128" column="0" />
+        <mark key="[" line="58" column="40" />
+        <mark key="]" line="58" column="106" />
+        <mark key="." line="58" column="106" />
+        <mark key="^" line="58" column="106" />
       </file>
       <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/main/scala/roco/api/i18nmanager/controllers/I18nTextController.scala" timestamp="1503381501356">
         <mark key="[" line="38" column="19" />
@@ -807,6 +807,11 @@
         <mark key="]" line="10" column="56" />
         <mark key="^" line="10" column="56" />
         <mark key="." line="10" column="56" />
+      </file>
+      <file name="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/Controllers/TransactionRecieptViewController.swift" timestamp="1536036963145">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/production/terraform-prod.tfvars" timestamp="1488634811250">
         <mark key="[" line="5" column="18" />
@@ -968,11 +973,11 @@
         <mark key="^" line="4" column="17" />
         <mark key="." line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/Controllers/WalletViewController.swift" timestamp="1536035495064">
-        <mark key="[" line="31" column="76" />
-        <mark key="]" line="32" column="7" />
-        <mark key="." line="32" column="7" />
-        <mark key="^" line="32" column="7" />
+      <file name="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/Controllers/WalletViewController.swift" timestamp="1536039124023">
+        <mark key="[" line="113" column="18" />
+        <mark key="]" line="164" column="174" />
+        <mark key="." line="164" column="0" />
+        <mark key="^" line="162" column="50" />
       </file>
       <file name="/TypeScript File.txt.ft" timestamp="1512028422631">
         <mark key="[" line="0" column="0" />
@@ -1175,43 +1180,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVQcm9kdWN0QXJyYXkoKQogICAgICAgIGNvbnRhaW5lci5yZWdpc3RlcihQcm9kdWN0Q2VsbC5zZWxmLCBmb3JDZWxsUmV1c2VJZGVudGlmaWVyOiBjZWxsSWQp</text>
+        <text>T</text>
       </register>
       <register name="-" type="4">
-        <text>glasses</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>placeholder</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwcm9kdWN0cy5hcHBlbmQoUHJvZHVjdChwcm9kdWN0TmFtZTogIkJPTkVTLCBJbmMuIiwgcHJvZHVjdEltYWdlOiBVSUltYWdlKG5hbWVkOiAicGxhY2Vob2xkZXIiKSEgLCBwcm9kdWN0RGVzYzogIumLvOOBrumMrOmHkeihk+W4qyDkuqTpn7/oqannr4fjgqjjgqbjg6zjgqvjgrvjg5bjg7Mg6KGA55WM5oim57eaIFNIT1cgQlkgUk9DSyEhIOWDleOBruODkuODvOODreODvOOCouOCq+ODh+ODn+OCoiIpKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVQcm9kdWN0QXJyYXkoKQogICAgICAgIGNvbnRhaW5lci5yZWdpc3RlcihQcm9kdWN0Q2VsbC5zZWxmLCBmb3JDZWxsUmV1c2VJZGVudGlmaWVyOiBjZWxsSWQp</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBwcm9kdWN0cy5hcHBlbmQoUHJvZHVjdChwcm9kdWN0TmFtZTogIkNhbWVyYSBMZW5zIiwgcHJvZHVjdEltYWdlOiAgVUlJbWFnZShuYW1lZDogInBsYWNlaG9sZGVyIikhLCBwcm9kdWN0RGVzYzogIkkgd2lzaCBJIGhhZCB0aGlzIGNhbWVyYSBsZW5zIikpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcm9kdWN0cy5hcHBlbmQoUHJvZHVjdChwcm9kdWN0TmFtZTogIkRlc2VydCIsIHByb2R1Y3RJbWFnZTogVUlJbWFnZShuYW1lZDogInBsYWNlaG9sZGVyIikhICwgcHJvZHVjdERlc2M6ICJUaGlzIGlzIHNvIHl1bW15IikpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgIC8vIGxldCBidXR0b24gPSBVSUJ1dHRvbigpCiAgICAgICAvLyBidXR0b24uc2V0VGl0bGUoIuW/nOaPtOOBmeOCiyIsIGZvcjogLm5vcm1hbCkKICAgICAgIC8vIGJ1dHRvbi5zZXRUaXRsZUNvbG9yKFVJQ29sb3IucmVkLCBmb3I6IC5ub3JtYWwpCiAgICAgICAvLwogICAgICAgLy8gYnV0dG9uLnNldFRpdGxlKCLlv5zmj7TjgZnjgosiLCBmb3I6IC5oaWdobGlnaHRlZCkKICAgICAgIC8vIGJ1dHRvbi5zZXRUaXRsZUNvbG9yKFVJQ29sb3IuYmx1ZSwgZm9yOiAuaGlnaGxpZ2h0ZWQpCiAgICAgICAvLwogICAgICAgLy8gYnV0dG9uLmFkZFRhcmdldChzZWxmLCBhY3Rpb246ICNzZWxlY3RvcihzZWxmLm9uVGFwcGVkU2VuZENoZWVyaW5nQnV0dG9uKF8gOikpLCBmb3I6IC50b3VjaFVwSW5zaWRlKQogICAgICAgLy8gYnV0dG9uLnNpemVUb0ZpdCgpCiAgICAgICAvLyBidXR0b24uY2VudGVyID0gc2VsZi52aWV3LmNlbnRlcgogICAgICAgLy8gc2VsZi52aWV3LmFkZFN1YnZpZXcoYnV0dG9uKQo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGJ0bi5pbWFnZVZpZXc/LmNvbnRlbnRNb2RlID0gLnNjYWxlQXNwZWN0RmlsbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY2VsbAo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGJ0bi5zZXRJbWFnZShVSUltYWdlKG5hbWVkOiAicGxhY2Vob2xkZXIiKSEgLCBmb3I6IC5ub3JtYWwpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGxldCBidG4gPSBVSUJ1dHRvbih0eXBlOiAuY3VzdG9tKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gQ29weXJpZ2h0IChjKSAyMDE4IFRldHN1cm8gVGFrZW1vdG8uIEFsbCByaWdodHMgcmVzZXJ2ZWQuCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGJ0bi5pbWFnZVZpZXc/LmNvbnRlbnRNb2RlID0gLnNjYWxlQXNwZWN0RmlsbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gQ3JlYXRlZCBieSBUZXRzdXJvIFRha2Vtb3RvIG9uIDIwMTgvMDkvMDQuCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGJ0bi5zZXRJbWFnZShVSUltYWdlKG5hbWVkOiAicGxhY2Vob2xkZXIiKSEgLCBmb3I6IC5ub3JtYWwpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
