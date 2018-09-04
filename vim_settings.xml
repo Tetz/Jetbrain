@@ -309,6 +309,11 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="26" />
       </file>
+      <file name="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/Controllers/ComfirmedCheeringViewController.swift" timestamp="1536073854233">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/AttributeGroupKey.scala" timestamp="1481795654519">
         <mark key="[" line="9" column="29" />
         <mark key="]" line="20" column="50" />
@@ -786,6 +791,7 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/Controllers/SendCheeringFormViewController.swift" timestamp="1536073869053" />
       <file name="/Scala Worksheet.txt.ft" timestamp="1512028430053">
         <mark key="[" line="0" column="0" />
       </file>
@@ -972,11 +978,10 @@
         <mark key="^" line="4" column="17" />
         <mark key="." line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/Controllers/WalletViewController.swift" timestamp="1536043962690">
-        <mark key="[" line="98" column="53" />
-        <mark key="]" line="98" column="53" />
-        <mark key="." line="98" column="53" />
-        <mark key="^" line="162" column="50" />
+      <file name="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/Controllers/WalletViewController.swift" timestamp="1536073732296">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="/TypeScript File.txt.ft" timestamp="1512028422631">
         <mark key="[" line="0" column="0" />
@@ -1179,7 +1184,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBidXR0b24uZnJhbWUgPSBDR1JlY3QoeDogMCwgeTogMCwgd2lkdGg6IDEwMCwgaGVpZ2h0OiA1MCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>+ 1</text>
@@ -1191,31 +1196,58 @@
         <text encoding="base64">ICAgICAgICBwcm9kdWN0cy5hcHBlbmQoUHJvZHVjdChwcm9kdWN0TmFtZTogIkJPTkVTLCBJbmMuIiwgcHJvZHVjdEltYWdlOiBVSUltYWdlKG5hbWVkOiAicGxhY2Vob2xkZXIiKSEgLCBwcm9kdWN0RGVzYzogIumLvOOBrumMrOmHkeihk+W4qyDkuqTpn7/oqannr4fjgqjjgqbjg6zjgqvjgrvjg5bjg7Mg6KGA55WM5oim57eaIFNIT1cgQlkgUk9DSyEhIOWDleOBruODkuODvOODreODvOOCouOCq+ODh+ODn+OCoiIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBidXR0b24uZnJhbWUgPSBDR1JlY3QoeDogMCwgeTogMCwgd2lkdGg6IDEwMCwgaGVpZ2h0OiA1MCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9kdWN0cy5hcHBlbmQoUHJvZHVjdChwcm9kdWN0TmFtZTogIkNhbWVyYSBMZW5zIiwgcHJvZHVjdEltYWdlOiAgVUlJbWFnZShuYW1lZDogInBsYWNlaG9sZGVyIikhLCBwcm9kdWN0RGVzYzogIkkgd2lzaCBJIGhhZCB0aGlzIGNhbWVyYSBsZW5zIikpCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">Ly8KLy8gIENvbWZpcm1lZENoZWVyaW5nVmlld0NvbnRyb2xsZXIuc3dpZnQKLy8gIG90YWt1LXdhbGxldC1pb3MKLy8KLy8gIENyZWF0ZWQgYnkgWW9zdWtlIE9jaGlhaSBvbiA4LzIxLzE4LgovLyAgQ29weXJpZ2h0IMKpIDIwMTggVGV0c3VybyBUYWtlbW90by4gQWxsIHJpZ2h0cyByZXNlcnZlZC4KLy8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9kdWN0cy5hcHBlbmQoUHJvZHVjdChwcm9kdWN0TmFtZTogIkRlc2VydCIsIHByb2R1Y3RJbWFnZTogVUlJbWFnZShuYW1lZDogInBsYWNlaG9sZGVyIikhICwgcHJvZHVjdERlc2M6ICJUaGlzIGlzIHNvIHl1bW15IikpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBsZXQgb3Rha3VXYWxsZXRUaXRsZVZpZXcgPSBVSUltYWdlVmlldyhpbWFnZTpyZXNpemVkT3Rha3VXYWxsZXRUaXRsZUltZykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGJ0bi5pbWFnZVZpZXc/LmNvbnRlbnRNb2RlID0gLnNjYWxlQXNwZWN0RmlsbAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBsZXQgcmVzaXplZE90YWt1V2FsbGV0VGl0bGVJbWcgPSBVSUltYWdlKCkucmVzaXplSW1hZ2UoaW1hZ2U6IG90YWt1V2FsbGV0VGl0bGVJbWchLCBuZXdXaWR0aDogMTUwKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGJ0bi5zZXRJbWFnZShVSUltYWdlKG5hbWVkOiAicGxhY2Vob2xkZXIiKSEgLCBmb3I6IC5ub3JtYWwpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBsZXQgb3Rha3VXYWxsZXRUaXRsZUltZyA9IFVJSW1hZ2UobmFtZWQ6ICJPdGFrdVdhbGxldFRpdGxlIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGxldCBidG4gPSBVSUJ1dHRvbih0eXBlOiAuY3VzdG9tKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text>//        let cell = UITableViewCell(style: .subtitle, reuseIdentifier: &quot;cell&quot;)
+//        let idx = indexPath.row + 1
+//
+//        switch idx {
+//        case 1:
+//            cell.textLabel?.text = &quot;スタジオ1&quot;
+//        case 2:
+//            cell.textLabel?.text = &quot;スタジオ2&quot;
+//        case 3:
+//            cell.textLabel?.text = &quot;スタジオ3&quot;
+//        case 4:
+//            cell.textLabel?.text = &quot;スタジオ4&quot;
+//        case 5:
+//            cell.textLabel?.text = &quot;スタジオ5&quot;
+//        case 6:
+//            cell.textLabel?.text = &quot;スタジオ6&quot;
+//        case 7:
+//            cell.textLabel?.text = &quot;スタジオ7&quot;
+//        case 8:
+//            cell.textLabel?.text = &quot;スタジオ8&quot;
+//        case 9:
+//            cell.textLabel?.text = &quot;スタジオ9&quot;
+//        default:
+//            print(&quot;Error: index is not match&quot;)
+//        }
+//
+//        let image : UIImage? = UIImage(named: &quot;placeholder&quot;)
+//        cell.imageView!.image = image</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIEN1c3RvbSBDZWxsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGJ0bi5pbWFnZVZpZXc/LmNvbnRlbnRNb2RlID0gLnNjYWxlQXNwZWN0RmlsbAo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gQ3VzdG9tIENlbGwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
