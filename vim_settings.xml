@@ -1090,15 +1090,13 @@
         <mark key="^" line="33" column="15" />
         <mark key="." line="33" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/WalletViewController.swift" timestamp="1537529699614">
-        <mark key="'" line="129" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="134" column="0" />
-        <mark key="." line="134" column="0" />
-        <mark key="^" line="134" column="0" />
+      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/WalletViewController.swift" timestamp="1537533283964">
+        <mark key="[" line="78" column="58" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/MainTabBarViewController.swift" timestamp="1537528544171">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/MainTabBarViewController.swift" timestamp="1537532007019">
+        <mark key="[" line="9" column="42" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
@@ -1207,12 +1205,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>//
-// Created by Tetsuro Takemoto on 2018/09/21.
-// Copyright (c) 2018 TimeTicket. All rights reserved.
-//
-
-import Foundation</text>
+        <text encoding="base64">ICAgICAgICB0YWJsZVZpZXcuZGVsZWdhdGUgPSBzZWxmCiAgICAgICAgdGFibGVWaWV3LmRhdGFTb3VyY2UgPSBzZWxmCg==</text>
       </register>
       <register name="-" type="4">
         <text>+ 1</text>
@@ -1224,36 +1217,31 @@ import Foundation</text>
         <text encoding="base64">ICAgICAgICBwcm9kdWN0cy5hcHBlbmQoUHJvZHVjdChwcm9kdWN0TmFtZTogIkJPTkVTLCBJbmMuIiwgcHJvZHVjdEltYWdlOiBVSUltYWdlKG5hbWVkOiAicGxhY2Vob2xkZXIiKSEgLCBwcm9kdWN0RGVzYzogIumLvOOBrumMrOmHkeihk+W4qyDkuqTpn7/oqannr4fjgqjjgqbjg6zjgqvjgrvjg5bjg7Mg6KGA55WM5oim57eaIFNIT1cgQlkgUk9DSyEhIOWDleOBruODkuODvOODreODvOOCouOCq+ODh+ODn+OCoiIpKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>//
-// Created by Tetsuro Takemoto on 2018/09/21.
-// Copyright (c) 2018 TimeTicket. All rights reserved.
-//
-
-import Foundation</text>
+        <text encoding="base64">ICAgICAgICB0YWJsZVZpZXcuZGVsZWdhdGUgPSBzZWxmCiAgICAgICAgdGFibGVWaWV3LmRhdGFTb3VyY2UgPSBzZWxmCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IFNuYXBLaXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBuYXZpZ2F0aW9uQ29udHJvbGxlcj8ucHVzaFZpZXdDb250cm9sbGVyKHZjLCBhbmltYXRlZDogdHJ1ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgdmMgPSBJbmZvVmlld0NvbnRyb2xsZXIodGl0bGVOYW1lOiAiSW5mb3JtYXRpb24iKQo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgY2VsbCA9IHRhYmxlVmlldy5kZXF1ZXVlUmV1c2FibGVDZWxsKHdpdGhJZGVudGlmaWVyOiAiVG9rZW5MaXN0Q2VsbCIsIGZvcjogaW5kZXhQYXRoKSBhcyEgVG9rZW5MaXN0Q2VsbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvblRhcHBlZENlbGwoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIGZ1bmMgb25UYXBwZWRDZWxsKCkgewogICAgICAgIGxldCB2YyA9IEdpZlZpZXdDb250cm9sbGVyKHRpdGxlTmFtZTogIkdJRiIpCiAgICAgICAgbmF2aWdhdGlvbkNvbnRyb2xsZXI/LnB1c2hWaWV3Q29udHJvbGxlcih2YywgYW5pbWF0ZWQ6IHRydWUpCiAgICB9</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY2VsbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDjgrvjg6vjgavooajnpLrjgZnjgovlgKTjgpLoqK3lrprjgZnjgosK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBPdmVycmlkZSBwb2ludCBmb3IgY3VzdG9taXphdGlvbiBhZnRlciBhcHBsaWNhdGlvbiBsYXVuY2guCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDjgrvjg6vjgpLlj5blvpfjgZnjgosK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
