@@ -820,6 +820,13 @@
       <file name="/Scala Trait.txt.ft" timestamp="1512028431115">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/SettingViewController.swift" timestamp="1537521848663">
+        <mark key="'" line="67" column="4" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="57" column="40" />
+        <mark key="." line="71" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/aws_elasticache.tf" timestamp="1486994719397">
         <mark key="[" line="14" column="1" />
         <mark key="]" line="4" column="36" />
@@ -831,6 +838,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="^" line="17" column="55" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/AppDelegate.swift" timestamp="1537521555415">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/SendViewController.swift" timestamp="1529742926484">
         <mark key="'" line="15" column="0" />
@@ -1078,16 +1090,11 @@
         <mark key="^" line="33" column="15" />
         <mark key="." line="33" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/MainTabBarViewController.swift" timestamp="1537520586007">
+      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/MainTabBarViewController.swift" timestamp="1537521855719">
         <mark key="[" line="11" column="65" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="241" column="0" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" />
-      <jump line="259" column="0" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" />
-      <jump line="277" column="0" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" />
-      <jump line="36" column="0" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_alb.tf" />
-      <jump line="48" column="0" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_alb.tf" />
       <jump line="61" column="0" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_alb.tf" />
       <jump line="159" column="41" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" />
       <jump line="114" column="29" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" />
@@ -1183,10 +1190,15 @@
       <jump line="21" column="4" filename="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/ConfirmViewController.swift" />
       <jump line="12" column="50" filename="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/Crypto/Erc20Token.swift" />
       <jump line="118" column="0" filename="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/Views/ProductCell.swift" />
+      <jump line="85" column="40" filename="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/SettingViewController.swift" />
+      <jump line="6" column="0" filename="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/SettingViewController.swift" />
+      <jump line="82" column="0" filename="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/SettingViewController.swift" />
+      <jump line="2" column="0" filename="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/SettingViewController.swift" />
+      <jump line="67" column="4" filename="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/SettingViewController.swift" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvblRhcHBlZENlbGwoKQo=</text>
       </register>
       <register name="-" type="4">
         <text>+ 1</text>
@@ -1198,58 +1210,31 @@
         <text encoding="base64">ICAgICAgICBwcm9kdWN0cy5hcHBlbmQoUHJvZHVjdChwcm9kdWN0TmFtZTogIkJPTkVTLCBJbmMuIiwgcHJvZHVjdEltYWdlOiBVSUltYWdlKG5hbWVkOiAicGxhY2Vob2xkZXIiKSEgLCBwcm9kdWN0RGVzYzogIumLvOOBrumMrOmHkeihk+W4qyDkuqTpn7/oqannr4fjgqjjgqbjg6zjgqvjgrvjg5bjg7Mg6KGA55WM5oim57eaIFNIT1cgQlkgUk9DSyEhIOWDleOBruODkuODvOODreODvOOCouOCq+ODh+ODn+OCoiIpKQo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBvblRhcHBlZENlbGwoKQo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Ly8KLy8gIENvbWZpcm1lZENoZWVyaW5nVmlld0NvbnRyb2xsZXIuc3dpZnQKLy8gIG90YWt1LXdhbGxldC1pb3MKLy8KLy8gIENyZWF0ZWQgYnkgWW9zdWtlIE9jaGlhaSBvbiA4LzIxLzE4LgovLyAgQ29weXJpZ2h0IMKpIDIwMTggVGV0c3VybyBUYWtlbW90by4gQWxsIHJpZ2h0cyByZXNlcnZlZC4KLy8K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBsZXQgb3Rha3VXYWxsZXRUaXRsZVZpZXcgPSBVSUltYWdlVmlldyhpbWFnZTpyZXNpemVkT3Rha3VXYWxsZXRUaXRsZUltZykK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIGZ1bmMgb25UYXBwZWRDZWxsKCkgewogICAgICAgIGxldCB2YyA9IEdpZlZpZXdDb250cm9sbGVyKHRpdGxlTmFtZTogIkdJRiIpCiAgICAgICAgbmF2aWdhdGlvbkNvbnRyb2xsZXI/LnB1c2hWaWV3Q29udHJvbGxlcih2YywgYW5pbWF0ZWQ6IHRydWUpCiAgICB9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBsZXQgcmVzaXplZE90YWt1V2FsbGV0VGl0bGVJbWcgPSBVSUltYWdlKCkucmVzaXplSW1hZ2UoaW1hZ2U6IG90YWt1V2FsbGV0VGl0bGVJbWchLCBuZXdXaWR0aDogMTUwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBsZXQgb3Rha3VXYWxsZXRUaXRsZUltZyA9IFVJSW1hZ2UobmFtZWQ6ICJPdGFrdVdhbGxldFRpdGxlIikK</text>
+        <text encoding="base64">ICAgICAgICAvLyBPdmVycmlkZSBwb2ludCBmb3IgY3VzdG9taXphdGlvbiBhZnRlciBhcHBsaWNhdGlvbiBsYXVuY2guCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>//        let cell = UITableViewCell(style: .subtitle, reuseIdentifier: &quot;cell&quot;)
-//        let idx = indexPath.row + 1
-//
-//        switch idx {
-//        case 1:
-//            cell.textLabel?.text = &quot;スタジオ1&quot;
-//        case 2:
-//            cell.textLabel?.text = &quot;スタジオ2&quot;
-//        case 3:
-//            cell.textLabel?.text = &quot;スタジオ3&quot;
-//        case 4:
-//            cell.textLabel?.text = &quot;スタジオ4&quot;
-//        case 5:
-//            cell.textLabel?.text = &quot;スタジオ5&quot;
-//        case 6:
-//            cell.textLabel?.text = &quot;スタジオ6&quot;
-//        case 7:
-//            cell.textLabel?.text = &quot;スタジオ7&quot;
-//        case 8:
-//            cell.textLabel?.text = &quot;スタジオ8&quot;
-//        case 9:
-//            cell.textLabel?.text = &quot;スタジオ9&quot;
-//        default:
-//            print(&quot;Error: index is not match&quot;)
-//        }
-//
-//        let image : UIImage? = UIImage(named: &quot;placeholder&quot;)
-//        cell.imageView!.image = image</text>
+        <text encoding="base64">Ly8KLy8gIENvbWZpcm1lZENoZWVyaW5nVmlld0NvbnRyb2xsZXIuc3dpZnQKLy8gIG90YWt1LXdhbGxldC1pb3MKLy8KLy8gIENyZWF0ZWQgYnkgWW9zdWtlIE9jaGlhaSBvbiA4LzIxLzE4LgovLyAgQ29weXJpZ2h0IMKpIDIwMTggVGV0c3VybyBUYWtlbW90by4gQWxsIHJpZ2h0cyByZXNlcnZlZC4KLy8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIEN1c3RvbSBDZWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBsZXQgb3Rha3VXYWxsZXRUaXRsZVZpZXcgPSBVSUltYWdlVmlldyhpbWFnZTpyZXNpemVkT3Rha3VXYWxsZXRUaXRsZUltZykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gQ3VzdG9tIENlbGwK</text>
+        <text encoding="base64">ICAgICAgICAvLyBsZXQgcmVzaXplZE90YWt1V2FsbGV0VGl0bGVJbWcgPSBVSUltYWdlKCkucmVzaXplSW1hZ2UoaW1hZ2U6IG90YWt1V2FsbGV0VGl0bGVJbWchLCBuZXdXaWR0aDogMTUwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1344,6 +1329,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
