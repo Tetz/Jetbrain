@@ -929,6 +929,12 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
+      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/TransactionViewController.swift" timestamp="1537948809502">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="55" />
+        <mark key="^" line="47" column="54" />
+        <mark key="." line="57" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/clientjson/MessageWrites.scala" timestamp="1506574527116">
         <mark key="[" line="35" column="28" />
         <mark key="]" line="35" column="33" />
@@ -1090,15 +1096,15 @@
         <mark key="^" line="33" column="15" />
         <mark key="." line="33" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/WalletViewController.swift" timestamp="1537946157091">
+      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/WalletViewController.swift" timestamp="1537948161080">
         <mark key="'" line="32" column="0" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-        <mark key="^" line="78" column="51" />
+        <mark key="[" line="82" column="40" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="86" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/MainTabBarViewController.swift" timestamp="1537532007019">
-        <mark key="[" line="9" column="42" />
+      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/MainTabBarViewController.swift" timestamp="1537948644624">
+        <mark key="[" line="13" column="43" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
@@ -1206,8 +1212,8 @@
       <jump line="32" column="0" filename="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/WalletViewController.swift" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2VsbC50ZXh0TGFiZWw/LnRleHQgPSAiVHJhbnNhY3Rpb24gXChpZHgpIgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1216,34 +1222,34 @@
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgZ3JheUNvbG9yID0gVUlDb2xvcihyZWQ6IDIzNi8yNTUuMCwgZ3JlZW46IDI0MC8yNTUuMCwgYmx1ZTogMjQxLzI1NS4wLCBhbHBoYTogMS4wKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2VsbC50ZXh0TGFiZWw/LnRleHQgPSAiVHJhbnNhY3Rpb24gXChpZHgpIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgZHVtbXlWaWV3SGVpZ2h0ID0gQ0dGbG9hdCgyMDYpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2VsbC50ZXh0TGFiZWw/LnRleHQgPSAiVHJhbnNhY3Rpb24gIiArIGlkeAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0YWJsZVZpZXcudGFibGVIZWFkZXJWaWV3ID0gaGVhZGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2VsbC50ZXh0TGFiZWw/LnRleHQgPSAiVHJhbnNhY3Rpb24gIiArIGlkeAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgaGVhZGVyID0gVUlWaWV3KGZyYW1lOiBDR1JlY3QoeDogMCwgeTogMCwgd2lkdGg6IHRhYmxlVmlldy5mcmFtZS53aWR0aCwgaGVpZ2h0OiAwKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2VsbC50ZXh0TGFiZWw/LnRleHQgPSAiVHJhbnNhY3Rpb24gIiArIGlkeAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXIuYmFja2dyb3VuZENvbG9yID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2VsbC50ZXh0TGFiZWw/LnRleHQgPSAiVHJhbnNhY3Rpb24gIiArIGlkeAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2VsbC50ZXh0TGFiZWw/LnRleHQgPSAiVHJhbnNhY3Rpb24gIiArIGlkeAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUaGUgc2VjdGlvbiBoZWFkZXIgc2Nyb2xsIGp1c3QgbGlrZSBhbnkgcmVndWxhciBjZWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2VsbC50ZXh0TGFiZWw/LnRleHQgPSAiVHJhbnNhY3Rpb24gMSIK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICB0YWJsZVZpZXcuZnJhbWUgPSBDR1JlY3QoCiAgICAgICAgICAgICAgICB4OiAwLAogICAgICAgICAgICAgICAgeTogc3RhdHVzQmFySGVpZ2h0LAogICAgICAgICAgICAgICAgd2lkdGg6IHNlbGYudGFibGVWaWV3LmZyYW1lLndpZHRoLAogICAgICAgICAgICAgICAgaGVpZ2h0OiBzZWxmLnZpZXcuZnJhbWUuaGVpZ2h0IC0gc3RhdHVzQmFySGVpZ2h0CiAgICAgICAgKQo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2VsbC50ZXh0TGFiZWw/LnRleHQgPSAiVHJhbnNhY3Rpb24gMSIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2VsbC50ZXh0TGFiZWw/LnRleHQgPSAiVHJhbnNhY3Rpb24gMSIK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICBjYXNlIDM6CiAgICAgICAgICAgIGNlbGwudGV4dExhYmVsPy50ZXh0ID0gIkZBUSIKICAgICAgICBjYXNlIDQ6CiAgICAgICAgICAgIGNlbGwudGV4dExhYmVsPy50ZXh0ID0gIkNvbnRhY3QgdXMiCiAgICAgICAgY2FzZSA1OgogICAgICAgICAgICBjZWxsLnRleHRMYWJlbD8udGV4dCA9ICJUZXJtcyBvZiBzZXJ2aWNlIgogICAgICAgIGNhc2UgNjoKICAgICAgICAgICAgY2VsbC50ZXh0TGFiZWw/LnRleHQgPSAiQWJvdXQi</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2VsbC50ZXh0TGFiZWw/LnRleHQgPSAiVHJhbnNhY3Rpb24gMSIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
