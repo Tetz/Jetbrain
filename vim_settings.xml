@@ -1090,10 +1090,12 @@
         <mark key="^" line="33" column="15" />
         <mark key="." line="33" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/WalletViewController.swift" timestamp="1537533283964">
-        <mark key="[" line="78" column="58" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/WalletViewController.swift" timestamp="1537939085117">
+        <mark key="'" line="77" column="54" />
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="14" column="27" />
+        <mark key="." line="14" column="27" />
+        <mark key="^" line="14" column="27" />
       </file>
       <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/MainTabBarViewController.swift" timestamp="1537532007019">
         <mark key="[" line="9" column="42" />
@@ -1102,7 +1104,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="41" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" />
       <jump line="114" column="29" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" />
       <jump line="115" column="17" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" />
       <jump line="120" column="23" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" />
@@ -1202,6 +1203,7 @@
       <jump line="2" column="0" filename="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/SettingViewController.swift" />
       <jump line="67" column="4" filename="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/SettingViewController.swift" />
       <jump line="129" column="0" filename="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/WalletViewController.swift" />
+      <jump line="77" column="54" filename="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/WalletViewController.swift" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
