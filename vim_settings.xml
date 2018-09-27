@@ -218,12 +218,7 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Controllers/WalletViewController.swift" timestamp="1538036222018">
-        <mark key="[" line="40" column="22" />
-        <mark key="]" line="44" column="38" />
-        <mark key="." line="44" column="38" />
-        <mark key="^" line="44" column="38" />
-      </file>
+      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Controllers/WalletViewController.swift" timestamp="1538042418876" />
       <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/submit.js" timestamp="1489038105738">
         <mark key="[" line="5" column="15" />
         <mark key="]" line="5" column="15" />
@@ -274,6 +269,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Requests/TestRequest.swift" timestamp="1538042171851">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/Utility.scala" timestamp="1484646647950">
         <mark key="[" line="7" column="10" />
@@ -433,12 +433,12 @@
         <mark key="^" line="15" column="7" />
         <mark key="." line="15" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Requests/GetBalanceRequest.swift" timestamp="1538039307478">
+      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Requests/GetBalanceRequest.swift" timestamp="1538042399758">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="6" column="71" />
-        <mark key="]" line="6" column="69" />
-        <mark key="^" line="6" column="69" />
-        <mark key="." line="6" column="69" />
+        <mark key="[" line="37" column="25" />
+        <mark key="]" line="37" column="172" />
+        <mark key="^" line="37" column="172" />
+        <mark key="." line="37" column="172" />
       </file>
       <file name="/Dummy.txt" timestamp="1502783020605">
         <mark key="[" line="0" column="0" />
@@ -1111,8 +1111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="29" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" />
-      <jump line="133" column="17" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" />
       <jump line="138" column="23" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" />
       <jump line="140" column="22" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" />
       <jump line="141" column="29" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" />
@@ -1211,13 +1209,15 @@
       <jump line="62" column="0" filename="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Requests/GetBalanceRequest.swift" />
       <jump line="27" column="0" filename="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Requests/GetBalanceRequest.swift" />
       <jump line="8" column="0" filename="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Requests/GetBalanceRequest.swift" />
+      <jump line="14" column="15" filename="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Requests/TestRequest.swift" />
+      <jump line="23" column="0" filename="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Requests/TestRequest.swift" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRva2VuUHJpY2UgPSB0b2tlbi5wcmljZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>token</text>
+        <text>userId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -1226,31 +1226,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLnByaWNlID0gcHJpY2VBc0RvdWJsZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRva2VuUHJpY2UgPSB0b2tlbi5wcmljZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgdG9rZW5QcmljZTogRG91YmxlID0gMAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGd1YXJkIGxldCBhY2Nlc3NUb2tlbiA9IE15QXBwTG9jYWxEYXRhLmF1dGhUb2tlbigpIGVsc2UgewogICAgICAgICAgICByZXR1cm4gWzpdCiAgICAgICAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBDb2luTWFya2V0Q2FwIEFQSQo=</text>
+        <text encoding="base64">Ly8gaHR0cHM6Ly9kZXZlbG9wZXIuZ2l0aHViLmNvbS92My9yYXRlX2xpbWl0Lwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly86IFN0ZXAgMzogRGVmaW5lIHJlcXVlc3QgdHlwZSBjb25mb3JtaW5nIHRvIGNyZWF0ZWQgcmVxdWVzdCBwcm90b2NvbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly86IFN0ZXAgMjogQ3JlYXRlIG1vZGVsIG9iamVjdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly86IFN0ZXAgMTogRGVmaW5lIHJlcXVlc3QgcHJvdG9jb2wK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRzY0JhbGFuY2UgPSB0c2NCYWxhbmNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmV0aEJhbGFuY2UgPSBldGhCYWxhbmNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm15V2FsbGV0QWRkcmVzcyA9IG15V2FsbGV0QWRkcmVzcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
