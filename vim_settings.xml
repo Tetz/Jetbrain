@@ -218,12 +218,6 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Controllers/WalletViewController.swift" timestamp="1538043849590">
-        <mark key="[" line="110" column="58" />
-        <mark key="]" line="110" column="60" />
-        <mark key="^" line="110" column="60" />
-        <mark key="." line="110" column="60" />
-      </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/submit.js" timestamp="1489038105738">
         <mark key="[" line="5" column="15" />
         <mark key="]" line="5" column="15" />
@@ -1219,43 +1213,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBjZWxsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>userId</text>
+        <text>address</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnByaWNlID0gcHJpY2VBc0RvdWJsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFkZHJlc3MgPSBkYXRhLm15V2FsbGV0QWRkcmVzcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBjZWxsCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIGd1YXJkIGxldCBhY2Nlc3NUb2tlbiA9IE15QXBwTG9jYWxEYXRhLmF1dGhUb2tlbigpIGVsc2UgewogICAgICAgICAgICByZXR1cm4gWzpdCiAgICAgICAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWVjb2luQW1vdW50LnRleHQgPSAiXChkYXRhLnRzY0JhbGFuY2UpIFRTQyIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gaHR0cHM6Ly9kZXZlbG9wZXIuZ2l0aHViLmNvbS92My9yYXRlX2xpbWl0Lwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly86IFN0ZXAgMzogRGVmaW5lIHJlcXVlc3QgdHlwZSBjb25mb3JtaW5nIHRvIGNyZWF0ZWQgcmVxdWVzdCBwcm90b2NvbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly86IFN0ZXAgMjogQ3JlYXRlIG1vZGVsIG9iamVjdAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly86IFN0ZXAgMTogRGVmaW5lIHJlcXVlc3QgcHJvdG9jb2wK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIGd1YXJkIGxldCBhY2Nlc3NUb2tlbiA9IE15QXBwTG9jYWxEYXRhLmF1dGhUb2tlbigpIGVsc2UgewogICAgICAgICAgICByZXR1cm4gWzpdCiAgICAgICAgfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRzY0JhbGFuY2UgPSB0c2NCYWxhbmNlCg==</text>
+        <text encoding="base64">Ly8gaHR0cHM6Ly9kZXZlbG9wZXIuZ2l0aHViLmNvbS92My9yYXRlX2xpbWl0Lwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmV0aEJhbGFuY2UgPSBldGhCYWxhbmNlCg==</text>
+        <text encoding="base64">Ly86IFN0ZXAgMzogRGVmaW5lIHJlcXVlc3QgdHlwZSBjb25mb3JtaW5nIHRvIGNyZWF0ZWQgcmVxdWVzdCBwcm90b2NvbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm15V2FsbGV0QWRkcmVzcyA9IG15V2FsbGV0QWRkcmVzcwo=</text>
+        <text encoding="base64">Ly86IFN0ZXAgMjogQ3JlYXRlIG1vZGVsIG9iamVjdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
