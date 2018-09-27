@@ -218,6 +218,12 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Controllers/WalletViewController.swift" timestamp="1538033861145">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="50" column="8" />
+        <mark key="^" line="50" column="8" />
+        <mark key="." line="50" column="8" />
+      </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/submit.js" timestamp="1489038105738">
         <mark key="[" line="5" column="15" />
         <mark key="]" line="5" column="15" />
@@ -275,13 +281,7 @@
         <mark key="." line="7" column="51" />
         <mark key="^" line="7" column="51" />
       </file>
-      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Requests/GetRequest.swift" timestamp="1537960771005">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="19" column="32" />
-        <mark key="]" line="19" column="30" />
-        <mark key="." line="19" column="30" />
-        <mark key="^" line="19" column="30" />
-      </file>
+      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Requests/GetRequest.swift" timestamp="1538033868692" />
       <file name="/Kotlin Class.txt.ft" timestamp="1512028429650">
         <mark key="[" line="0" column="0" />
       </file>
