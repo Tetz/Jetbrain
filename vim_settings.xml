@@ -218,11 +218,11 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Controllers/WalletViewController.swift" timestamp="1538033861145">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="50" column="8" />
-        <mark key="^" line="50" column="8" />
-        <mark key="." line="50" column="8" />
+      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Controllers/WalletViewController.swift" timestamp="1538036222018">
+        <mark key="[" line="40" column="22" />
+        <mark key="]" line="44" column="38" />
+        <mark key="." line="44" column="38" />
+        <mark key="^" line="44" column="38" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/submit.js" timestamp="1489038105738">
         <mark key="[" line="5" column="15" />
@@ -281,7 +281,9 @@
         <mark key="." line="7" column="51" />
         <mark key="^" line="7" column="51" />
       </file>
-      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Requests/GetRequest.swift" timestamp="1538033868692" />
+      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Requests/GetRequest.swift" timestamp="1538034317264">
+        <mark key="'" line="49" column="4" />
+      </file>
       <file name="/Kotlin Class.txt.ft" timestamp="1512028429650">
         <mark key="[" line="0" column="0" />
       </file>
@@ -383,13 +385,6 @@
         <mark key="^" line="3" column="72" />
         <mark key="." line="3" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/Crypto/Erc20Token.swift" timestamp="1530269766036">
-        <mark key="'" line="21" column="50" />
-        <mark key="[" line="23" column="47" />
-        <mark key="]" line="23" column="40" />
-        <mark key="." line="23" column="40" />
-        <mark key="^" line="23" column="40" />
-      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/MaterialGroupControllerSpec.scala" timestamp="1485514285062">
         <mark key="[" line="26" column="43" />
         <mark key="]" line="19" column="0" />
@@ -437,6 +432,13 @@
         <mark key="]" line="15" column="7" />
         <mark key="^" line="15" column="7" />
         <mark key="." line="15" column="7" />
+      </file>
+      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Requests/GetBalanceRequest.swift" timestamp="1538036282801">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="38" column="31" />
+        <mark key="]" line="38" column="32" />
+        <mark key="^" line="38" column="32" />
+        <mark key="." line="38" column="32" />
       </file>
       <file name="/Dummy.txt" timestamp="1502783020605">
         <mark key="[" line="0" column="0" />
@@ -730,13 +732,6 @@
         <mark key="^" line="7" column="15" />
         <mark key="." line="7" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/WalletViewController.swift" timestamp="1530168669404">
-        <mark key="'" line="133" column="37" />
-        <mark key="[" line="102" column="60" />
-        <mark key="]" line="133" column="56" />
-        <mark key="^" line="133" column="56" />
-        <mark key="." line="133" column="56" />
-      </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/server/public/index.html" timestamp="1488542685361">
         <mark key="[" line="8" column="18" />
         <mark key="]" line="8" column="12" />
@@ -856,13 +851,6 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/SendViewController.swift" timestamp="1529742926484">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="21" column="26" />
-        <mark key="]" line="114" column="36" />
-        <mark key="." line="114" column="36" />
-        <mark key="^" line="114" column="36" />
       </file>
       <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/clientjson/LabelWrites.scala" timestamp="1505464910465">
         <mark key="[" line="11" column="34" />
@@ -1123,12 +1111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="23" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" />
-      <jump line="122" column="22" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" />
-      <jump line="123" column="29" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" />
-      <jump line="124" column="17" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" />
-      <jump line="129" column="23" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" />
-      <jump line="131" column="22" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" />
       <jump line="132" column="29" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" />
       <jump line="133" column="17" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" />
       <jump line="138" column="23" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" />
@@ -1223,13 +1205,19 @@
       <jump line="77" column="54" filename="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/WalletViewController.swift" />
       <jump line="32" column="0" filename="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/WalletViewController.swift" />
       <jump line="20" column="0" filename="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Requests/GetRequest.swift" />
+      <jump line="49" column="4" filename="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Requests/GetRequest.swift" />
+      <jump line="64" column="0" filename="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Requests/GetBalanceRequest.swift" />
+      <jump line="56" column="16" filename="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Requests/GetBalanceRequest.swift" />
+      <jump line="62" column="0" filename="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Requests/GetBalanceRequest.swift" />
+      <jump line="27" column="0" filename="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Requests/GetBalanceRequest.swift" />
+      <jump line="8" column="0" filename="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Requests/GetBalanceRequest.swift" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>expectedData</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRva2VuUHJpY2UgPSB0b2tlbi5wcmljZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>expectedData</text>
+        <text>token</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -1238,31 +1226,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLnByaWNlID0gcHJpY2VBc0RvdWJsZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRva2VuUHJpY2UgPSB0b2tlbi5wcmljZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgdG9rZW5QcmljZTogRG91YmxlID0gMAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIGZ1bmMgdGVzdFBlcmZvcm1hbmNlRXhhbXBsZSgpIHsKICAgICAgICBzZWxmLm1lYXN1cmUgewogICAgICAgIH0KICAgIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBDb2luTWFya2V0Q2FwIEFQSQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gUHV0IHRoZSBjb2RlIHlvdSB3YW50IHRvIG1lYXN1cmUgdGhlIHRpbWUgb2YgaGVyZS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUaGlzIGlzIGFuIGV4YW1wbGUgb2YgYSBwZXJmb3JtYW5jZSB0ZXN0IGNhc2UuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBVc2UgWENUQXNzZXJ0IGFuZCByZWxhdGVkIGZ1bmN0aW9ucyB0byB2ZXJpZnkgeW91ciB0ZXN0cyBwcm9kdWNlIHRoZSBjb3JyZWN0IHJlc3VsdHMuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUaGlzIGlzIGFuIGV4YW1wbGUgb2YgYSBmdW5jdGlvbmFsIHRlc3QgY2FzZS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBQdXQgdGVhcmRvd24gY29kZSBoZXJlLiBUaGlzIG1ldGhvZCBpcyBjYWxsZWQgYWZ0ZXIgdGhlIGludm9jYXRpb24gb2YgZWFjaCB0ZXN0IG1ldGhvZCBpbiB0aGUgY2xhc3MuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBQdXQgc2V0dXAgY29kZSBoZXJlLiBUaGlzIG1ldGhvZCBpcyBjYWxsZWQgYmVmb3JlIHRoZSBpbnZvY2F0aW9uIG9mIGVhY2ggdGVzdCBtZXRob2QgaW4gdGhlIGNsYXNzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
