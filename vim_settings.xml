@@ -218,6 +218,12 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Controllers/WalletViewController.swift" timestamp="1538047658042">
+        <mark key="[" line="74" column="46" />
+        <mark key="]" line="71" column="40" />
+        <mark key="." line="71" column="40" />
+        <mark key="^" line="71" column="40" />
+      </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/submit.js" timestamp="1489038105738">
         <mark key="[" line="5" column="15" />
         <mark key="]" line="5" column="15" />
@@ -1213,7 +1219,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBjZWxsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>address</text>
@@ -1225,31 +1231,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFkZHJlc3MgPSBkYXRhLm15V2FsbGV0QWRkcmVzcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBjZWxsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWVjb2luQW1vdW50LnRleHQgPSAiXChkYXRhLnRzY0JhbGFuY2UpIFRTQyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIEFQSSBUZXN0Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIGd1YXJkIGxldCBhY2Nlc3NUb2tlbiA9IE15QXBwTG9jYWxEYXRhLmF1dGhUb2tlbigpIGVsc2UgewogICAgICAgICAgICByZXR1cm4gWzpdCiAgICAgICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGV0Ywo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gaHR0cHM6Ly9kZXZlbG9wZXIuZ2l0aHViLmNvbS92My9yYXRlX2xpbWl0Lwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly86IFN0ZXAgMzogRGVmaW5lIHJlcXVlc3QgdHlwZSBjb25mb3JtaW5nIHRvIGNyZWF0ZWQgcmVxdWVzdCBwcm90b2NvbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly86IFN0ZXAgMjogQ3JlYXRlIG1vZGVsIG9iamVjdAo=</text>
+        <text encoding="base64">Ly8gcHV0IHlvdXIgbG9naWMgaGVyZSBhbmQgdGhlbiBjaGFuZ2UgdGhlIGNvbG9yIGFzIGFwcHJvcHJpYXRlLCBmb3IgaW5zdGFuY2U6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
