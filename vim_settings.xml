@@ -96,6 +96,12 @@
         <mark key="^" line="14" column="24" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-walletTests/timecoin_ios_walletTests.swift" timestamp="1538030151682">
+        <mark key="[" line="16" column="31" />
+        <mark key="]" line="16" column="38" />
+        <mark key="." line="16" column="38" />
+        <mark key="^" line="16" column="38" />
+      </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" timestamp="1490612171259">
         <mark key="[" line="211" column="19" />
         <mark key="]" line="211" column="20" />
@@ -1220,10 +1226,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>expectedData</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>expectedData</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -1234,34 +1240,29 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>//    {
-//        &quot;userId&quot;: &quot;1&quot;,
-//        &quot;myWalletAddress&quot;: &quot;0xb26d6c91f72347be507df920e46a62920373e098&quot;,
-//        &quot;ethBalance&quot;: &quot;0.099852424&quot;,
-//        &quot;tscBalance&quot;: &quot;998&quot;
-//    }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICBndWFyZCBsZXQgcHJpY2UgPSBkaWN0aW9uYXJ5WyJkYXRhIl0/WyJxdW90ZXMiXT9bIkpQWSJdIGFzPyBBbnlPYmplY3QgZWxzZSB7CiAgICAgICAgICAgIHJldHVybiBuaWwKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGZ1bmMgdGVzdFBlcmZvcm1hbmNlRXhhbXBsZSgpIHsKICAgICAgICBzZWxmLm1lYXN1cmUgewogICAgICAgIH0KICAgIH0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gUHV0IHRoZSBjb2RlIHlvdSB3YW50IHRvIG1lYXN1cmUgdGhlIHRpbWUgb2YgaGVyZS4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2VsbC50ZXh0TGFiZWw/LmRlc2NyaXB0aW9uID0gIjB4Li4uIgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUaGlzIGlzIGFuIGV4YW1wbGUgb2YgYSBwZXJmb3JtYW5jZSB0ZXN0IGNhc2UuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2VsbC50ZXh0TGFiZWw/LnRleHQgPSAiVHJhbnNhY3Rpb24gIiArIGlkeAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBVc2UgWENUQXNzZXJ0IGFuZCByZWxhdGVkIGZ1bmN0aW9ucyB0byB2ZXJpZnkgeW91ciB0ZXN0cyBwcm9kdWNlIHRoZSBjb3JyZWN0IHJlc3VsdHMuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2VsbC50ZXh0TGFiZWw/LnRleHQgPSAiVHJhbnNhY3Rpb24gIiArIGlkeAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUaGlzIGlzIGFuIGV4YW1wbGUgb2YgYSBmdW5jdGlvbmFsIHRlc3QgY2FzZS4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2VsbC50ZXh0TGFiZWw/LnRleHQgPSAiVHJhbnNhY3Rpb24gIiArIGlkeAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBQdXQgdGVhcmRvd24gY29kZSBoZXJlLiBUaGlzIG1ldGhvZCBpcyBjYWxsZWQgYWZ0ZXIgdGhlIGludm9jYXRpb24gb2YgZWFjaCB0ZXN0IG1ldGhvZCBpbiB0aGUgY2xhc3MuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2VsbC50ZXh0TGFiZWw/LnRleHQgPSAiVHJhbnNhY3Rpb24gIiArIGlkeAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBQdXQgc2V0dXAgY29kZSBoZXJlLiBUaGlzIG1ldGhvZCBpcyBjYWxsZWQgYmVmb3JlIHRoZSBpbnZvY2F0aW9uIG9mIGVhY2ggdGVzdCBtZXRob2QgaW4gdGhlIGNsYXNzLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
