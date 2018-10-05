@@ -69,7 +69,7 @@
         <mark key="^" line="13" column="32" />
         <mark key="." line="13" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Controllers/TokenViewController.swift" timestamp="1538721194923">
+      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Controllers/TokenViewController.swift" timestamp="1538721779345">
         <mark key="'" line="126" column="42" />
         <mark key="[" line="35" column="8" />
         <mark key="]" line="134" column="42" />
@@ -188,6 +188,13 @@
         <mark key="]" line="8" column="0" />
         <mark key="^" line="1" column="30" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Views/TokenListCell.swift" timestamp="1538721928450">
+        <mark key="'" line="26" column="24" />
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="29" column="44" />
+        <mark key="^" line="29" column="44" />
+        <mark key="." line="29" column="44" />
       </file>
       <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/Extentions/Data+Extention.swift" timestamp="1529305792766">
         <mark key="[" line="0" column="0" />
@@ -1069,7 +1076,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="23" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" />
       <jump line="113" column="22" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" />
       <jump line="53" column="6" filename="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ArticleController.scala" />
       <jump line="33" column="0" filename="$USER_HOME$/.ivy2/cache/com.twitter/finatra-http_2.12/jars/finatra-http_2.12-2.11.0-tests.jar!/com/twitter/finatra/http/EmbeddedHttpServer.class" />
@@ -1169,6 +1175,7 @@
       <jump line="11" column="0" filename="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Controllers/TokenViewController.swift" />
       <jump line="166" column="0" filename="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Controllers/TokenViewController.swift" />
       <jump line="126" column="42" filename="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Controllers/TokenViewController.swift" />
+      <jump line="26" column="24" filename="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Views/TokenListCell.swift" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
