@@ -15,487 +15,6 @@
         <mark key="." line="15" column="12" />
         <mark key="^" line="15" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Shop.scala" timestamp="1485427090528">
-        <mark key="[" line="82" column="126" />
-        <mark key="]" line="82" column="123" />
-        <mark key="." line="82" column="123" />
-        <mark key="^" line="82" column="123" />
-      </file>
-      <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/main/scala/roco/api/i18nmanager/services/I18nTextService.scala" timestamp="1502947001726">
-        <mark key="[" line="23" column="33" />
-        <mark key="]" line="23" column="86" />
-        <mark key="^" line="23" column="86" />
-        <mark key="." line="23" column="86" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialSummaryWrites.scala" timestamp="1485515838258">
-        <mark key="[" line="9" column="57" />
-        <mark key="]" line="9" column="57" />
-        <mark key="^" line="9" column="57" />
-        <mark key="." line="9" column="57" />
-      </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/API/Http/TestRequest.swift" timestamp="1528477127123">
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="3" column="19" />
-        <mark key="^" line="1" column="12" />
-        <mark key="." line="3" column="19" />
-      </file>
-      <file name="$USER_HOME$/Code/roco/api-onlinecontent/src/main/scala/roco/api/onlinecontent/clientjson/CouponCategoryWrites.scala" timestamp="1506572844748">
-        <mark key="[" line="12" column="9" />
-        <mark key="]" line="12" column="14" />
-        <mark key="." line="12" column="14" />
-        <mark key="^" line="12" column="14" />
-      </file>
-      <file name="$USER_HOME$/Code/roco/api-i18nmanager/build.sbt" timestamp="1501569226081">
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="2" column="19" />
-        <mark key="^" line="2" column="19" />
-        <mark key="." line="2" column="19" />
-      </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/Helpers/EthereumHelper.swift" timestamp="1529385459814">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="7" column="31" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/AttributeGroup.scala" timestamp="1486463082837">
-        <mark key="[" line="30" column="3" />
-        <mark key="]" line="38" column="152" />
-        <mark key="." line="38" column="152" />
-        <mark key="^" line="38" column="152" />
-      </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/models/Shop.scala" timestamp="1513663942652">
-        <mark key="[" line="13" column="32" />
-        <mark key="]" line="13" column="32" />
-        <mark key="^" line="13" column="32" />
-        <mark key="." line="13" column="32" />
-      </file>
-      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Controllers/TokenViewController.swift" timestamp="1538723418203">
-        <mark key="'" line="126" column="42" />
-        <mark key="[" line="93" column="51" />
-        <mark key="]" line="93" column="53" />
-        <mark key="^" line="93" column="53" />
-        <mark key="." line="93" column="53" />
-      </file>
-      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/tasks/main.yml" timestamp="1489821124449">
-        <mark key="[" line="20" column="25" />
-        <mark key="]" line="22" column="36" />
-        <mark key="." line="22" column="36" />
-        <mark key="^" line="22" column="36" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ArticleClip.scala" timestamp="1484121762264">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="21" />
-      </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/Authentication.scala" timestamp="1502784570762">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="14" column="24" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-walletTests/timecoin_ios_walletTests.swift" timestamp="1538030151682">
-        <mark key="[" line="16" column="31" />
-        <mark key="]" line="16" column="38" />
-        <mark key="." line="16" column="38" />
-        <mark key="^" line="16" column="38" />
-      </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" timestamp="1490612171259">
-        <mark key="[" line="211" column="19" />
-        <mark key="]" line="211" column="20" />
-        <mark key="^" line="211" column="20" />
-        <mark key="." line="211" column="20" />
-      </file>
-      <file name="$USER_HOME$/Code/roco/api-onlinecontent/src/main/scala/roco/api/onlinecontent/models/CouponType.scala" timestamp="1506573473071">
-        <mark key="[" line="9" column="19" />
-        <mark key="]" line="9" column="19" />
-        <mark key="." line="9" column="19" />
-        <mark key="^" line="9" column="16" />
-      </file>
-      <file name="$USER_HOME$/vm/ciatr-vm/README.md" timestamp="1488790084051">
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="6" column="15" />
-        <mark key="^" line="6" column="15" />
-        <mark key="." line="6" column="15" />
-      </file>
-      <file name="$USER_HOME$/Code/roco-bff/admin/template.yaml" timestamp="1490785618350">
-        <mark key="[" line="49" column="15" />
-        <mark key="]" line="49" column="15" />
-        <mark key="^" line="49" column="15" />
-        <mark key="." line="49" column="15" />
-      </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/ConfirmViewController.swift" timestamp="1530971096147">
-        <mark key="'" line="21" column="4" />
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/.eslintrc" timestamp="1487742465388">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="21" column="26" />
-      </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/terraform.tfvars" timestamp="1486990298806">
-        <mark key="[" line="29" column="16" />
-        <mark key="]" line="29" column="20" />
-        <mark key="^" line="29" column="20" />
-        <mark key="." line="29" column="20" />
-      </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/models/ShopAttributeGroupDescription.scala" timestamp="1514278445629">
-        <mark key="[" line="9" column="30" />
-        <mark key="]" line="9" column="30" />
-        <mark key="^" line="9" column="30" />
-        <mark key="." line="9" column="30" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ArticlePresenter.scala" timestamp="1485245977165">
-        <mark key="[" line="50" column="20" />
-        <mark key="]" line="5" column="19" />
-        <mark key="^" line="5" column="19" />
-        <mark key="." line="5" column="19" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ShopController.scala" timestamp="1487153046886">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="42" column="23" />
-      </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/Account/EtherKeystore.swift" timestamp="1529319014615">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/MaterialGroup.scala" timestamp="1485502124735">
-        <mark key="[" line="31" column="78" />
-        <mark key="]" line="31" column="56" />
-        <mark key="^" line="31" column="56" />
-        <mark key="." line="31" column="56" />
-      </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/lib/image.js" timestamp="1487743037636">
-        <mark key="[" line="11" column="2" />
-        <mark key="]" line="11" column="3" />
-        <mark key="^" line="11" column="3" />
-        <mark key="." line="11" column="3" />
-      </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/.eslintrc" timestamp="1490176418874">
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="6" column="1" />
-        <mark key="^" line="6" column="1" />
-        <mark key="." line="6" column="1" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ArticleControllerSpec.scala" timestamp="1484737479545">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="1" column="30" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Views/TokenListCell.swift" timestamp="1538722727870">
-        <mark key="'" line="45" column="23" />
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="29" column="44" />
-        <mark key="^" line="29" column="44" />
-        <mark key="." line="29" column="44" />
-      </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/Extentions/Data+Extention.swift" timestamp="1529305792766">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="8" column="3" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/routes" timestamp="1485513511245">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="30" column="35" />
-      </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/.eslintrc.yml" timestamp="1490177106805">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/terraform-roco/.gitignore" timestamp="1485494751134">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="17" />
-        <mark key="^" line="0" column="17" />
-        <mark key="." line="0" column="17" />
-      </file>
-      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Controllers/WalletViewController.swift" timestamp="1538732014490">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
-        <mark key="^" line="89" column="67" />
-      </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/submit.js" timestamp="1489038105738">
-        <mark key="[" line="5" column="15" />
-        <mark key="]" line="5" column="15" />
-        <mark key="." line="5" column="15" />
-        <mark key="^" line="5" column="15" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopAttributeGroupDescription.scala" timestamp="1481873177492">
-        <mark key="[" line="8" column="34" />
-        <mark key="]" line="8" column="34" />
-        <mark key="^" line="8" column="32" />
-        <mark key="." line="8" column="34" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/build.sbt" timestamp="1486010450920">
-        <mark key="[" line="18" column="71" />
-        <mark key="]" line="18" column="68" />
-        <mark key="." line="18" column="68" />
-        <mark key="^" line="18" column="68" />
-      </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/login/config.js" timestamp="1487671921159">
-        <mark key="[" line="5" column="1" />
-        <mark key="]" line="5" column="1" />
-        <mark key="." line="5" column="1" />
-        <mark key="^" line="5" column="1" />
-      </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/CheckinHistoryController.scala" timestamp="1502788573757">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="18" column="46" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/models/Attribute.scala" timestamp="1511251867755">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="24" column="66" />
-      </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/ShopControllerSpec.scala" timestamp="1514274115352">
-        <mark key="[" line="533" column="5" />
-        <mark key="]" line="533" column="5" />
-        <mark key="." line="533" column="5" />
-        <mark key="^" line="581" column="2" />
-      </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/production/terraform.tfvars" timestamp="1491031569033">
-        <mark key="[" line="5" column="17" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Requests/TestRequest.swift" timestamp="1538042171851">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/Utility.scala" timestamp="1484646647950">
-        <mark key="[" line="7" column="10" />
-        <mark key="]" line="7" column="51" />
-        <mark key="." line="7" column="51" />
-        <mark key="^" line="7" column="51" />
-      </file>
-      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Requests/GetRequest.swift" timestamp="1538034317264">
-        <mark key="'" line="49" column="4" />
-      </file>
-      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Controllers/SendViewController.swift" timestamp="1538650183527">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/MainTabBarViewController.swift" timestamp="1535432758076">
-        <mark key="[" line="12" column="6" />
-        <mark key="]" line="13" column="7" />
-        <mark key="." line="13" column="7" />
-        <mark key="^" line="13" column="7" />
-      </file>
-      <file name="$USER_HOME$/Code/roco-bff/admin/apis/api_request.js" timestamp="1490330265559">
-        <mark key="[" line="1" column="41" />
-        <mark key="]" line="1" column="34" />
-        <mark key="^" line="1" column="34" />
-        <mark key="." line="1" column="34" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/MaterialHtml.scala" timestamp="1486611513006">
-        <mark key="[" line="17" column="37" />
-        <mark key="]" line="27" column="37" />
-        <mark key="^" line="27" column="37" />
-        <mark key="." line="27" column="37" />
-      </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/clientjson/ShopPresenter.scala" timestamp="1506421760933">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="55" />
-        <mark key="." line="28" column="53" />
-        <mark key="^" line="28" column="53" />
-      </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/production/.gitignore" timestamp="1491033749099">
-        <mark key="[" line="6" column="24" />
-        <mark key="]" line="1" column="5" />
-        <mark key="." line="1" column="5" />
-        <mark key="^" line="1" column="5" />
-      </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_s3.tf" timestamp="1490609822994">
-        <mark key="[" line="7" column="43" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="7" column="41" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/index.js" timestamp="1489058171344">
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="6" column="11" />
-        <mark key="." line="6" column="11" />
-        <mark key="^" line="6" column="11" />
-      </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/AttributeControllerSpec.scala" timestamp="1511261506374">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="^" line="116" column="46" />
-        <mark key="." line="93" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ConsumerController.scala" timestamp="1484728591305">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="83" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="53" column="71" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/MaterialController.scala" timestamp="1485516615010">
-        <mark key="[" line="72" column="54" />
-        <mark key="]" line="73" column="38" />
-        <mark key="." line="73" column="38" />
-        <mark key="^" line="73" column="38" />
-      </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/api/package.json" timestamp="1486635949256">
-        <mark key="[" line="17" column="23" />
-        <mark key="]" line="17" column="23" />
-        <mark key="." line="17" column="23" />
-        <mark key="^" line="17" column="23" />
-      </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/API/JsonRpc/EthereumHelper.swift" timestamp="1529218859360">
-        <mark key="[" line="10" column="58" />
-        <mark key="]" line="10" column="56" />
-        <mark key="^" line="10" column="56" />
-        <mark key="." line="10" column="56" />
-      </file>
-      <file name="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/Controllers/TransactionRecieptViewController.swift" timestamp="1536036963145">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/Material.js" timestamp="1489558353005">
-        <mark key="[" line="64" column="18" />
-        <mark key="]" line="64" column="12" />
-        <mark key="^" line="64" column="12" />
-        <mark key="." line="64" column="12" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/build.sbt" timestamp="1486010502511">
-        <mark key="[" line="3" column="38" />
-        <mark key="]" line="3" column="38" />
-        <mark key="^" line="3" column="72" />
-        <mark key="." line="3" column="38" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/MaterialGroupControllerSpec.scala" timestamp="1485514285062">
-        <mark key="[" line="26" column="43" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="21" column="35" />
-      </file>
-      <file name="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/SettingViewController.swift" timestamp="1535434668195">
-        <mark key="[" line="84" column="4" />
-        <mark key="]" line="84" column="8" />
-        <mark key="." line="84" column="8" />
-        <mark key="^" line="84" column="8" />
-      </file>
-      <file name="$USER_HOME$/Code/roco/play-util/src/main/scala/roco/play/util/extractors/ShopParameter.scala" timestamp="1514281688503">
-        <mark key="[" line="24" column="37" />
-        <mark key="]" line="47" column="56" />
-        <mark key="^" line="47" column="56" />
-        <mark key="." line="47" column="56" />
-      </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/.gitignore" timestamp="1488625215406">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="5" />
-        <mark key="." line="2" column="5" />
-        <mark key="^" line="2" column="5" />
-      </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-iosTests/econome_wallet_iosTests.swift" timestamp="1530269649206">
-        <mark key="[" line="37" column="8" />
-        <mark key="]" line="37" column="42" />
-        <mark key="^" line="37" column="42" />
-        <mark key="." line="37" column="42" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ApplicationSpec.scala" timestamp="1485854404527">
-        <mark key="[" line="78" column="45" />
-        <mark key="]" line="78" column="45" />
-        <mark key="." line="78" column="45" />
-        <mark key="^" line="78" column="36" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOnlineContent/build.sbt" timestamp="1486539674884">
-        <mark key="[" line="24" column="61" />
-        <mark key="]" line="24" column="62" />
-        <mark key="^" line="24" column="62" />
-        <mark key="." line="24" column="62" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/README.md" timestamp="1484043794680">
-        <mark key="[" line="15" column="7" />
-        <mark key="]" line="15" column="7" />
-        <mark key="^" line="15" column="7" />
-        <mark key="." line="15" column="7" />
-      </file>
-      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Requests/GetBalanceRequest.swift" timestamp="1538043085493">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="35" column="17" />
-        <mark key="]" line="35" column="37" />
-        <mark key="^" line="35" column="37" />
-        <mark key="." line="35" column="37" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/MessageController.scala" timestamp="1484711606729">
-        <mark key="[" line="11" column="103" />
-        <mark key="]" line="13" column="39" />
-        <mark key="^" line="13" column="39" />
-        <mark key="." line="13" column="39" />
-      </file>
-      <file name="$USER_HOME$/Code/roco-bff/admin/apis/material.js" timestamp="1490266614656">
-        <mark key="[" line="4" column="12" />
-        <mark key="]" line="4" column="17" />
-        <mark key="^" line="4" column="17" />
-        <mark key="." line="4" column="17" />
-      </file>
-      <file name="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/Controllers/WalletViewController.swift" timestamp="1536073732296">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/terraform-ciatr/variables.tf" timestamp="1486990287996">
-        <mark key="[" line="25" column="26" />
-        <mark key="]" line="25" column="26" />
-        <mark key="^" line="25" column="26" />
-        <mark key="." line="25" column="26" />
-      </file>
-      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Material.scala" timestamp="1481864439417">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/api/routes/index.js" timestamp="1486630361227">
-        <mark key="[" line="5" column="43" />
-        <mark key="]" line="5" column="13" />
-        <mark key="." line="5" column="13" />
-        <mark key="^" line="5" column="13" />
-      </file>
-      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/MainTabBarViewController.swift" timestamp="1529327293843">
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="11" column="21" />
-        <mark key="^" line="11" column="21" />
-        <mark key="." line="11" column="21" />
-      </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/bin/deploy.sh" timestamp="1488861858133">
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="1" column="21" />
-        <mark key="." line="1" column="21" />
-        <mark key="^" line="1" column="21" />
-      </file>
-      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/app.js" timestamp="1489058194781">
-        <mark key="[" line="13" column="3" />
-        <mark key="]" line="41" column="45" />
-        <mark key="^" line="41" column="45" />
-        <mark key="." line="41" column="45" />
-      </file>
-      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/models/Article.scala" timestamp="1502872996326">
-        <mark key="[" line="12" column="29" />
-        <mark key="]" line="13" column="18" />
-        <mark key="^" line="13" column="18" />
-        <mark key="." line="13" column="18" />
-      </file>
       <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/init/tasks/main.yml" timestamp="1489223596254">
         <mark key="[" line="28" column="42" />
         <mark key="]" line="28" column="41" />
@@ -507,6 +26,12 @@
         <mark key="]" line="38" column="36" />
         <mark key="^" line="16" column="3" />
         <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Shop.scala" timestamp="1485427090528">
+        <mark key="[" line="82" column="126" />
+        <mark key="]" line="82" column="123" />
+        <mark key="." line="82" column="123" />
+        <mark key="^" line="82" column="123" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/.elasticbeanstalk/config.yml" timestamp="1488448370561">
         <mark key="[" line="14" column="0" />
@@ -520,16 +45,40 @@
         <mark key="^" line="40" column="45" />
         <mark key="." line="40" column="45" />
       </file>
+      <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/main/scala/roco/api/i18nmanager/services/I18nTextService.scala" timestamp="1502947001726">
+        <mark key="[" line="23" column="33" />
+        <mark key="]" line="23" column="86" />
+        <mark key="^" line="23" column="86" />
+        <mark key="." line="23" column="86" />
+      </file>
       <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/Extentions/String+Extention.swift" timestamp="1529306120927">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialSummaryWrites.scala" timestamp="1485515838258">
+        <mark key="[" line="9" column="57" />
+        <mark key="]" line="9" column="57" />
+        <mark key="^" line="9" column="57" />
+        <mark key="." line="9" column="57" />
+      </file>
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/API/Http/TestRequest.swift" timestamp="1528477127123">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="3" column="19" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="3" column="19" />
       </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/development/variables.tf" timestamp="1491031226675">
         <mark key="[" line="9" column="17" />
         <mark key="]" line="74" column="0" />
         <mark key="^" line="57" column="10" />
         <mark key="." line="74" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/roco/api-onlinecontent/src/main/scala/roco/api/onlinecontent/clientjson/CouponCategoryWrites.scala" timestamp="1506572844748">
+        <mark key="[" line="12" column="9" />
+        <mark key="]" line="12" column="14" />
+        <mark key="." line="12" column="14" />
+        <mark key="^" line="12" column="14" />
       </file>
       <file name="$USER_HOME$/Code/seeder/src/seeder/json/skinny/seeder.scala" timestamp="1484035003218">
         <mark key="[" line="5" column="20" />
@@ -542,6 +91,12 @@
         <mark key="]" line="26" column="3" />
         <mark key="^" line="26" column="3" />
         <mark key="." line="26" column="3" />
+      </file>
+      <file name="$USER_HOME$/Code/roco/api-i18nmanager/build.sbt" timestamp="1501569226081">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="2" column="19" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/HomeController.scala" timestamp="1484647292880">
         <mark key="[" line="6" column="0" />
@@ -560,6 +115,12 @@
         <mark key="]" line="39" column="0" />
         <mark key="^" line="24" column="37" />
         <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/Helpers/EthereumHelper.swift" timestamp="1529385459814">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="7" column="31" />
       </file>
       <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/clientjson/MaterialWrites.scala" timestamp="1505291943916">
         <mark key="[" line="94" column="22" />
@@ -585,10 +146,35 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/AttributeGroup.scala" timestamp="1486463082837">
+        <mark key="[" line="30" column="3" />
+        <mark key="]" line="38" column="152" />
+        <mark key="." line="38" column="152" />
+        <mark key="^" line="38" column="152" />
+      </file>
       <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/API/JsonRpc/EtherKeystore.swift" timestamp="1529311619550">
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/models/Shop.scala" timestamp="1513663942652">
+        <mark key="[" line="13" column="32" />
+        <mark key="]" line="13" column="32" />
+        <mark key="^" line="13" column="32" />
+        <mark key="." line="13" column="32" />
+      </file>
+      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Controllers/TokenViewController.swift" timestamp="1538723418203">
+        <mark key="'" line="126" column="42" />
+        <mark key="[" line="93" column="51" />
+        <mark key="]" line="93" column="53" />
+        <mark key="^" line="93" column="53" />
+        <mark key="." line="93" column="53" />
+      </file>
+      <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/tasks/main.yml" timestamp="1489821124449">
+        <mark key="[" line="20" column="25" />
+        <mark key="]" line="22" column="36" />
+        <mark key="." line="22" column="36" />
+        <mark key="^" line="22" column="36" />
       </file>
       <file name="$USER_HOME$/Code/CognitoPlayground/WebPlayground/js/preset.js" timestamp="1490949313235">
         <mark key="[" line="5" column="57" />
@@ -602,12 +188,29 @@
         <mark key="^" line="5" column="4" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ArticleClip.scala" timestamp="1484121762264">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="21" />
+      </file>
       <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/Account/LaunchManager.swift" timestamp="1529327072858">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Controllers/SettingViewController.swift" timestamp="1538650477022" />
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/Authentication.scala" timestamp="1502784570762">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="14" column="24" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-walletTests/timecoin_ios_walletTests.swift" timestamp="1538030151682">
+        <mark key="[" line="16" column="31" />
+        <mark key="]" line="16" column="38" />
+        <mark key="." line="16" column="38" />
+        <mark key="^" line="16" column="38" />
+      </file>
       <file name="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/WalletViewController.swift" timestamp="1535989379114">
         <mark key="[" line="96" column="27" />
         <mark key="]" line="97" column="0" />
@@ -656,17 +259,53 @@
         <mark key="." line="21" column="42" />
         <mark key="^" line="21" column="42" />
       </file>
+      <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" timestamp="1490612171259">
+        <mark key="[" line="211" column="19" />
+        <mark key="]" line="211" column="20" />
+        <mark key="^" line="211" column="20" />
+        <mark key="." line="211" column="20" />
+      </file>
       <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/resources/routes" timestamp="1512033121342">
         <mark key="[" line="19" column="120" />
         <mark key="]" line="19" column="17" />
         <mark key="." line="19" column="17" />
         <mark key="^" line="19" column="17" />
       </file>
+      <file name="$USER_HOME$/Code/roco/api-onlinecontent/src/main/scala/roco/api/onlinecontent/models/CouponType.scala" timestamp="1506573473071">
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="19" />
+        <mark key="." line="9" column="19" />
+        <mark key="^" line="9" column="16" />
+      </file>
+      <file name="$USER_HOME$/vm/ciatr-vm/README.md" timestamp="1488790084051">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="6" column="15" />
+        <mark key="^" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+      </file>
+      <file name="$USER_HOME$/Code/roco-bff/admin/template.yaml" timestamp="1490785618350">
+        <mark key="[" line="49" column="15" />
+        <mark key="]" line="49" column="15" />
+        <mark key="^" line="49" column="15" />
+        <mark key="." line="49" column="15" />
+      </file>
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/ConfirmViewController.swift" timestamp="1530971096147">
+        <mark key="'" line="21" column="4" />
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ShopPresenter.scala" timestamp="1487145371386">
         <mark key="[" line="112" column="8" />
         <mark key="]" line="112" column="9" />
         <mark key="." line="112" column="9" />
         <mark key="^" line="112" column="9" />
+      </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/.eslintrc" timestamp="1487742465388">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="21" column="26" />
       </file>
       <file name="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/Controllers/ComfirmedCheeringViewController.swift" timestamp="1536073854233">
         <mark key="[" line="0" column="0" />
@@ -715,17 +354,41 @@
         <mark key="^" line="7" column="15" />
         <mark key="." line="7" column="15" />
       </file>
+      <file name="$USER_HOME$/Code/terraform-ciatr/terraform.tfvars" timestamp="1486990298806">
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="29" column="20" />
+        <mark key="^" line="29" column="20" />
+        <mark key="." line="29" column="20" />
+      </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/server/public/index.html" timestamp="1488542685361">
         <mark key="[" line="8" column="18" />
         <mark key="]" line="8" column="12" />
         <mark key="^" line="8" column="12" />
         <mark key="." line="8" column="12" />
       </file>
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/models/ShopAttributeGroupDescription.scala" timestamp="1514278445629">
+        <mark key="[" line="9" column="30" />
+        <mark key="]" line="9" column="30" />
+        <mark key="^" line="9" column="30" />
+        <mark key="." line="9" column="30" />
+      </file>
       <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/API/JsonRpc/GethHelper.swift" timestamp="1528524738588">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="4" column="28" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/ArticlePresenter.scala" timestamp="1485245977165">
+        <mark key="[" line="50" column="20" />
+        <mark key="]" line="5" column="19" />
+        <mark key="^" line="5" column="19" />
+        <mark key="." line="5" column="19" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ShopController.scala" timestamp="1487153046886">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="42" column="23" />
       </file>
       <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/tasks/install.yml" timestamp="1488803200576">
         <mark key="[" line="63" column="0" />
@@ -739,11 +402,53 @@
         <mark key="^" line="20" column="35" />
         <mark key="." line="20" column="35" />
       </file>
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/Account/EtherKeystore.swift" timestamp="1529319014615">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/MaterialGroup.scala" timestamp="1485502124735">
+        <mark key="[" line="31" column="78" />
+        <mark key="]" line="31" column="56" />
+        <mark key="^" line="31" column="56" />
+        <mark key="." line="31" column="56" />
+      </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/lib/image.js" timestamp="1487743037636">
+        <mark key="[" line="11" column="2" />
+        <mark key="]" line="11" column="3" />
+        <mark key="^" line="11" column="3" />
+        <mark key="." line="11" column="3" />
+      </file>
       <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/main/scala/roco/api/i18nmanager/sql/I18nTextGroupDAO.scala" timestamp="1501578107168">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="66" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="26" column="45" />
+      </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/.eslintrc" timestamp="1490176418874">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="6" column="1" />
+        <mark key="^" line="6" column="1" />
+        <mark key="." line="6" column="1" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ArticleControllerSpec.scala" timestamp="1484737479545">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="1" column="30" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Views/TokenListCell.swift" timestamp="1538722727870">
+        <mark key="'" line="45" column="23" />
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="29" column="44" />
+        <mark key="^" line="29" column="44" />
+        <mark key="." line="29" column="44" />
+      </file>
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/Extentions/Data+Extention.swift" timestamp="1529305792766">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/roco/play-util/src/main/scala/roco/play/util/extractors/AttributeParameter.scala" timestamp="1511260597252">
         <mark key="[" line="17" column="50" />
@@ -751,11 +456,47 @@
         <mark key="." line="17" column="50" />
         <mark key="^" line="17" column="50" />
       </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/conf/routes" timestamp="1485513511245">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="30" column="35" />
+      </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/.eslintrc.yml" timestamp="1490177106805">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/terraform-roco/.gitignore" timestamp="1485494751134">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+      </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_elasticache.tf" timestamp="1488779650078">
         <mark key="[" line="33" column="25" />
         <mark key="]" line="33" column="32" />
         <mark key="." line="33" column="32" />
         <mark key="^" line="33" column="32" />
+      </file>
+      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Controllers/WalletViewController.swift" timestamp="1538732014490">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+        <mark key="^" line="89" column="67" />
+      </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/submit.js" timestamp="1489038105738">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+        <mark key="^" line="5" column="15" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/ShopAttributeGroupDescription.scala" timestamp="1481873177492">
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="8" column="34" />
+        <mark key="^" line="8" column="32" />
+        <mark key="." line="8" column="34" />
       </file>
       <file name="$USER_HOME$/Code/roco/api-i18nmanager/src/main/scala/roco/api/i18nmanager/domain/I18nTextGroup.scala" timestamp="1504001443932">
         <mark key="[" line="2" column="0" />
@@ -775,6 +516,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/build.sbt" timestamp="1486010450920">
+        <mark key="[" line="18" column="71" />
+        <mark key="]" line="18" column="68" />
+        <mark key="." line="18" column="68" />
+        <mark key="^" line="18" column="68" />
+      </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/App.js" timestamp="1489057787822">
         <mark key="[" line="38" column="48" />
         <mark key="]" line="38" column="37" />
@@ -793,11 +540,41 @@
         <mark key="." line="106" column="171" />
         <mark key="^" line="106" column="171" />
       </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/login/config.js" timestamp="1487671921159">
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="5" column="1" />
+        <mark key="." line="5" column="1" />
+        <mark key="^" line="5" column="1" />
+      </file>
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/CheckinHistoryController.scala" timestamp="1502788573757">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="18" column="46" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/models/Attribute.scala" timestamp="1511251867755">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="66" />
+      </file>
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/ShopControllerSpec.scala" timestamp="1514274115352">
+        <mark key="[" line="533" column="5" />
+        <mark key="]" line="533" column="5" />
+        <mark key="." line="533" column="5" />
+        <mark key="^" line="581" column="2" />
+      </file>
       <file name="$USER_HOME$/Code/CognitoPlayground/WebPlayground/public/index.html" timestamp="1490866910698">
         <mark key="[" line="39" column="22" />
         <mark key="]" line="42" column="18" />
         <mark key="." line="42" column="18" />
         <mark key="^" line="41" column="13" />
+      </file>
+      <file name="$USER_HOME$/Code/terraform-ciatr/production/terraform.tfvars" timestamp="1491031569033">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/Filters.scala" timestamp="1484647826471">
         <mark key="[" line="3" column="0" />
@@ -812,6 +589,11 @@
         <mark key="^" line="57" column="40" />
         <mark key="." line="79" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Requests/TestRequest.swift" timestamp="1538042171851">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/aws_elasticache.tf" timestamp="1486994719397">
         <mark key="[" line="14" column="1" />
         <mark key="]" line="4" column="36" />
@@ -824,10 +606,19 @@
         <mark key="^" line="17" column="55" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/Utility.scala" timestamp="1484646647950">
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="51" />
+        <mark key="." line="7" column="51" />
+        <mark key="^" line="7" column="51" />
+      </file>
       <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/AppDelegate.swift" timestamp="1537521555415">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Requests/GetRequest.swift" timestamp="1538034317264">
+        <mark key="'" line="49" column="4" />
       </file>
       <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/clientjson/LabelWrites.scala" timestamp="1505464910465">
         <mark key="[" line="11" column="34" />
@@ -841,17 +632,51 @@
         <mark key="^" line="24" column="130" />
         <mark key="." line="24" column="130" />
       </file>
+      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Controllers/SendViewController.swift" timestamp="1538734523580">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Controllers/ConfirmViewController.swift" timestamp="1538734469827">
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/ArticleController.scala" timestamp="1502873266809">
         <mark key="[" line="41" column="10" />
         <mark key="]" line="41" column="89" />
         <mark key="^" line="41" column="89" />
         <mark key="." line="41" column="89" />
       </file>
+      <file name="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/MainTabBarViewController.swift" timestamp="1535432758076">
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="13" column="7" />
+        <mark key="." line="13" column="7" />
+        <mark key="^" line="13" column="7" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/Authentication.scala" timestamp="1484713081274">
         <mark key="[" line="8" column="57" />
         <mark key="]" line="8" column="57" />
         <mark key="^" line="8" column="57" />
         <mark key="." line="8" column="57" />
+      </file>
+      <file name="$USER_HOME$/Code/roco-bff/admin/apis/api_request.js" timestamp="1490330265559">
+        <mark key="[" line="1" column="41" />
+        <mark key="]" line="1" column="34" />
+        <mark key="^" line="1" column="34" />
+        <mark key="." line="1" column="34" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/MaterialHtml.scala" timestamp="1486611513006">
+        <mark key="[" line="17" column="37" />
+        <mark key="]" line="27" column="37" />
+        <mark key="^" line="27" column="37" />
+        <mark key="." line="27" column="37" />
+      </file>
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/clientjson/ShopPresenter.scala" timestamp="1506421760933">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="55" />
+        <mark key="." line="28" column="53" />
+        <mark key="^" line="28" column="53" />
       </file>
       <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/clientjson/LabelGroupWrites.scala" timestamp="1505464900300">
         <mark key="[" line="12" column="0" />
@@ -895,6 +720,18 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="28" />
       </file>
+      <file name="$USER_HOME$/Code/terraform-ciatr/production/.gitignore" timestamp="1491033749099">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+        <mark key="^" line="1" column="5" />
+      </file>
+      <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_s3.tf" timestamp="1490609822994">
+        <mark key="[" line="7" column="43" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="7" column="41" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/clientjson/MaterialPresenter.scala" timestamp="1481786103650">
         <mark key="[" line="87" column="25" />
         <mark key="]" line="87" column="25" />
@@ -906,6 +743,12 @@
         <mark key="]" line="10" column="3" />
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
+      </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/index.js" timestamp="1489058171344">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="11" />
+        <mark key="." line="6" column="11" />
+        <mark key="^" line="6" column="11" />
       </file>
       <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/TransactionViewController.swift" timestamp="1537952846027">
         <mark key="[" line="57" column="0" />
@@ -919,11 +762,35 @@
         <mark key="^" line="35" column="33" />
         <mark key="." line="35" column="33" />
       </file>
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/test/scala/roco/api/offlinematerial/controllers/AttributeControllerSpec.scala" timestamp="1511261506374">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="^" line="116" column="46" />
+        <mark key="." line="93" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ConsumerController.scala" timestamp="1484728591305">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="83" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="53" column="71" />
+      </file>
       <file name="$USER_HOME$/Code/terraform-roco/terraform.tfvars.sample" timestamp="1485496301856">
         <mark key="[" line="13" column="43" />
         <mark key="]" line="9" column="25" />
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/MaterialController.scala" timestamp="1485516615010">
+        <mark key="[" line="72" column="54" />
+        <mark key="]" line="73" column="38" />
+        <mark key="." line="73" column="38" />
+        <mark key="^" line="73" column="38" />
+      </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/api/package.json" timestamp="1486635949256">
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="17" column="23" />
+        <mark key="." line="17" column="23" />
+        <mark key="^" line="17" column="23" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/build.sbt" timestamp="1487755693988">
         <mark key="[" line="13" column="0" />
@@ -948,6 +815,23 @@
         <mark key="^" line="10" column="37" />
         <mark key="." line="10" column="37" />
       </file>
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/API/JsonRpc/EthereumHelper.swift" timestamp="1529218859360">
+        <mark key="[" line="10" column="58" />
+        <mark key="]" line="10" column="56" />
+        <mark key="^" line="10" column="56" />
+        <mark key="." line="10" column="56" />
+      </file>
+      <file name="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/Controllers/TransactionRecieptViewController.swift" timestamp="1536036963145">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/Material.js" timestamp="1489558353005">
+        <mark key="[" line="64" column="18" />
+        <mark key="]" line="64" column="12" />
+        <mark key="^" line="64" column="12" />
+        <mark key="." line="64" column="12" />
+      </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/production/terraform-prod.tfvars" timestamp="1488634811250">
         <mark key="[" line="5" column="18" />
         <mark key="]" line="5" column="18" />
@@ -966,17 +850,47 @@
         <mark key="^" line="25" column="56" />
         <mark key="." line="25" column="56" />
       </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/build.sbt" timestamp="1486010502511">
+        <mark key="[" line="3" column="38" />
+        <mark key="]" line="3" column="38" />
+        <mark key="^" line="3" column="72" />
+        <mark key="." line="3" column="38" />
+      </file>
       <file name="$USER_HOME$/vm/ciatr-vm/ansible/playbook.yml" timestamp="1489224441267">
         <mark key="[" line="6" column="4" />
         <mark key="]" line="6" column="4" />
         <mark key="^" line="7" column="0" />
         <mark key="." line="6" column="4" />
       </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/MaterialGroupControllerSpec.scala" timestamp="1485514285062">
+        <mark key="[" line="26" column="43" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="21" column="35" />
+      </file>
+      <file name="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/SettingViewController.swift" timestamp="1535434668195">
+        <mark key="[" line="84" column="4" />
+        <mark key="]" line="84" column="8" />
+        <mark key="." line="84" column="8" />
+        <mark key="^" line="84" column="8" />
+      </file>
+      <file name="$USER_HOME$/Code/roco/play-util/src/main/scala/roco/play/util/extractors/ShopParameter.scala" timestamp="1514281688503">
+        <mark key="[" line="24" column="37" />
+        <mark key="]" line="47" column="56" />
+        <mark key="^" line="47" column="56" />
+        <mark key="." line="47" column="56" />
+      </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/MaterialGroupModelSpec.scala" timestamp="1486009283764">
         <mark key="[" line="20" column="71" />
         <mark key="]" line="15" column="43" />
         <mark key="." line="15" column="43" />
         <mark key="^" line="15" column="43" />
+      </file>
+      <file name="$USER_HOME$/Code/terraform-ciatr/.gitignore" timestamp="1488625215406">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="5" />
+        <mark key="." line="2" column="5" />
+        <mark key="^" line="2" column="5" />
       </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/development/aws_autoscaling_group.tf" timestamp="1491198176352">
         <mark key="[" line="13" column="0" />
@@ -990,6 +904,12 @@
         <mark key="." line="29" column="8" />
         <mark key="^" line="40" column="7" />
       </file>
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-iosTests/econome_wallet_iosTests.swift" timestamp="1530269649206">
+        <mark key="[" line="37" column="8" />
+        <mark key="]" line="37" column="42" />
+        <mark key="^" line="37" column="42" />
+        <mark key="." line="37" column="42" />
+      </file>
       <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/templates/my.cnf.j2" timestamp="1489829194019">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="18" column="0" />
@@ -1001,6 +921,18 @@
         <mark key="]" line="76" column="0" />
         <mark key="^" line="4" column="13" />
         <mark key="." line="76" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/test/ApplicationSpec.scala" timestamp="1485854404527">
+        <mark key="[" line="78" column="45" />
+        <mark key="]" line="78" column="45" />
+        <mark key="." line="78" column="45" />
+        <mark key="^" line="78" column="36" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOnlineContent/build.sbt" timestamp="1486539674884">
+        <mark key="[" line="24" column="61" />
+        <mark key="]" line="24" column="62" />
+        <mark key="^" line="24" column="62" />
+        <mark key="." line="24" column="62" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/LabelGroupController.scala" timestamp="1484710649146">
         <mark key="[" line="31" column="3" />
@@ -1014,11 +946,47 @@
         <mark key="." line="202" column="71" />
         <mark key="^" line="202" column="71" />
       </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/README.md" timestamp="1484043794680">
+        <mark key="[" line="15" column="7" />
+        <mark key="]" line="15" column="7" />
+        <mark key="^" line="15" column="7" />
+        <mark key="." line="15" column="7" />
+      </file>
+      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Requests/GetBalanceRequest.swift" timestamp="1538043085493">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="35" column="17" />
+        <mark key="]" line="35" column="37" />
+        <mark key="^" line="35" column="37" />
+        <mark key="." line="35" column="37" />
+      </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/MessageController.scala" timestamp="1484711606729">
+        <mark key="[" line="11" column="103" />
+        <mark key="]" line="13" column="39" />
+        <mark key="^" line="13" column="39" />
+        <mark key="." line="13" column="39" />
+      </file>
       <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/controllers/HomeController.scala" timestamp="1502788157710">
         <mark key="[" line="14" column="11" />
         <mark key="]" line="14" column="29" />
         <mark key="^" line="14" column="29" />
         <mark key="." line="14" column="29" />
+      </file>
+      <file name="$USER_HOME$/Code/roco-bff/admin/apis/material.js" timestamp="1490266614656">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="17" />
+        <mark key="^" line="4" column="17" />
+        <mark key="." line="4" column="17" />
+      </file>
+      <file name="$USER_HOME$/Code/otaku-coin-wallet-ios/otaku-wallet-ios/Controllers/WalletViewController.swift" timestamp="1536073732296">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/terraform-ciatr/variables.tf" timestamp="1486990287996">
+        <mark key="[" line="25" column="26" />
+        <mark key="]" line="25" column="26" />
+        <mark key="^" line="25" column="26" />
+        <mark key="." line="25" column="26" />
       </file>
       <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/components/Activation.js" timestamp="1488876197642">
         <mark key="[" line="10" column="15" />
@@ -1038,11 +1006,35 @@
         <mark key="^" line="9" column="40" />
         <mark key="." line="9" column="40" />
       </file>
+      <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/models/Material.scala" timestamp="1481864439417">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/API/Http/TokenDataApi.swift" timestamp="1528521985646">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
         <mark key="^" line="48" column="62" />
+      </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/api/routes/index.js" timestamp="1486630361227">
+        <mark key="[" line="5" column="43" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+        <mark key="^" line="5" column="13" />
+      </file>
+      <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/ViewControllers/MainTabBarViewController.swift" timestamp="1529327293843">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="21" />
+        <mark key="^" line="11" column="21" />
+        <mark key="." line="11" column="21" />
+      </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/bin/deploy.sh" timestamp="1488861858133">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="21" />
+        <mark key="." line="1" column="21" />
+        <mark key="^" line="1" column="21" />
       </file>
       <file name="$USER_HOME$/Code/roco/play-util/src/main/scala/roco/play/util/extractors/LabelParameter.scala" timestamp="1512464554813">
         <mark key="[" line="15" column="39" />
@@ -1061,6 +1053,18 @@
         <mark key="]" line="11" column="4" />
         <mark key="^" line="11" column="4" />
         <mark key="." line="11" column="4" />
+      </file>
+      <file name="$USER_HOME$/Code/roco-admin-dashboard/client/src/app.js" timestamp="1489058194781">
+        <mark key="[" line="13" column="3" />
+        <mark key="]" line="41" column="45" />
+        <mark key="^" line="41" column="45" />
+        <mark key="." line="41" column="45" />
+      </file>
+      <file name="$USER_HOME$/Code/roco/api-offlinematerial/src/main/scala/roco/api/offlinematerial/models/Article.scala" timestamp="1502872996326">
+        <mark key="[" line="12" column="29" />
+        <mark key="]" line="13" column="18" />
+        <mark key="^" line="13" column="18" />
+        <mark key="." line="13" column="18" />
       </file>
       <file name="$USER_HOME$/Code/terraform-ciatr/terraform.tfvars.sample" timestamp="1486978715417">
         <mark key="[" line="33" column="16" />
@@ -1184,8 +1188,8 @@
       <jump line="45" column="23" filename="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Views/TokenListCell.swift" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Option</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgYW1vdW50QXNCaWdJbnQgPSBFdGhlcmV1bUhlbHBlcigpLmV0aFRvV2VpKGFtb3VudEFzRG91YmxlKQo=</text>
       </register>
       <register name="-" type="4">
         <text>Option</text>
@@ -1197,31 +1201,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFkZHJlc3MgPSBkYXRhLm15V2FsbGV0QWRkcmVzcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgYW1vdW50QXNCaWdJbnQgPSBFdGhlcmV1bUhlbHBlcigpLmV0aFRvV2VpKGFtb3VudEFzRG91YmxlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCBiYXRjaEZhY3RvcnkgPSBCYXRjaEZhY3RvcnkodmVyc2lvbjogIjIuMCIsIGlkR2VuZXJhdG9yOiBOdW1iZXJJZEdlbmVyYXRvcigpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICBsZXQgcmVxdWVzdCA9IEV0aEdldEdhc1ByaWNlKCkKCiAgICAgICAgbGV0IGJhdGNoID0gYmF0Y2hGYWN0b3J5LmNyZWF0ZShyZXF1ZXN0KQogICAgICAgIGxldCBodHRwUmVxdWVzdCA9IEV0aFNlcnZpY2VSZXF1ZXN0KGJhdGNoOiBiYXRjaCkKCiAgICAgICAgU2Vzc2lvbi5zZW5kKGh0dHBSZXF1ZXN0KSB7IHJlc3VsdCBpbgogICAgICAgICAgICBzd2l0Y2ggcmVzdWx0IHsKICAgICAgICAgICAgY2FzZSAuc3VjY2VzcyhsZXQgcmVzdWx0KToKICAgICAgICAgICAgICAgIGdhc0xhYmVsLnRleHQgPSBTdHJpbmcoRXRoZXJldW1IZWxwZXIoKS53ZWlUb0d3ZWkocmVzdWx0KSkgKyAiIEd3ZWkiCiAgICAgICAgICAgICAgICBwcmludChyZXN1bHQpCiAgICAgICAgICAgIGNhc2UgLmZhaWx1cmUobGV0IGVycm9yKToKICAgICAgICAgICAgICAgIHByaW50KGVycm9yKQogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IHJlcXVlc3QgPSBFdGhHZXRCYWxhbmNlKAogICAgICAgICAgICAgICAgICAgIGFkZHJlc3M6IGFkZHJlc3MhLAogICAgICAgICAgICAgICAgICAgIHF1YW50aXR5OiAibGF0ZXN0IgogICAgICAgICAgICAp</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRXRoZXIoKS5zZW5kVHJhbnNhY3Rpb24odG86IHJlY2lwaWVudEFkZHJlc3MsIGFtb3VudDogYW1vdW50QXNCaWdJbnQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgYWRkcmVzczogU3RyaW5nPyA9IGFjY291bnQhLmdldEFkZHJlc3MoKS5nZXRIZXgoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRXJjMjBUb2tlbigpLnNlbmRUcmFuc2FjdGlvbih0bzogIjB4OWFFMWY1QURGY2MzODNCMUM1YTg1ZTdmMEJCYUQ0Yjc2OGU3RDY2MSIsIGFtb3VudDogR2V0aE5ld0JpZ0ludCgxMDApKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCBldGhIZWxwZXIgPSBFdGhlcmV1bUhlbHBlcigpCg==</text>
+        <text encoding="base64">ICAgIGxldCBiYXRjaEZhY3RvcnkgPSBCYXRjaEZhY3RvcnkodmVyc2lvbjogIjIuMCIsIGlkR2VuZXJhdG9yOiBOdW1iZXJJZEdlbmVyYXRvcigpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCAoXywgYWNjb3VudCkgPSBFdGhBY2NvdW50Q29vcmRpbmF0b3IoKS5sYXVuY2goRXRoQWNjb3VudENvbmZpZ3VyYXRpb24uZGVmYXVsdCkK</text>
+        <text encoding="base64">aW1wb3J0IEdldGgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IEdldGgK</text>
+        <text encoding="base64">aW1wb3J0IEpTT05SUENLaXQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
