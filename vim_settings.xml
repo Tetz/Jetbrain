@@ -69,12 +69,12 @@
         <mark key="^" line="13" column="32" />
         <mark key="." line="13" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Controllers/TokenViewController.swift" timestamp="1538721779345">
+      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Controllers/TokenViewController.swift" timestamp="1538723418203">
         <mark key="'" line="126" column="42" />
-        <mark key="[" line="35" column="8" />
-        <mark key="]" line="134" column="42" />
-        <mark key="^" line="134" column="42" />
-        <mark key="." line="134" column="42" />
+        <mark key="[" line="93" column="51" />
+        <mark key="]" line="93" column="53" />
+        <mark key="^" line="93" column="53" />
+        <mark key="." line="93" column="53" />
       </file>
       <file name="$USER_HOME$/vm/ciatr-vm/ansible/roles/mysql/tasks/main.yml" timestamp="1489821124449">
         <mark key="[" line="20" column="25" />
@@ -189,8 +189,8 @@
         <mark key="^" line="1" column="30" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Views/TokenListCell.swift" timestamp="1538721928450">
-        <mark key="'" line="26" column="24" />
+      <file name="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Views/TokenListCell.swift" timestamp="1538722727870">
+        <mark key="'" line="45" column="23" />
         <mark key="[" line="0" column="13" />
         <mark key="]" line="29" column="44" />
         <mark key="^" line="29" column="44" />
@@ -1076,7 +1076,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="22" filename="$USER_HOME$/Code/terraform-ciatr/development/aws_vpc.tf" />
       <jump line="53" column="6" filename="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ArticleController.scala" />
       <jump line="33" column="0" filename="$USER_HOME$/.ivy2/cache/com.twitter/finatra-http_2.12/jars/finatra-http_2.12-2.11.0-tests.jar!/com/twitter/finatra/http/EmbeddedHttpServer.class" />
       <jump line="1" column="78" filename="$USER_HOME$/.ivy2/cache/com.twitter/finatra-http_2.12/jars/finatra-http_2.12-2.11.0-tests.jar!/com/twitter/finatra/http/EmbeddedHttpServer.class" />
@@ -1176,13 +1175,14 @@
       <jump line="166" column="0" filename="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Controllers/TokenViewController.swift" />
       <jump line="126" column="42" filename="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Controllers/TokenViewController.swift" />
       <jump line="26" column="24" filename="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Views/TokenListCell.swift" />
+      <jump line="45" column="23" filename="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Views/TokenListCell.swift" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Option</text>
       </register>
       <register name="-" type="4">
-        <text>address</text>
+        <text>Option</text>
       </register>
       <register name="/" type="4">
         <text>keychain</text>
