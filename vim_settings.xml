@@ -223,11 +223,12 @@
         <mark key="^" line="25" column="66" />
         <mark key="." line="25" column="66" />
       </file>
-      <file name="$USER_HOME$/code/xwallet/XWallet/Extensions/String-Extension.swift" timestamp="1556990875767">
-        <mark key="[" line="26" column="4" />
-        <mark key="]" line="26" column="10" />
-        <mark key="^" line="26" column="10" />
-        <mark key="." line="26" column="10" />
+      <file name="$USER_HOME$/code/xwallet/XWallet/Extensions/String-Extension.swift" timestamp="1556992087705">
+        <mark key="'" line="47" column="6" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="90" column="0" />
       </file>
       <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/API/JsonRpc/JsonRpcWrapper.swift" timestamp="1529214598037">
         <mark key="[" line="107" column="14" />
@@ -1095,7 +1096,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="6" filename="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/ArticleController.scala" />
       <jump line="33" column="0" filename="$USER_HOME$/.ivy2/cache/com.twitter/finatra-http_2.12/jars/finatra-http_2.12-2.11.0-tests.jar!/com/twitter/finatra/http/EmbeddedHttpServer.class" />
       <jump line="1" column="78" filename="$USER_HOME$/.ivy2/cache/com.twitter/finatra-http_2.12/jars/finatra-http_2.12-2.11.0-tests.jar!/com/twitter/finatra/http/EmbeddedHttpServer.class" />
       <jump line="2" column="55" filename="$USER_HOME$/.ivy2/cache/com.twitter/finatra-http_2.12/jars/finatra-http_2.12-2.11.0-tests.jar!/com/twitter/finatra/http/EmbeddedHttpServer.class" />
@@ -1195,10 +1195,11 @@
       <jump line="126" column="42" filename="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Controllers/TokenViewController.swift" />
       <jump line="26" column="24" filename="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Views/TokenListCell.swift" />
       <jump line="45" column="23" filename="$USER_HOME$/Code/TimeCoiniOSWallet/timecoin-ios-wallet/timecoin-ios-wallet/Views/TokenListCell.swift" />
+      <jump line="48" column="6" filename="$USER_HOME$/code/xwallet/XWallet/Extensions/String-Extension.swift" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -1210,33 +1211,35 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFkZHJlc3MgPSBkYXRhLm15V2FsbGV0QWRkcmVzcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdWJzY3JpcHQocjogUmFuZ2U8SW50PikgLT4gU3RyaW5nIHsKICAgICAgICBsZXQgc3RhcnQgPSBpbmRleChzdGFydEluZGV4LCBvZmZzZXRCeTogci5sb3dlckJvdW5kKQogICAgICAgIGxldCBlbmQgPSBpbmRleChzdGFydEluZGV4LCBvZmZzZXRCeTogci51cHBlckJvdW5kKQogICAgICAgIHJldHVybiBTdHJpbmcoc2VsZltSYW5nZShzdGFydCAuLjwgZW5kKV0pCiAgICB9CgogICAgcHVibGljIHN1YnNjcmlwdChyOiBDbG9zZWRSYW5nZTxJbnQ+KSAtPiBTdHJpbmcgewogICAgICAgIGxldCBzdGFydCA9IGluZGV4KHN0YXJ0SW5kZXgsIG9mZnNldEJ5OiByLmxvd2VyQm91bmQpCiAgICAgICAgbGV0IGVuZCA9IGluZGV4KHN0YXJ0SW5kZXgsIG9mZnNldEJ5OiByLnVwcGVyQm91bmQpCiAgICAgICAgcmV0dXJuIFN0cmluZyhzZWxmW3N0YXJ0Li4uZW5kXSkKICAgIH0=</text>
-      </register>
-      <register name="4" type="8">
+      <register name="2" type="8">
         <text>/
 /
 /</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdWJzY3JpcHQocjogUmFuZ2U8SW50PikgLT4gU3RyaW5nIHsKICAgICAgICBsZXQgc3RhcnQgPSBpbmRleChzdGFydEluZGV4LCBvZmZzZXRCeTogci5sb3dlckJvdW5kKQogICAgICAgIGxldCBlbmQgPSBpbmRleChzdGFydEluZGV4LCBvZmZzZXRCeTogci51cHBlckJvdW5kKQogICAgICAgIHJldHVybiBTdHJpbmcoc2VsZltSYW5nZShzdGFydCAuLjwgZW5kKV0pCiAgICB9CgogICAgcHVibGljIHN1YnNjcmlwdChyOiBDbG9zZWRSYW5nZTxJbnQ+KSAtPiBTdHJpbmcgewogICAgICAgIGxldCBzdGFydCA9IGluZGV4KHN0YXJ0SW5kZXgsIG9mZnNldEJ5OiByLmxvd2VyQm91bmQpCiAgICAgICAgbGV0IGVuZCA9IGluZGV4KHN0YXJ0SW5kZXgsIG9mZnNldEJ5OiByLnVwcGVyQm91bmQpCiAgICAgICAgcmV0dXJuIFN0cmluZyhzZWxmW3N0YXJ0Li4uZW5kXSkKICAgIH0=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgYW1vdW50QXNCaWdJbnQgPSBFdGhlcmV1bUhlbHBlcigpLmV0aFRvV2VpKGFtb3VudEFzRG91YmxlKQo=</text>
+      <register name="9" type="8">
+        <text>/
+/
+/</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
