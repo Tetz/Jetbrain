@@ -223,12 +223,12 @@
         <mark key="^" line="25" column="66" />
         <mark key="." line="25" column="66" />
       </file>
-      <file name="$USER_HOME$/code/xwallet/XWallet/Extensions/String-Extension.swift" timestamp="1556992087705">
-        <mark key="'" line="47" column="6" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="90" column="0" />
+      <file name="$USER_HOME$/code/xwallet/XWallet/Extensions/String-Extension.swift" timestamp="1556993924115">
+        <mark key="'" line="59" column="6" />
+        <mark key="[" line="84" column="59" />
+        <mark key="]" line="38" column="10" />
+        <mark key="." line="38" column="10" />
+        <mark key="^" line="38" column="10" />
       </file>
       <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/API/JsonRpc/JsonRpcWrapper.swift" timestamp="1529214598037">
         <mark key="[" line="107" column="14" />
