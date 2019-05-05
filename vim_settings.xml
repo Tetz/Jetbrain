@@ -223,12 +223,12 @@
         <mark key="^" line="25" column="66" />
         <mark key="." line="25" column="66" />
       </file>
-      <file name="$USER_HOME$/code/xwallet/XWallet/Extensions/String-Extension.swift" timestamp="1556993924115">
+      <file name="$USER_HOME$/code/xwallet/XWallet/Extensions/String-Extension.swift" timestamp="1557018950547">
         <mark key="'" line="59" column="6" />
-        <mark key="[" line="84" column="59" />
-        <mark key="]" line="38" column="10" />
-        <mark key="." line="38" column="10" />
-        <mark key="^" line="38" column="10" />
+        <mark key="[" line="84" column="60" />
+        <mark key="]" line="37" column="3" />
+        <mark key="." line="37" column="3" />
+        <mark key="^" line="37" column="3" />
       </file>
       <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/API/JsonRpc/JsonRpcWrapper.swift" timestamp="1529214598037">
         <mark key="[" line="107" column="14" />
@@ -966,7 +966,7 @@
         <mark key="^" line="35" column="37" />
         <mark key="." line="35" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556985173693">
+      <file name="/Dummy.txt" timestamp="1557018728722">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/app/controllers/MessageController.scala" timestamp="1484711606729">
@@ -1199,7 +1199,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -1211,35 +1211,33 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFkZHJlc3MgPSBkYXRhLm15V2FsbGV0QWRkcmVzcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="8">
-        <text>/
-/
-/</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdWJzY3JpcHQgKGJvdW5kczogQ291bnRhYmxlQ2xvc2VkUmFuZ2U8SW50PikgLT4gU3RyaW5nIHsKICAgICAgICBsZXQgc3RhcnQgPSBpbmRleChzdGFydEluZGV4LCBvZmZzZXRCeTogYm91bmRzLmxvd2VyQm91bmQpCiAgICAgICAgbGV0IGVuZCA9IGluZGV4KHN0YXJ0SW5kZXgsIG9mZnNldEJ5OiBib3VuZHMudXBwZXJCb3VuZCkKICAgICAgICByZXR1cm4gU3RyaW5nKHNlbGZbc3RhcnQuLi5lbmRdKQogICAgfQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="4" type="8">
+        <text>/
+/
+/</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdWJzY3JpcHQocjogUmFuZ2U8SW50PikgLT4gU3RyaW5nIHsKICAgICAgICBsZXQgc3RhcnQgPSBpbmRleChzdGFydEluZGV4LCBvZmZzZXRCeTogci5sb3dlckJvdW5kKQogICAgICAgIGxldCBlbmQgPSBpbmRleChzdGFydEluZGV4LCBvZmZzZXRCeTogci51cHBlckJvdW5kKQogICAgICAgIHJldHVybiBTdHJpbmcoc2VsZltSYW5nZShzdGFydCAuLjwgZW5kKV0pCiAgICB9CgogICAgcHVibGljIHN1YnNjcmlwdChyOiBDbG9zZWRSYW5nZTxJbnQ+KSAtPiBTdHJpbmcgewogICAgICAgIGxldCBzdGFydCA9IGluZGV4KHN0YXJ0SW5kZXgsIG9mZnNldEJ5OiByLmxvd2VyQm91bmQpCiAgICAgICAgbGV0IGVuZCA9IGluZGV4KHN0YXJ0SW5kZXgsIG9mZnNldEJ5OiByLnVwcGVyQm91bmQpCiAgICAgICAgcmV0dXJuIFN0cmluZyhzZWxmW3N0YXJ0Li4uZW5kXSkKICAgIH0=</text>
-      </register>
-      <register name="9" type="8">
-        <text>/
-/
-/</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
