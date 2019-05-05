@@ -68,7 +68,7 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/code/xwallet/XWalletTests/ExtensionsTests/String-ExtensionTest.swift" timestamp="1557071886201">
+      <file name="$USER_HOME$/code/xwallet/XWalletTests/ExtensionsTests/String-ExtensionTest.swift" timestamp="1557076849173">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="^" line="32" column="0" />
@@ -238,12 +238,12 @@
         <mark key="^" line="25" column="66" />
         <mark key="." line="25" column="66" />
       </file>
-      <file name="$USER_HOME$/code/xwallet/XWallet/Extensions/String-Extension.swift" timestamp="1557071843673">
-        <mark key="'" line="59" column="6" />
-        <mark key="[" line="85" column="57" />
-        <mark key="]" line="85" column="72" />
-        <mark key="." line="85" column="72" />
-        <mark key="^" line="85" column="72" />
+      <file name="$USER_HOME$/code/xwallet/XWallet/Extensions/String-Extension.swift" timestamp="1557076962794">
+        <mark key="'" line="47" column="6" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="23" column="31" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Code/EconoMe/econome-wallet-ios/econome-wallet-ios/API/JsonRpc/JsonRpcWrapper.swift" timestamp="1529214598037">
         <mark key="[" line="107" column="14" />
@@ -1202,7 +1202,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzcCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1214,33 +1214,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFkZHJlc3MgPSBkYXRhLm15V2FsbGV0QWRkcmVzcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzcCkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">ID0KICAgICAgICAgICAgICAgIA==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdWJzY3JpcHQgKGJvdW5kczogQ291bnRhYmxlQ2xvc2VkUmFuZ2U8SW50PikgLT4gU3RyaW5nIHsKICAgICAgICBsZXQgc3RhcnQgPSBpbmRleChzdGFydEluZGV4LCBvZmZzZXRCeTogYm91bmRzLmxvd2VyQm91bmQpCiAgICAgICAgbGV0IGVuZCA9IGluZGV4KHN0YXJ0SW5kZXgsIG9mZnNldEJ5OiBib3VuZHMudXBwZXJCb3VuZCkKICAgICAgICByZXR1cm4gU3RyaW5nKHNlbGZbc3RhcnQuLi5lbmRdKQogICAgfQo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">Ly8gICAgcHVibGljIHN1YnNjcmlwdCAoYm91bmRzOiBDb3VudGFibGVSYW5nZTxJbnQ+KSAtPiBTdHJpbmcgewovLyAgICAgICAgbGV0IHN0YXJ0ID0gaW5kZXgoc3RhcnRJbmRleCwgb2Zmc2V0Qnk6IGJvdW5kcy5sb3dlckJvdW5kKQovLyAgICAgICAgbGV0IGVuZCA9IGluZGV4KHN0YXJ0SW5kZXgsIG9mZnNldEJ5OiBib3VuZHMudXBwZXJCb3VuZCkKLy8gICAgICAgIHJldHVybiBTdHJpbmcoc2VsZltzdGFydC4uPGVuZF0pCi8vICAgIH0KLy8KLy8gICAgcHVibGljIHN1YnNjcmlwdCAoYm91bmRzOiBDb3VudGFibGVDbG9zZWRSYW5nZTxJbnQ+KSAtPiBTdHJpbmcgewovLyAgICAgICAgbGV0IHN0YXJ0ID0gaW5kZXgoc3RhcnRJbmRleCwgb2Zmc2V0Qnk6IGJvdW5kcy5sb3dlckJvdW5kKQovLyAgICAgICAgbGV0IGVuZCA9IGluZGV4KHN0YXJ0SW5kZXgsIG9mZnNldEJ5OiBib3VuZHMudXBwZXJCb3VuZCkKLy8gICAgICAgIHJldHVybiBTdHJpbmcoc2VsZltzdGFydC4uLmVuZF0pCi8vICAgIH0=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChzcCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ID0KICAgICAgICAgICAgICAgIA==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
-      <register name="9" type="8">
-        <text>/
-/
-/</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
