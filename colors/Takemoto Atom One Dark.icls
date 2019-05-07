@@ -4,7 +4,7 @@
     <property name="created">2019-05-08T02:02:39</property>
     <property name="ide">AppCode</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-05-08T02:20:19</property>
+    <property name="modified">2019-05-08T02:30:55</property>
     <property name="originalScheme">Atom One Dark copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -29,7 +29,7 @@
     <option name="ADDED_LINES_COLOR" value="91b859" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
     <option name="CARET_COLOR" value="557ecf" />
-    <option name="CARET_ROW_COLOR" value="2d3238" />
+    <option name="CARET_ROW_COLOR" value="2f3b44" />
     <option name="CONSOLE_BACKGROUND_KEY" value="282c34" />
     <option name="DELETED_LINES_COLOR" value="f07178" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
@@ -57,8 +57,8 @@
     <option name="FILESTATUS_modifiedOutside" value="e5c17c" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="282a36" />
     <option name="GUTTER_BACKGROUND" value="101217" />
-    <option name="INDENT_GUIDE" value="101217" />
-    <option name="INFORMATION_HINT" value="282c34" />
+    <option name="INDENT_GUIDE" value="2f3b44" />
+    <option name="INFORMATION_HINT" value="101217" />
     <option name="LINE_NUMBERS_COLOR" value="636d83" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="c6c6c6" />
     <option name="METHOD_SEPARATORS_COLOR" value="2e3c43" />
@@ -72,8 +72,8 @@
     <option name="MT_SUPPRESSED" value="abb2bf" />
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
     <option name="NOT_CHANGED" value="979fad" />
-    <option name="QUESTION_HINT" value="282c34" />
-    <option name="RECENT_LOCATIONS_SELECTION" value="21252b" />
+    <option name="QUESTION_HINT" value="101217" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="101217" />
     <option name="RIGHT_MARGIN_COLOR" value="101217" />
     <option name="SELECTED_INDENT_GUIDE" value="57b6c2" />
     <option name="SELECTED_TEARLINE_COLOR" value="57b6c2" />
@@ -106,14 +106,14 @@
     <option name="ScrollBar.thumbColor" value="2979ff" />
     <option name="ScrollBar.trackColor" value="282c34" />
     <option name="TEARLINE_COLOR" value="2f3b44" />
-    <option name="TOOLTIP" value="3a3f4b" />
+    <option name="TOOLTIP" value="101217" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="59626f" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="2e3c43" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="37474f" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="39adb5" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="f07178" />
     <option name="VISUAL_INDENT_GUIDE" value="101217" />
-    <option name="WHITESPACES" value="9ec9d9" />
+    <option name="WHITESPACES" value="2f3b44" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="59626f" />
   </colors>
   <attributes>
@@ -192,13 +192,13 @@
     <option name="BREADCRUMBS_CURRENT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="59626f" />
+        <option name="BACKGROUND" value="101217" />
       </value>
     </option>
     <option name="BREADCRUMBS_DEFAULT">
       <value>
         <option name="FOREGROUND" value="c6c6c6" />
-        <option name="BACKGROUND" value="282c34" />
+        <option name="BACKGROUND" value="101217" />
       </value>
     </option>
     <option name="BREADCRUMBS_HOVERED">
