@@ -152,7 +152,7 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1557075131697">
+      <file name="/LLDB" timestamp="1557193875541">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ApiOfflineMaterial/lib/roco_core/model/src/main/scala/roco_core/model/offline_material/AttributeGroup.scala" timestamp="1486463082837">
@@ -352,6 +352,7 @@
         <mark key="." line="244" column="5" />
         <mark key="^" line="244" column="5" />
       </file>
+      <file name="$USER_HOME$/code/xwallet/XWallet/AppDelegate.swift" timestamp="1557194110863" />
       <file name="$USER_HOME$/Code/terraform-ciatr/aws_vpc.tf" timestamp="1486990432587">
         <mark key="[" line="172" column="41" />
         <mark key="]" line="173" column="29" />
