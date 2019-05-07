@@ -1,7 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="pristineConfig" value="false" />
-    <option name="accentColor" value="007ee9" />
+    <option name="accentColor" value="0072e9" />
     <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="41ff80f:16a92ff8a7f:-7ffb" />
     <option name="version" value="3.9.3" />
