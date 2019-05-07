@@ -1,11 +1,11 @@
-<scheme name="_@user_Atom One Dark" version="142" parent_scheme="Darcula">
+<scheme name="Takemoto Atom One Dark " version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-05-08T01:52:56</property>
+    <property name="created">2019-05-08T02:02:39</property>
     <property name="ide">AppCode</property>
     <property name="ideVersion">2019.1.1.0.0</property>
     <property name="modified">2019-05-08T02:20:19</property>
-    <property name="originalScheme">Atom One Dark</property>
+    <property name="originalScheme">Atom One Dark copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
   <font>
@@ -29,7 +29,7 @@
     <option name="ADDED_LINES_COLOR" value="91b859" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
     <option name="CARET_COLOR" value="557ecf" />
-    <option name="CARET_ROW_COLOR" value="2c323c" />
+    <option name="CARET_ROW_COLOR" value="2d3238" />
     <option name="CONSOLE_BACKGROUND_KEY" value="282c34" />
     <option name="DELETED_LINES_COLOR" value="f07178" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
@@ -56,8 +56,8 @@
     <option name="FILESTATUS_changelistConflict" value="ff6347" />
     <option name="FILESTATUS_modifiedOutside" value="e5c17c" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="282a36" />
-    <option name="GUTTER_BACKGROUND" value="282c34" />
-    <option name="INDENT_GUIDE" value="3c4049" />
+    <option name="GUTTER_BACKGROUND" value="101217" />
+    <option name="INDENT_GUIDE" value="101217" />
     <option name="INFORMATION_HINT" value="282c34" />
     <option name="LINE_NUMBERS_COLOR" value="636d83" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="c6c6c6" />
@@ -74,12 +74,12 @@
     <option name="NOT_CHANGED" value="979fad" />
     <option name="QUESTION_HINT" value="282c34" />
     <option name="RECENT_LOCATIONS_SELECTION" value="21252b" />
-    <option name="RIGHT_MARGIN_COLOR" value="3c4049" />
+    <option name="RIGHT_MARGIN_COLOR" value="101217" />
     <option name="SELECTED_INDENT_GUIDE" value="57b6c2" />
     <option name="SELECTED_TEARLINE_COLOR" value="57b6c2" />
-    <option name="SELECTION_BACKGROUND" value="3e4451" />
+    <option name="SELECTION_BACKGROUND" value="101217" />
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
-    <option name="SEPARATOR_BELOW_COLOR" value="3c4049" />
+    <option name="SEPARATOR_BELOW_COLOR" value="101217" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="3c4049" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="2979ff" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="2979ff" />
@@ -105,15 +105,15 @@
     <option name="ScrollBar.thumbBorderColor" value="2979ff" />
     <option name="ScrollBar.thumbColor" value="2979ff" />
     <option name="ScrollBar.trackColor" value="282c34" />
-    <option name="TEARLINE_COLOR" value="3c4049" />
+    <option name="TEARLINE_COLOR" value="2f3b44" />
     <option name="TOOLTIP" value="3a3f4b" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="59626f" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="2e3c43" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="37474f" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="39adb5" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="f07178" />
-    <option name="VISUAL_INDENT_GUIDE" value="3c4049" />
-    <option name="WHITESPACES" value="2e3c43" />
+    <option name="VISUAL_INDENT_GUIDE" value="101217" />
+    <option name="WHITESPACES" value="9ec9d9" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="59626f" />
   </colors>
   <attributes>
@@ -2655,7 +2655,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="abb2bf" />
-        <option name="BACKGROUND" value="282c34" />
+        <option name="BACKGROUND" value="101217" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
